@@ -1,0 +1,14 @@
+.list-item {
+  border: 1px solid #999;
+  border-radius: 3px;
+}
+
+@media (max-width: 850px) {
+  .list-item {
+    margin: 30px 12px;
+  }
+}
+
+.list-item h1 {
+  margin-top: 20px;
+}

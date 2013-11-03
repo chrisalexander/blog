@@ -1,0 +1,80 @@
+/* leader */
+div.leader {
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+
+div.leader,
+div.list-leader {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: -1px -1px 0 rgba(255, 255, 255, 0.5), 1px -1px 0 rgba(255, 255, 255, 0.5), -1px 1px 0 rgba(255, 255, 255, 0.5), 1px 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+div.leader * {
+    margin-top: 0;
+}
+
+div.leader .text {
+    position: absolute;
+    top: 50%;
+    margin-top: -65px;
+    width: 100%;
+}
+
+div.leader.scrollfade .text,
+div.leader.textfade .text {
+    opacity: 1;
+    transition: opacity 500ms linear;
+}
+
+div.leader.scrollfade.scrollfadehide .text,
+div.leader.textfade.textfadehide .text {
+    opacity: 0;
+}
+
+div.leader .text > * {
+    max-width: 600px;
+}
+
+div.leader .text h1 {
+    margin-bottom: 10px;
+}
+
+div.leader .text p {
+    font-size: 20px;
+    font-style: italic;
+}
+
+div.leader.inverted,
+div.list-leader.inverted,
+div.list-leader.inverted a, 
+div.list-leader.inverted a:hover {
+    color: #fff;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.5), 1px -1px 0 rgba(0, 0, 0, 0.5), -1px 1px 0 rgba(0, 0, 0, 0.5), 1px 1px 0 rgba(0, 0, 0, 0.5);
+}
+
+div.leader.top .text {
+    top: 0;
+    margin-top: 20px;
+}
+
+div.leader.bottom .text {
+    bottom: 0;
+    top: auto;
+}
+
+div.leader.left .text > *,
+div.leader.right .text > * {
+    max-width: 100%;
+}
+
+div.leader.left .text > * {
+    text-align: left;
+}
+
+div.leader.right .text > * {
+    text-align: right;
+}

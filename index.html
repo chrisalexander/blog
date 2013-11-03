@@ -1,0 +1,14 @@
+---
+layout: base
+---
+
+<h1><a href="/">On Engineering</a></h1>
+<p class="subheading">Chris Alexander</p>
+
+{% for page in paginator.posts %}
+{% include pagebox.html %}
+{% endfor %}
+
+{% include pagination.html %}
+
+{% include footer.html %}

@@ -1,0 +1,28 @@
+.footer,
+.pagination {
+  text-align: center;
+}
+
+.pagination a,
+.pagination a:hover,
+.footer a,
+.footer a:hover {
+  text-decoration: none;
+}
+
+.pagination a {
+  font-weight: 700;
+  padding: 10px 15px;
+}
+
+.footer a {
+  border-right: 1px solid #ccc;
+  margin-right: 5px;
+  padding-right: 10px;
+  font-size: 12px;
+  font-style: italic;
+}
+
+.footer a:last-child {
+  border-right-width: 0;
+}

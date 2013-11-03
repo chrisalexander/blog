@@ -1,0 +1,177 @@
+/* body */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p, h1, h2, h3, h4, h5, h6,
+div.img.block,
+.list-item {
+    max-width: 768px;
+    padding: 0 20px;
+    margin: 30px auto;
+}
+
+p:before,
+h1:before,
+h2:before,
+h3:before,
+h4:before,
+h5:before,
+h6:before {
+    content: ' ';
+    display: table;
+    width: 300px;
+}
+
+a, a:hover {
+    color: #000;
+}
+
+h1 a,
+h1 a:hover,
+h2 a,
+h2 a:hover,
+h3 a,
+h3 a:hover,
+h4 a,
+h4 a:hover,
+h5 a,
+h5 a:hover,
+h6 a,
+h6 a:hover {
+    text-decoration: none;
+}
+
+/* paragraphs */
+p {
+    line-height: 26px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+@media (max-width: 450px) {
+    p {
+        padding: 0 10px;
+    }
+}
+
+@media (max-width: 275px) {
+    p {
+        padding: 0 5px;
+    }
+}
+
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    font-family: 'Lobster', serif;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 44px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+h4 {
+    font-size: 32px;
+}
+
+h5 {
+    font-size: 28px;
+}
+
+h6 {
+    font-size: 24px;
+}
+
+/* subheading */
+
+p.subheading {
+    font-size: 22px;
+    font-style: italic;
+    text-align: center;
+    margin-top: -40px;
+}
+
+p.subheading a,
+p.subheading a:hover {
+    text-decoration: none;
+}
+
+/* utils */
+.center {
+    text-align: center;
+}
+
+/* images */
+
+img {
+    margin: 0 30px 10px;
+    max-width: 100%;
+}
+
+img,
+.fade {
+    transition: opacity 100ms linear;
+}
+
+img.left {
+    float: left;
+    margin-left: 0;
+}
+
+img.right {
+    float: right;
+    margin-right: 0;
+}
+
+div.img.center,
+div.img.block {
+    text-align: center;
+}
+
+div.img.block {
+    padding: 0;
+}
+
+div.img img {
+    margin: 0;
+}
+
+img.max {
+    margin-left: 0;
+    margin-right: 0;
+    min-width: 100%;
+}
+
+/* home link */
+.homelink {
+    font-family: 'Noto Sans', sans-serif;
+    position: fixed;
+    top: 0;
+    left: 5px;
+    padding: 3px 8px;
+    font-size: 12px;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 1px solid #000;
+    border-top-width: 0;
+    border-radius: 0 0 3px 3px;
+}
+
+.homelink.textfade {
+    transition: top 500ms linear;
+}
+
+.homelink.textfade.textfadehide {
+    top: -25px;
+}

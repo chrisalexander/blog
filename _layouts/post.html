@@ -1,0 +1,12 @@
+---
+layout: article
+---
+
+{% include leader.html %}
+
+{% if page.heading %}<h1>{{ page.heading}}</h1>{% endif %}
+{% if page.subheading %}<p class="subheading">{{ page.subheading}}</p>{% endif %}
+
+{{ content }}
+
+{% include footer.html %}
