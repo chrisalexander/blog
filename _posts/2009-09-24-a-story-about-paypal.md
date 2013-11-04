@@ -16,7 +16,7 @@ So I spotted a nice little machine on eBay that would do me well as a local deve
 
 ## Blissfully Unaware
 
-All went well. In fact it went brilliantly! Not only did I remember my PayPal password (which I hadn't used for months), but it automatically remembered my credit card, and I just had to confirm the authorisation code and my £200+ transaction was done and sorted. Or so I thought.
+All went well. In fact it went brilliantly! Not only did I remember my PayPal password (which I hadn't used for months), but it automatically remembered my credit card, and I just had to confirm the authorisation code and my ï¿½200+ transaction was done and sorted. Or so I thought.
 
 ## This is the bit I'm most annoyed about
 
@@ -24,13 +24,13 @@ Apparently all wasn't OK, though. I got an e-mail a few minutes later stating th
 
 ## This is the bit I'm second most annoyed about
 
-So where are we now? PayPal have helpfully given me my account back, made a payment to the buyer then got it back again and put it in my bank account. Except they haven't, of course, because bank debits are pretty much instant, but credits take *days*. On top of this I still haven't paid for my server, but my bank account is still down the £200 or so that PayPal took then decided they didn't want.
+So where are we now? PayPal have helpfully given me my account back, made a payment to the buyer then got it back again and put it in my bank account. Except they haven't, of course, because bank debits are pretty much instant, but credits take *days*. On top of this I still haven't paid for my server, but my bank account is still down the ï¿½200 or so that PayPal took then decided they didn't want.
 
 The buyer has clearly stated that no payment in 3 days == reporting to eBay, so 2 of those days being a weekend meant that I couldn't wait for the credit from PayPal to appear before I tried to pay again. So within just a few hours of paying out the money first time round, I'm doing it again. But it all goes out, and I'm fairly certain everything's fine - the server will be winging its way to me very soon.
 
 ## Wrong, again
 
-Oops! So after yet *another* £200+ is taken out of my bank account (I am now being kept afloat by just over a tenner until my bank is courteous enough to credit me from PayPal), I get *yet another* e-mail from PayPal on Saturday night, over 24 hours after I thought the payment had gone through and everything was great. Turns out they have only just given the money to the seller! They had to do "a review" of my payment as it looked "suspicious" (what may have caused me having to make the payment twice, I wonder? Your useless system, that's what!).
+Oops! So after yet *another* 200+ is taken out of my bank account (I am now being kept afloat by just over a tenner until my bank is courteous enough to credit me from PayPal), I get *yet another* e-mail from PayPal on Saturday night, over 24 hours after I thought the payment had gone through and everything was great. Turns out they have only just given the money to the seller! They had to do "a review" of my payment as it looked "suspicious" (what may have caused me having to make the payment twice, I wonder? Your useless system, that's what!).
 
 ## I love security
 
