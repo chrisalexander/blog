@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'MSP Launch Event Day 1'
+heading: 'MSP Launch Event: Day 1'
 categories: dev
 ---
 
