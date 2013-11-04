@@ -18,7 +18,7 @@ Yep, that's a Nokia 1680, the latest super-cheap phone from Nokia. But please, b
 
 First of all, some kind of justification for this. I had to go to ASDA as it was the only place open at 8.45 on a Saturday that sold mobile phones (even though they couldn't sell it to me until 9.00 when the photo booth opened up) and I had one specific requirements and 2 bonuses - it had to be cheap, and it would be nice if it was a Nokia (so I could charge it with the in-car charger I had with me) and on T-Mobile (so I could just stick in my contract sim card).
 
-Fortunately for me, this gem was just £25, on T-Mobile, and a Nokia, so as far as I was concerned it was perfect. (You'll be pleased to learn I made it home without requiring its services).
+Fortunately for me, this gem was just Â£25, on T-Mobile, and a Nokia, so as far as I was concerned it was perfect. (You'll be pleased to learn I made it home without requiring its services).
 
 The key features of this phone are quite revolutionary
 
