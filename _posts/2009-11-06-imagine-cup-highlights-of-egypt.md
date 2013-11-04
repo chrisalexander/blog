@@ -32,10 +32,10 @@ Visiting these epic monuments was a fantastic experience, and one that I'd very 
 
 ### <span>The Cairo Gardens</span>
 
-<span>{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo1.jpg" %}</span>
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo1.jpg" %}
 
-<span>After the final day of competition, we had dinner and spent the evening in some wonderful gardens also overlooking Cairo. There was a magnificent view across the whole city, and it was a fantastic event to hear the Call to Prayers from the multitude of mosques spread across the city, all ringing out at the same time.</span>
+After the final day of competition, we had dinner and spent the evening in some wonderful gardens also overlooking Cairo. There was a magnificent view across the whole city, and it was a fantastic event to hear the Call to Prayers from the multitude of mosques spread across the city, all ringing out at the same time.
 
-<span>{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo2.jpg" %}<br> </span>
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo2.jpg" %}
 
-<span>This post is part of a series of posts about the Imagine Cup, and what you can get out of the Imagine Cup 2010. Check out the [Imagine Cup category](http://www.chris-alexander.co.uk/category/microsoft/imagine-cup-microsoft) for more.</span>
+This post is part of a series of posts about the Imagine Cup, and what you can get out of the Imagine Cup 2010. Check out the [Imagine Cup category](http://www.chris-alexander.co.uk/category/microsoft/imagine-cup-microsoft) for more.
