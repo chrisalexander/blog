@@ -6,8 +6,6 @@ categories: uni
 
 Over the past week or so, I've been writing a lot about the Imagine Cup - here's a roundup of what I had to say about it. Don't forget to [sign up on the Imagine Cup site](http://www.imaginecup.com).
 
-## <a rel="attachment wp-att-1147" href="http://www.chris-alexander.co.uk/1145/ic10"><img class="alignleft size-full wp-image-1147" title="Imagine Cup 2010 Poland" src="http://www.chris-alexander.co.uk/wp-content/uploads/2009/11/ic10.PNG" alt="Imagine Cup 2010 Poland" width="312" height="106"></a>
-
 ## Imagine Cup 2010 is here!
 
 The Imagine Cup is the world's premier student technology competition - with unparalleled challenges, experiences, and prizes, if you do anything at all this year, you'll want to be part of this. Read more about [Imagine Cup 2010](http://www.chris-alexander.co.uk/1145)...
@@ -28,11 +26,11 @@ Last year the Imagine Cup Worldwide Final was held in Cairo, Egypt. Over 5 days,
 
 Unfortunately my entry did not make it through to the final stages, however I was lucky enough to go along to Egypt with the Microsoft UK team. Here are some of my highlights of the Imagine Cup 2009.
 
-<span>For me, Cairo was an absolutely sensational experience, and I enjoyed every second of it. When we weren't watching ground-breaking presentations by students from every corner of the world, we were meeting new, like-minded people, and experience the rich culture and heritage that Egypt has to offer.</span>
+For me, Cairo was an absolutely sensational experience, and I enjoyed every second of it. When we weren't watching ground-breaking presentations by students from every corner of the world, we were meeting new, like-minded people, and experience the rich culture and heritage that Egypt has to offer.
 
-<span>Read more about [Cairo 2009](http://www.chris-alexander.co.uk/1211)...</span>
+Read more about [Cairo 2009](http://www.chris-alexander.co.uk/1211)...
 
-## <span>Competition</span>
+## Competition
 
 This year, the worldwide finals are being held in Poland, and you can get there by entering one of five competitions. Here's an overview of what you can get into and what's involved.
 
