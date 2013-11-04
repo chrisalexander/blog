@@ -8,7 +8,7 @@ Last year the Imagine Cup Worldwide Final was held in Cairo, Egypt. Over 5 days,
 
 Unfortunately my entry did not make it through to the final stages, however I was lucky enough to go along to Egypt with the Microsoft UK team. Here are some of my highlights of the Imagine Cup 2009.
 
-<span>For me, Cairo was an absolutely sensational experience, and I enjoyed every second of it. When we weren't watching ground-breaking presentations by students from every corner of the world, we were meeting new, like-minded people, and experience the rich culture and heritage that Egypt has to offer.</span>
+For me, Cairo was an absolutely sensational experience, and I enjoyed every second of it. When we weren't watching ground-breaking presentations by students from every corner of the world, we were meeting new, like-minded people, and experience the rich culture and heritage that Egypt has to offer.
 
 If you want to find out more about what I did while I was in Egypt in-depth, you can check out my series of blog posts that I wrote while I was there. You can find them under the [Imagine Cup category](http://www.chris-alexander.co.uk/category/microsoft/imagine-cup-microsoft). Here's a few highlights.
 
@@ -24,11 +24,11 @@ The opening ceremony was held at The Citadel, an impressive structure overlookin
 
 All of the competitors fought exceptionally hard for their prizes, from the presentations of the Software Developers and Games Designers (who I also heard had an all-night coding session to get a new feature done before their final event), to the IT Challenge competitors who were placed in a room for 48 hours and tried to keep their system secure!
 
-### <span>The Pyramids</span>
+### The Pyramids
 
-<span>{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg" %}</span>
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg" %}
 
-<span>Visiting these epic monuments was a fantastic experience, and one that I'd very much like to repeat in the future. This is where I first met properly some of my Egyptian MSP friends who I'm still in touch with today.</span>
+Visiting these epic monuments was a fantastic experience, and one that I'd very much like to repeat in the future. This is where I first met properly some of my Egyptian MSP friends who I'm still in touch with today.
 
 ### <span>The Cairo Gardens</span>
 
