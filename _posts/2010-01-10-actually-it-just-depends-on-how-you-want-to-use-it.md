@@ -27,9 +27,3 @@ However, consider for a second you want to do something other than go back to yo
 So my point is this - if you want to do simple stuff quickly, iPhone is great. But if you want to get into anything slightly more complex (which, as an extreme mobile phone power user, I regularly do), then it is basically a giant time consuming mess.
 
 *(As a footnote, iPhone's Settings app and pages take an unforgivably long time to load)*
-
-* *
-
-* *
-
-* *
