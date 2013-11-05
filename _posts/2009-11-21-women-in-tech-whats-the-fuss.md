@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Women In Tech: what's the fuss?'
+heading: 'Women In Tech'
 categories: uni
 ---
 
