@@ -14,4 +14,51 @@ I managed to find a tutorial online, and after a bit of tinkering I got out a we
 
 Here's my server in 50 lines of code:
 
-*WordPress Top Tip:* When posting Python, wrap the [sourcecode] tags in &lt;pre&gt; tags, otherwise the admin panel deletes all the spaces at the start of the lines. Not useful.
+    #!/usr/bin/python
+    
+    #
+    # A simple web server
+    #
+    
+    import sys, string, cgi, time
+    from os import curdir, sep
+    from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
+    
+    class MyServer(BaseHTTPRequestHandler):
+    
+      def ca_serve_file(self):
+        try:
+          f = open(curdir + sep + self.path, 'r')
+    
+          self.send_response(200)
+          self.send_header('Content-type', 'text/html')
+          self.end_headers()
+          self.wfile.write(f.read())
+          f.close()
+    
+        except IOError:
+          self.send_error(404, 'File not found: %s' % self.path)
+    
+      def do_GET(self):
+        try:
+          if self.path == '/':
+            self.path = 'index.html'
+    
+          self.ca_serve_file()
+    
+          return
+    
+        except IOError:
+          self.send_error(404, 'File not found: %s' % self.path)
+    
+    def main():
+      try:
+        server = HTTPServer(('',8080), MyServer)
+        print 'Started HTTP server'
+        server.serve_forever()
+      except KeyboardInterrupt:
+        print 'Shutting down...'
+        server.socket.close()
+    
+    if __name__ == '__main__':
+      main()
