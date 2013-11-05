@@ -1,6 +1,9 @@
 ---
 layout: post
 heading: 'Nabaztag setup guide'
+leader:
+  image: http://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/4_setup_tn.jpg
+  showonpage: false
 categories: life
 ---
 
