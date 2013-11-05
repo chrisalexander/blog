@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Doctor Who tonight - don't forget'
+heading: 'Doctor Who tonight'
 categories: life
 ---
 
