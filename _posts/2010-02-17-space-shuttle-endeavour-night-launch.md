@@ -1,0 +1,39 @@
+---
+layout: post
+heading: 'Space Shuttle Endeavour - Night Launch'
+categories: life
+---
+
+There's something really spectacular about a Shuttle launch at the best of times. A night launch, however, is particularly good to look at.
+
+The last launch to the International Space Station, STS-130, lifted off last week. It featured the Space Shuttle Endeavour taking Node 3 ("Tranquility") to the ISS, along with a cupola window for the astronauts to get some spectacular views of Earth (as well as making missions with the Canadarm 2 considerably easier).
+
+This mission has also featured a first, where Twitter users were able to send questions to the astronauts which they then answered in a video conversation with Mission Control. Twitter is now truly out of this world!
+
+About 2:30 a.m., Behnken and Patrick fielded questions from Twitter fans, radioed up from Mission Control by spacecraft communicator Michael Massimino. In the first-of-its-kind event, questions were submitted by dozens of Massimino's million-plus following of "tweeps." About three hours later, Virts and Hire fielded questions from Associated Press, CBS News and Reuters reporters. - *[Source](http://www.nasa.gov/mission_pages/shuttle/main/index.html)*
+
+Here's some photos from the mission so far, and embedded is the video of the launch.
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/training.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/training2.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/endeavour-2.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/endeavour-1.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/launch.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/canal.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/approach.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/approach2.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/tranquility.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/tranquility2.jpg" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/spacewalk.jpg" %}
+
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/W-aDSv494v4?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
