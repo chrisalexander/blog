@@ -8,7 +8,7 @@ Office 2007 is the latest release of Microsoft's flagship office productivity su
 
 I've taken a look at the whole suite of applications, and come up with a list of features that are remarkably useful for students to get stuff done faster.
 
-What's even better is you can get Office 2007 for only £40 from [The Ultimate Steal](http://www.ultimatesteal.co.uk/student71)!
+What's even better is you can get Office 2007 for only Â£40 from [The Ultimate Steal](http://www.ultimatesteal.co.uk/student71)!
 
 ## <img class="aligncenter size-full wp-image-577" title="officelogo" src="http://www.chris-alexander.co.uk/wp-content/uploads/2009/09/officelogo.png" alt="officelogo" width="200" height="160">New Navigation: the Ribbon
 
@@ -62,4 +62,4 @@ This is a small one to finish, but now you have all that great research in OneNo
 
 So there are just some of the great tips and features available to students in Office 2007. Have your own to share? Post it in the comments so students all over the world can benefit!
 
-Don't forget if you're a UK student, you can get Office 2007 for only £40 from [here](http://www.ultimatesteal.co.uk/student71).
+Don't forget if you're a UK student, you can get Office 2007 for only Â£40 from [here](http://www.ultimatesteal.co.uk/student71).
