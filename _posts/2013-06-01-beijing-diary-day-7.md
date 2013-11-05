@@ -12,7 +12,7 @@ We went just out of Beijing today to visit Wenni's aunt and uncle. They live jus
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/06/wpid-IMG_20130601_143902.jpg" %}
 
-We had a delicious lunch with them - chicken, pork, potatoes, pancakes (not what you think) and more - then headed out to the local shops. Turns out it was well over 30° in the afternoon sun and I felt like I was melting!
+We had a delicious lunch with them - chicken, pork, potatoes, pancakes (not what you think) and more - then headed out to the local shops. Turns out it was well over 30 degrees in the afternoon sun and I felt like I was melting!
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/06/wpid-IMG_20130601_151043.jpg" %}
 
