@@ -14,6 +14,11 @@ I found a tutorial on this site that helped me on my way: http://tinyurl.com/5ja
 
 In the main directory's .htaccess file is:
 
+    SetEnvIf Request_URI "^(absolute/path/to/allowed/folder/)$" allow
+    Order allow,deny
+    Allow from env=allow
+    Satisfy any
+
 Make sure the path is absolute, so will probably start home/user/www etc. Make sure you have the trailing slash! (This could probably be very easily modified to have a relative directory)
 
 Then, in the .htaccess file for the directory that I want to allow everyone to access, I have the single line:<br> Allow from all
