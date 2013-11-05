@@ -7,6 +7,7 @@ leader:
  position: bottom left
  hidetext: true
  hassmall: false
+ showonpage: false
 categories: robots
 ---
 
