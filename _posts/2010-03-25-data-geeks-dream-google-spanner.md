@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Data Geek's Dream: Google Spanner'
+heading: 'Google Spanner'
 categories: dev
 ---
 
