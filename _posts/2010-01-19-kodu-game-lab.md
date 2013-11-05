@@ -14,7 +14,7 @@ Developed by Fuse, part of Microsoft Labs, Kodu is built on the XNA framework, a
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/kodu.jpg" %}
 
-You can download Kodu now, for free, from the [Fuse website](http://fuse.microsoft.com/kodu). *(You will need .Net Framework 3.5, and XNA Framework <span style="font-style: normal;">*3.1, *[*available free here*](http://www.microsoft.com/downloads/details.aspx?familyid=53867a2a-e249-4560-8011-98eb3e799ef2&amp;displaylang=en)*)*</span>*
+You can download Kodu now, for free, from the [Fuse website](http://fuse.microsoft.com/kodu). *(You will need .Net Framework 3.5, and XNA Framework 3.1, [available free here](http://www.microsoft.com/downloads/details.aspx?familyid=53867a2a-e249-4560-8011-98eb3e799ef2&amp;displaylang=en))*
 
 The great thing about Kodu is that it allows you to build extremely complex games very very simply. It lowers the barrier of entry to building a decent game so low that I had some junior school-age children happily building and playing games on it in literally minutes.
 
