@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'It's not Path's fault. It's Apple's.'
+heading: 'It's not Paths fault. It's Apples.'
 categories: apple
 ---
 
