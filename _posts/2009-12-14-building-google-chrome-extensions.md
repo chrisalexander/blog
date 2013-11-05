@@ -10,8 +10,6 @@ Yesterday afternoon while I was sitting at home, I realised I hadn't yet gotten 
 
 *Note: in order to enable extensions, you need to be on the dev branch, which you can install from [here](http://www.google.com/landing/chrome/beta/). If you're on a Mac/Linux, you probably already have the dev branch, but you will have to enable the extensions pages with instructions [here](http://grack.com/blog/2009/12/08/re-enable-install-button-for-mac-chrome-extensions/).*
 
-**
-
 A browser plugin is something I've never really tried before, so this was all a bit of an adventure.
 
 It turns out that an extension for Chrome is incredibly simple, and very powerful at the same time.
@@ -48,7 +46,7 @@ The Manifest file is a JSON file that tells Chrome information about your plugin
 
 ### The Other Files
 
-Then all you have to do is make sure that you have a 19×19 pixel icon for the "default_icon" file (icon.png), and "smile.html" has something nice in it - I would try this out:
+Then all you have to do is make sure that you have a 19ï¿½19 pixel icon for the "default_icon" file (icon.png), and "smile.html" has something nice in it - I would try this out:
 
 *(yep, that's the new HTML 5 doctype)*
 
