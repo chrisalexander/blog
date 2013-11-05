@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Why Marissa Mayer's new job could be the most important role in the survival of Google'
+heading: 'Why Marissa Mayers new job could be the most important role in the survival of Google'
 categories: mobile
 ---
 
