@@ -12,8 +12,6 @@ So here are my personal do's and don'ts of social media. They're personally my o
 
 *(If you don't read any of this, at least check out the last paragraph)*
 
-## <img class="aligncenter size-full wp-image-1094" title="Social Media: You're Doing It Wrong" src="http://www.chris-alexander.co.uk/wp-content/uploads/2009/10/funny-pictures-your-safari-trip-is-wrong.jpg" alt="Social Media: You're Doing It Wrong" width="500" height="333">
-
 ## Are you a company or person? Decide.
 
 Are you running a corporate Twitter account or one for yourself? Think about it, and stick with it.
