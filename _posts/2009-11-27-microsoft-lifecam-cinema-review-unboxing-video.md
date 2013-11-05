@@ -10,7 +10,7 @@ The Cinema is quite a large step forwards in the webcam game. Personally I thoug
 
 Here's a brief review, with an unboxing and some preview video.
 
-They really aren't messing around with the HD sticker either - full 720p High Definition at 1280×720 widescreen. It manages a highly respectable 30fps at full HD, which as you can see from the video below is also very good.
+They really aren't messing around with the HD sticker either - full 720p High Definition at 1280x720 widescreen. It manages a highly respectable 30fps at full HD, which as you can see from the video below is also very good.
 
 There were a couple of features that really stood out for me.
 
@@ -25,8 +25,6 @@ Once again the video demonstrates this, but the focus on this device is truly as
 ## Preview Video
 
 I've put together a short video to give you a chance to check out the quality of the camera. This isn't in full HD as your internet probably wouldn't cope with streaming it, but it should give you a good idea of the quality it records HD in.
-
-##lifecam.mp4#800#470#-10##
 
 ## Unboxing
 
@@ -53,5 +51,3 @@ Here are some shots from the unboxing of the webcam, to give you more of an idea
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/STA60013.jpg" %}
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/STA60016.jpg" %}
-
-*If you would like to sponsor a post on this site, find out more in the [Sponsored Post section](http://www.chris-alexander.co.uk/sponsored-posts). [Display advertising](http://www.chris-alexander.co.uk/advertise) is also available.*
