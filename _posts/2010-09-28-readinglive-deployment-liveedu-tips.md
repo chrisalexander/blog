@@ -33,4 +33,13 @@ How to change your password:
 * Hit "Change your password" next to the big key icon in the box on the right
 * Now depending on your luck, you may get redirected to one of two places. If you're lucky, you will be taken to the password reset screen, so skip this step and rejoice. If you're not so lucky you will be taken to some kind of Account screen. Now this page doesn't allow you to reset your password on itself, so why the hell it's here on the end of a "Change your password" link is anybody's guess. The address *might* be **account.live.com**, further adding to the suspicion that this might be a Windows Live account (but it still doesn't behave like one). You have to hit [this](http://resources.chris-alexander.co.uk/liveatedu/account.png) tiny little "Change" button to go to the aforementioned next screen.
 * Now everyone's on the same page (quite literally) you can reset your password *to something new*.
+By the way, to get out of the Options window, the only way out I could find is the tiny "My Mail" link in the top right just underneath the logo.
 
+So now that's out of the way, time to go actually implement this stuff. If you want to use Exchange or ActiveSync or something like that, go ahead and do it now, you're sorted! Make sure you use your full username in the form* username*@live.reading.ac.uk and the password you just reset to! Everyone else, one more thing to do...
+
+We need to grab a piece of information first which is the cluster of servers we are running on. To do this:
+
+* Click the dropdown arrow next to the blue encircled "Help" question mark in the top right of the mail window ([hint](http://resources.chris-alexander.co.uk/liveatedu/dropdown.png))
+* Select "About"
+* Grab the value under "External POP setting:" and next to "Server name:". Mine was *pod51002.outlook.com* and yours will be similar if not the same.
+* Now you have all the configuration values!
