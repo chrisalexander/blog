@@ -10,4 +10,6 @@ It is possible to delete them, but please really be sure you know what you are d
 
 To do the delete, open the dashboard, and open the Chrome developer tools (Ctrl + Shift + J). Your app ID is the string that is on the end of the URL that you get when you click "Edit" next to it. Type in the console:
 
-Where you replace *id* with the ID of the app you want to delete. You'll get a confirm box to make sure you know what you're doing, then your app will be finally removed.<em id="__mceDel"> *
+    cxDeleteItem('id')
+
+Where you replace *id* with the ID of the app you want to delete. You'll get a confirm box to make sure you know what you're doing, then your app will be finally removed.
