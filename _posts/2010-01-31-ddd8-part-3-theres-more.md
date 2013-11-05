@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: '#ddd8 Part 3 - There's More!'
+heading: '#ddd8 Part 3 - More!'
 categories: life
 ---
 
