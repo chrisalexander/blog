@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'ARNIE's Brain: Spine and networking'
+heading: 'ARNIEs Brain: Spine and networking'
 categories: uni
 ---
 
