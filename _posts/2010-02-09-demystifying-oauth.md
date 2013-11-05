@@ -104,6 +104,10 @@ Additionally, if you do it in a way that is re-usable, you can just plug in OAut
 
 My current OAuth wrapper supports Twitter, LinkedIn, Foursquare and Brightkite in a single package. For each of them, it is 3 lines of code to use.
 
+    $obj = new Framework_Service_Interface_Twitter('TwitterConfig');
+    $auth = $obj->getAuthInterface();
+    $authurl = $auth->getAuthorisationUrl()
+
 I think that if you can get OAuth working to this stage, then you probably have a pretty good understanding of it.
 
 Can you do better?
