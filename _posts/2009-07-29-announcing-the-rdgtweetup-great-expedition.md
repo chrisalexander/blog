@@ -12,7 +12,7 @@ Banksy is an internationally renowned guerilla street artist, making his name pa
 
 Here's a preview of his work on display at the Bristol Museum:
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/lRai9x8aD3A?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/lRai9x8aD3A?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
 
 ## Awesome! I want to go!
 
@@ -28,7 +28,7 @@ Whenever you like, but if you want to actually come with us, then you'll need to
 
 ### How much is this going to cost me?
 
-The good news is the exhibition itself is completely free! You'll need money for the [Park and Ride](http://www.bristol.gov.uk/ccm/navigation/transport-and-streets/parking/park-and-ride/;jsessionid=05908C4299C00064F6249C431254B013.tcwwwaplaws1) (around £2.50 return) and a contribution to the fuel costs of your driver (£5 or so). You'll also need some for lunch (but you won't be stuck for choice) and so on and so forth.
+The good news is the exhibition itself is completely free! You'll need money for the [Park and Ride](http://www.bristol.gov.uk/ccm/navigation/transport-and-streets/parking/park-and-ride/;jsessionid=05908C4299C00064F6249C431254B013.tcwwwaplaws1) (around Â£2.50 return) and a contribution to the fuel costs of your driver (Â£5 or so). You'll also need some for lunch (but you won't be stuck for choice) and so on and so forth.
 
 ### Plans for the day
 
