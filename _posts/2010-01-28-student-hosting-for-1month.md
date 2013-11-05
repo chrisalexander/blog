@@ -16,7 +16,7 @@ The offer is provided by [123-reg.co.uk](http://123-reg.co.uk), one of the leadi
 
 Full details of the deal:
 
-* [123-reg Plus package](http://www.123-reg.co.uk/web-hosting/starter-plus.shtml) (usually �4.99/month)
+* [123-reg Plus package](http://www.123-reg.co.uk/web-hosting/starter-plus.shtml) (usually £4.99/month)
 * A free .info [domain name](http://www.123-reg.co.uk/domain-names/)
 * Windows hosting
 * More!
