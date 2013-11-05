@@ -8,7 +8,9 @@ Recently I've been getting into the Podcasts on my iPod when I make my way to wo
 
 The title is immediately caught my attention, as such a striking statement against the education that has (or seems to, at least) done me well so far.
 
-Here's the video to check out before I go into what I think of what he says.<br> <embed type="application/x-shockwave-flash" width="334" height="326" src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" flashvars="vu=http://video.ted.com/talks/embed/SirKenRobinson_2006-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/SirKenRobinson-2006.embed_thumbnail.jpg&amp;vw=320&amp;vh=240&amp;ap=0&amp;ti=66" wmode="transparent" allowfullscreen="true"><br> 
+Here's the video to check out before I go into what I think of what he says.
+
+<embed type="application/x-shockwave-flash" width="334" height="326" src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" flashvars="vu=http://video.ted.com/talks/embed/SirKenRobinson_2006-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/SirKenRobinson-2006.embed_thumbnail.jpg&amp;vw=320&amp;vh=240&amp;ap=0&amp;ti=66" wmode="transparent" allowfullscreen="true">
 
 The first thing the podcast starts with is Robinson's brilliant sense of humour - a trait that kept me genuinely laughing out loud while I was watching it (I bet that made my housemates happy late at night).
 
@@ -24,13 +26,13 @@ All children are artists. The problem is how to remain an artist once he grows u
 
 Robinson goes on to list the hierarchy of subjects he found in just about every education system in the world:
 
-*  Mathematics and Languages
+* Mathematics and Languages
 * Humaties
 * The Arts
 
 Then, The Arts are further broken down into:
 
-*  Music
+* Music
 * Drama and Dance
 
 His point that no education system in the world teaches children dance every day just as they are taught Maths every day, and it is a valid one. His excellent story about &lt;&gt; to demonstrate this is excellent too. Now I'm not one for drama or dance (but I am for music), but people should be given the chance to succeed at what they enjoy and what they are good at. Fortunately I was able to do that in my education, but I know not everyone gets that opportunity, which is unfortunate.
