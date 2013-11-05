@@ -4,7 +4,7 @@ heading: 'Exclusive preview: Huddle for Office'
 categories: huddle
 ---
 
-[Huddle](http://www.jdoqocy.com/click-3731164-10712079){% include images/block.html src="http://www.ftjcfx.com/image-3731164-10712079" %}, the online collaboration and workspaces company, has been busy recently.
+[Huddle](http://www.jdoqocy.com/click-3731164-10712079), the online collaboration and workspaces company, has been busy recently.
 
 Not only have they [announced](http://www.techcrunch.com/2009/09/30/huddle-launches-iphone-app-microsoft-office-plug-in-and-web-conferencing-tool/) their shiny new iPhone app and web conferencing, but they also announced a downloadable plugin for Microsoft Office, bringing your cloud collaboration to the desktop.
 
