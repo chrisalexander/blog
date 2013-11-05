@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'You're Just As Bad As The Spammers'
+heading: 'Just As Bad As The Spammers'
 categories: life
 ---
 
