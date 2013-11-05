@@ -12,7 +12,7 @@ Meanwhile emails from later in the evening have been replied to and resolved bef
 
 Note that this is not by any means a reflection on the people doing the emailing. More on the fundamental differences between the work ethics and approach to business between the UK academic / entrepreneurial scene and whats happening in the US.
 
-***Update** following on from Shirley's comment below.*
+Update following on from Shirley's comment below.
 
 I had not intended this post to be negative about one or the other cultures surrounding the work-life balance question that was raised - it was more intended as an interesting observation that I made. (The academic question I mentioned has since been answered, in work hours). As I say in my follow-up comment, work life balances will of course be different depending on where you go. However, as I noted this morning, it was particularly stark for me this morning having the experience in the UK (by all means not one that was unexpected) compared to what happened in the Valley.
 
