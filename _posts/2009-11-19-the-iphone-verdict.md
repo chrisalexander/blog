@@ -28,7 +28,7 @@ The camera is also tragic. But then there's a lot going on in the iPhone, at a t
 
 ## The Ugly
 
-I had to unlock the phone so that I could use my existing T-Mobile sim (which is a pretty sweet deal at 600 mins + unlimited texts and internet at £20/mo), so I thought I may as well jailbreak it while I was there. Without jailbreaking the iPhone is essentially useless.
+I had to unlock the phone so that I could use my existing T-Mobile sim (which is a pretty sweet deal at 600 mins + unlimited texts and internet at Â£20/mo), so I thought I may as well jailbreak it while I was there. Without jailbreaking the iPhone is essentially useless.
 
 Not being strange or anything, but I expect a phone with a decent processor like the iPhone's to cope with doing more than one thing at a time. As a matter of fact, it can - its just that Apple won't let developers access the way of doing it. So one app install later on the jailbroken device, and you can run any app in the background. Nice!
 
