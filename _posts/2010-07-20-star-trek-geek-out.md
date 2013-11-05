@@ -14,9 +14,7 @@ Now I happen to think that this is pretty much the best you're going to get - an
 
 Anyway, back to the point of the post - after I proclaimed how much I liked the episode, a lot of other people piped in with their suggestions for what they thought constituted the best-ever episode of Star Trek. Here's a run-down of the suggestions. (It's well worth reading to the bottom).<br> 
 
-## <a href="http://www.startrek.com/database_article/darmok">Darmok</a> - The Next Generation
-
-#### Suggested by <a href="http://twitter.com/Daniel_Parker">@Daniel_Parker</a>
+## [Darmok](http://www.startrek.com/database_article/darmok) - The Next Generation
 
 The Tamarian language is unintelligible to Starfleet's universal translators because it is too deeply rooted in local metaphor, so its sentences do not have any meaning to other civilizations. A Tamarian ship approaches the Enterprise and the two races attempt to make contact, but the language barrier prevents anyone on the Enterprise from understanding what the Tamarians are talking about (even though they can understand the actual words). When the Tamarians realize that this attempt has failed, the Tamarian captain has Picard and himself transported to the planet El-Adrel IV, which is occupied by a hostile entity.
 
@@ -24,17 +22,13 @@ Picard and Dathon do battle with the dangerous entity inhabiting the planet, whi
 
 [Source](http://en.wikipedia.org/wiki/Darmok)
 
-## <a href="http://www.startrek.com/database_article/visitor">The Visitor</a> - DS9
-
-#### Suggested by <a href="http://twitter.com/Daniel_Parker">@Daniel_Parker</a>
+## [The Visitor](http://www.startrek.com/database_article/visitor) - DS9
 
 On a rainy night on Earth, the elderly Jake Sisko is visited by an aspiring novelist Melanie, who is curious to learn why Jake gave up writing after publishing two successful books. Jake, knowing the time in his life is short, decides to tell her his story, revealed as flashbacks in the episode.
 
 [Source](http://en.wikipedia.org/wiki/The_Visitor_%28Star_Trek:_Deep_Space_Nine%29)
 
-## <a href="http://www.startrek.com/database_article/inner-light-the">The Inner Light</a> - The Next Generation
-
-#### Suggested by <a href="http://twitter.com/Daniel_Parker">@Daniel_Parker</a>
+## [The Inner Light](http://www.startrek.com/database_article/inner-light-the) - The Next Generation
 
 The Enterprise has just finished a magnetic wave survey of the Parvenium System, when they encounter an unknown probe which scans the ship and sends an energy beam to Captain Picard, rendering him unconscious. Picard wakes up to find himself on the surface of Kataan, a non-Federation planet; A woman identifies herself as his wife, Eline, telling Picard that he is Kamin, an iron weaver recovering from a feverish sickness. Picard talks of his past memories on the Enterprise, but Eline and their close friend Batai, convince Picard that his memories were only dreams, and acclimatize him into their society as Kamin. Picard begins living out his life as Kamin in the village of Ressik, starting a family with Eline, and learning to play the flute.
 
@@ -44,9 +38,7 @@ Extra: the prop flute later was in a deleted scene in Star Trek: Nemesis, and so
 
 [Source](http://en.wikipedia.org/wiki/The_Inner_Light_%28Star_Trek:_The_Next_Generation%29#Plot)
 
-## <a href="http://www.startrek.com/database_article/year-of-hell-part-i">Year of Hell</a> - Voyager
-
-#### Suggested by <a href="http://twitter.com/PCurd">@PCurd</a>
+## [Year of Hell](http://www.startrek.com/database_article/year-of-hell-part-i) - Voyager
 
 A huge ship appears in the sky of a distant, alien colony and fires a massive beam, transforming the bustling city below to mountains and fields. As the wave encompasses the planet, the ship's crew comment on the colony's erasure before targeting the species' homeworld.
 
@@ -56,17 +48,13 @@ The wave hits all three ships - wiping the Zahl race from existence, making the 
 
 [Source](http://en.wikipedia.org/wiki/Year_of_Hell)
 
-## <a href="http://www.startrek.com/database_article/in-the-pale-moonlight">In the Pale Moonlight</a> - DS9
-
-#### Suggested by <a href="http://twitter.com/mattcopp">@mattcopp</a>
+## [In the Pale Moonlight](http://www.startrek.com/database_article/in-the-pale-moonlight) - DS9
 
 Sick of the losses the Federation is taking in the war, Sisko enlists Garak's help in getting the Romulans to join the Federation against the Dominion. Sisko soon learns that in order to save the Federation, he must violate the values for which it stands.
 
 [Source](http://en.wikipedia.org/wiki/In_the_Pale_Moonlight)
 
-## <a href="http://www.startrek.com/database_article/trials-and-tribble-ations">Trials and Tribble-ations</a> - DS9
-
-#### Suggested by <a href="http://twitter.com/mattcopp">@mattcopp</a>
+## [Trials and Tribble-ations](http://www.startrek.com/database_article/trials-and-tribble-ations) - DS9
 
 The episode sees the crew of DS9 travel into their past, and encounter the events of the original series episode "The Trouble With Tribbles." The crew interact with events of that episode, meeting James T. Kirk and visiting the original Enterprise by means of modern special effects technology which allows the DS9 actors to be inserted into footage from the original episode.
 
