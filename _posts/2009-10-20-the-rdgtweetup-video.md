@@ -13,5 +13,3 @@ If you spot yourself in this video, please leave a comment below and I will add 
 Currently known to feature:
 
 @dtsn, @jamesbmarshall, @jimanning, @carocat, @nige4tograher, @littlespy, @saqibs, @fringley, @domgreen, @nicktelford, @alexforrow, @amykate, @TheSourceress, @robcdillon, @eilvr, @chelthan (thanks Hannah!)
-
-##tweetup.mp4#800#470#-10##
