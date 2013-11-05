@@ -19,3 +19,9 @@ I filled in the [signup form](http://skimlinks.com/register) carefully and as ac
 This morning, over a week later, I still hadn't got a response, so [tweeted](http://twitter.com/chris_alexander/status/7861544815):
 
 Applied to @skimlinks over a week ago and nothing yet - 3 days?! Saw competitor on TC and thought I'd go for the UK guys. So much for that.
+
+Within 2 hours, @AliciaNavarro (who founded and runs Skimlinks) [replied](http://twitter.com/AliciaNavarro/status/7863780058) with this:
+
+@chris_alexander Hi Chris, I run Skimlinks, huge apologies, I'll check what the issue is in reviewing your application.
+
+Less than an hour after that I received a confirmation e-mail that I had been approved, and another tweet from Alicia saying it had been sorted out.
