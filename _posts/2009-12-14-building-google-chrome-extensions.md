@@ -46,7 +46,7 @@ The Manifest file is a JSON file that tells Chrome information about your plugin
 
 ### The Other Files
 
-Then all you have to do is make sure that you have a 19�19 pixel icon for the "default_icon" file (icon.png), and "smile.html" has something nice in it - I would try this out:
+Then all you have to do is make sure that you have a 19x19 pixel icon for the "default_icon" file (icon.png), and "smile.html" has something nice in it - I would try this out:
 
 *(yep, that's the new HTML 5 doctype)*
 
