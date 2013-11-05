@@ -22,6 +22,7 @@ An object specifying the page leader, if desired.
 * Inverted - set to true to invert the colours from black text on the image to white text
 * Position - the position of the text on the image. Choose from top, left, bottom, right, top left, top right, bottom left, bottom right. Leave blank for the middle
 * Hidetext - set to true to make the text auto-hide as you scroll down on post pages, and to make the text and home link disappear if you stop interacting on image pages.
+* Hassmall - set explicitly to false to ensure it doesn't try and use a "small" image for leaders
 
 ### Post content
 
