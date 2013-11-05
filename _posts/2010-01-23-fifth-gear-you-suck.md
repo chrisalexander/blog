@@ -24,8 +24,6 @@ I wished they would just say something sensible about the car.
 
 One guy got to try out a Lamborghini Gallardo, and all he did was complain that he could not completely turn off the traction control! Is he *mad?!*
 
-* *
-
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/lambo.jpg" %}
 
 ## Presentation
