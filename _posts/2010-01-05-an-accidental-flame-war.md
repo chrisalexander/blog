@@ -28,6 +28,6 @@ It started off so simply, with this perfectly innocent tweet:
 
 ... and just clinging on to his dignity:
 
-*I nearly replied...nearly... it was just unintended troll-bate really* - @_andrew_harvey_
+*I nearly replied...nearly... it was just unintended troll-bate really* - @andrewharvey
 
 Fortunately there were some useful comments in there, and hopefully with @PCurd, @cookiecut and @IanField90′s help I will soon have it back and running again. 
