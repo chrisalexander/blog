@@ -52,4 +52,6 @@ A lot has changed in Media Centre with Windows 7 - from making it easier to get 
 
 Here are some shots of the new Media Centre interface (click for a larger version):
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/930/wmc2">{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc2-300x224.png" %}<img class="aligncenter size-medium wp-image-934" title="wmc4" src="http://www.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc4-300x224.png" %}{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc6-300x224.png" %}
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc2-300x224.png" %}
+
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc6-300x224.png" %}
