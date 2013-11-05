@@ -9,5 +9,3 @@ The [Imagine Cup](http://www.chris-alexander.co.uk/tag/imagine-cup) is a worldwi
 Check out the video below for more on the Imagine Cup.
 
 If you want to read more on the competition, check out the [Imagine Cup tag](http://www.chris-alexander.co.uk/tag/imagine-cup). Otherwise, [sign up for the competition here](bit.ly/ICRMSP08).
-
-##imaginecup2010.mp4#800#470#-10##
