@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Apparently £3000/yr ain't enough'
+heading: 'Apparently £3000/yr aint enough'
 categories: uni
 ---
 
