@@ -18,6 +18,6 @@ The 3.7 inch TFT screen keeps it closely related to the previous Xperias, while 
 
 The Neo V is not necessarily a ground-breaking release from Sony Ericsson, since it packs no significant improvements to the previous Xperia, but what it does do is increase widespread accessibility to smartphones. It is due to be released in Q4 later this year, while the Gingerbread update is being extended to the whole Xperia range in October.
 
-The release of the Neo V means that users in the UK will have a much more affordable yet equally powerful smartphone on their high streets. It packs pretty much all of the same features as the original Neo, but has been designed to fit into the rung below its father. Details of costs of [mobile phone deals](http://www.expansys.com/mobile-phones/) for the new Xperia have not yet been confirmed, but it is expected to retail at about £20 per month.
+The release of the Neo V means that users in the UK will have a much more affordable yet equally powerful smartphone on their high streets. It packs pretty much all of the same features as the original Neo, but has been designed to fit into the rung below its father. Details of costs of [mobile phone deals](http://www.expansys.com/mobile-phones/) for the new Xperia have not yet been confirmed, but it is expected to retail at about Â£20 per month.
 
  
