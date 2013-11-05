@@ -14,4 +14,6 @@ The application simply has to output "Hello, World" to the console. Simple right
 
 I have open-sourced my PHP-based attempt at making it as complex as feasibly possible to maintain. It includes some nice functionality such as hitting a REST API for converting numeric ASCII codes to their character values, and using the DataSift client library to do this. It also includes this gem:
 
+{% gist 619171 %}
+
 So go check out (and possibly swear at or cry over) my code on [Github](http://github.com/chrisalexander/Refucktoring). Many thanks to @jasongorman for organising the session!
