@@ -1,5 +1,5 @@
 layout: post
-heading: 'Howto: force the Froyo update to your Nexus One'
+heading: 'Howto force the Froyo update to your Nexus One'
 categories: google
 ---
 
