@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Tonight! I'm at Reading Geek Night'
+heading: 'Tonight! At Reading Geek Night'
 categories: life
 ---
 
