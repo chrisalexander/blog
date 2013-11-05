@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'It's that time of year again! Sign up for the Imagine Cup'
+heading: 'That time of year again! Sign up for the Imagine Cup'
 categories: uni
 ---
 
