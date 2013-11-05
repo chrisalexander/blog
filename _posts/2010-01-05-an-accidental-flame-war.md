@@ -14,15 +14,15 @@ It started off so simply, with this perfectly innocent tweet:
 
 ... which was met by this torrent of flame:
 
-*@chris_alexander Rejoice and boot it in to Windows 7? - *@nicktelford
+*@chris_alexander Rejoice and boot it in to Windows 7?* - @nicktelford
 
 *@chris_alexander Bin it and buy that custom-colour Mac Book Air off @nicktelford he won earlier?* - @domwrap referring to an earlier spam tweet
 
-*@chris_alexander Have to agree with @nicktelford there. *- @joshmcgregor
+*@chris_alexander Have to agree with @nicktelford there.* - @joshmcgregor
 
-*@chris_alexander Install an operating system on it? :-) *- @patparslow
+*@chris_alexander Install an operating system on it? :-)* - @patparslow
 
-*@chris_alexander "Kill it with fire" an option? *- @mangek009
+*@chris_alexander "Kill it with fire" an option?* - @mangek009
 
 *@chris_alexander rejoice?* - @emmaguy
 
