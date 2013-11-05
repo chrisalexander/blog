@@ -23,7 +23,3 @@ Interestingly, IBEX has [discovered a giant ribbon](http://science.nasa.gov/head
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ribbon.jpg" %}
 
 By far the best thing about this being a NASA mission is that all the media associated with it is [available free](http://www.nasa.gov/mission_pages/ibex/allsky_visuals.html) - so I have included below an HD video showing how to interpret the IBEX map, and more information. Its well worth a watch.
-
-##ibex.mp4#800#470#-10##
-
-*Note: *This video has no audio. **Credit**: NASA/Goddard Space Flight Center
