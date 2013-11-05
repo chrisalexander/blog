@@ -15,5 +15,3 @@ One feature that I recently discovered is the Quick Steps feature.
 This is a fixture that appears in the main ribbon when you are in a mailbox, and it allows you to configure and then execute macros - a series of steps that would usually take you several clicks, but instead with just one.
 
 Setting up Quick Steps can be slightly tricky, so rather than write a very very long post detailing how to go about doing it, I thought it would be better to record a short screencast and walk you through the process:
-
-##quickstep.mp4#800#470#-10##
