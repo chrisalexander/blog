@@ -14,7 +14,7 @@ On to the details...
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/10/IMG_20131015_2202281-300x225.jpg" %}
 
-The robot once again makes use of a [BigTrak](http://www.amazon.co.uk/Zeon-Limited-BIGTRAK-Bigtrak/dp/B0035IZ85G/ref=sr_1_1?ie=UTF8&amp;qid=1382302251&amp;sr=8-1&amp;keywords=bigtrak) chassis. I haven't yet found anything better - you can often get it for less than £25, it's got a great gearbox, and it's really easy to take to bits. This time it is considerably less modified - I didn't need to chop half the top off at least - and it looks pretty cool whizzing around the flat.
+The robot once again makes use of a [BigTrak](http://www.amazon.co.uk/Zeon-Limited-BIGTRAK-Bigtrak/dp/B0035IZ85G/ref=sr_1_1?ie=UTF8&amp;qid=1382302251&amp;sr=8-1&amp;keywords=bigtrak) chassis. I haven't yet found anything better - you can often get it for less than Â£25, it's got a great gearbox, and it's really easy to take to bits. This time it is considerably less modified - I didn't need to chop half the top off at least - and it looks pretty cool whizzing around the flat.
 
 On board processing is provided by a Raspberry Pi, Model B. This is powered by a 5v 1000mA mobile phone battery charger - one of those mini bricks you can drop in your bag for when your phone runs out of juice. Turns out the Raspberry Pi isn't all that hungry for power, because I have had it running for hours and the unit reports less than 20% charge used. This unit is for powering the Pi and LEDs when they're on - the motors are powered by the 3 D-cell batteries in the BigTrak base, as always.
 
