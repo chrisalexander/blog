@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Why I Won't Be Developing For The iPhone'
+heading: 'Developing For The iPhone'
 categories: dev
 ---
 
