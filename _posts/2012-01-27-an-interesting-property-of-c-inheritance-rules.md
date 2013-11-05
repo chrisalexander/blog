@@ -13,3 +13,43 @@ I will admit to not fully understanding the little details of C#'s inheritance s
 This is the simplest code I could write that explains the concept of what I'm doing. ChildClass extends BaseClass and inherits Interface, but does not implement the testMethod method defined in Interface (however BaseClass does). For ChildClass2, the method is overridden. The output is what you would expect - ChildClass.testMethod() writes "BaseClass", and ChildClass2.testMethod() writes "ChildClass2″.
 
 Note it does not matter in this case whether BaseClass is abstract or not, nor does it matter whether testMethod in BaseClass is declared virtual or not (but you can't use ChildClass2 if it's not virtual of course).
+
+    using System;
+    
+    namespace InheritanceTest
+    {
+        public interface Interface
+        {
+            void testMethod();
+        }
+    
+        abstract public class BaseClass
+        {
+            public virtual void testMethod()
+            {
+                Console.WriteLine("BaseClass");
+            }
+        }
+
+        public class ChildClass : BaseClass, Interface { }
+
+        public class ChildClass2 : BaseClass, Interface
+        {
+            public override void testMethod()
+            {
+                Console.WriteLine("ChildClass2");
+            }
+        }
+
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                Interface cc = new ChildClass();
+                cc.testMethod();
+    
+                Interface cc2 = new ChildClass2();
+                cc2.testMethod();
+            }
+        }
+    }
