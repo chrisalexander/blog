@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Why McAfee's URL shortener is bad for the internet'
+heading: 'Why the McAfee URL shortener is bad for the internet'
 categories: twitter
 ---
 
