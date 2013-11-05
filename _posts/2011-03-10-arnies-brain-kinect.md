@@ -32,7 +32,7 @@ The Kinect software is run on Beth, which is running Ubuntu. The code implemente
 
 The first step is that an active area is defined. In our laboratory there is a "Kinect Active Zone" and "Kinect Danger Zone" outlined on the floor. The active zone is an area approximately 1 meter deep and 2 meters across. It is in this area that the Kinect is calibrated to observe signals within. The "Danger Zone" is around 2 meters around this; the area is prohibited for entry by anyone other than the person currently teleoperating the robot through Kinect.
 
-The ARNIE-specific software uses solely the depth information made available to it by the Kinect drivers. This data is a single-dimension array of size (640�480), the resolution of the display, where each point is a value between approximately zero and 9000 that correlates to the depth of the object at that point in the environment. This value is not linear with depth, however as we will be narrowing the operating range down, we can assume it is linear within that area.
+The ARNIE-specific software uses solely the depth information made available to it by the Kinect drivers. This data is a single-dimension array of size (640x480), the resolution of the display, where each point is a value between approximately zero and 9000 that correlates to the depth of the object at that point in the environment. This value is not linear with depth, however as we will be narrowing the operating range down, we can assume it is linear within that area.
 
 There is an initial position defined at the center bottom of the display at a depth of 700 units. This is a point in real space at about waist height, directly in front of the Kinect, at the back of the Kinect Active Zone (furthest away from the sensor).
 
