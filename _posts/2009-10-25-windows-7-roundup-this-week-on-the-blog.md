@@ -12,7 +12,7 @@ It would simply have been rude of me not to mention it in at least one post this
 
 ## The Ultimate Steal
 
-First off this week was the Ultimate Steal, Microsoft's way for Students to get Windows 7 for only £30 - bargain! For more information on this, check out [this post](http://www.chris-alexander.co.uk/591).
+First off this week was the Ultimate Steal, Microsoft's way for Students to get Windows 7 for only Â£30 - bargain! For more information on this, check out [this post](http://www.chris-alexander.co.uk/591).
 
 ## Windows 7 for Students
 
