@@ -12,7 +12,7 @@ First of all, that album arrived from Amazon a couple of days ago, and I really 
 
 Second, it's actually a brilliant live performance when current pop artists really can't do that kind of thing. She actually plays the piano and sings live! Not enough of that is done these days.
 
-Finally, the video is **completely ****epic**. Check it out.
+Finally, the video is completely **epic**. Check it out.
 
 <span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/yMYb8sq-jDU?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
 
