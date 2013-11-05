@@ -28,7 +28,7 @@ Less than an hour after that I received a confirmation e-mail that I had been ap
 
 ## How It's Done
 
-The fact that within hours of my *single* tweet that I was having problems with the service, the *founder *had got back to me, engaged and fixed the issue **and** on a Sunday is something quite astonishing.
+The fact that within hours of my *single* tweet that I was having problems with the service, the *founder* had got back to me, engaged and fixed the issue **and** on a Sunday is something quite astonishing.
 
 It really does show these companies that have a presence on Twitter or other platforms but don't engage with their users just what value they can get out of interacting and helping their customers through the medium.
 
