@@ -37,3 +37,38 @@ How to change your password:
 By the way, to get out of the Options window, the only way out I could find is the tiny "My Mail" link in the top right just underneath the logo.
 
 So now that's out of the way, time to go actually implement this stuff. If you want to use Exchange or ActiveSync or something like that, go ahead and do it now, you're sorted! Make sure you use your full username in the form *username*@live.reading.ac.uk and the password you just reset to! Everyone else, one more thing to do...
+
+We need to grab a piece of information first which is the cluster of servers we are running on. To do this:
+
+* Click the dropdown arrow next to the blue encircled "Help" question mark in the top right of the mail window ([hint](http://resources.chris-alexander.co.uk/liveatedu/dropdown.png))
+* Select "About"
+* Grab the value under "External POP setting:" and next to "Server name:". Mine was *pod51002.outlook.com* and yours will be similar if not the same.
+* Now you have all the configuration values!
+
+The full POP/IMAP/SMTP settings are below:
+
+### POP
+
+Server: *podXXXXX.outlook.com* (from earlier)
+
+Port: *995*
+
+Encryption: *SSL* (this is required to be enabled, check the Advanced section of your client for this bit)
+
+### IMAP
+
+Server: *podXXXXX.outlook.com* (from earlier)
+
+Port: *993*
+
+Encryption: *SSL* (this is required to be enabled, check the Advanced section of your client for this bit)
+
+### SMTP
+
+Server: *podXXXXX.outlook.com* (from earlier)
+
+Port: *587*
+
+Encryption: *TLS* **Important note:** SMTP here does not support SSL, you will get a "Server Unreachable" error if you try with SSL. When enabling Gmail to do this, do *not* check the SSL box. Gmail uses TLS automatically, but adding the SSL will break it.
+
+Hope all these tips helped - let me know if you have more!
