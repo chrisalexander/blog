@@ -24,4 +24,4 @@ Lots of that going around too...
 *  Monday: *[Lecturers: A Bit On The Side](http://www.chris-alexander.co.uk/729)*
 * Thursday: *[AJAX is the worst thing in the whole world, ever.](http://www.chris-alexander.co.uk/715)*
 
-Any feedback on my blog posts is always appreciated, after all I write them for *you *not for me!!
+Any feedback on my blog posts is always appreciated, after all I write them for *you* not for me!!
