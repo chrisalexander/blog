@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Solve the world's toughest problems with Imagine Cup 2010'
+heading: 'Solve the worlds toughest problems with Imagine Cup 2010'
 categories: uni
 ---
 
