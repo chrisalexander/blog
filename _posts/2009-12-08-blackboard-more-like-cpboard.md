@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Blackboard? More like C**pboard'
+heading: 'Blackboard? More like C__pboard'
 categories: huddle
 ---
 
@@ -14,7 +14,7 @@ Now excuse my presumption, but I think you'd have to agree the above table is a 
 
 A second gripe of mine is the interface in general. To the web-savvy amongst you, I can be succinct; Blackboard uses frames. To the non web-savvy, I can still be fairly succinct; Blackboard employs a layout technique that good websites did away with 10 years or more ago.
 
-Navigating a Blackboard page is tortuous, Blackboard offers customisation options that can make a static page look like c**p. And where my mind boggles, is that some poor coder had to provide this extensibility. I'd rather the file upload utility worked *before* you start giving me the option to make all buttons bright orange!
+Navigating a Blackboard page is tortuous, Blackboard offers customisation options that can make a static page look like crap. And where my mind boggles, is that some poor coder had to provide this extensibility. I'd rather the file upload utility worked *before* you start giving me the option to make all buttons bright orange!
 
 My third and final issue with Blackboard is this; much much better alternatives exist. I use a web-based, collaborative, management system featuring online document editing (not a Blackboard feature) and full timetabling support that can integrate with any major calendar application. Oh, and the website even works 24/7 (a rarity, I know). The name of this all-singing, all-dancing, quite fantastic tool is [Huddle](http://www.jdoqocy.com/click-3731164-10712079){% include images/block.html src="http://www.ftjcfx.com/image-3731164-10712079" %}. And I cannot recommend it enough.
 
