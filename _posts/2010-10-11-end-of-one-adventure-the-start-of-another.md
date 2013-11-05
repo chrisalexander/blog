@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'End of one adventure; the start of another'
+heading: 'End of one adventure, the start of another'
 categories: uni
 ---
 
