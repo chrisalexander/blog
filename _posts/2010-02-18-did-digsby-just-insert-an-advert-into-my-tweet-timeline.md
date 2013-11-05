@@ -12,8 +12,8 @@ Given their recent history of screwing over users for money without telling them
 
 Screenshot below
 
-*Update- * Looks like they've been doing this for [some time](http://mashable.com/2009/12/22/riotwise-trending-ads/).
+*Update* - Looks like they've been doing this for [some time](http://mashable.com/2009/12/22/riotwise-trending-ads/).
 
-*Update 2 - *Steve from Digsby points out in the comments below that this was released in [Build 76](http://blog.digsby.com/archives/1255), and is disabled through your settings. Thanks for getting in touch, Steve.
+*Update 2* - Steve from Digsby points out in the comments below that this was released in [Build 76](http://blog.digsby.com/archives/1255), and is disabled through your settings. Thanks for getting in touch, Steve.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/digsby-advert.jpg" %}
