@@ -1,0 +1,21 @@
+---
+layout: post
+heading: 'IOS 5 features shock, amaze, awe'
+categories: apple
+---
+
+**Apple has taken the unprecedented step of announcing iOS 5 feature before the main keynote of its WWDC conference in San Francisco.**
+
+This follows in the footsteps of the conference announcement, which unusually detailed the topics that Apple CEO Steve Jobs would discuss at the event. The hotly-anticipated iCloud experience will be unveiled at the event, along with the iOS 5 features detailed below, which will be given their first public airing.
+
+The main features coming up in iOS 5, according to Apple, along with our analysis of what they all mean:
+
+* Completely re-worked icon set
+* Optional disabling of the "home" button
+* New settings pane allowing volume buttons to be converted into scrolling devices with new revolutionary VelocityScroll™ technology for smooth scrolling
+
+The new icon set is an unprecedented evolution of the iOS experience. Although we are expecting no shots of the new icons to appear before the keynote itself (Jobs would still like to keep some things under wraps), it is widely anticipated that a new rounded corner effect, along with a new "glossy" shine-giving transparency will give even old tired icons a new and distinguished appearance. One iOS insider disclosed that Steve Jobs himself had sampled all 20 proposed gloss-effect designs and reviewed them all with a random selection of 10,000 iOS application icons, in order to provide the best possible experience to users, however useless the iOS app developers were at icon design. The most distinguishing feature of the new designs, however, is expected to see an unusual shift from a white-backed Camera app icon to a black-backed one. This will undoubtedly divide iOS fans worldwide, with many heralding the new icon as a major breakthrough in user experience design, while causing others to curl up in a ball and rock backwards and forwards in a corner, pining for their beloved white icon. (There is expected to be a new "White White Phone 4″ edition released later in this year which features the return of the white camera icon in the OS.)
+
+It has been widely rumoured that the next iPhone will not feature a "Home" button on the front, to always provide users with a quick hit of their favourite home-screen apps. In order to prepare iPhone 4 users for their inevitable upcoming iPhone 5 upgrade, there will be a new option in iOS 5 which disables the Home button on the latest iPhone 4 models. This will give users a chance to prepare their intuitive motions with their iPhone 4 for the iPhone 5 experience, in order to provide them with complete comfort when the Home button-less iPhone 5 arrives some time next year. This feature is hotly anticipated among hipster iPhone users across the globe, as a way of proclaiming that they never really needed the Home button anyway. In iOS 5 and with the iPhone 5, to return to the home screen users will be required to deploy a simple gesture which involves stroking the screen in a manner you would Steve Jobs' shiny head if you ever met him, followed by a swift horizontal shake of 15N force with minimum vertical deviation of 15mm, rounded off with a simple 5-fingered half-Nelson triple inverted oval gesture in the top-left screen quadrant.
+
+Finally one of the most anticipated features of iOS 5 is for users to be able to flick a switch in a new settings menu. Once this switch has been suitably flicked, the volume keys - so rarely useful - are transformed into scrolling buttons, enabling super-efficient scrolling of large documents without having to get your grubby fingers on the Retina Display. It is widely rumoured that the VelocityScroll technology will provide unprecedented accuracy, speed and efficiency when scrolling on the device. Another iOS insider told us that in order to prove that this is the most efficient method of scrolling on any device - mobile or not - ever, Steve Jobs will derive the equations of motion implemented in the VelocityScroll software on-stage from first principles, including the minimisation of the algebraic Ricatti equation governing the velocity profile of objects on the device's screen. It is also widely believed that the VelocityScroll technology will be available as a $1.99 Mac App Store download for Mac devices with an attached Magic Mouse or Magic Trackpad.
