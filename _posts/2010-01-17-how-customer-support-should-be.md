@@ -22,7 +22,7 @@ Applied to @skimlinks over a week ago and nothing yet - 3 days?! Saw competitor 
 
 Within 2 hours, @AliciaNavarro (who founded and runs Skimlinks) [replied](http://twitter.com/AliciaNavarro/status/7863780058) with this:
 
-@chris_alexander Hi Chris, I run Skimlinks, huge apologies, I'll check what the issue is in reviewing your application.
+chris_alexander Hi Chris, I run Skimlinks, huge apologies, I'll check what the issue is in reviewing your application.
 
 Less than an hour after that I received a confirmation e-mail that I had been approved, and another tweet from Alicia saying it had been sorted out.
 
