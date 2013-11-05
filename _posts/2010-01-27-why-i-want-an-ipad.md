@@ -12,25 +12,21 @@ A few months, one of my colleagues said to me that Avatar would never live up to
 
 Apple fanboys and gadget geeks in general have been whipping up a frenzy, and by the looks of it most people seem let down. In fact, I [tweeted](http://twitter.com/chris_alexander/status/8291928976) that I may be tempted by the iPad, and instantly came under a flood of replies all with one perspective:
 
-@chris_alexander wtf why? *- @emmaguy*
+chris_alexander wtf why? - @emmaguy
 
-*<br> *
+chris_alexander ...why? WHY? - @joshmcgregor
 
-@chris_alexander ...why? WHY? *- @joshmcgregor*
-
-*<br> *
-
-@chris_alexander But you won't be able to type as fast as you could on a macbook. I can't see any advantage over a macbook. *- @radiosilence_*
+chris_alexander But you won't be able to type as fast as you could on a macbook. I can't see any advantage over a macbook. - @radiosilence
 
 140 characters doesn't really leave me the room to write what I wanted to about this, so here's why I want an iPad.
 
-## <a href="http://www.chris-alexander.co.uk/wp-content/uploads/2010/01/ipad.jpg"><img class="aligncenter size-full wp-image-2282" title="iPad" src="http://www.chris-alexander.co.uk/wp-content/uploads/2010/01/ipad.jpg" alt="iPad" width="495" height="600"></a>
+{% include images/block.html src="http://www.chris-alexander.co.uk/wp-content/uploads/2010/01/ipad.jpg" %}
 
 ## Portability
 
 Yes, it is not as portable as a mobile phone. But none the less, it is still extremely thin and light, and offers considerably more power (and with the iPhone, probably battery life) for that.
 
-*Let me make this clear - *I do not like the iPhone. I borrowed one from the very generous @nickhalstead for a few months and couldn't get on with it at all.
+*Let me make this clear* - I do not like the iPhone. I borrowed one from the very generous @nickhalstead for a few months and couldn't get on with it at all.
 
 However, the iPad offers more flexibility, considerably enhanced software, and many more possibilities than the iPhone and all other mobiles.
 
