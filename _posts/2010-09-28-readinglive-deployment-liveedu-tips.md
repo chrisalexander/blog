@@ -24,7 +24,7 @@ Surprisingly, IMAP POP and SMTP are available in this release. Unsurprisingly, t
 
 Therefore there are some issues you will have setting this up, undoubtedly as I and numerous other people did.
 
-First of all: **neither IMAP, POP, SMTP or Exchange will work unless you reset your password *and change it*<span style="font-weight: normal;">. After about 2 hours of rage I found this information [hidden away on this page](http://www.reading.ac.uk/internal/readinglive/its-rl-email-client-setup.aspx) on the Uni website. This means you have to go through the password reset process, and actually change your password (unlike what I did, which is reset it to the same thing, which didn't have any effect whatsoever).</span>**
+First of all: **neither IMAP, POP, SMTP or Exchange will work unless you reset your password *and change it*. After about 2 hours of rage I found this information [hidden away on this page](http://www.reading.ac.uk/internal/readinglive/its-rl-email-client-setup.aspx) on the Uni website. This means you have to go through the password reset process, and actually change your password (unlike what I did, which is reset it to the same thing, which didn't have any effect whatsoever).**
 
 How to change your password:
 
