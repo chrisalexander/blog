@@ -8,7 +8,7 @@ I'm (still) playing around with Chrome apps and extensions - and having fun doin
 
 However there appears to be a lot of confusion around doing simple tasks. These are:
 
-* <span style="line-height: 13px;">Getting the app / extension version string</span>
+* Getting the app / extension version string
 * Getting the app / extension ID
 * Getting the app / extension manifest file
 
