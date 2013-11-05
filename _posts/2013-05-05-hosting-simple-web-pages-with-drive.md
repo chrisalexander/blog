@@ -12,14 +12,14 @@ Instead I found out through [this useful guide](https://googledrive.com/host/0B7
 
 Simply:
 
-* <span style="line-height: 13px;">Upload your content to Drive. This is copy+paste on a Chromebook</span>
+* Upload your content to Drive. This is copy+paste on a Chromebook
 * Set the entire folder so that the public can view it
 * Open your HTML file and click "Preview"
 * This is the URL to your app that anyone can access
 
 A few notes / caveats with this method:
 
-* <span style="line-height: 13px;">So far as I am aware you can't do any server functionality - but it is possible to do client side JS etc.</span>
+* So far as I am aware you can't do any server functionality - but it is possible to do client side JS etc.
 * It is served by HTTPS, if you are loading fonts or JS remotely then make sure it uses HTTPS too or most browsers will not load it.
 * I have yet to find a way to alias some kind of URL or domain name to it, to make it less ugly, short of using the Google Short Links service which is available with Google Apps.
 
