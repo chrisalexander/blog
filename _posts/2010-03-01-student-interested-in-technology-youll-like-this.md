@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Student? Interested in Technology? You'll like this.'
+heading: 'Student? Interested in Technology?'
 categories: uni
 ---
 
