@@ -20,4 +20,4 @@ Here are some low-resolution previews. If you would like to use them in your own
 
 *Note:* All images are Copyright 2006-2009 Chris Alexander. All Rights Reserved. Unauthorised Reproduction Prohibited. Please get in touch if you'd like to use my images. Thanks!
 
-*{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/BusinessCards.jpg" %}<br> *
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/BusinessCards.jpg" %}
