@@ -24,7 +24,7 @@ I've joked before that I'm scared of buses. Not entirely true, but I'd rather no
 
 Fine, I could have got to all these places with public transport, but I bet it would have been more expensive, less pleasant, would have taken *at least* 50% more time and definitely **far** less enjoyable.
 
-And don't try and pull that one on me - no matter how many times *you* or *anyone else* say that it would take just as long for me to get from Reading to Felixstowe on the train than it would take to drive (even with references in a timetable), it would always, **every time**, be faster to drive. Not only have Top Gear proved that the car is always faster than even the fastest trains, but you're missing the key point - ***British trains are never on time.** Not only that but there are some places where trains just don't go, e.g. where there are no train tracks (sounds obvious really, no?).
+And don't try and pull that one on me - no matter how many times *you* or *anyone else* say that it would take just as long for me to get from Reading to Felixstowe on the train than it would take to drive (even with references in a timetable), it would always, **every time**, be faster to drive. Not only have Top Gear proved that the car is always faster than even the fastest trains, but you're missing the key point - **British trains are never on time.** Not only that but there are some places where trains just don't go, e.g. where there are no train tracks (sounds obvious really, no?).
 
 So, new car shopping for me it is. I have a funny feeling this is going to be costing me money for several months to come.
 
