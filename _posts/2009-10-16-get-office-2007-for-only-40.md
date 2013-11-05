@@ -1,10 +1,10 @@
 ---
 layout: post
-heading: 'Get Office 2007 for only £40'
+heading: 'Get Office 2007 for only ï¿½40'
 categories: uni
 ---
 
-Are you a student in the UK? Then you can now go an buy Office 2007 for only £38.95!
+Are you a student in the UK? Then you can now go an buy Office 2007 for only Â£38.95!
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/Office2007Logo-300x90.jpg" %}
 
