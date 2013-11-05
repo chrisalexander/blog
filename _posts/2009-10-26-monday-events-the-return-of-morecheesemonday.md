@@ -12,4 +12,4 @@ Unlike my previous #MoreCheeseMonday blog post, this time I am actually referrin
 
 On the #MicrosoftMonday front, I'm pleased to report that I'm wearing a UK 2008 Imagine Cup t-shirt.
 
-<span style="background-color: #ffffff;">Hopefully I'll have a chance to write a few more posts tonight and soon normal blogging will be restored.</span>
+Hopefully I'll have a chance to write a few more posts tonight and soon normal blogging will be restored.
