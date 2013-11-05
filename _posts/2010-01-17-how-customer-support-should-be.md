@@ -22,6 +22,14 @@ Applied to @skimlinks over a week ago and nothing yet - 3 days?! Saw competitor 
 
 Within 2 hours, @AliciaNavarro (who founded and runs Skimlinks) [replied](http://twitter.com/AliciaNavarro/status/7863780058) with this:
 
-@chris_alexander Hi Chris, I run Skimlinks, huge apologies, I'll check what the issue is in reviewing your application.
+## How It's Done
 
-Less than an hour after that I received a confirmation e-mail that I had been approved, and another tweet from Alicia saying it had been sorted out.
+The fact that within hours of my *single* tweet that I was having problems with the service, the *founder* had got back to me, engaged and fixed the issue **and** on a Sunday is something quite astonishing.
+
+It really does show these companies that have a presence on Twitter or other platforms but don't engage with their users just what value they can get out of interacting and helping their customers through the medium.
+
+For Skimlinks, this resulted in another happy client signed up and helping them earn money; for larger corporations trying to shed their black box image, are they really doing all they can to engage with their users? Are their "social media budgets" well justified?
+
+Unless they can come up with this level of service, I think not.
+
+*Thanks to Alicia and the Skimlinks team for sorting my application out, and providing an example of superb customer service.*
