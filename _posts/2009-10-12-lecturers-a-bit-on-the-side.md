@@ -6,7 +6,7 @@ categories: uni
 
 *It's pretty clear that even while I'm writing this one, it's going to be contentious. I've tried to be balanced in the way I present this, taking comments made by people I have talked to about this who have both agreed with and disagreed with what I've said. I'd love to hear what you think, especially if you're a student who's also been in this position, or if you're a lecturer, whether you've required students to purchase your book for your course or not. Meanwhile, hopefully the lolcats will break this one up a bit...*
 
-*{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/funny-pictures-your-cat-is-in-study-hall.jpg" %}<br> *
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/funny-pictures-your-cat-is-in-study-hall.jpg" %}
 
 Before I started the year-long industrial placement I'm currently on, I went back to University for a day with the intention of attending lectures.
 
