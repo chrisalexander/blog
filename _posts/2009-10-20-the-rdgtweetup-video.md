@@ -10,6 +10,4 @@ Well I've finally managed to get it together and edited into a nice package. Abo
 
 If you spot yourself in this video, please leave a comment below and I will add you to the list of people who are in it!
 
-Currently known to feature:
-
-@dtsn, @jamesbmarshall, @jimanning, @carocat, @nige4tograher, @littlespy, @saqibs, @fringley, @domgreen, @nicktelford, @alexforrow, @amykate, @TheSourceress, @robcdillon, @eilvr, @chelthan (thanks Hannah!)
+Currently known to feature these tweeters - @dtsn, @jamesbmarshall, @jimanning, @carocat, @nige4tograher, @littlespy, @saqibs, @fringley, @domgreen, @nicktelford, @alexforrow, @amykate, @TheSourceress, @robcdillon, @eilvr, @chelthan (thanks Hannah!)
