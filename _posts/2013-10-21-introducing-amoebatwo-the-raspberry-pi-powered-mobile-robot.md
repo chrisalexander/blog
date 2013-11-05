@@ -5,6 +5,7 @@ subheading: 'The Raspberry Pi-powered mobile robot'
 leader:
  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/10/IMG_20131015_2202281-300x225.jpg
  position: bottom left
+ hidetext: true
 categories: robots
 ---
 
