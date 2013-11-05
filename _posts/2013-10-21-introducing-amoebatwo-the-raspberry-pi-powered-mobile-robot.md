@@ -31,15 +31,11 @@ Finally the speaker is hooked up to the Pi's headphone socket. This is all held 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/10/IMG_0479-Edited-300x200.jpg" %}
 
- 
-
 Of course there is also some Lego in there! Whoever designed the Raspberry Pi clearly knew what they were doing - it fits inside the blocks perfectly.
 
 On the front are two bump switches. These are ultimately going to be used to protect the motors, and to an extent the furniture - however the robot goes at quite a pace so getting stabbed by one of those points isn't going to do a lot of good either, I think...
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/10/IMG_0476-Edited-300x216.jpg" %}
-
- 
 
 The Pi has a [WiPi](https://export.farnell.com/jsp/raspi/orderPad.jsp?&amp;country=GB) device for wireless networking. Initially this connected to my home wireless network and I had to SSH over that to get in. Now I have modified it so the Pi acts as a router itself. This means any of my devices (including tablets, phones etc.) can connect to a wireless network the Pi creates, which provides better bandwidth and latency when doing device-to-device networking (useful when driving robots!) Additionally the Pi can use a NAT to forward on internet requests over the LAN, if you connect a cable to it. All very useful.
 
