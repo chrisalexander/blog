@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'ARNIE's brain: PYT and minimum jerk trajectories'
+heading: 'ARNIEs brain: PYT and minimum jerk trajectories'
 categories: uni
 ---
 
