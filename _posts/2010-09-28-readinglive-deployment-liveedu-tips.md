@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'ReadingLive deployment (Live at edu) tips'
+heading: 'ReadingLive deployment - Live at edu - tips'
 categories: uni
 ---
 
