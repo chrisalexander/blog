@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'ARNIE's brain: BrainJS'
+heading: 'ARNIEs brain: BrainJS'
 categories: uni
 ---
 
