@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'URL Shorteners: Simple == best'
+heading: 'URL Shorteners: Simple is best'
 categories: twitter
 ---
 
@@ -22,4 +22,4 @@ Building a business out of this kind of thing and *not* making use of the massiv
 
 If you want something quick and simple for shortening links, check out [Retwt.me](http://retwt.me/-/) - it's not trying to be a business and it keeps it simple.
 
-***Breaking:*<span style="font-weight: normal;"> from Twitter's #chirp conference, @ev has [just confirmed](http://techcrunch.com/2010/04/14/twitter-confirms-it-will-launch-its-own-link-shortener/) Twitter will be implementing its own URL shortener - so it can grab all this data that Bit.ly is currently getting out of Twitter. They kinda had it coming.</span>**
+*Breaking: from Twitter's #chirp conference, @ev has [just confirmed](http://techcrunch.com/2010/04/14/twitter-confirms-it-will-launch-its-own-link-shortener/) Twitter will be implementing its own URL shortener - so it can grab all this data that Bit.ly is currently getting out of Twitter. They kinda had it coming.*
