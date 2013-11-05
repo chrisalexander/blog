@@ -25,5 +25,3 @@ Here are some photos of the Shuttle at various points throughout its mission.
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/406569main_image_1527_1600-1200-300x225.jpg" %}
 
 Here's the NASA TV stream of the launch in HD.
-
-##atlantis.mp4#800#470#-10##
