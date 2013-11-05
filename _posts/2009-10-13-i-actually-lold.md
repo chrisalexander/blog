@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'I Actually Lol'd'
+heading: 'I Actually Lold'
 categories: social
 ---
 
