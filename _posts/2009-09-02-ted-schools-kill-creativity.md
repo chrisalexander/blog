@@ -35,7 +35,7 @@ Then, The Arts are further broken down into:
 * Music
 * Drama and Dance
 
-His point that no education system in the world teaches children dance every day just as they are taught Maths every day, and it is a valid one. His excellent story about &lt;&gt; to demonstrate this is excellent too. Now I'm not one for drama or dance (but I am for music), but people should be given the chance to succeed at what they enjoy and what they are good at. Fortunately I was able to do that in my education, but I know not everyone gets that opportunity, which is unfortunate.
+His point that no education system in the world teaches children dance every day just as they are taught Maths every day, and it is a valid one. His excellent story about to demonstrate this is excellent too. Now I'm not one for drama or dance (but I am for music), but people should be given the chance to succeed at what they enjoy and what they are good at. Fortunately I was able to do that in my education, but I know not everyone gets that opportunity, which is unfortunate.
 
 I'll leave it to you in the comments do discuss his proposition that university professors' bodies are simply transport mechanisms for their brains - "They look at [their bodies] as a way of getting their heads to meetings". The disco joke made me laugh though :)
 
