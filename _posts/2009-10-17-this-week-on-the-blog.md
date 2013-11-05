@@ -13,9 +13,9 @@ Here's a quick roundup of what's been going on this week:
 Well we weren't short of these!
 
 *  Tuesday: *[Free Windows Azure Access](http://www.chris-alexander.co.uk/842)*
-* Wednesday: *[Get Windows 7 for only £30](http://www.chris-alexander.co.uk/591)*
+* Wednesday: *[Get Windows 7 for only Â£30](http://www.chris-alexander.co.uk/591)*
 * Thursday: *[Expression Blend Magnets](http://www.chris-alexander.co.uk/905)*
-* Friday: *[Get Office 2007 for only £40](http://www.chris-alexander.co.uk/588)*
+* Friday: *[Get Office 2007 for only Â£40](http://www.chris-alexander.co.uk/588)*
 
 ## Opinion
 
