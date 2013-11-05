@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'ChrisBot: Let's play Tic Tac Toe'
+heading: 'ChrisBot: Play Tic Tac Toe'
 categories: dev
 ---
 
