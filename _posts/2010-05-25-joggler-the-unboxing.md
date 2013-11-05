@@ -6,7 +6,7 @@ categories: projects
 
 So you may have seen TweetMeme went a little Joggler-crazy last week, with a grand total of 6 turning up in our office (although not all at the same time).
 
-This is because Dom turned up one day, said they were on offer for £50, showed us all the software and hardware hacks, and we were all completely sold!
+This is because Dom turned up one day, said they were on offer for Â£50, showed us all the software and hardware hacks, and we were all completely sold!
 
 I'd like to tell you about all the hacks we've managed so far a little later on. But for now, here are some unboxing shots and the default OS in action.
 
