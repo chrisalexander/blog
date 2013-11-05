@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'How to feel like you haven't achieved enough yet'
+heading: 'How to feel like you havent achieved enough yet'
 categories: life
 ---
 
