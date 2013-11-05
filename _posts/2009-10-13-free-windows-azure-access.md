@@ -14,7 +14,7 @@ Built on the .net framework, Azure provides a flexible way of developing, testin
 
 From the [Azure](http://www.microsoft.com/azure) website:
 
-Windows® Azure is a runtime environment in the cloud that delivers on-demand compute, storage, and automated systems management. Windows Azure provides developers with the ability to host, scale, and manage Web applications on the Internet through Microsoft® data centers.
+Windows Azure is a runtime environment in the cloud that delivers on-demand compute, storage, and automated systems management. Windows Azure provides developers with the ability to host, scale, and manage Web applications on the Internet through Microsoftï¿½ data centers.
 
 Now *you* can get your hands on Windows Azure today, [for free](http://free-azure.com)! As part of the CTP, you can sign up and you will have an Azure account and demo application created for you to get you started with the platform. If you post a comment below when you sign up (don't forget to leave your e-mail!), I'll also make sure you get access to high-quality material on Azure to help you begin developing or learning more about the platform.
 
