@@ -2,7 +2,9 @@
 layout: article
 ---
 
+{% if page.leader.showonpage != false %}
 {% include leader.html %}
+{% endif %}
 
 {% if page.heading %}<h1>{{ page.heading}}</h1>{% endif %}
 {% if page.subheading %}<p class="subheading">{{ page.subheading}}</p>{% endif %}
