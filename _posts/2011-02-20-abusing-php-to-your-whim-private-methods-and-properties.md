@@ -19,3 +19,4 @@ So I looked up PHP's inheritance rules, and had no luck. But when I got on the [
 
 This means you can do black magic such as this, which also conveniently solves my problem:
 
+{% gist 836105 %}
