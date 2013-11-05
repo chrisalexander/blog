@@ -10,4 +10,4 @@ Sketchflow is a new way of visualising user interfaces in Expression Blend, maki
 
 Look out for my upcoming events for a chance to get your hands on one of these packs of magnets!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/905/attachment/15102009"><img class="aligncenter size-medium wp-image-906" style="clear: both;" title="15102009" src="http://www.chris-alexander.co.uk/wp-content/uploads/2009/10/15102009-300x225.jpg" %}
+{% include images/block.html src="http://www.chris-alexander.co.uk/wp-content/uploads/2009/10/15102009-300x225.jpg" %}
