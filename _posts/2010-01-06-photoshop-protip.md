@@ -14,4 +14,4 @@ You can very quickly and easily do this with two shortcuts that I find invaluabl
 
 Pressing Ctrl+Alt+Shift+N creates a new layer, then Ctrl+Alt+Shift+E takes a snapshot of all the current layers and pastes it onto the new layer you just created.
 
-I usually
+I usually select the top layer so that this then appears above all the other layers and you can transform and play around with it as much as you like without trashing all your other layers.
