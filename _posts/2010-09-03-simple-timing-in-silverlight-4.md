@@ -10,8 +10,17 @@ Long story short, you can make use of System.Windows.Threading.DispatcherTimer t
 
 Make sure you have the right statement at the top of your class:
 
+    using System.Windows.Threading;
+
 Rigging it up is quite easy, just put this in one of your methods where you need the timer started:
 
+    timer = new DispatcherTimer();
+    timer.Interval = new TimeSpan(0, 0, 10);
+    timer.Tick += ExecuteRequest;
+    timer.Start();
+
 Then, the ExecuteRequest method of the class must take this signature:
+
+    private void ExecuteRequest(object Obj, EventArgs e) {}
 
 Simples, as the say.
