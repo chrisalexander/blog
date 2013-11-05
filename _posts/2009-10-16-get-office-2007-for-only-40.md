@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Get Office 2007 for only �40'
+heading: 'Get Office 2007 for only £40'
 categories: uni
 ---
 
