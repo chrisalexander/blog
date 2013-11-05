@@ -1,4 +1,4 @@
-{% if page.leader %}
+{% if page.leader and page.leader.showonpage != false %}
 <div id="leader" class="bgfade leader{% if page.leader.hidetext %} textfade{% else %} scrollfade{% endif %}{% if page.leader.inverted %} inverted{% endif %}{% if page.leader.position %} {{page.leader.position}}{% endif %}"{% if page.leader.image %} style="background-image: url({{ page.leader.image }})"{% endif %}>
   {% if page.heading or page.subheading %}
     <div class="text">
