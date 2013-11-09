@@ -6,7 +6,7 @@ categories: startups
 
 Oh dear...
 
-{% include tweet.html %}
+{% include tweet.html text="&quot;If you want to start a business there is no point in finishing college, just stop education&quot; Elon Musk" %}
 
 It's frustrating just how many people - who really should know better - advocate dropping out or not even starting further education for entrepreneurs as it doesn't help start a company. The usual trio of successful people - Gates, Branson, Zuckerberg - are usually hauled out to justify this point of view.
 
