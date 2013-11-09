@@ -22,5 +22,3 @@ Not only that, but it turns out the woman behind it is completely normal. Despit
 Now that's a great way to make yourself feel that you haven't really accomplished that much in life!
 
 I'd also say she's a great female role model for teenagers - how to handle fame, fortune, and one hell of a life without scandal or disaster.
-
-{% include image/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/01/ts1.jpg" %}
