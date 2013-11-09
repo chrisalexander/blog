@@ -1,13 +1,10 @@
 ---
 layout: post
 heading: 'How to feel like you havent achieved enough yet'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/01/ts1.jpg
-  hassmall: false
-  position: bottom right
-  inverted: true
 categories: life
 ---
+
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/01/ts1.jpg" %}
 
 This is bit different from the usual programming, I'm not making any guarantees about content going forwards!
 
