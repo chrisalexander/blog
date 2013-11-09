@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Beijing Diary: Day 3'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-PANO_20130528_185932.jpg
+  hassmall: false
+  position: top
 categories: china
 ---
 
@@ -31,5 +35,3 @@ In the afternoon we went to a supermarket to stock up on supplies for Wenni to b
 Afterwards we went to Wenni's grandparents for dinner. This was absolutely delicious and their flat near the Beijing meteorology centre has a great view.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130528_185114.jpg" %}
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-PANO_20130528_185932.jpg" %}
