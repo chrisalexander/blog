@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Beijing Diary: Day 4'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-照片.jpg
+  hassmall: false
+  inverted: true
+  position: top
 categories: china
 ---
 
@@ -21,5 +26,3 @@ On the way from lunch we saw one of the most insane pieces of traffic management
 The afternoon we spent again at the wedding venue, spring out more things with threes organisers - they will be glad when we head home I don't doubt! It was odd to be sitting in a Chinese hotel with Katy Perry, Kelly Clarkson and the Black Eyed Peas playing on the radio...
 
 For dinner we went to a Japanese restaurant - again very tasty indeed. I even tried the fish head which was pretty good.
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-照片.jpg" %} 
