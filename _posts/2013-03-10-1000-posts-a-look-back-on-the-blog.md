@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: '1000 posts - a look back on the blog'
+heading: '1000 posts'
+subheading: 'A look back on the blog'
 categories: the-blog
 ---
 
