@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'SF Diary: Day 1'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_043111.jpg
+  showonpage: false
+  hassmall: false
 categories: startups
 ---
 
