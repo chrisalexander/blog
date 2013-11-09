@@ -1,12 +1,14 @@
 ---
 layout: post
 heading: 'Nespresso coffee machine'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120711_1605251.jpg
+  hassmall: false
+  position: bottom right
 categories: life
 ---
 
 We were extremely fortunate to be given a Nespresso coffee machine as a gift for our [wedding](http://www.chris-alexander.co.uk/5577) earlier in the week. 
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120711_1605251.jpg" %}
 
 I have never seen so much documentation for a machine with only 4 buttons - although most of it was rabbiting on about their endless coffee blends rather than operating instructions, which were nonetheless extensive. 
 
