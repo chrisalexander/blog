@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Illogical iPad'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/wpid-ipad-3-concept.png
+  hassmall: false
+  inverted: true
+  position: top
 categories: life
 ---
 
@@ -13,5 +18,3 @@ I don't have an iPad with a camera, but I'm pretty certain that if I did have on
 There are a number of reasons Apple could have deemed this a bad idea (or the one engineer who thought it up never mentioned it). Firstly it would be larger, and hence would blight the front of the iPad with a horrendous circle (you could put it in the home button perhaps?). No camera on the back would basically be suicide for the device I imagine (but then the original iPad did OK without any camera). I suppose video calls could not have been that popular on iPhone / iPad - perhaps mostly because of stupid carrier restrictions on not using FaceTime™®© over 3G (its not us in the UK's fault that US carriers decided to boost profits rather than boost network capacity and therefore couldn't handle it - no such issues over here!). There is also the potential that the increased camera quality would not be translated into better video quality for some other reason (bandwidth / algorithms / processing power limit etc). 
 
 I love video calling over the web (over a mobile phone call not so much, mostly due to the stupid prices) so this would be a cool thing to add to improve that experience (especially with the better screen). Perhaps then I may consider switching (but I much prefer Android for now).
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/wpid-ipad-3-concept.png" %} 
