@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'An Audience with Joe Saward'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/hamilton.jpg
+  hassmall: false
+  showonpage: false
 categories: life
 ---
 
