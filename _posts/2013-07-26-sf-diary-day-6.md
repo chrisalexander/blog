@@ -1,12 +1,14 @@
 ---
 layout: post
 heading: 'SF Diary: Day 6'
+leader:
+ image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130725_201553.jpg
+ hassmall: false
+ position: bottom right
 categories: startups
 ---
 
 Today was (again) like yesterday with a lot to do for London, as well as a nice new feature to work on.
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130725_201553.jpg" %}
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130725_201608.jpg" %}
 
