@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'A Guided Tour of London'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1639361.jpg
+  hassmall: false
+  position: top right
 categories: london
 ---
 
@@ -14,9 +18,7 @@ We headed along Columbia Road (no flower market until tomorrow but lots of hipst
 
 On the way down there you get a great view of the Gherkin (thanks to them just demolishing a building on the corner at London Wall) and you see progress on The Pinnacle. Once you hit Londonv Bridge there are great views of Tower Bridge (with Olympic rings), the Shard (recently finished) and St Pauls.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1639361.jpg" %}
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1639501.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1639501.jpg" %}
 
 If you head over London Bridge and take the second left (under the railway bridge) you very quickly end up at the foot of the Shard, which is a really brilliant looking building. 
 
