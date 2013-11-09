@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Now available on Google Currents'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/wpid-Screenshot_2013-04-06-13-05-35.png
+  hassmall: false
+  showonpage: false
 categories: google
 ---
 
