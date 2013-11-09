@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Guided tour of Felixstowe'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120714_1416051.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: life
 ---
 
@@ -12,13 +17,13 @@ Our first visit was to the Gulpher pond. Well out of the way around the back of 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-PANO_20120714_1417381.jpg" %}
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/oz1DRHy33Uo?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/oz1DRHy33Uo?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
 
-Then we headed south and stopped off at the martello tower near the docks and beach.<br> 
+Then we headed south and stopped off at the martello tower near the docks and beach.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120714_1433401.jpg" %}
 
-Then we stopped off at the dock viewing point and watched the cranes, trains ans boats for a bit.<br> 
+Then we stopped off at the dock viewing point and watched the cranes, trains ans boats for a bit.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120714_1440251.jpg" %}
 
@@ -26,7 +31,7 @@ Then we stopped off at the dock viewing point and watched the cranes, trains ans
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-PANO_20120714_1440331.jpg" %}
 
-We headed up the cliff to the viewing point.<br> 
+We headed up the cliff to the viewing point.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120714_1502071.jpg" %}
 
@@ -40,7 +45,7 @@ We headed up the cliff to the viewing point.<br>
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120714_1515301.jpg" %}
 
-After a stop off in town we headed through the golf club (closed due to waterlogging) to the ferry for one final stop.<br> 
+After a stop off in town we headed through the golf club (closed due to waterlogging) to the ferry for one final stop.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120714_1633121.jpg" %}
 
