@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'A week of Windows Phone 7'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/trophy.jpg
+  hassmall: false
+  showonpage: false
 categories: mobile
 ---
 
@@ -14,4 +18,4 @@ I'm a bit of a smartphone geek (I'm permanently attached to my Nexus One) so to 
 
 I'm going to be publishing blog posts (check the [WP7 tag](http://www.chris-alexander.co.uk/tag/wp7)), [tweets](http://twitter.com/chris_alexander) and videos all week telling how I get on with it. This is day 1, and the first video is embedded below!
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/GrWJBYfogD4?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/GrWJBYfogD4?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
