@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'ITunes Sucks'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes.png
+  hassmall: false
+  showonpage: false
 categories: life
 ---
 
