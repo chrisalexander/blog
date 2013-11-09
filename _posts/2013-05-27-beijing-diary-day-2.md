@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Beijing Diary: Day 2'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130527_1317321.jpg
+  hassmall: false
+  position: bottom
+  inverted: true
 categories: china
 ---
 
@@ -9,8 +14,6 @@ Today was all about wedding planners.
 The highlights of the day, however, were food related.
 
 Lunch was at xiabu xiabu, a Chinese fast food chain where you cook your own food in hot pots. Tasty!
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130527_1317321.jpg" %}
 
 I did learn how to write Coca-Cola in Chinese. Its all in the squares.
 
