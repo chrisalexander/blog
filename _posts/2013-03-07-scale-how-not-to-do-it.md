@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Scale - how not to do it'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/meteor.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: web
 ---
 
