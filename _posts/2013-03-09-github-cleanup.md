@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Github Cleanup'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/droidtocat.png
+  hassmall: false
+  showonpage: false
 categories: uni
 ---
 
