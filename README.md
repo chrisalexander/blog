@@ -45,3 +45,7 @@ An image which expands to the full width of the page (may be >1 page high)
 
 {% include images/block.html src="http://placekitten.com/g/1000/1000" %}
 A block image which sits in the middle of the page
+
+You can include a tweet, like so:
+
+{% include tweet.html user="Loic Le Meur" username="loic" id="310492485463986178" date="March 9, 2013" text="&quot;If you want to start a business there is no point in finishing college, just stop education&quot; Elon Musk"
