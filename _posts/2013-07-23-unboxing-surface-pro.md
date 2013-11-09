@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Unboxing Surface Pro'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130722_080030.jpg
+  hassmall: false
+  showonpage: false
 categories: microsoft
 ---
 
