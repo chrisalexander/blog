@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Formula 1 BBC TV scheduling calendar'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/MP4-27_Front-3-4-small.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: formula-1
 ---
 
@@ -12,4 +17,4 @@ Here are the links to the calendar: [XML](http://www.google.com/calendar/feeds/c
 
 Please send any errors or omissions to me using the Contact link above, e-mail usually gets to me fastest. So far the BBC have only published times for the first two races, so I will try and keep up with them as they publish (it would be handy if they published it all now really).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/MP4-27_Front-3-4-small.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/MP4-27_Front-3-4-small.jpg" %}
