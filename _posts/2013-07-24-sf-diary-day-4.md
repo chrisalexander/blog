@@ -1,12 +1,14 @@
 ---
 layout: post
 heading: 'SF Diary: Day 4'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130724_132528.jpg
+  hassmall: false
+  position: top right
 categories: startups
 ---
 
 Today a LOT of code was written.
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130724_132528.jpg" %}
 
 I also made it to 2 events in the evening. One at Klout was really fascinating - about how you use machine learning to grade 20,000 online course submissions. It's very interesting how they use various signals to correct for bias and so on in the peer grading process.
 
