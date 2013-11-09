@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Google Maps for Android, so awesome'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-Screenshot_2012-07-07-13-50-051.png
+  hassmall: false
+  showonpage: false
 categories: google
 ---
 
