@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Upcoming Adventures'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/sxsw-300x181.png
+  hassmall: false
+  showonpage: false
 categories: events
 ---
 
