@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Chinese culture sampler'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/10/zhang.jpg
+  showonpage: false
+  hassmall: false
 categories: video
 ---
 
@@ -26,4 +30,4 @@ Chinese weddings are quite different to those in the West. More specifically, th
 
 Note: not all Chinese weddings involve kidnapping, provocative dancing in the desert, and the burning of expensive automobiles. Just this one.
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/1Y8xlGnZXFE?wmode=transparent&amp;fs=1&amp;hl=…=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span> 
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/1Y8xlGnZXFE?wmode=transparent&amp;fs=1&amp;hl=…=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span> 
