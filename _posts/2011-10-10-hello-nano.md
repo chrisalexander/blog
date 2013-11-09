@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Hello, Nano'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/10/small_icons.jpg
+  hassmall: false
+  showonpage: false
 categories: hardware
 ---
 
