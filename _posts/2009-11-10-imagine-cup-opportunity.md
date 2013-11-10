@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Imagine Cup: Opportunity'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg
+  hassmall: false
+  position: top
 categories: microsoft
 ---
 
@@ -22,6 +26,8 @@ If you get further into the competition, you will spend days at Microsoft UK eit
 
 If you get even further into the competition, you'll get to do some even more incredible things. If you make it through to the UK final they often hold the event at top Microsoft UK locations (last year's was at the Microsoft Research facility at Cambridge), and if you win that then you will be taken off to Poland for the worldwide finals.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg" %}(The 2009 worldwide finals were in Cairo).
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg" %}
+
+(The 2009 worldwide finals were in Cairo).
 
 So do you like the sound of the opportunities you could get through the Imagine Cup? Looking to work at a company like Microsoft in the future? Then [sign up for the Imagine Cup](http://www.imaginecup.com) today!
