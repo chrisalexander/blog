@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'AJAX is the worst thing in the whole world, ever.'
+heading: 'AJAX is the worst thing in the whole world'
+subheading: 'Ever.'
 categories: dev
 ---
 
