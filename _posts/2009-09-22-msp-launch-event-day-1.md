@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'MSP Launch Event: Day 1'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/tvp.png
+  hassmall: false
+  showonpage: false
 categories: dev
 ---
 
