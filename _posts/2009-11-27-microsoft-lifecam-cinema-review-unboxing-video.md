@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Microsoft LifeCam Cinema - Review, Unboxing, Video'
+heading: 'Microsoft LifeCam Cinema'
+subheading: 'Review, Unboxing, Video'
 categories: life
 ---
 
