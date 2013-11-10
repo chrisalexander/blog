@@ -4,7 +4,7 @@ heading: 'Ares I-X Launch'
 leader:
   image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares5.jpg
   hassmall: false
-  position: top left
+  position: top right
 categories: space
 ---
 
