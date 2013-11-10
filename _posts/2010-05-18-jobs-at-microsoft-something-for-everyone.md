@@ -1,6 +1,12 @@
 ---
 layout: post
-heading: 'Jobs at Microsoft - Something for Everyone'
+heading: 'Jobs at Microsoft'
+subheading: 'Something for Everyone'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/tvp.png
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: microsoft
 ---
 
