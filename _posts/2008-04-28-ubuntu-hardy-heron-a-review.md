@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Ubuntu Hardy Heron - a review'
+heading: 'Ubuntu Hardy Heron'
+subheading: 'A review'
 categories: dev
 ---
 
