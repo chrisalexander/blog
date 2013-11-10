@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'OAuth WRAP - OAuth how it should have been'
+heading: 'OAuth WRAP'
+subheading: 'OAuth how it should have been'
 categories: dev
 ---
 
