@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Epic Citadel is, well, epic'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-2.png
+  hassmall: false
+  inverted: true
 categories: life
 ---
 
@@ -13,8 +17,6 @@ The game uses the Unreal engine ported to iOS, which makes for some absolutely s
 I included some screenshots of [Epic Citadel](http://itunes.apple.com/us/app/epic-citadel/id388888815?mt=8#) below for your viewing pleasure.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-1.png" %}
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-2.png" %}
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-3.png" %}
 
