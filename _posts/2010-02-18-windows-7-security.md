@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Windows 7 Security'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials1.jpg
+  hassmall: false
+  showonpage: false
 categories: microsoft
 ---
 
