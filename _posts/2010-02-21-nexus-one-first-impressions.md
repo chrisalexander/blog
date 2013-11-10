@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Nexus One: First Impressions'
+heading: 'Nexus One'
+subheading: 'First Impressions'
 categories: software
 ---
 
@@ -26,7 +27,7 @@ HTC have done a brilliant job. Super-clear and bright touchscreen, GPS, Wifi, so
 
 Half a gig each of RAM and ROM make the piece complete, with a Micro SD HC slot to give you space to put photos, video and music on.
 
-I've tweeted solely about this and I will say it again, the AMOLED display is completely and absolutely stunning. The colours are gorgeous, its insanely bright, and its huge 480�800 resolution makes even the smallest text crystal clear.
+I've tweeted solely about this and I will say it again, the AMOLED display is completely and absolutely stunning. The colours are gorgeous, its insanely bright, and its huge 480x800 resolution makes even the smallest text crystal clear.
 
 I also love the camera - 5 megapixels, autofocus, flash, and stunning quality in decent conditions.
 
