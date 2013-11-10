@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'An open letter to the IEEE: Regarding your appalling website'
+heading: 'An open letter to the IEEE'
+subheading: 'Regarding your appalling website'
 categories: life
 ---
 
