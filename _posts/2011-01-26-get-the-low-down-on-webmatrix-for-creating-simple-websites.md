@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Get the low-down on WebMatrix, for creating simple websites'
+heading: 'Get the low-down on WebMatrix'
+subheading: 'For creating simple websites'
 categories: dev
 ---
 
