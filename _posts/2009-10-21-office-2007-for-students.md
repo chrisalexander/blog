@@ -10,7 +10,9 @@ I've taken a look at the whole suite of applications, and come up with a list of
 
 What's even better is you can get Office 2007 for only £40 from [The Ultimate Steal](http://www.ultimatesteal.co.uk/student71)!
 
-## <img class="aligncenter size-full wp-image-577" title="officelogo" src="http://www.chris-alexander.co.uk/wp-content/uploads/2009/09/officelogo.png" alt="officelogo" width="200" height="160">New Navigation: the Ribbon
+{% include images/block.html src="http://www.chris-alexander.co.uk/wp-content/uploads/2009/09/officelogo.png" %}
+
+## New Navigation: the Ribbon
 
 The primary applications in Office 2007 (Word, PowerPoint, Excel etc.) have a new method of navigating among the multitude of settings, and its called the Ribbon.
 
