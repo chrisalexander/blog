@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Most Random Christmas Present Ever'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/banana.jpg
+  hassmall: false
+  showonpage: false
 categories: life
 ---
 
