@@ -1,6 +1,12 @@
 ---
 layout: post
-heading: 'Dell Adamo XPS - One to watch out for (and crave)'
+heading: 'Dell Adamo XPS'
+subheading: 'One to watch out for (and crave)'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/adamo-xps.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: hardware
 ---
 
@@ -22,4 +28,4 @@ Thanks to @MarkJo and [Steve Clayton](http://blogs.msdn.com/stevecla01/archive/2
 
 *Edit:* Oops, looks like someone's had this taken down. Will get it restored ASAP
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/Q08dpLihwNs?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/Q08dpLihwNs?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
