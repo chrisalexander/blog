@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Twitter for Android, and why Twitter have got it just right'
+heading: 'Twitter for Android'
+subheading: 'Why Twitter have got it just right'
 categories: twitter
 ---
 
