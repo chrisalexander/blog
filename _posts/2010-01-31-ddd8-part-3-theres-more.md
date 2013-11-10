@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: '#ddd8 Part 3 - More!'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/30012010006.jpg
+  hassmall: false
+  showonpage: false
 categories: life
 ---
 
@@ -14,8 +18,8 @@ Also huge congratulations, once again, to the speakers and organisers, for doing
 
 Just a few related pictures to clear up the evening...
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/30012010006.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/30012010006.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/31012010.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/31012010.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0006.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0006.jpg" %}
