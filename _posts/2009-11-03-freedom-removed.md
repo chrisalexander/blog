@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Freedom Removed'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/r8.png
+  hassmall: false
+  showonpage: false
 categories: life
 ---
 
