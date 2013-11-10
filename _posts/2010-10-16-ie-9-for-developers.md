@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'IE 9 For Developers'
+leader:
+  image: http://media.chris-alexander.co.uk/pictures/ie9.png
+  hassmall: false
+  showonpage: false
 categories: dev
 ---
 
