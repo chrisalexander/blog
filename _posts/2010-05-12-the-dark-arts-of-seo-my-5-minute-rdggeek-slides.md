@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'The Dark Arts of SEO - my 5 minute #rdggeek slides'
+heading: 'The Dark Arts of SEO'
+subheading: 'My 5 minute #rdggeek slides'
 categories: web
 ---
 
