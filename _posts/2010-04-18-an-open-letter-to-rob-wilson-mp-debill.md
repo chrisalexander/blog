@@ -26,4 +26,4 @@ Chris Alexander
 
 Student of Robotics, University of Reading, and web developer.
 
-(1) http://www.guardian.co.uk/politics/blog/2010/apr/16/digital-economy-bill-nick-clegg
+(1) [http://www.guardian.co.uk/politics/blog/2010/apr/16/digital-economy-bill-nick-clegg](http://www.guardian.co.uk/politics/blog/2010/apr/16/digital-economy-bill-nick-clegg)
