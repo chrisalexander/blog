@@ -1,14 +1,17 @@
 ---
 layout: post
 heading: 'The Imagine Cup Worldwide Finals - Egypt 2009'
+leader:
+  image: http://farm4.static.flickr.com/3569/3686658502_21822381b0.jpg
+  hassmall: false
+  position: bottom right
+  inverted: true
 categories: microsoft
 ---
 
 They say there is only one rule of the road in Cairo: "Me First". That's certainly not the case for the hundreds of students from countries spanning the 5 continents who collected in the capital of Egypt for the Worldwide Finals of the 2009 Imagine Cup.
 
 If you're unfamiliar, the Imagine Cup is the world's premier student technology competition; it brings opportunities to students from all over the world to take part in a worldwide showcase of their talents; meet new people and experience new places; and most importantly of all, make the world a better place by doing what they do best.
-
-{% include images/block.html src="http://farm4.static.flickr.com/3569/3686658502_21822381b0.jpg" %}
 
 The 9 main prize categories and numerous awards of the Imagine Cup give students scope to address the world's toughest problems; be that by building revolutionary software products in the Software Design competition, enhancing the lives of people in every country with hardware solutions in the Embedded competition, or creatively expressing and providing solutions to the toughest problems in the design, photography and short film competitions.
 
