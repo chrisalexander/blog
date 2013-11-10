@@ -1,6 +1,9 @@
 ---
 layout: post
 heading: 'Solve the worlds toughest problems with Imagine Cup 2010'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/un2.jpg
+  hassmall: false
 categories: uni
 ---
 
