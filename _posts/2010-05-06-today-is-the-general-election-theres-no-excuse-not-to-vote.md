@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Today is the General Election. Theres no excuse not to vote.'
+heading: 'Today is the General Election'
+subheading: 'No excuse not to vote'
 categories: life
 ---
 
