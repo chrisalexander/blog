@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Monday Events - The Return of #MoreCheeseMonday?'
+heading: 'Monday Events'
+subheading: 'The Return of #MoreCheeseMonday?'
 categories: life
 ---
 
