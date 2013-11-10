@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Huddle Desktop - an Interns Tale of an Adobe AIR Project'
+heading: 'Huddle Desktop'
+subheading: 'An Interns Tale of an Adobe AIR Project'
 categories: huddle
 ---
 
