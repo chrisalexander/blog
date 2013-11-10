@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Building Android: Getting sun-java5-jdk package on Ubuntu 9.10 Karmic / 10.4 Lucid'
+heading: 'Building Android'
+subheading: 'Getting sun-java5-jdk package on Ubuntu 9.10 Karmic / 10.4 Lucid'
 categories: dev
 ---
 
