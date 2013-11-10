@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Twiq: a quick-tweet applet for Windows'
+heading: 'Twiq'
+subheading: 'A quick-tweet applet for Windows'
 categories: dev
 ---
 
