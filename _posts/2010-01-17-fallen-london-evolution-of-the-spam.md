@@ -1,6 +1,12 @@
 ---
 layout: post
-heading: 'Fallen London: Evolution of the Spam'
+heading: 'Fallen London'
+subheading: 'Evolution of the Spam'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/fallenlondon.jpg
+  hassmall: false
+  inverted: true
+  showonpage: false
 categories: social
 ---
 
