@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'How To Drive In The Snow'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/smartcar.jpg
+  hassmall: false
+  showonpage: false
 categories: life
 ---
 
