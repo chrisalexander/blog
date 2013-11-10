@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Windows / Office presentation: a review'
+heading: 'Windows / Office presentatiom'
+subheading: 'A review'
 categories: uni
 ---
 
