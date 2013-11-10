@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Windows Phone 7 Series No Longer A Series, Much Easier To Pronounce'
+heading: 'Windows Phone 7 Series No Longer A Series'
+subheading: 'Much Easier To Pronounce'
 categories: microsoft
 ---
 
