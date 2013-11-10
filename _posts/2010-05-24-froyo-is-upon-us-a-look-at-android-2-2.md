@@ -1,6 +1,12 @@
 ---
 layout: post
-heading: 'Froyo Is Upon Us: A Look At Android 2.2'
+heading: 'Froyo Is Upon Us'
+subheading: 'A Look At Android 2.2'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/nexus.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: google
 ---
 
@@ -16,7 +22,7 @@ And when I say big stuff, I really mean it! Froyo's JIT compiler (for more, [che
 
 The other cool thing is the browser update means that Javascript is stupidly fast too. Check out the video below for a demo of the performance increase in action.
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/HfwqjGT0SiA?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/HfwqjGT0SiA?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
 
 ## Kick-ass features
 
@@ -28,7 +34,7 @@ The new "push-but-don't-call-it-that" functionality is also brilliant. More comi
 
 Below is the video from the keynote with more on this.
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/89xc_1Vv69k?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/89xc_1Vv69k?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
 
 I could also swear that my trackball just glowed blue...
 
