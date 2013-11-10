@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'The Dark Side Of The University'
+leader:
+ image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60091.jpg
+ hassmall: false
+ position: bottom
+ inverted: true
 categories: uni
 ---
 
@@ -10,22 +15,18 @@ They were the nice, shiny, red brick side of the London Road campus.
 
 As I went off in search of more unique and slightly more abstract photos, I came across what seemed to be another world shielded by the manicured bushes and neat paths.
 
- 
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60093.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60091.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60098.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60093.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60100.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60098.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60101.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60100.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60102.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60101.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60112.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60102.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60117.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60112.jpg" %}
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60117.jpg" %}
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60124.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60124.jpg" %}
