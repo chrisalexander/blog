@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Nokia Carbide UI: S60_32_mifconv.exe exe'
+heading: 'Nokia Carbide UI'
+subheading: 'S60_32_mifconv.exe exe'
 categories: dev
 ---
 
