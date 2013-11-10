@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Imagine Cup: Highlights of Egypt'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo1.jpg
+  hassmall: false
+  position: top right
+  inverted: true
 categories: microsoft
 ---
 
@@ -30,7 +35,7 @@ All of the competitors fought exceptionally hard for their prizes, from the pres
 
 Visiting these epic monuments was a fantastic experience, and one that I'd very much like to repeat in the future. This is where I first met properly some of my Egyptian MSP friends who I'm still in touch with today.
 
-### <span>The Cairo Gardens</span>
+### The Cairo Gardens
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo1.jpg" %}
 
