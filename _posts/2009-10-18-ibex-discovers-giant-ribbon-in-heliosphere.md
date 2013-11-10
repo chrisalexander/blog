@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'IBEX Discovers Giant Ribbon In Heliosphere'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/solarsystem.png
+  hassmall: false
+  position: bottom
+  inverted: true
 categories: video
 ---
 
@@ -12,11 +17,9 @@ The area IBEX is investigating is called the Interstellar Boundary Region; in th
 
 The Solar System's Heliosphere is a protective bubble that protects our Solar System from from cosmic radiation, travelling through space, that could seriously detriment life and the Solar System as we know it.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/solarsystem.png" %}
-
 The picture below illustrates our Solar System moving through space in a right-to-left direction, with our Heliosphere deflecting the cosmic rays and shielding us.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/solarsystem2.png" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/solarsystem2.png" %}
 
 Interestingly, IBEX has [discovered a giant ribbon](http://science.nasa.gov/headlines/y2009/15oct_ibex.htm?list1079677) running through the Heliosphere; so far scientists say that it is a "shocking result", and that its origin is currently unknown.
 
