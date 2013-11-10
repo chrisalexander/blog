@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Managing Device Expectations'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/06/wpid-IMG_20100607_213041.jpg
+  hassmall: false
+  showonpage: false
 categories: hardware
 ---
 
