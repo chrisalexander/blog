@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Modern.ie - proclaims compatibility then goes on the upsell'
+heading: 'Modern.ie'
+subheading: 'Proclaims compatibility then goes on the upsell'
 categories: microsoft
 ---
 
