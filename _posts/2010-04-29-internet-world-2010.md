@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Internet World 2010'
+leader:
+ image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/2010-04-28-16.09.12.jpg
+ hassmall: false
+ inverted: true
 categories: dev
 ---
 
@@ -8,13 +12,9 @@ Yesterday I was lucky enough to tag along to [Internet World](http://www.interne
 
 Great to catch up with everyone on the @TweetMeme stand, and see all the guys from @Huddle and @DediPower again!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/2010-04-28-16.09.12.jpg" %}
-
 I thought I'd just drop all my pictures here for you to check out.
 
 Looking forward to next year already!
-
- 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/2010-04-28-09.37.39.jpg" %}
 
