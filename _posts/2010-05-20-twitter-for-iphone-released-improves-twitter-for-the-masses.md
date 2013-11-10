@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Twitter for iPhone Released, Improves Twitter For The Masses'
+heading: 'Twitter for iPhone Released'
+subheading: 'Improves Twitter For The Masses'
 categories: twitter
 ---
 
