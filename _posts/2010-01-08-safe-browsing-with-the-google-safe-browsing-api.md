@@ -1,12 +1,15 @@
 ---
 layout: post
 heading: 'Safe Browsing with the Google Safe Browsing API'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/malware.png
+  hassmall: false
+  position: bottom right
+  inverted: true
 categories: dev
 ---
 
 With the continued proliferation of malware and websites of malicious intent on the Internet, consumers are offered little if no help in protecting their computers.
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/malware.png" %}
 
 There is, however, help at hand.
 
