@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'IE 9 and HTML 5 - download examples and slides'
+heading: 'IE 9 and HTML 5'
+subheading: 'Download examples and slides'
 categories: microsoft
 ---
 
