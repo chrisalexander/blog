@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: '#UKSnow still grips Reading'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/photo2.jpg
+  hassmall: false
+  position: top
 categories: life
 ---
 
@@ -9,8 +13,6 @@ Today I resolved that I would not base my #Project365 picture on snow - as hard 
 So I got rid of my urge to take snow pictures on my walk to work, and snapped these with my iPhone.
 
 Fortunately the camera functions pretty well in the high-brightness light-bathed scenes in Reading today, so I think these came out pretty well.
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/photo2.jpg" %}
 
 I couldn't help but snap this helpless taxi left abandoned on Kendrick Road - the irony was just too much for me.
 
