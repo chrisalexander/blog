@@ -1,6 +1,12 @@
 ---
 layout: post
-heading: 'The Black Pearl: A Watch to reckon with'
+heading: 'The Black Pearl'
+subheading: 'A Watch to reckon with'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/watch1.jpg
+  hassmall: false
+  position: top right
+  inverted: true
 categories: life
 ---
 
