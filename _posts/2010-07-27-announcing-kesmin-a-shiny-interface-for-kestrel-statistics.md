@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Announcing Kesmin: a shiny interface for Kestrel statistics'
+heading: 'Announcing Kesmin'
+subheading: 'A shiny interface for Kestrel statistics'
 categories: life
 ---
 
