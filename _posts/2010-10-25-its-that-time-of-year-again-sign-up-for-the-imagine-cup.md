@@ -1,6 +1,11 @@
 ---
 layout: post
-heading: 'That time of year again! Sign up for the Imagine Cup'
+heading: 'That time of year again!'
+subheading: 'Sign up for the Imagine Cup'
+leader:
+  image: http://media.chris-alexander.co.uk/pictures/msp/imaginecup/logo.jpg
+  hassmall: false
+  showonpage: false
 categories: uni
 ---
 
