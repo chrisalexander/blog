@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Brand new Microsoft mouse: Unboxing and review'
+heading: 'Brand new Microsoft mouse'
+subheading: 'Unboxing and review'
 categories: microsoft
 ---
 
