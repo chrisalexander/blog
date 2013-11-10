@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Seesmic Look: A New Way To Twitter'
+heading: 'Seesmic Look'
+subheading: 'A New Way To Twitter'
 categories: social
 ---
 
