@@ -1,6 +1,9 @@
 ---
 layout: post
 heading: 'I Am Not Technical Support'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/pebkac3.jpg
+  hassmall: false
 categories: dev
 ---
 
@@ -15,5 +18,3 @@ However, I do take exception to being constantly SMS'd, e-mailed, called and gen
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/pebkac1.jpg" %}
 
 So maybe this is a bit harsh. But I really don't mind helping out occasionally; please try not to bombard me with computer problems and I'll try to remain sane - deal?
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/pebkac3.jpg" %}
