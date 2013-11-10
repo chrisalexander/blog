@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Why the Nexus One is the best phone ever made, and will be for some time'
+heading: 'Why the Nexus One is the best phone ever made'
+subheading: 'and will be for some time'
 categories: mobile
 ---
 
