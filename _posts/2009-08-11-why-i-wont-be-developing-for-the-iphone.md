@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Developing For The iPhone'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/Untitled-1.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: dev
 ---
 
