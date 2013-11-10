@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Aston Martin Cyrus'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/astonmartin.png
+  showonpage: false
+  hassmall: false
+  inverted: true
 categories: life
 ---
 
