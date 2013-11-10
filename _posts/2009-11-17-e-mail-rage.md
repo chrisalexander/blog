@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'E-Mail Rage'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/load.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: life
 ---
 
