@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Live@Edu: A Microsoft solution for collaboration and communication on-campus'
+heading: 'Live@Edu'
+subheading: 'A Microsoft solution for collaboration and communication on-campus'
 categories: uni
 ---
 
