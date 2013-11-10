@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Facebook - A Review'
+heading: 'Facebook'
+subheading: 'A Review'
 categories: social
 ---
 
