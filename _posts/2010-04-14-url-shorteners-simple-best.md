@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'URL Shorteners: Simple is best'
+heading: 'URL Shorteners'
+subheading: 'Simple is best'
 categories: twitter
 ---
 
