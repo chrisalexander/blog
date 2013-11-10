@@ -1,12 +1,14 @@
 ---
 layout: post
 heading: 'My Favourite Cheese'
+leader:
+ image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/cheese-mouse.jpg
+ hassmall: false
+ showonpage: false
 categories: life
 ---
 
 Yesterday I was in town, and spotted a sale on. I came home, showed my housemates my purchases, and all they had to say was that I'd bought a load of cheese.
-
- 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/cheese-mouse.jpg" %}
 
