@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Christmas Geek Present Ideas'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/mice1.png
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: huddle
 ---
 
