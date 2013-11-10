@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Reading Geek Night Follow Up - Transreal Maths Presentation'
+heading: 'Reading Geek Night Follow Up'
+subheading: 'Transreal Maths Presentation'
 categories: uni
 ---
 
