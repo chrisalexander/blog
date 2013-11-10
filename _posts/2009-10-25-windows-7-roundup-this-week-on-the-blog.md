@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Windows 7 Roundup: This week on the blog'
+heading: 'Windows 7 Roundup'
+subheading: 'This week on the blog'
 categories: uni
 ---
 
