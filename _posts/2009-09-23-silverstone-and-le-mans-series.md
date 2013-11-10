@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'Silverstone and Le Mans Series'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/29504517.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: life
 ---
 
