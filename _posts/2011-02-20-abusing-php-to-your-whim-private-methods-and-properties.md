@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Abusing PHP to your whim - private methods and properties'
+heading: 'Abusing PHP to your whim'
+subheading: 'Private methods and properties'
 categories: dev
 ---
 
