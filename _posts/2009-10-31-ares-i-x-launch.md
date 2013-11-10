@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Ares I-X Launch'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares5.jpg
+  hassmall: false
+  position: top left
 categories: space
 ---
 
@@ -23,5 +27,3 @@ I have included some pictures here from the [Boston.com article](http://www.bost
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares3.jpg" %}
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares4.jpg" %}
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares5.jpg" %} 
