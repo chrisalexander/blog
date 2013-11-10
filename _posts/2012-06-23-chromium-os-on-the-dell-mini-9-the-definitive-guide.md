@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Chromium OS on the Dell Mini 9: The Definitive Guide'
+heading: 'Chromium OS on the Dell Mini 9'
+subheading: 'The Definitive Guide'
 categories: hardware
 ---
 
