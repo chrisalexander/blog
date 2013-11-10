@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'Google Chrome Web Store - The App Store For The Web'
+heading: 'Google Chrome Web Store'
+subheading: 'The App Store For The Web'
 categories: google
 ---
 
