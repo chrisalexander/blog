@@ -1,6 +1,11 @@
 ---
 layout: post
 heading: 'The iPhone: Verdict?'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/iPhone2G.jpg
+  hassmall: false
+  showonpage: false
+  inverted: true
 categories: life
 ---
 
