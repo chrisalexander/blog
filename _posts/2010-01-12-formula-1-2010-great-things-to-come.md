@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Formula 1 2010: Great things to come?'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/bmw.jpg
+  hassmall: false
+  position: top
 categories: life
 ---
 
@@ -19,8 +23,6 @@ Only the return of Michael Schumacher. I think that's pretty epic on its own. Ch
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/mclaren.jpg" %}
 
 There's been a lot of speculation on whether he will still be able to compete, whether he will win races or even the championship; personally I think it will be pretty exciting anyway. Jenson, Lewis, Fernando and Michael all on the same grid should lead to astounding racing.
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/bmw.jpg" %}
 
 A load of major car manufacturers have also pulled out - including BMW.
 
