@@ -1,12 +1,16 @@
 ---
 layout: post
 heading: 'Of Vampires and Lycans'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/beckinsale.jpg
+  hassmall: false
+  showonpage: false
 categories: life
 ---
 
 Recently I went on a bit of a spending spree on Amazon, and picked up a few DVDs, games and a mouse I'd been wanting for quite some time. One of these was the Underworld trilogy. Recommended to me by a good friend who also happens to know his movies, it also fitted in quite well with the style of the rest of those on my shelf: Hellboy and Hellboy 2, Van Helsing, Ultraviolet, The League of Extraordinary Gentlemen, Wanted... you get the picture: these films are my kind of thing. I couldn't turn down 3 films of gun-wielding super-sense Vampires led by Kate Beckinsale (below) as Selene versus marauding half-human-half-wolf Lycans headed up by Michael Sheen.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/beckinsale.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/beckinsale.jpg" %}
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/underworld1.jpg" %}
 
