@@ -10,6 +10,6 @@ You may have heard me mention the MSP programme before, as I have been involved 
 
 As well as being a fun- and cheese-loving and an all-around nice chap, Ben has put his considerable videographical talents into bringing you this excellent video describing the main idea around why you would want to become an MSP:
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/zahyGgxXTjY?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/zahyGgxXTjY?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
 
 So if you're interested in the latest gadgets and technology, want to get your hands on it as well as the opportunity to win a huge stack of awesome prizes, drop Ben a line at [ukmsp@microsoft.com](mailto:ukmsp@microsoft.com) to find out more and get started today!
