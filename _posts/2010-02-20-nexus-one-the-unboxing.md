@@ -1,6 +1,9 @@
 ---
 layout: post
 heading: 'Nexus One: The Unboxing'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus2.jpg
+  hassmall: false
 categories: life
 ---
 
@@ -15,8 +18,6 @@ The packaging was excellent too, very sturdy, well put together and thoughtful t
 Without further ado, on to the gallery!
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus1.jpg" %}
-
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus2.jpg" %}
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus3.jpg" %}
 
