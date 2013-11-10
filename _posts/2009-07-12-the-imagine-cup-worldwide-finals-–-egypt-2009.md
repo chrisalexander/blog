@@ -1,6 +1,7 @@
 ---
 layout: post
-heading: 'The Imagine Cup Worldwide Finals - Egypt 2009'
+heading: 'The Imagine Cup Worldwide Finals'
+subheading: 'Egypt 2009'
 leader:
   image: http://farm4.static.flickr.com/3569/3686658502_21822381b0.jpg
   hassmall: false
