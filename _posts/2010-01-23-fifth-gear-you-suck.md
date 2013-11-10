@@ -1,6 +1,10 @@
 ---
 layout: post
 heading: 'Fifth Gear, You Suck!'
+leader:
+  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/lambo.jpg
+  hassmall: false
+  showonpage: false
 categories: life
 ---
 
@@ -14,7 +18,7 @@ Now, having gorged on the wonder that was the last series of Top Gear, it seemed
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/goggles.jpg" %}
 
-So, what was the problem with Fifth Gear then?<br> 
+So, what was the problem with Fifth Gear then?
 
 ## Presenters
 
