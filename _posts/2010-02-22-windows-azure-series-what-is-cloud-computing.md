@@ -30,6 +30,6 @@ However, if you are on Azure, you will automatically be assigned more hardware u
 
 Here's a video created by @marcholmes back in 2008 (it was the first result when I searched for "windows azure explained"!) to further explain the dynamic hardware allocation in Azure.
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/NZO9YE1ZvqE?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""></iframe></span>
+<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/NZO9YE1ZvqE?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
 
 *For loads more information on Azure, check out [Dom Green's blog](http://domgreen.com) (the UK's resident Azure expert), the official [Azure blog](http://blogs.msdn.com/windowsazure/) and [website](http://www.microsoft.com/windowsazure/), or the [Azure tag](http://www.chris-alexander.co.uk/tag/azure).*
