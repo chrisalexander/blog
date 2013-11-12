@@ -185,7 +185,8 @@ iframe.twitter-tweet {
 }
 
 .gist,
-div.highlight {
+div.highlight,
+code {
     max-width: 768px;
     margin: 0 auto;
 }
