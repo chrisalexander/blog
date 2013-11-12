@@ -178,11 +178,8 @@ img.max {
 
 /* Special case rendering on posts */
 
-iframe.twitter-tweet.twitter-tweet-rendered {
+iframe.twitter-tweet {
     display: block !important;
     margin-left: auto !important;
     margin-right: auto !important;
-}
-iframe.twitter-tweet {
-    display: none !important;
 }
