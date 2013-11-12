@@ -183,3 +183,8 @@ iframe.twitter-tweet {
     margin-left: auto !important;
     margin-right: auto !important;
 }
+
+.gist {
+    max-width: 768px;
+    margin: 0 auto;
+}
