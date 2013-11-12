@@ -190,3 +190,8 @@ code {
     max-width: 768px;
     margin: 0 auto;
 }
+
+code {
+    display: block;
+    white-space: pre-wrap;
+}
