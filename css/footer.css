@@ -9,6 +9,10 @@
   font-size: 12px;
 }
 
+.footer.small {
+  font-size: 10px;
+}
+
 .pagination a,
 .pagination a:hover,
 .footer a,
