@@ -184,7 +184,8 @@ iframe.twitter-tweet {
     margin-right: auto !important;
 }
 
-.gist {
+.gist,
+div.highlight {
     max-width: 768px;
     margin: 0 auto;
 }
