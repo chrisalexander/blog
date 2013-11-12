@@ -4,6 +4,7 @@ var text = {
     var els = document.getElementsByClassName("textfade");
     var fns = [];
     for (var i = 0; i < els.length; i++) {
+      var theEl = els[i];
       fns.push(function() {
         (function(el) {
           var hideTimeout = false;
@@ -24,7 +25,7 @@ var text = {
           var target = el.className.match(/textfadeglobal/) ? window : el;
           target.onmousemove = handleEvent;
           target.ontouchstart = handleEvent;
-        })(els[i]);
+        })(theEl);
       });
     }
     window.onload = function() {
