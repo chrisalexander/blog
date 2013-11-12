@@ -195,3 +195,10 @@ code {
     display: block;
     white-space: pre-wrap;
 }
+
+span.youtube {
+    display: block;
+    max-width: 768px;
+    margin: 0 auto;
+    text-align: center;
+}
