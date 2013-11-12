@@ -175,3 +175,14 @@ img.max {
 .homelink.textfade.textfadehide {
     top: -25px;
 }
+
+/* Special case rendering on posts */
+
+iframe.twitter-tweet.twitter-tweet-rendered {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+iframe.twitter-tweet {
+    display: none !important;
+}
