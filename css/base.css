@@ -6,6 +6,7 @@ body {
 
 p, h1, h2, h3, h4, h5, h6,
 div.img.block,
+ul, ol,
 .list-item {
     max-width: 768px;
     padding: 0 20px;
@@ -18,7 +19,9 @@ h2:before,
 h3:before,
 h4:before,
 h5:before,
-h6:before {
+h6:before,
+ul:before,
+ol:before {
     content: ' ';
     display: table;
     width: 300px;
@@ -44,7 +47,8 @@ h6 a:hover {
 }
 
 /* paragraphs */
-p {
+p,
+ul, ol {
     line-height: 26px;
     font-family: 'Noto Sans', sans-serif;
 }
@@ -211,4 +215,9 @@ embed {
 body > img {
     margin: 0 auto;
     display: block;
+}
+
+ul, ol {
+    padding-left: 80px;
+    padding-right: 80px;
 }
