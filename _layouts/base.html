@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Blog">
 <head>
 
-    <meta charset="utf8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
     <title>{% if page.heading %}{{ page.heading }} - {% endif %}{% if page.subheading %}{{ page.subheading }} - {% endif %}On Engineering - Chris Alexander</title>
+
+    {% include meta.html %}
     
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic|Lobster" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="/css/base.css">
@@ -20,10 +19,6 @@
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     {% if page.date %}<meta name="date" content="{{ page.date | date: "%Y-%m-%d" }}" scheme="YYYY-MM-DD">{% endif %}
-    
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="mobile-web-app-capable" content="yes">
     
 </head>
 <body>
