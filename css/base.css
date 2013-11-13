@@ -217,7 +217,6 @@ body > img {
     display: block;
 }
 
-ul, ol {
-    padding-left: 80px;
-    padding-right: 80px;
+ul li, ol li {
+    margin-left: 20px;
 }
