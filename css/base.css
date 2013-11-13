@@ -207,3 +207,8 @@ embed {
     width: 100%;
     text-align: center;
 }
+
+body > img {
+    margin: 0 auto;
+    display: block;
+}
