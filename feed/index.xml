@@ -9,8 +9,8 @@
 		<atom:link href="{{ site.url }}/feed" rel="self" type="application/rss+xml" />
 		{% for post in site.posts limit:10 %}
 			<item>
-				<title>{{ post.heading }}</title>
-				<description>{{ post.subheading | xml_escape }}</description>
+				{% if post.heading %}<title>{{ post.heading | xml_escape }}</title>{% endif %}
+				{% if post.subheading %}<description>{{ post.subheading | xml_escape }}</description>{% endif %}
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
@@ -18,3 +18,4 @@
 		{% endfor %}
 	</channel>
 </rss>
+
