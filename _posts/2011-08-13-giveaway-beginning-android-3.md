@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 
+heading: 'Giveaway! Beginning Android 3'
 categories: ['google', 'android']
 ---
 
