@@ -1,0 +1,16 @@
+{
+  "name": "On Engineering",
+  "description": "Chris Alexander's blog, On Engineering",
+  "version": "1",
+  "app": {
+    "urls": [
+      "http:/chris-alexander.co.uk/"
+    ],
+    "launch": {
+      "web_url": "http://chris-alexander.co.uk"
+    }
+  },
+  "icons": {
+    "128": "img/icon_128.png"
+  }
+}
