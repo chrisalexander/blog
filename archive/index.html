@@ -5,9 +5,9 @@ layout: article
 <ul>
 {% for post in site.posts %}
 	<li>
-	  <a href="{{ site.url }}{{ post.url }}">
-		{% if post.heading %}{{ post.heading }}{% endif %} -
-		{% if post.subheading %}{{ post.subheading }}{% endif %}
+  	<a href="{{ site.url }}{{ post.url }}">
+			{% if post.heading %}{{ post.heading }}{% endif %}
+			{% if post.subheading %}- {{ post.subheading }}{% endif %}
 		</a>
 		- Posted: {{ post.date | date: "%a, %d %b %Y" }}
 	</li>
