@@ -1,0 +1,14 @@
+---
+layout: base
+---
+<ul>
+{% for post in site.posts limit:10 %}
+	<li>
+	  <a href="{{ site.url }}{{ post.url }}">
+		{% if post.heading %}{{ post.heading }}{% endif %} -
+		{% if post.subheading %}{{ post.subheading }}{% endif %}
+		</a>
+		- Posted: {{ post.date | date: "%a, %d %b %Y" }}
+	</li>
+{% endfor %}
+</ul>
