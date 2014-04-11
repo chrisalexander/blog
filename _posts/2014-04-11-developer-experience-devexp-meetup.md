@@ -8,6 +8,7 @@ leader:
  hidetext: true
  hassmall: false
  showonpage: false
+ inverted: true
 categories: devexp
 ---
 
