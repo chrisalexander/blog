@@ -10,6 +10,7 @@ div.leader,
 div.list-leader {
     background-position: center center;
     background-repeat: no-repeat;
+    background-size: 100%;
     background-size: cover;
     text-shadow: -1px -1px 0 rgba(255, 255, 255, 0.5), 1px -1px 0 rgba(255, 255, 255, 0.5), -1px 1px 0 rgba(255, 255, 255, 0.5), 1px 1px 0 rgba(255, 255, 255, 0.5);
 }
