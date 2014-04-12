@@ -12,7 +12,20 @@ div.list-leader {
     background-repeat: no-repeat;
     background-size: 100%;
     background-size: cover;
+}
+
+div.leader,
+div.list-leader-text {
     text-shadow: -1px -1px 0 rgba(255, 255, 255, 0.5), 1px -1px 0 rgba(255, 255, 255, 0.5), -1px 1px 0 rgba(255, 255, 255, 0.5), 1px 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+div.list-item div.list-leader {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
 }
 
 div.leader * {
@@ -51,9 +64,9 @@ div.leader .text p {
 }
 
 div.leader.inverted,
-div.list-leader.inverted,
-div.list-leader.inverted a, 
-div.list-leader.inverted a:hover {
+div.list-leader-text.inverted,
+div.list-leader-text.inverted a, 
+div.list-leader-text.inverted a:hover {
     color: #fff;
     text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.5), 1px -1px 0 rgba(0, 0, 0, 0.5), -1px 1px 0 rgba(0, 0, 0, 0.5), 1px 1px 0 rgba(0, 0, 0, 0.5);
 }
