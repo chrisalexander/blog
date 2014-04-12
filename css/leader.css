@@ -4,9 +4,10 @@ div.leader {
     width: 100%;
     text-align: center;
     overflow: hidden;
+    position: relative;
 }
 
-div.leader,
+div.leader-image,
 div.list-leader {
     background-position: center center;
     background-repeat: no-repeat;
