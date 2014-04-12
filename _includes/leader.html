@@ -1,10 +1,11 @@
 {% if page.leader and page.leader.showonpage != false %}
-<div id="leader" class="bgfade leader{% if page.leader.hidetext %} textfade{% else %} scrollfade{% endif %}{% if page.leader.inverted %} inverted{% endif %}{% if page.leader.position %} {{page.leader.position}}{% endif %}"{% if page.leader.image %} style="background-image: url({{ page.leader.image }})"{% endif %}>
+<div id="leader" class="leader{% if page.leader.hidetext %} textfade{% else %} scrollfade{% endif %}{% if page.leader.inverted %} inverted{% endif %}{% if page.leader.position %} {{page.leader.position}}{% endif %}">
   {% if page.heading or page.subheading %}
     <div class="text">
         {% if page.heading %}<h1>{{ page.heading }}</h1>{% endif %}
         {% if page.subheading %}<p>{{page.subheading}}</p>{% endif %}
     </div>
   {% endif %}
+  {% if page.leader.image %}<div class="leader-image bgfade" style="background-image: url({{ page.leader.image }});"></div>{% endif %}
 </div>
 {% endif %}
