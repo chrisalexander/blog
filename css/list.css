@@ -1,6 +1,7 @@
 .list-item {
   border: 1px solid #999;
   border-radius: 3px;
+  position: relative;
 }
 
 @media (max-width: 850px) {
