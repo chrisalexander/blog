@@ -128,7 +128,7 @@ search.factory("searchService", function($http, $location, $rootScope) {
 
 		$http({
 			"method": "GET",
-			"url": "https://chrisalexanderdotcodotuk.east-us.azr.facetflow.io/blog/post/_search?q=" + encodeURIComponent(query) + "&df=title&df=content&from=" + ((page-1) * itemsPerPage) + "&size=" + itemsPerPage
+			"url": "https://chrisalexanderdotcodotuk.east-us.azr.facetflow.io/blog/post/_search?q=" + encodeURIComponent(query) + "&df=heading&df=content&from=" + ((page-1) * itemsPerPage) + "&size=" + itemsPerPage
 		}).success(function(resultData, status, headers, config) {
 			var tmpData = [];
 			resultData.hits.hits.map(function(hit) {
