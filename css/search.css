@@ -4,6 +4,14 @@
 	margin: 0 auto;
 }
 
+.search h1 {
+	margin-bottom: 0;
+}
+
+.search .footer.small {
+	margin-bottom: 35px;
+}
+
 .search form {
 	max-width: 500px;
 	margin: 0 auto;

@@ -16,13 +16,16 @@ search.controller("searchForm", function($scope, $location, $location, searchSer
 
 	$scope.query = $location.search().hasOwnProperty("query") ? $location.search()["query"] : "";
 
-	$scope.executeSearch = function(event, query) {
+	$scope.executeSearch = function(event, query, dontResetPage) {
 		event ? event.preventDefault() : false;
-		searchService.query(query);
+		searchService.query(query, dontResetPage);
 	}
 
+	if ($location.search().hasOwnProperty("page")) {
+		searchService.go.page(parseInt($location.search().page));
+	}
 	if ($scope.query.length) {
-		$scope.executeSearch(false, $scope.query);
+		$scope.executeSearch(false, $scope.query, true);
 	}
 
 });
@@ -84,7 +87,7 @@ search.controller("searchResults", function($scope, $timeout, searchService) {
 /**
  * Service for doing searches and managing the data
  */
-search.factory("searchService", function($http, $rootScope) {
+search.factory("searchService", function($http, $rootScope, $location) {
 
 	// Which page we are currently looking at
 	var page = 1;
@@ -115,6 +118,9 @@ search.factory("searchService", function($http, $rootScope) {
 		}
 
 		setLoadingState(true);
+
+		$location.search("query", query);
+		$location.search("page", page == 1 ? undefined : page);
 
 		if (clearExistingResults) {
 			data = [];
@@ -158,6 +164,9 @@ search.factory("searchService", function($http, $rootScope) {
 				}
 				page--;
 				executeSearch();
+			},
+			"page": function(p) {
+				page = p;
 			}
 		},
 		"has": {
@@ -168,9 +177,11 @@ search.factory("searchService", function($http, $rootScope) {
 				return page > 1;
 			}
 		},
-		"query": function(q) {
+		"query": function(q, dontResetPage) {
 			query = q;
-			page = 1;
+			if (!dontResetPage) {
+				page = 1;
+			}
 			executeSearch(true);
 		},
 		"page": function() {
