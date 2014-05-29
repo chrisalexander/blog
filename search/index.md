@@ -10,7 +10,7 @@ stylesheet: 'search'
 <div ng-app="ca-search" class="search">
 
 	<h1>Search</h1>
-	<p class="footer small"><a href="/">Home</a></p>
+	<p class="footer small"><a href="/" target="_self">Home</a></p>
 
 	<form method="GET" action="/search" ng-submit="executeSearch($event, query)" class="searchform" ng-controller="searchForm">
 		<input type="text" class="text" name="query" ng-model="query" placeholder="Enter a search term" autofocus ng-disabled="search.loading">
@@ -26,9 +26,9 @@ stylesheet: 'search'
 		<div class="results" ng-show="search.data().length">
 			<div class="result" ng-repeat="result in search.data()" ng-class="{ 'has-image': getImage(result) }">
 				<div class="image" ng-show="getImage(result)" ng-style="{ 'background-image': getImage(result) }"></div>
-				<h3><a ng-href="{{result._url}}">{{result.title}}</a></h3>
+				<h3><a ng-href="{{result._url}}" target="_self">{{result.title}}</a></h3>
 				<p>{{getSnippet(result)}}</p>
-				<p><a ng-href="{{result._url}}">{{result._url}}</a></p>
+				<p><a ng-href="{{result._url}}" target="_self">{{result._url}}</a></p>
 			</div>
 		</div>
 

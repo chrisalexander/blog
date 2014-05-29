@@ -3,30 +3,30 @@
  */
 var search = angular.module("ca-search", []);
 
-/*search.config(['$locationProvider', function($locationProvider) {
+search.config(['$locationProvider', function($locationProvider) {
     $locationProvider.html5Mode(true);
-}]);*/
+}]);
 
 /**
  * Controller for the search box
  */
-search.controller("searchForm", function($scope, searchService) {
+search.controller("searchForm", function($scope, $location, searchService) {
 
 	$scope.search = searchService;
 
-	//$scope.query = $location.search().hasOwnProperty("query") ? $location.search()["query"] : "";
+	$scope.query = $location.search().hasOwnProperty("query") ? $location.search()["query"] : "";
 
 	$scope.executeSearch = function(event, query, dontResetPage) {
 		event ? event.preventDefault() : false;
 		searchService.query(query, dontResetPage);
 	}
 
-	/*if ($location.search().hasOwnProperty("page")) {
+	if ($location.search().hasOwnProperty("page")) {
 		searchService.go.page(parseInt($location.search().page));
 	}
 	if ($scope.query.length) {
 		$scope.executeSearch(false, $scope.query, true);
-	}*/
+	}
 
 });
 
@@ -87,7 +87,7 @@ search.controller("searchResults", function($scope, $timeout, searchService) {
 /**
  * Service for doing searches and managing the data
  */
-search.factory("searchService", function($http, $rootScope) {
+search.factory("searchService", function($http, $location, $rootScope) {
 
 	// Which page we are currently looking at
 	var page = 1;
@@ -119,8 +119,8 @@ search.factory("searchService", function($http, $rootScope) {
 
 		setLoadingState(true);
 
-		//$location.search("query", query);
-		//$location.search("page", page == 1 ? undefined : page);
+		$location.search("query", query);
+		$location.search("page", page == 1 ? undefined : page);
 
 		if (clearExistingResults) {
 			data = [];
