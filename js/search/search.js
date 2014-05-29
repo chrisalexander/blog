@@ -12,6 +12,8 @@ search.config(['$locationProvider', function($locationProvider) {
  */
 search.controller("searchForm", function($scope, $location, $location, searchService) {
 
+	$scope.search = searchService;
+
 	$scope.query = $location.search().hasOwnProperty("query") ? $location.search()["query"] : "";
 
 	$scope.executeSearch = function(event, query) {
@@ -58,12 +60,23 @@ search.controller("searchResults", function($scope, $timeout, searchService) {
 			return "";
 		}
 		var content = [].concat(result["content"]).join(" ");
-		var targetLength = 100;
+		var targetLength = 175;
 		if (content.length < targetLength) {
 			return content;
 		} else {
 			return content.substr(0, targetLength) + "...";
 		}
+	}
+
+	$scope.getImage = function(result) {
+		if (!result.hasOwnProperty("images")) {
+			return "";
+		}
+		var images = [].concat(result["images"]);
+		if (!images.length) {
+			return "";
+		}
+		return 'url(' + images[0] + ')';
 	}
 
 });
@@ -89,7 +102,7 @@ search.factory("searchService", function($http, $rootScope) {
 	var data = [];
 
 	// Whether or not we are loading
-	var loading = true;
+	var loading = false;
 
 	var setLoadingState = function(state) {
 		loading = state;
@@ -97,6 +110,10 @@ search.factory("searchService", function($http, $rootScope) {
 	}
 
 	var executeSearch = function(clearExistingResults) {
+		if (!query.length || loading) {
+			return;
+		}
+
 		setLoadingState(true);
 
 		if (clearExistingResults) {
@@ -115,6 +132,7 @@ search.factory("searchService", function($http, $rootScope) {
 			updateMaxPages(resultData.hits.total);
 			loading = false;
 			setLoadingState(false);
+			document.body.scrollTop = document.documentElement.scrollTop = 0;
 		}).error(function(resultData, status, headers, config) {
 			data = [];
 			setLoadingState(false);
@@ -152,6 +170,7 @@ search.factory("searchService", function($http, $rootScope) {
 		},
 		"query": function(q) {
 			query = q;
+			page = 1;
 			executeSearch(true);
 		},
 		"page": function() {

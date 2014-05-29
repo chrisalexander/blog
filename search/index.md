@@ -7,32 +7,35 @@ stylesheet: 'search'
 
 {% raw %}
 
-<div ng-app="ca-search">
+<div ng-app="ca-search" class="search">
 
 	<h1>Search</h1>
 
 	<form method="GET" action="/search" ng-submit="executeSearch($event, query)" class="searchform" ng-controller="searchForm">
-		<input type="text" name="query" ng-model="query" placeholder="Enter a search term" autofocus>
-		<input type="submit" value="Search">
+		<input type="text" class="text" name="query" ng-model="query" placeholder="Enter a search term" autofocus ng-disabled="search.loading">
+		<input type="submit" class="submit" value="Go" ng-disabled="search.loading">
 	</form>
 
-	<div class="loading-container" ng-controller="searchResults">
-		<div class="loading" ng-show="search.isLoading()">Loading...</div>
-		<div class="done" ng-show="searchDone">Done!</div>
-	</div>
-
-	<div class="results" ng-controller="searchResults">
-		<div class="result" ng-repeat="result in search.data()">
-			<h3>{{result.title}}</h3>
-			<p>{{getSnippet(result)}}</p>
-			<p><a ng-href="{{result._url">{{result._url}}</a></p>
+	<div ng-controller="searchResults">
+		<div class="loading-container" ng-class="{ 'show': search.isLoading() || searchDone }">
+			<p class="loading" ng-hide="searchDone">Loading...</p>
+			<p class="done" ng-show="searchDone">Done!</p>
 		</div>
 
-		<div class="page">
+		<div class="results" ng-show="search.data().length">
+			<div class="result" ng-repeat="result in search.data()" ng-class="{ 'has-image': getImage(result) }">
+				<div class="image" ng-show="getImage(result)" ng-style="{ 'background-image': getImage(result) }"></div>
+				<h3><a ng-href="{{result._url}}">{{result.title}}</a></h3>
+				<p>{{getSnippet(result)}}</p>
+				<p><a ng-href="{{result._url}}">{{result._url}}</a></p>
+			</div>
+		</div>
+
+		<p class="pagination">
 			<a href="#" class="previous" ng-show="search.has.previous()" ng-click="search.go.previous()">&laquo;</a>
 			<span class="page_number ">Page {{ search.page() }}</span>
 			<a href="#" class="next" ng-show="search.has.next()" ng-click="search.go.next()">&raquo;</a>
-		</div>
+		</p>
 	</div>
 
 </div>
