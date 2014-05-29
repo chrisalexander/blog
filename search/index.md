@@ -31,7 +31,7 @@ stylesheet: 'search'
 			</div>
 		</div>
 
-		<p class="pagination">
+		<p class="pagination" ng-show="search.data().length">
 			<a href="#" class="previous" ng-show="search.has.previous()" ng-click="search.go.previous()">&laquo;</a>
 			<span class="page_number ">Page {{ search.page() }}</span>
 			<a href="#" class="next" ng-show="search.has.next()" ng-click="search.go.next()">&raquo;</a>
