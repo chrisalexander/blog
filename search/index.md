@@ -10,6 +10,7 @@ stylesheet: 'search'
 <div ng-app="ca-search" class="search">
 
 	<h1>Search</h1>
+	<p class="footer small"><a href="/">Home</a></p>
 
 	<form method="GET" action="/search" ng-submit="executeSearch($event, query)" class="searchform" ng-controller="searchForm">
 		<input type="text" class="text" name="query" ng-model="query" placeholder="Enter a search term" autofocus ng-disabled="search.loading">
