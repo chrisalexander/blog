@@ -11,7 +11,8 @@ body {
 p, h1, h2, h3, h4, h5, h6,
 div.img.block,
 ul, ol,
-.list-item {
+.list-item,
+div.img.center {
     max-width: 768px;
     padding: 0 20px;
     margin: 30px auto;
@@ -142,7 +143,6 @@ img.right {
     margin-right: 0;
 }
 
-div.img.max,
 div.img.block {
     text-align: center;
 }
