@@ -3,7 +3,7 @@ layout: post
 heading: 'Boiling Egg'
 leader:
  image: http://media.chris-alexander.co.uk/pictures/boilingegg/outside.jpg
- position: bottom
+ position: top
  hidetext: true
  hassmall: false
 categories: photos
@@ -13,11 +13,11 @@ There's something quite special about the Boiling Egg.
 
 Also known as Beijing's National Centre for the Performing Arts, you can see how it got its name:
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/pictures/boilingegg/boiling.jpg" %}
+{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/boilingegg/boiling.jpg" %}
 
 Inside, it is no less spectacular. You enter through an underwater passageway, and this window extends up and all the way to the middle of the ceiling.
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/boilingegg/roof.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/pictures/boilingegg/roof.jpg" %}
 
 Meanwhile, this is the view out:
 
@@ -29,8 +29,8 @@ The acoustics inside the building are amazing. It has been designed very thoroug
 
 It sounds both at once peaceful and busy, the hustle and bustle of the visitors is muted but always there, making the vast space seem less empty.
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/boilingegg/nightroof.jpg" %}
+{% include images/max.html src="http://media.chris-alexander.co.uk/pictures/boilingegg/nightroof.jpg" %}
 
 Outside in the evening it is no less spectacular, smoothly blending across a wide spectrum of colours.
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/pictures/boilingegg/nightoutside.jpg" %}
+{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/boilingegg/nightoutside.jpg" %}

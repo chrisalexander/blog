@@ -142,7 +142,7 @@ img.right {
     margin-right: 0;
 }
 
-div.img.center,
+div.img.max,
 div.img.block {
     text-align: center;
 }
@@ -155,7 +155,7 @@ div.img img {
     margin: 0;
 }
 
-img.max {
+img.center {
     margin-left: 0;
     margin-right: 0;
     min-width: 100%;
