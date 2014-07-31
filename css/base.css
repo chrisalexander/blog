@@ -161,6 +161,10 @@ img.center {
     min-width: 100%;
 }
 
+div.img.max img {
+	width: 100%;
+}
+
 /* home link */
 .homelink {
     font-family: 'Noto Sans', sans-serif;
