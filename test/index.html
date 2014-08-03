@@ -68,6 +68,7 @@
       bottom: 0;
       left: 0;
       right: 0;
+      overflow: hidden;
     }
 
     .slideshow-container .description {
@@ -78,6 +79,13 @@
       visibility: visible;
     }
 
+    .slideshow-container .scrolldown,
+    .slideshow-container .scrollright {
+      position: absolute;
+      display: none;
+      width: 60px;
+    }
+
     .slideshow-container .next {
       position: absolute;
       top: 20px;
@@ -86,7 +94,9 @@
     .slideshow-container.description .next {
       visibility: hidden;
     }
-    .slideshow-container .next a {
+    .slideshow-container .next a,
+    .scrolldown,
+    .scrollright {
       padding: 10px 20px;
       border: 1px solid rgba(0, 0, 0, 0.85);
       background-color: rgba(255, 255, 255, 0.7);
@@ -115,6 +125,36 @@
       bottom: 0;
       background-size: cover;
       background-position: center center;
+    }
+
+    .slideshow-container .overscroll {
+      margin: 0;
+      max-width: none;
+    }
+
+    .slideshow-container.orientation-L.overscroll .image {
+      overflow-y: hidden;
+      overflow-x: auto;
+    }
+    .slideshow-container.orientation-L.overscroll .overscroll {
+      height: 100%;
+    }
+    .slideshow-container.orientation-L.overscroll .scrollright {
+      bottom: 0;
+      left: 20px;
+      display: block;
+    }
+    .slideshow-container.orientation-P.overscroll .image {
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+    .slideshow-container.orientation-P.overscroll .overscroll {
+      width: 100%;
+    }
+    .slideshow-container.orientation-P.overscroll .scrolldown {
+      top: 5px;
+      right: 20px;
+      display: block;
     }
 
     @media (orientation: landscape) {
@@ -187,6 +227,16 @@
       }
 
     }
+
+    .rot90 {
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+      -o-transform: rotate(90deg);
+      transform: rotate(90deg);
+      display: inline-block;
+      margin-left: 5px;
+    }
     </style>
 
 </head>
@@ -195,7 +245,11 @@
 <a href="/" class="homelink">Home</a>
 
 <div class="slideshow-container" style="opacity: 0">
-  <div class="image"></div>
+  <div class="image">
+    <img class="overscroll">
+    <p class="scrollright">Scroll &raquo;</p>
+    <p class="scrolldown">Scroll <span class="rot90">&raquo;</span></p>
+  </div>
   <div class="description">
     <p class="nextlink"><a href="#" onclick="currentSlideshow.next(event)">Next &raquo;</a></p>
     <h1 class="heading"></h1>
@@ -315,7 +369,14 @@ var slideshow = function(inputConfig, inputTarget) {
 
     target.querySelector(".heading").innerText = img.userConfig.heading || "";
     target.querySelector(".subheading").innerText = img.userConfig.subheading || "";
-    target.querySelector(".image").style.backgroundImage = 'url(' + img.userConfig.src + ')';
+
+    if (img.userConfig.overscroll) {
+      target.querySelector(".image").style.backgroundImage = "";
+      target.querySelector(".overscroll").src = img.userConfig.src;
+    } else {
+      target.querySelector(".image").style.backgroundImage = "url(" + img.userConfig.src + ")";
+      target.querySelector(".overscroll").src = "";
+    }
 
     target.className = defaultClasses;
     cl.add(target, "orientation-" + img.orientation);
