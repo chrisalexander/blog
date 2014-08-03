@@ -3,7 +3,7 @@ layout: slideshow
 heading: 'Boiling Egg Slideshow'
 subheading: 'Testing out new Slideshow functionality'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/boilingegg/outside.jpg
+ image: http://media.chris-alexander.co.uk/pictures/boilingegg/roof.jpg
  hassmall: false
 categories: blog
 ---
