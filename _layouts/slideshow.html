@@ -23,5 +23,6 @@ stylesheet: 'slideshow'
 <script type="text/javascript" src="/js/slideshow.js"></script>
 {{content}}
 <script type="text/javascript">
-slideshow(config, document.getElementsByClassName("slideshow-container")[0]).begin();
+var currentSlideshow = slideshow(config, document.getElementsByClassName("slideshow-container")[0]);
+currentSlideshow.begin();
 </script>
