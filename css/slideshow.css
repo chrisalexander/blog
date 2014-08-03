@@ -1,0 +1,175 @@
+.slideshow-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+}
+
+.slideshow-container .description {
+  visibility: hidden;
+  position: absolute;
+}
+.slideshow-container.description .description {
+  visibility: visible;
+}
+
+.slideshow-container .scrolldown,
+.slideshow-container .scrollright {
+  position: absolute;
+  display: none;
+  width: 60px;
+}
+
+.slideshow-container .next {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+}
+.slideshow-container.description .next {
+  visibility: hidden;
+}
+.slideshow-container .next a,
+.scrolldown,
+.scrollright {
+  padding: 10px 20px;
+  border: 1px solid rgba(0, 0, 0, 0.85);
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 2px;
+}
+
+.slideshow-container .next a,
+.slideshow-container .nextlink a {
+  text-decoration: none;
+}
+
+.slideshow-container .nextlink {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  margin: 0;
+  width: 60px;
+  text-align: right;
+}
+
+.slideshow-container .image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+.slideshow-container .overscroll {
+  margin: 0;
+  max-width: none;
+}
+
+.slideshow-container.orientation-L.overscroll .image {
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+.slideshow-container.orientation-L.overscroll .overscroll {
+  height: 100%;
+}
+.slideshow-container.orientation-L.overscroll .scrollright {
+  bottom: 0;
+  left: 20px;
+  display: block;
+}
+.slideshow-container.orientation-P.overscroll .image {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.slideshow-container.orientation-P.overscroll .overscroll {
+  width: 100%;
+}
+.slideshow-container.orientation-P.overscroll .scrolldown {
+  top: 5px;
+  right: 20px;
+  display: block;
+}
+
+@media (orientation: landscape) {
+
+  .slideshow-container.orientation-L .description {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+  }
+
+  .slideshow-container.orientation-L.description .image {
+    bottom: 150px;
+  }
+
+  .slideshow-container.orientation-P .description {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 250px;
+  }
+
+  .slideshow-container.orientation-P.description .image {
+    left: 250px;
+  }
+
+  .slideshow-container.orientation-P .description .nextlink,
+  .slideshow-container.orientation-S .description .nextlink {
+    top: 0px;
+    right: -15px;
+  }
+
+  .slideshow-container.orientation-S .description {
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 250px;
+  }
+
+  .slideshow-container.orientation-S.description .image {
+    right: 250px;
+  }
+
+}
+
+@media (orientation: portrait) {
+
+  .slideshow-container.orientation-L .description,
+  .slideshow-container.orientation-P .description {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+  }
+
+  .slideshow-container.orientation-L.description .image,
+  .slideshow-container.orientation-P.description .image {
+    top: 150px;
+  }
+
+  .slideshow-container.orientation-S .description {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+  }
+
+  .slideshow-container.orientation-S.description .image {
+    bottom: 150px;
+  }
+
+}
+
+.rot90 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  display: inline-block;
+  margin-left: 5px;
+}

@@ -1,0 +1,27 @@
+---
+layout: article
+stylesheet: 'slideshow'
+---
+
+<div class="slideshow-container" style="opacity: 0">
+  <div class="image">
+    <img class="overscroll">
+    <p class="scrollright">Scroll &raquo;</p>
+    <p class="scrolldown">Scroll <span class="rot90">&raquo;</span></p>
+  </div>
+  <div class="description">
+    <p class="nextlink"><a href="#" onclick="currentSlideshow.next(event)">Next &raquo;</a></p>
+    <h1 class="heading"></h1>
+    <p class="subheading"></p>
+  </div>
+  <div class="next center">
+    <p><a href="#" onclick="currentSlideshow.next(event)">Next &raquo;</a></p>
+  </div>
+</div>
+
+<script type="text/javascript" src="/js/init.js"></script>
+<script type="text/javascript" src="/js/slideshow.js"></script>
+
+<script type="text/javascript">
+slideshow(config, document.getElementsByClassName("slideshow-container")[0]).begin();
+</script>
