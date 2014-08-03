@@ -99,8 +99,12 @@
     }
 
     .slideshow-container .nextlink {
-      float: right;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      margin: 0;
       width: 60px;
+      text-align: right;
     }
 
     .slideshow-container .image {
@@ -135,6 +139,12 @@
 
       .slideshow-container.orientation-P.description .image {
         left: 250px;
+      }
+
+      .slideshow-container.orientation-P .description .nextlink,
+      .slideshow-container.orientation-S .description .nextlink {
+        top: 0px;
+        right: -15px;
       }
 
       .slideshow-container.orientation-S .description {
@@ -187,12 +197,12 @@
 <div class="slideshow-container" style="opacity: 0">
   <div class="image"></div>
   <div class="description">
-    <p class="nextlink"><a href="#" onclick="currentSlideshow.next()">Next &raquo;</a></p>
+    <p class="nextlink"><a href="#" onclick="currentSlideshow.next(event)">Next &raquo;</a></p>
     <h1 class="heading"></h1>
     <p class="subheading"></p>
   </div>
   <div class="next center">
-    <p><a href="#" onclick="currentSlideshow.next()">Next &raquo;</a></p>
+    <p><a href="#" onclick="currentSlideshow.next(event)">Next &raquo;</a></p>
   </div>
 </div>
 
@@ -280,7 +290,9 @@ var slideshow = function(inputConfig, inputTarget) {
   var load = function(i, cb) {
     var img = config[i];
     if (img.loading) {
-      img.loadCallbacks.push(cb);
+      if (cb) {
+        img.loadCallbacks.push(cb);
+      }
       return;
     }
     img.loading = true;
@@ -314,24 +326,63 @@ var slideshow = function(inputConfig, inputTarget) {
       cl.add(target, "overscroll");
     }
 
+    window.location.hash = "#photo_" + (i + 1);
+
     target.style.opacity = 1;
   }
 
-  var next = function() {
+  var next = function(e) {
+    if (e) {
+      e.preventDefault();
+    }
+
     target.style.opacity = 0;
+
     currentImage++;
     if (currentImage >= config.length) {
       currentImage = 0;
     }
+    var nextImage = currentImage + 1;
+    if (nextImage >= config.length) {
+      nextImage = 0;
+    }
+
     load(currentImage, (function(i) {
       return function() {
         apply(i);
       }
     })(currentImage));
+
+    load(nextImage);
   }
+
+  var getAnchor = function() {
+    var anchor = window.location.hash.replace(/^#photo_/, "");
+    if (!anchor.length) {
+      return false;
+    }
+    var anchorInt = parseInt(anchor);
+    if (anchorInt == NaN) {
+      return false;
+    }
+    return anchorInt;
+  }
+
+  window.addEventListener("hashchange", function() {
+    var anchor = getAnchor();
+    if (!anchor) {
+      return;
+    }
+    currentImage = anchor - 2;
+    next();
+  }, false);
 
   var begin = function() {
     currentImage = -1;
+    var start = getAnchor();
+    if (start) {
+      currentImage = start - 2;
+    }
     next();
   }
 
