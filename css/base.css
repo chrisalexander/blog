@@ -116,6 +116,13 @@ p.subheading a:hover {
     text-decoration: none;
 }
 
+/* date */
+p.date {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
 /* utils */
 .center {
     text-align: center;
