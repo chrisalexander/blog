@@ -18,4 +18,4 @@ Windows Azure is a runtime environment in the cloud that delivers on-demand comp
 
 Now *you* can get your hands on Windows Azure today, for free! As part of the CTP, you can sign up and you will have an Azure account and demo application created for you to get you started with the platform. If you post a comment below when you sign up (don't forget to leave your e-mail!), I'll also make sure you get access to high-quality material on Azure to help you begin developing or learning more about the platform.
 
-To get your **free** Azure account, sign up now at [Free-Azure.com](http://free-azure.com)
+To get your **free** Azure account, sign up now.
