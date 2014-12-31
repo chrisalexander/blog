@@ -10,7 +10,7 @@ categories: microsoft
 
 Sky have now announced that Sky Player is [available for the Xbox 360](http://skyplayer.sky.com/watch/xbox360/), and soon Windows Media Centre.
 
-As I [recently blogged about](/930), the capabilities of Windows Media Centre and Windows 7 are being greatly extended by Microsoft, and this represents the first mainstream integration of streaming media services with a Media Centre dashboard.
+As I recently blogged about (#930), the capabilities of Windows Media Centre and Windows 7 are being greatly extended by Microsoft, and this represents the first mainstream integration of streaming media services with a Media Centre dashboard.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/sky1.PNG" %}
 

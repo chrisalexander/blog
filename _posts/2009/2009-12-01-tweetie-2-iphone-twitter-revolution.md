@@ -6,7 +6,7 @@ categories: life
 
 You may have seen me bemoaning using Twitter on my iPhone recently.
 
-This is for two reasons. First of all, it is [an original iPhone](/1337), and is therefore *terrible. *Second of all, I was using TweetDeck, which seems to be the only app in the store still free and not completely stuffed with ads - and also the slowest and most bloated.
+This is for two reasons. First of all, it is an original iPhone (#1337), and is therefore *terrible. *Second of all, I was using TweetDeck, which seems to be the only app in the store still free and not completely stuffed with ads - and also the slowest and most bloated.
 
 Incidentally, no-one seems to have got syncing setup between platforms - iPhone, desktop, web etc. - sorted in a Twitter app. It can't be that hard, surely? @loic hinted this may be coming to [Seesmic](http://seesmic.com) at his PDC announcement, so let's hope it's soon.
 

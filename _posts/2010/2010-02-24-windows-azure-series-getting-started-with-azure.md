@@ -6,7 +6,7 @@ categories: microsoft
 
 **Windows Azure Series**
 
-Welcome to the third in a series of posts on Windows Azure, Microsoft's cloud computing platform. Check out the first post on the subject of [Cloud Computing](/2533).
+Welcome to the third in a series of posts on Windows Azure, Microsoft's cloud computing platform. Check out the first post on the subject of Cloud Computing (#2533).
 
 I was about to go and write a full-blown tutorial on how to get started and fired up with your first Windows Azure application, but then I realised that there is so much great content out there that it would be criminal to replicate it.
 

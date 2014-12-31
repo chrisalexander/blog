@@ -6,7 +6,7 @@ categories: microsoft
 
 **Windows Azure Series**
 
-Welcome to the third in a series of posts on Windows Azure, Microsoft's cloud computing platform. Check out the others on [Cloud Computing](/2533) and [Getting Started](/2541).
+Welcome to the third in a series of posts on Windows Azure, Microsoft's cloud computing platform. Check out the others on Cloud Computing (#2533) and Getting Started (#2541).
 
 Now that we've covered the foundations of Windows Azure, and some great resources on getting started building your Azure applications, I wanted to have a look at those little things that make this all the more impressive and enjoyable to work with.
 

@@ -9,7 +9,7 @@ leader:
 categories: uni
 ---
 
-On Friday [I posted some photos](/2316) of the University of Reading's London Road campus, which I had entered in a competition (still time [to vote](http://www.msstudentlounge.com/studentrally/tabid/81/Default.aspx)! Search for Chris A or University of Reading - the competition site is terrible).
+On Friday I posted some photos (#2316) of the University of Reading's London Road campus, which I had entered in a competition (still time [to vote](http://www.msstudentlounge.com/studentrally/tabid/81/Default.aspx)! Search for Chris A or University of Reading - the competition site is terrible).
 
 They were the nice, shiny, red brick side of the London Road campus.
 

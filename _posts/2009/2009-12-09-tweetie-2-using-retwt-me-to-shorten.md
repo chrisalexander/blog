@@ -4,7 +4,7 @@ heading: 'Tweetie 2: Using Retwt.me To Shorten URLs'
 categories: projects
 ---
 
-One of my favourite features of the recently-launched [Tweetie 2](/1581) (as a geeky developer, at least) is the ability to use your own custom URL shortening service when you shrink the URLs in your tweets.
+One of my favourite features of the recently-launched Tweetie 2 (#1581) (as a geeky developer, at least) is the ability to use your own custom URL shortening service when you shrink the URLs in your tweets.
 
 Fortunately, the API for our short URL service Retwt.me is out-of-the-box compatible with Tweetie 2. Here's how to enable Retwt.me for shortening on your iPhone.
 

@@ -8,7 +8,7 @@ leader:
 categories: social
 ---
 
-Yesterday I briefly wrote about the new [Renault Twingo TV ads](/2261) that had caught my attention because they appealed to my somewhat childish sense of humour.
+Yesterday I briefly wrote about the new Renault Twingo TV ads (#2261) that had caught my attention because they appealed to my somewhat childish sense of humour.
 
 Fortunately, I was able to embed 2 examples of these ads for you directly in to my blog post, thanks to the [official Renault UK YouTube channel](http://www.youtube.com/user/RenaultUKOfficial).
 

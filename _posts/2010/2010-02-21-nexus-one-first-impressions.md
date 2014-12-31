@@ -13,7 +13,7 @@ Until a few days ago, I had had a Nokia E61i, my then favourite phone of all tim
 
 For a short while (while that was out of commission) I had had an original iPhone; I found that a rather painful device, as my numerous posts on the subject gently hint at.
 
-And last Thursday we embarked on the next phase - a Nexus One [appeared on my desk](/2613).
+And last Thursday we embarked on the next phase - a Nexus One appeared on my desk (#2613).
 
 Here's my thoughts on the phone, having had it in my hands for a few short days.
 

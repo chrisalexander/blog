@@ -15,7 +15,7 @@ There are some screenshots of Twitter for iPhone in action below.
 
 Generally the client maintains the look and feel of Tweetie, with its pull-to-refresh feature, search, cool sliding functionality, and all kinds of little tricks.
 
-Most of the complaints have been centred on niggly little features for power users. But as I said in my [post on Twitter for Android](/3348), Twitter have constructed a client that is great for first-time Twitter users who have an iPhone, and should prove to be a great driver of users for them.
+Most of the complaints have been centred on niggly little features for power users. But as I said in my post on Twitter for Android (#3348), Twitter have constructed a client that is great for first-time Twitter users who have an iPhone, and should prove to be a great driver of users for them.
 
 Newer things I noticed in the app are the new features when you're logged out, shown below, and the ability to sign up from the application itself.
 

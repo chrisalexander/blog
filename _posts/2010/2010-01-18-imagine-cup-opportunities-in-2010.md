@@ -10,4 +10,4 @@ This year, the worldwide finals are being held in Poland, and you can get there 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ic10.PNG" %}
 
-[Sign up now](https://www.imaginecup.com/), or for more information on the competitions available, check out [this post](/1210). If you want to go ahead and sign up now, head over to the [Imagine Cup site](https://www.imaginecup.com/). Or, there are loads more resources tagged Imagine Cup on this site.
+Sign up now](https://www.imaginecup.com/), or for more information on the competitions available, check out [this post (#1210). If you want to go ahead and sign up now, head over to the [Imagine Cup site](https://www.imaginecup.com/). Or, there are loads more resources tagged Imagine Cup on this site.

@@ -12,11 +12,11 @@ What's more, if you [sign up today](https://www.imaginecup.com/), Microsoft will
 
 ## Great Opportunities
 
-I've [already written about](/2064) what fantastic opportunities there are available to students entering the Imagine Cup this year.
+I've already written about (#2064) what fantastic opportunities there are available to students entering the Imagine Cup this year.
 
 The simple fact of the matter is that taking part in this competition gives you more opportunities than from taking part in any other student activity that I have ever come across.
 
-What's more, this year's finals are being held in Poland, so if you make it through to that stage then you get even more great experiences out of the Imagine Cup. (Last year the finals were [held in Cairo](/1211)).
+What's more, this year's finals are being held in Poland, so if you make it through to that stage then you get even more great experiences out of the Imagine Cup. (Last year the finals were held in Cairo (#1211)).
 
 ## Embedded Development
 

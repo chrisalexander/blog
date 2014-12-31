@@ -9,7 +9,7 @@ leader:
 categories: life
 ---
 
-Last week I found myself giving a [guided tour of London](/5529). This week I've been giving a guided tour my hometown of Felixstowe. As Felixstowe has much fewer attractions and they are significantly less densely populated than in London, I decided the car would be the best transport mechanism with frequent stops and photo opportunities.<br> 
+Last week I found myself giving a guided tour of London (#5529). This week I've been giving a guided tour my hometown of Felixstowe. As Felixstowe has much fewer attractions and they are significantly less densely populated than in London, I decided the car would be the best transport mechanism with frequent stops and photo opportunities.<br> 
 
 Our first visit was to the Gulpher pond. Well out of the way around the back of town and on a quiet road, it is secluded and usually a good bet for seeing some wildlife.
 

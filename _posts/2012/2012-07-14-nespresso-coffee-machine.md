@@ -8,7 +8,7 @@ leader:
 categories: life
 ---
 
-We were extremely fortunate to be given a Nespresso coffee machine as a gift for our [wedding](/5577) earlier in the week. 
+We were extremely fortunate to be given a Nespresso coffee machine as a gift for our wedding (#5577) earlier in the week. 
 
 I have never seen so much documentation for a machine with only 4 buttons - although most of it was rabbiting on about their endless coffee blends rather than operating instructions, which were nonetheless extensive. 
 

@@ -4,7 +4,7 @@ heading: 'Student? Interested in Technology?'
 categories: uni
 ---
 
-A few weeks ago [I wrote about s2dent.mobi](/2385), the Microsoft mobile site for students on the go.
+A few weeks ago I wrote about s2dent.mobi (#2385), the Microsoft mobile site for students on the go.
 
 Today I'd like to introduce you to another Microsoft site for students, with yet more freebies, information, competitions and more for you!
 

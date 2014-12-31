@@ -12,11 +12,11 @@ Yesterday, under the pretence of something about making everything secure, McAfe
 
 The McAf.ee tool is nothing more than a branding and marketing exercise for its Global Threat Intelligence system. There are security systems implemented in many of the major URL shorteners already in existence, with the inclusion of our own Retwt.me (I should know, I implemented it). For simply detecting links that are spam, the [Google Safe Browsing API](http://code.google.com/apis/safebrowsing/) is used by many providers. It updates in minutes, is authoritative, and secure - because this is the list of URLs that Google itself blacklists against. I doubt that McAfee can offer any real-world security on top of that that is actually any value to consumers.
 
-If you're interested, I've [written about the Safe Browsing API before](/1756).
+If you're interested, I've written about the Safe Browsing API before (#1756).
 
 ## 2. It provides no value to its users
 
-Other than the faux-feature of the security, it actually doesn't provide anything to its users - that includes the people shortening as well as the people who click the links. There is no click tracking or analytics for the person who created the link (even though that's a useless metric anyway - something else I've [written about before](/282)), and the only thing the end user gets is the knowledge that they're going to have a massive McAfee logo plastered above the page they're going to (usually with a big green tick).
+Other than the faux-feature of the security, it actually doesn't provide anything to its users - that includes the people shortening as well as the people who click the links. There is no click tracking or analytics for the person who created the link (even though that's a useless metric anyway - something else I've written about before (#282)), and the only thing the end user gets is the knowledge that they're going to have a massive McAfee logo plastered above the page they're going to (usually with a big green tick).
 
 ## 3. It utterly and completely breaks the Internet
 

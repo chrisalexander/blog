@@ -22,7 +22,7 @@ The result has been a very negative view of the module in question by me and man
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/exam-300x200.jpg" %}
 
-As noted by Chris in an earlier post of his [(click to read)](/729), a very viable option would be to furnish the library with the required number of books. I know this module has 170+ students enrolled, and one could argue the point of: ‘that's too many books to store'. However I think room could be found, after all surely no-one in the loop would expect money to change hands?
+As noted by Chris in an earlier post of his (click to read) (#729), a very viable option would be to furnish the library with the required number of books. I know this module has 170+ students enrolled, and one could argue the point of: ‘that's too many books to store'. However I think room could be found, after all surely no-one in the loop would expect money to change hands?
 
 170 texts is nothing to a publisher, and the publicity would be excellent for all involved... though admittedly in such a system the lecturers wouldn't receive their loyalty cheques. Another concept raised by Chris, is the idea of providing a free ‘.pdf' version of the document, surely also acceptable to all involved?
 

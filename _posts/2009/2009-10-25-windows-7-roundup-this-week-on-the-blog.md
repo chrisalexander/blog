@@ -13,15 +13,15 @@ It would simply have been rude of me not to mention it in at least one post this
 
 ## The Ultimate Steal
 
-First off this week was the Ultimate Steal, Microsoft's way for Students to get Windows 7 for only £30 - bargain! For more information on this, check out [this post](/591).
+First off this week was the Ultimate Steal, Microsoft's way for Students to get Windows 7 for only £30 - bargain! For more information on this, check out this post (#591).
 
 ## Windows 7 for Students
 
-Next up, it wouldn't have been that useful for me to point you to Windows 7 if I did not give you some idea as to why you might want it! [Windows 7 for Students](/543) was very popular, and provides a great way for students who have just got the new operating system to get it working hard for them. Check out [this post](/543).
+Next up, it wouldn't have been that useful for me to point you to Windows 7 if I did not give you some idea as to why you might want it! Windows 7 for Students (#543) was very popular, and provides a great way for students who have just got the new operating system to get it working hard for them. Check out this post (#543).
 
 ## Entertainment in Windows 7
 
-The final post from my blog this week is on how you can get the most out of [Entertainment in Windows 7](/930). With the enhancements to Media Centre and a whole raft of changes, this post is well worth checking out to get the most out of your Windows 7 box and taking your entertainment to the next level with Windows 7.
+The final post from my blog this week is on how you can get the most out of Entertainment in Windows 7 (#930). With the enhancements to Media Centre and a whole raft of changes, this post is well worth checking out to get the most out of your Windows 7 box and taking your entertainment to the next level with Windows 7.
 
 ## Another Perspective: Evronia's Blog
 

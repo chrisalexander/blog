@@ -18,7 +18,7 @@ There's a huge selection to pick from - have a look at the brief overviews, and 
 
 This is the flagship competition of the Imagine Cup, and comes with the biggest prizes!
 
-Create an exceptional technology solution using Microsoft tools that addresses some of the world's toughest problems, as defined by the [UN Millennium Development Goals](/1191).
+Create an exceptional technology solution using Microsoft tools that addresses some of the world's toughest problems, as defined by the UN Millennium Development Goals (#1191).
 
 Microsoft tools and technologies aren't just about the PC any more, so think outside the box and create some excellent solutions! If you think you're up to taking on the biggest challenges and winning the biggest prizes, [find out more](http://imaginecup.com/Competition/mycompetitionportal.aspx?competitionId=37) about the Software Design competition on the Imagine Cup website.
 

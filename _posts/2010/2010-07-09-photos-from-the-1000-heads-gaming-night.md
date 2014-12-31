@@ -4,7 +4,7 @@ heading: 'Photos from the 1000 Heads Gaming Night'
 categories: life
 ---
 
-Recently I [posted about the 1000 Heads night I went to](/3634), featuring many types of games consoles and much fun and mirth.
+Recently I posted about the 1000 Heads night I went to (#3634), featuring many types of games consoles and much fun and mirth.
 
 I posted a video, and now I have got some pictures I also took from the event.
 

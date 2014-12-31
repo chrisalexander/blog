@@ -4,7 +4,7 @@ heading: 'StalkerCheck: An Update'
 categories: life
 ---
 
-Following on from my recent post about the Facebook application [StalkerCheck](/371), Mashable have a post recommending users [stay away from the application](http://mashable.com/2009/09/07/facebook-fan-check-virus-hoax/), recently renamed to Facebook Fan Check.
+Following on from my recent post about the Facebook application StalkerCheck (#371), Mashable have a post recommending users [stay away from the application](http://mashable.com/2009/09/07/facebook-fan-check-virus-hoax/), recently renamed to Facebook Fan Check.
 
 This is the language they use:
 

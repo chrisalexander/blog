@@ -4,7 +4,7 @@ heading: 'Upgrading Your University Webmail'
 categories: uni
 ---
 
-You may have seen my [recent rant](/2405) about the University of Reading's e-mail software. I got so fed up, in fact, that I decided to do something about it.
+You may have seen my recent rant (#2405) about the University of Reading's e-mail software. I got so fed up, in fact, that I decided to do something about it.
 
 That something was to "migrate" my University e-mail to Google Mail. With a release a few months ago, Google gave Mail the complete toolset you need to get it to act as a mail client for your Uni account - seamlessly. This wasn't the only reason, though - with a Google account, the mail and contacts sync much better with my Nexus One.
 

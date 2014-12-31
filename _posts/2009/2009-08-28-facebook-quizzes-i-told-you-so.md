@@ -4,7 +4,7 @@ heading: 'Facebook Quizzes: I Told You So'
 categories: life
 ---
 
-I hate to say it, I really do. But when it comes to Facebook quizzes I really did tell you so - [several](/268) [times](/371). But now, finally, there is some proof behind my ranting madness on this particular topic.Recently I came upon a link to a Facebook quiz created by the American Civil Liberties Union of Northern California (that's their [whole name](http://aclunc.org/index.shtml)) which was about your privacy on Facebook. Unusual topic, I thought, and even more unusual when I found out who they actually were. I was going to dismiss the quiz, until I read this opening paragraph (once I'd given it access to my profile, of course):
+I hate to say it, I really do. But when it comes to Facebook quizzes I really did tell you so - several (#268) times (#371). But now, finally, there is some proof behind my ranting madness on this particular topic.Recently I came upon a link to a Facebook quiz created by the American Civil Liberties Union of Northern California (that's their [whole name](http://aclunc.org/index.shtml)) which was about your privacy on Facebook. Unusual topic, I thought, and even more unusual when I found out who they actually were. I was going to dismiss the quiz, until I read this opening paragraph (once I'd given it access to my profile, of course):
 
 Ever take one of those Facebook quizzes to find out which superhero most resembles your dog, or have a friend who seems to spend most of their life doing so? Then you might be in for a surprise when you take this quiz and learn just how much of your personal information these quizzes can access.
 

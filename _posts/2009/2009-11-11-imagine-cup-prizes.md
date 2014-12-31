@@ -4,7 +4,7 @@ heading: 'Imagine Cup: Prizes'
 categories: microsoft
 ---
 
-We've already talked about the [opportunities](/1209) availalable at the various [Imagine Cup competitions](/1210) (if you missed it, catch up in the Imagine Cup category). Now it's time to take a look at what you could win by taking part.
+We've already talked about the opportunities (#1209) availalable at the various Imagine Cup competitions (#1210) (if you missed it, catch up in the Imagine Cup category). Now it's time to take a look at what you could win by taking part.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ic10.PNG" %}It's not as if the [opportunities](../1209) weren't enough for you just by taking part, here are some extra prizes that should help you along the way.
 
