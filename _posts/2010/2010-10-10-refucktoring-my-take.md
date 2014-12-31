@@ -16,4 +16,4 @@ I have open-sourced my PHP-based attempt at making it as complex as feasibly pos
 
 {% gist 619171 %}
 
-So go check out (and possibly swear at or cry over) my code on [Github](http://github.com/chrisalexander/Refucktoring). Many thanks to @jasongorman for organising the session!
+So go check out (and possibly swear at or cry over) my code on [Github](http://github.com/chrisalexander). Many thanks to @jasongorman for organising the session!
