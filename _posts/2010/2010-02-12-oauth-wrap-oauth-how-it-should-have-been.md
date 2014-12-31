@@ -5,7 +5,7 @@ subheading: 'OAuth how it should have been'
 categories: dev
 ---
 
-You may have read my recent (rather monolithic) post on [Getting Started with OAuth](http://www.chris-alexander.co.uk/1750).
+You may have read my recent (rather monolithic) post on [Getting Started with OAuth](http://www.chris-alexander.co.uk/on-engineering/dev/demystifying-oauth/).
 
 Web Resource Authorisation Protocol (WRAP) is a set of so-called "profiles" for OAuth, which contribute a substantial number of additional features as well as vast simplification of the bloated (yet finally secure) authentication mechanism.
 
@@ -31,6 +31,6 @@ Genius!
 
 ## More on WRAP
 
-For more on WRAP, check out the [official WRAP page](http://wiki.oauth.net/OAuth-WRAP) on OAuth.net, the [OAuth WRAP Working Group](http://groups.google.com/group/oauth-wrap-wg) mailing list, or [this post](http://bret.appspot.com/entry/oauth-wrap) by Bret Taylor, one of FriendFeed's co-founders.
+For more on WRAP, check out the [official WRAP page](http://wiki.oauth.net/OAuth-WRAP) on OAuth.net, the [OAuth WRAP Working Group](http://groups.google.com/group/oauth-wrap-wg) mailing list.
 
-Bob, lead developer at [Huddle](http://www.huddle.net), has also bee busy with WRAP. In fact, his team used it to win a competition at Microsoft. Read all about it [over at the Huddle blog](http://blog.huddle.net/repping-the-uk-scene).
+Bob, lead developer at [Huddle](http://www.huddle.net), has also bee busy with WRAP. In fact, his team used it to win a competition at Microsoft.
