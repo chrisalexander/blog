@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chrisalexander/blog.svg?branch=gh-pages)](https://travis-ci.org/chrisalexander/blog)
+
 ## Writing posts
 
 ### YAML front matter
