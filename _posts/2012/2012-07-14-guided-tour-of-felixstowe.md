@@ -17,7 +17,7 @@ Our first visit was to the Gulpher pond. Well out of the way around the back of 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-PANO_20120714_1417381.jpg" %}
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/oz1DRHy33Uo?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="oz1DRHy33Uo" %}
 
 Then we headed south and stopped off at the martello tower near the docks and beach.
 
