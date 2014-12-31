@@ -20,8 +20,8 @@ It was a brilliant evening and if anyone gets the chance to catch them while the
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100713_203904.jpg" %}
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/ucfoH5KY834?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="ucfoH5KY834" %}
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/u-PtCm9oEq0?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="u-PtCm9oEq0" %}
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/eSjKQUNJw_g?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="eSjKQUNJw_g" %}
