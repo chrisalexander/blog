@@ -18,6 +18,6 @@ Some of the features include backlit keyboard, nVidia graphics, a "Dynamic Hybri
 
 Check out the video embedded below. I could be very tempted by one of these, but as with all things Sony, put off by the price tag.
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/DnTWipoBAT4?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="DnTWipoBAT4" %}
 
 It's also available in full 1080p on [YouTube](http://www.youtube.com/watch?v=DnTWipoBAT4).
