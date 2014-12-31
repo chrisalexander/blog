@@ -15,7 +15,7 @@ Unfortunately my entry did not make it through to the final stages, however I wa
 
 For me, Cairo was an absolutely sensational experience, and I enjoyed every second of it. When we weren't watching ground-breaking presentations by students from every corner of the world, we were meeting new, like-minded people, and experience the rich culture and heritage that Egypt has to offer.
 
-If you want to find out more about what I did while I was in Egypt in-depth, you can check out my series of blog posts that I wrote while I was there. You can find them under the [Imagine Cup category](/category/microsoft/imagine-cup-microsoft). Here's a few highlights.
+If you want to find out more about what I did while I was in Egypt in-depth, you can check out my series of blog posts that I wrote while I was there. You can find them under the Imagine Cup category. Here's a few highlights.
 
 ### The Citadel
 
@@ -43,4 +43,4 @@ After the final day of competition, we had dinner and spent the evening in some 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo2.jpg" %}
 
-This post is part of a series of posts about the Imagine Cup, and what you can get out of the Imagine Cup 2010. Check out the [Imagine Cup category](/category/microsoft/imagine-cup-microsoft) for more.
+This post is part of a series of posts about the Imagine Cup, and what you can get out of the Imagine Cup 2010. Check out the Imagine Cup category for more.
