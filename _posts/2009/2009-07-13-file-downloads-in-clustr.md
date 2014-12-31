@@ -8,8 +8,6 @@ You may remember that a little while ago I released a little solution I had put 
 
 The launch went really well, and everyone seemed very happy with the product.
 
-{% include images/block.html src="http://clustr.me.uk/images/logo.jpg" %}
-
 I'm now pleased to announce that the largest lingering issue from my very rapid development of the product has been cleared up - File Downloads are now reliable and stable! A few hours of tinkering with both the Huddle API and the PHP that powers the site means everything works really well now.
 
 So why not go [check it out now](http://clustr.me.uk)? (You'll have to be on your [iPhone / iPod Touch / Mobile Phone](http://clustr.me.uk) to see the actual product). As ever, please report any bugs to me at the links in the Contact tab above.

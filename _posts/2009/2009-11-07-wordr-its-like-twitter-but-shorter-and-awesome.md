@@ -44,4 +44,4 @@ I've already mentioned this needs a bit of an overhaul, and apparently its in th
 
 I think I may have figured out why I like Wordr so much. Other than it is very nice and fun to use, I think it is the intrigue of only being able to write so much at a time. Some of the tweets I enjoy digesting the most are those that contain fewer words, and are therefore more cryptic. I find with a single word, my imagination can run wild as to what that could mean, and I quite enjoy that.
 
-If you want to check out Wordr, [head over to their site](http://wordr.org) and sign in with your Twitter account (also, ironically).
+If you want to check out Wordr, head over to their site and sign in with your Twitter account (also, ironically).

@@ -21,6 +21,6 @@ First of all, if you're a student, you can get Windows 7 at fantastically reason
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/mice1.png" %}
 
-What about some new hardware for Christmas? You can find an excellent range of student deals on the Microsoft website, for getting your hands on the latest [BlueTrack mice](/645) can be dead easy and great value. Why not check out [Microsoft Hardware](http://www.microsoft.com/hardware/) and the [Student deals](http://www.microsoft.com/hardware/giftguide/default.mspx) today?
+What about some new hardware for Christmas? You can find an excellent range of student deals on the Microsoft website, for getting your hands on the latest [BlueTrack mice](/645) can be dead easy and great value. Why not check out [Microsoft Hardware](http://www.microsoft.com/hardware/) and the Student deals today?
 
 Of course, if you have any suggestions for other great presents, just drop a comment and I'll be happy to add them in!

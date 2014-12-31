@@ -5,7 +5,7 @@ subheading: 'The App Store For The Web'
 categories: google
 ---
 
-Among the plethora of announcements and releases made at [Google IO](http://code.google.com/events/io/2010/), a new major feature for Chrome was announced.
+Among the plethora of announcements and releases made at Google IO, a new major feature for Chrome was announced.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/chrome4.png" %}
 

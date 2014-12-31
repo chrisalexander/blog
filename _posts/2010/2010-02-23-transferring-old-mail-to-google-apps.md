@@ -8,7 +8,7 @@ Since the recent arrival of my Nexus One, I decided it would be a great idea to 
 
 Moving over to Google Apps was a complete breeze - a few buttons and a couple of DNS updates and everything's working beautifully within literally minutes.
 
-However, for some reason the [Google Mail Uploader](http://mail.google.com/mail/help/email_uploader.html) didn't want to play nice with my combination of Outlook 2010 / weird PST locations / multiple mail accounts / multiple inboxes.
+However, for some reason the Google Mail Uploader didn't want to play nice with my combination of Outlook 2010 / weird PST locations / multiple mail accounts / multiple inboxes.
 
 So what I ended up doing was creating an IMAP account for my new Google Apps account, then simply dragging and dropping large chunks of archived mail from my old IMAP server into Google Mail's inbox. Took a while and needed to be done in batches, but worked a treat!
 

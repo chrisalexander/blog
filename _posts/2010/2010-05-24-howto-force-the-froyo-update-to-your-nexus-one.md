@@ -12,7 +12,7 @@ Check out the details below.
 
 ## Preparation
 
-First of all, go and grab the download of the update. You can get this from [here](https://android.clients.google.com/packages/passion/signed-passion-FRF50-from-ERE27.1e519a24.zip) *(update: looks like this is dead. Trying to find a replacement)*. This is the official Google download of the update, which is used by the phones (someone who got the auto update managed to catch where it requested over the network) when they get told they have an OTA available.
+First of all, go and grab the download of the update. You can get this from here *(update: looks like this is dead. Trying to find a replacement)*. This is the official Google download of the update, which is used by the phones (someone who got the auto update managed to catch where it requested over the network) when they get told they have an OTA available.
 
 Rename the file to "update.zip" (if you're on windows and can't see it has .zip already, then just rename it to "update").
 
@@ -34,4 +34,4 @@ Next up, you need to follow a series of instructions that I've added in to this 
 
 ## Sources
 
-Thanks for a bit of help from [Engadget](http://www.engadget.com/2010/05/22/android-2-2-froyo-manual-update-found-now-available-for-non-roo/), [Gadgetopolis](http://www.gadgetopolis.com/posts/7733) and the [XDA dev forums](http://forum.xda-developers.com/showthread.php?t=686560). 
+Thanks for a bit of help from [Engadget](http://www.engadget.com/2010/05/22/android-2-2-froyo-manual-update-found-now-available-for-non-roo/), [Gadgetopolis](http://www.gadgetopolis.com/posts/7733) and the XDA dev forums. 

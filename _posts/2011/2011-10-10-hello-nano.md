@@ -8,7 +8,7 @@ leader:
 categories: hardware
 ---
 
-We were in the Apple store the other day (the fairly new shiny one in Reading's Oracle shopping centre, which seems to have the mystical property of being perpetually busy irrespective of whether the rest of the town is rammed or completely quiet) swapping out a busted iPad power brick - they kindly gave me a new one from their spares for free, after I convinced them I am capable of debugging electrical issues and they verified it was busted - when I decided to buy one of the [new iPod Nanos](http://direct.tesco.com/content/specials/ipod.aspx).
+We were in the Apple store the other day (the fairly new shiny one in Reading's Oracle shopping centre, which seems to have the mystical property of being perpetually busy irrespective of whether the rest of the town is rammed or completely quiet) swapping out a busted iPad power brick - they kindly gave me a new one from their spares for free, after I convinced them I am capable of debugging electrical issues and they verified it was busted - when I decided to buy one of the new iPod Nanos.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/10/front.jpg" %}
 

@@ -22,7 +22,7 @@ This is where the Huddle for Office plugins come in. They allow you to edit your
 
 ## Easy Installation
 
-Installing the plugins takes just a few seconds. Here I'm using the Word plugin in Office 2010 (which I [recently installed](/1453)) but the plugins will also work with Office 2007 (but not any earlier versions).
+Installing the plugins takes just a few seconds. Here I'm using the Word plugin in Office 2010 (which I [recently installed](/on-engineering/microsoft/office-2010-beta-2/)) but the plugins will also work with Office 2007 (but not any earlier versions).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/install4a-300x113.jpg" %}
 
@@ -66,6 +66,6 @@ Soon all of Huddle's users will be able to seamlessly pull files from the cloud,
 
 Many more companies will realise in the future that they can use "the cloud" to enhance their user's experiences on the desktop. This is just the first step in this process, and we can look forward to many more exciting enhancements like this to come.
 
-*For other Huddle applications and extras, check out the [Apps and Extras](http://www.huddle.net/apps-and-extras/) page; featuring [Clustr](http://clustr.me.uk), the best way to access Huddle on the go, from your iPhone or any mobile.*
+*For other Huddle applications and extras, check out the Apps and Extras page; featuring Clustr, the best way to access Huddle on the go, from your iPhone or any mobile.*
 
-*Advertising is available on this site - visit the [Advertising](/advertise) section to find out more.*
+*Advertising is available on this site - visit the Advertising section to find out more.*

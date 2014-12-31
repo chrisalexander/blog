@@ -18,6 +18,6 @@ The App Engine site then posts this off to the Google push servers, which nudge 
 
 To find out more about the project, you can head over to the [Google Code project](http://code.google.com/p/chrometophone/), or read up on it at [TechCrunch](http://techcrunch.com/2010/05/23/chrome-to-android-push/).
 
-But the simple way to get started is to [download the extension here](http://chrometophone.googlecode.com/files/chrometophone-extension.crx), then zap the QR code below on your phone, and you're pretty much there!
+But the simple way to get started is to download the extension here, then zap the QR code below on your phone, and you're pretty much there!
 
 {% include images/block.html src="http://chart.apis.google.com/chart?chs=150x150&amp;cht=qr&amp;chl=http://chrometophone.googlecode.com/files/chrometophone-android.apk&amp;chld=L|1&amp;choe=UTF-8" %}

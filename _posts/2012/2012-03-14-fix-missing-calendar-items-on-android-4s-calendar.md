@@ -34,4 +34,4 @@ Following a lack of working fixes online, I have come up with this process for c
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-15-52.png" %}
 
-{% include images/block.html src="http://chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-16-42.png" %}
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-16-42.png" %}

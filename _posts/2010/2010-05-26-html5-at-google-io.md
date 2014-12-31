@@ -4,7 +4,7 @@ heading: 'HTML5 at Google IO'
 categories: microsoft
 ---
 
-Wow, HTML 5 had a brilliant time at [Google IO](http://code.google.com/events/io/2010/) last week. Here's a recap of some of the top news coming from the event regarding the technology.
+Wow, HTML 5 had a brilliant time at Google IO last week. Here's a recap of some of the top news coming from the event regarding the technology.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/google_logo3.png" %}
 
