@@ -6,17 +6,17 @@ categories: dev
 
 Having trouble getting your thoughts into 140 characters? Try getting them into a word.
 
-That is the principle behind [Wordr](http://wordr.org), a service I came across recently and pretty much instantly fell for.
+That is the principle behind Wordr, a service I came across recently and pretty much instantly fell for.
 
 Yeah yeah, "It's just another Twitter clone" I hear you cry. And you'd be right, it unashamedly admits this on its homepage. Its a very simple one at that, featuring just the bare-bones to get the service up and running - it seems the backend is progressing quite nicely, but I think their frontend could do with some work, as they (ironically) confirmed [in a tweet](http://twitter.com/wordr/status/5449101021).
 
-What I love about Wordr is that it distils the art of communication down to the finest nuggets - a single word. Well, 28 characters to be precise, the length of [antidisestablishmentarianism](http://wordr.org/words/antidisestablishmentarianism), and with an optional question or exclamation mark at the end. No spaces, no hyphens, and you get a very cheeky message when you try and use an underscore!
+What I love about Wordr is that it distils the art of communication down to the finest nuggets - a single word. Well, 28 characters to be precise, the length of antidisestablishmentarianism, and with an optional question or exclamation mark at the end. No spaces, no hyphens, and you get a very cheeky message when you try and use an underscore!
 
-{% include images/block.html src="http://chris-alexander.co.uk/wp-content/uploads/2009/11/underscore.jpg" %}
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/underscore.jpg" %}
 
 To be honest, I'm not quite sure exactly why I am drawn to Wordr. Sure it's simple, and very plain at the moment, and its main selling point is that you can't do very much with it (but look where that got Twitter!). I've come up with a few ideas on how Wordr can improve.
 
-{% include images/block.html src="http://chris-alexander.co.uk/wp-content/uploads/2009/11/wordr.jpg" %}
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/wordr.jpg" %}
 
 ## Links
 
@@ -38,7 +38,7 @@ We need to get at this data! Especially if there are links in it. It seems to me
 
 I've already mentioned this needs a bit of an overhaul, and apparently its in the works. As I said, there is so much potential here, and a great UI (and hopefully something different to what Twitter have done) would really enhance that.
 
-{% include images/block.html src="http://chris-alexander.co.uk/wp-content/uploads/2009/11/words.jpg" %}
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/words.jpg" %}
 
 ## Conclusion
 
