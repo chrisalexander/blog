@@ -10,6 +10,6 @@ To play games with Kinect, all you need to do is place yourself in front of the 
 
 So below I've embedded two videos of Kinect gameplay. The first of these is a look at a bit of in-game footage, some explanation as to how Kinect is to use and play with, and a tiny bit of technical detail (not much I promise). Following up from that is a video of the Windows Phone 7 competition at #ukpdc10, where @Daniel_Parker walked off with a Windows Phone 7 having run 2x100m.
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/TJ09LrZRen4?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="TJ09LrZRen4" %}
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/bxjJQnwxFmM?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="bxjJQnwxFmM" %}
