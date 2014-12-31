@@ -11,7 +11,7 @@ But first, a little history.
 
 Until a few days ago, I had had a Nokia E61i, my then favourite phone of all time. Full QUERTY keyboard, S60 OS power, good 3G and E-mail, but most of all my loyal companion for many years.
 
-For a short while (while that was out of commission) I had had an original iPhone; I found that a rather painful device, as my [numerous posts on the subject](/tag/iphone) gently hint at.
+For a short while (while that was out of commission) I had had an original iPhone; I found that a rather painful device, as my numerous posts on the subject gently hint at.
 
 And last Thursday we embarked on the next phase - a Nexus One [appeared on my desk](/2613).
 

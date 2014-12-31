@@ -4,7 +4,7 @@ heading: 'The Frankincense Trail'
 categories: life
 ---
 
-Following my recent trip to [Egypt](/tag/cairo), I have been watching an excellent series of documentaries on BBC HD called [The Frankincense Trail](http://www.bbc.co.uk/programmes/b00mfzjr).
+Following my recent trip to Egypt, I have been watching an excellent series of documentaries on BBC HD called [The Frankincense Trail](http://www.bbc.co.uk/programmes/b00mfzjr).
 
 The programme covers the story of the ancient trade route that started at the source of [Frankincense](http://en.wikipedia.org/wiki/Frankincense) in Oman, before Bedouin traders took their camel trains the entire length of the Arabian Peninsula through modern-day Oman, Yemen, the whole length of Saudi Arabia, Israel to the Mediterranean port of Gaza, where the Frankincense was distributed all over Europe and Africa.
 

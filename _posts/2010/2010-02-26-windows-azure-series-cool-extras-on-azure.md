@@ -20,4 +20,4 @@ Combine this with what I've already written, and you have a powerful and multi-p
 
 To give you an idea of what's possible with Azure (and Silverlight), check out [Eye On Earth](http://domgreen.com/2009/11/23/keeping-an-eye-on-the-earth/), a global environment monitor.
 
-*For loads more information on Azure, check out [Dom Green's blog](http://domgreen.com) (the UK's resident Azure expert), the official [Azure blog](http://blogs.msdn.com/windowsazure/) and [website](http://www.microsoft.com/windowsazure/), or the [Azure tag](/tag/azure).*
+*For loads more information on Azure, check out [Dom Green's blog](http://domgreen.com) (the UK's resident Azure expert), the official [Azure blog](http://blogs.msdn.com/windowsazure/) and [website](http://www.microsoft.com/windowsazure/), or the Azure tag.*

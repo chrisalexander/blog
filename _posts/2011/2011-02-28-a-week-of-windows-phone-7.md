@@ -16,6 +16,6 @@ I'm a bit of a smartphone geek (I'm permanently attached to my Nexus One) so to 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/trophy.jpg" %}
 
-I'm going to be publishing blog posts (check the [WP7 tag](/tag/wp7)), [tweets](http://twitter.com/chris_alexander) and videos all week telling how I get on with it. This is day 1, and the first video is embedded below!
+I'm going to be publishing blog posts, [tweets](http://twitter.com/chris_alexander) and videos all week telling how I get on with it. This is day 1, and the first video is embedded below!
 
 {% include youtube.html id="GrWJBYfogD4" %}

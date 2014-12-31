@@ -4,7 +4,7 @@ heading: 'Transferring old mail to Google Apps'
 categories: google
 ---
 
-Since the recent arrival of my [Nexus One](/tag/nexus-one), I decided it would be a great idea to move all the e-mail for my website over to Google Apps. This enables all the snazzy benefits of the Nexus One, without the polling required to read IMAP mail accounts. Unfortunately my Uni e-mail will still have to be IMAP - but that's a post for another day.
+Since the recent arrival of my Nexus One, I decided it would be a great idea to move all the e-mail for my website over to Google Apps. This enables all the snazzy benefits of the Nexus One, without the polling required to read IMAP mail accounts. Unfortunately my Uni e-mail will still have to be IMAP - but that's a post for another day.
 
 Moving over to Google Apps was a complete breeze - a few buttons and a couple of DNS updates and everything's working beautifully within literally minutes.
 

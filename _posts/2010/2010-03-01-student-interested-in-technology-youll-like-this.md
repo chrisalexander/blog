@@ -32,7 +32,7 @@ Discover more on the [learning](http://www.microsoft.com/student/en/us/default.a
 
 ## A Good Cause - Imagine Cup
 
-Of course there is a section on */student* dedicated to the Imagine Cup. If you're not familiar with it, check out my [huge number of posts](/tag/imagine-cup) in the past about the competition.
+Of course there is a section on */student* dedicated to the Imagine Cup. If you're not familiar with it, check out my huge number of posts in the past about the competition.
 
 There's more resources on the [Good Cause section](http://www.microsoft.com/student/en/us/default.aspx#a-good-cause) to get you started with the competition.
 
