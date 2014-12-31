@@ -8,10 +8,10 @@ I've had a crazy couple of days and decided the old site design had had its day 
 
 Here's a few posts that I think look really good with the new design:
 
-* [Dark of the Moon review](/5139)
-* [Of Vampires and Lycans](/427)
-* [Introducing Amoeba-1](/5300)
-* [Epic Citadel](/4015)
+* [Dark of the Moon review](/on-engineering/films/transformers-dark-of-the-moon-review/)
+* [Of Vampires and Lycans](/on-engineering/life/of-vampires-and-lycans/)
+* [Introducing Amoeba-1](/on-engineering/uni/introducing-amoeba-1-and-the-birth-of-project-origin/)
+* [Epic Citadel](/on-engineering/life/epic-citadel-is-well-epic/)
 
 Having played around with Twitter's Bootstrap for a bit, I thought I'd give it a go as the main framework. I got on with it well and had to fiddle with only a couple of bits and pieces to get it to play ball. Their new responsive stuff is good and if you check out the site on your phone or tablet you should get an equally nice experience now. The site is also a lot simpler so it is quicker to load, and it hurts the eyes less.
 

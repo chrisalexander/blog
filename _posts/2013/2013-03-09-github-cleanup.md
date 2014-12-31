@@ -14,4 +14,4 @@ Github is a critical metric when we're hiring developers. If you have a Github a
 
 I have spent today clearing out my Github account a little. Deleting forks I don't maintain (or have a reason to), transferring a few repos to [our work Github org](https://github.com/import-io) (we &lt;3 open source), and creating an entirely new org for ARNIE software.
 
-[ARNIE](/4792) was my third-year group project at Uni and I open-sourced a lot of the code as I wrote it. This was causing quite a lot of projects to hang around on my personal account, so I transferred them all to [the arnie-robot org](https://github.com/arnie-robot). If you're interested in digging up my old code, there's where you want to go!
+[ARNIE](/on-engineering/uni/an-introduction-to-arnie/) was my third-year group project at Uni and I open-sourced a lot of the code as I wrote it. This was causing quite a lot of projects to hang around on my personal account, so I transferred them all to [the arnie-robot org](https://github.com/arnie-robot). If you're interested in digging up my old code, there's where you want to go!

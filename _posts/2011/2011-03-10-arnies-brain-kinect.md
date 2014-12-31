@@ -54,8 +54,8 @@ Here's a demo of the Kinect teleoperator in action, when the arm was not mounted
 
 ## Previous posts in this series
 
-* [An introduction to ARNIE](/4792)
-* [An introduction to ARNIE: technical overview](/4800)
+* [An introduction to ARNIE](/on-engineering/uni/an-introduction-to-arnie/)
+* [An introduction to ARNIE: technical overview](/on-engineering/uni/an-introduction-to-arnie-technical-overview/)
 * [ARNIE's Brain: Spine and networking](/4811)
 
 ## Code

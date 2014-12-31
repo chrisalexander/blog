@@ -36,7 +36,7 @@ You may remember last year [Microsoft announced its Chicago datacentre](http://w
 
 You don't have to be an enterprise customer to take advantage of Microsoft's green initiatives.
 
-[Windows 7](http://www.microsoft.com/environment/windows7.aspx) represents a huge step forward in reducing power and waste in personal computers.
+Windows 7 represents a huge step forward in reducing power and waste in personal computers.
 
 Features such as advanced power optimisation and tools for IT managers to more effectively manage energy consumption make it easy and quicker to configure computers to use power more efficiently.
 

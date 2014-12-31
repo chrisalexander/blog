@@ -6,7 +6,7 @@ categories: life
 
 Now it's time for me to fess up. The other day I performed a little experiment on you people, or at least my Twitter followers.
 
-If you frequent my blog recently, you may have noticed something slightly unusual on one of my posts. I fairly frequently post pictures (more often than not, lolcats) to spice up the page a bit and make it a bit more exciting. One of my other recent posts, however, went a bit further - I'd be surprised if the [page-high, full-width photo of an oft-admired actress wearing a summery dress](/427) didn't catch your attention.
+If you frequent my blog recently, you may have noticed something slightly unusual on one of my posts. I fairly frequently post pictures (more often than not, lolcats) to spice up the page a bit and make it a bit more exciting. One of my other recent posts, however, went a bit further - I'd be surprised if the [page-high, full-width photo of an oft-admired actress wearing a summery dress](/on-engineering/life/of-vampires-and-lycans/) didn't catch your attention.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/kb.png" %}
 

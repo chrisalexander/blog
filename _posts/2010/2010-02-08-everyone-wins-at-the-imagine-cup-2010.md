@@ -6,7 +6,7 @@ categories: uni
 
 Entries are still open for 4 competitions of the Imagine Cup - [Embedded](http://imaginecup.com/GB/SD.aspx#ed), [Game Design](http://imaginecup.com/GB/SD.aspx#gd), [Digital Media](http://imaginecup.com/GB/SD.aspx#dm) and [IT Challenge](http://imaginecup.com/GB/SD.aspx#itc).
 
-What's more, if you [sign up today](http://bit.ly/ICRMSP08), Microsoft will donate money to the 5 charities that they are working with this year!
+What's more, if you [sign up today](https://www.imaginecup.com/), Microsoft will donate money to the 5 charities that they are working with this year!
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/icpromo.jpg" %}
 
@@ -52,4 +52,4 @@ Know your systems? IT manager in the making? This competition is for you. Sign u
 
 ## Sign Up Now!
 
-So what are you waiting for? [Sign up today](http://bit.ly/ICRMSP08) and get started in these great competitions, and raise money for fantastic charitites!
+So what are you waiting for? [Sign up today](https://www.imaginecup.com/) and get started in these great competitions, and raise money for fantastic charitites!

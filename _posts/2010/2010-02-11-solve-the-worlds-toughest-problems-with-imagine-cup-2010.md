@@ -9,7 +9,7 @@ categories: uni
 
 *Imagine a world where technology helps solve the toughest problems*
 
-This is the bold calling of the 2010 [Imagine Cup](http://bit.ly/ICRMSP08), Microsoft's worldwide student technology competition. Aimed at students just like you the whole world over, the aim of the Software Design competition is to give *you* the opportunity to revolutionise how technology enhances our lives.
+This is the bold calling of the 2010 [Imagine Cup](https://www.imaginecup.com/), Microsoft's worldwide student technology competition. Aimed at students just like you the whole world over, the aim of the Software Design competition is to give *you* the opportunity to revolutionise how technology enhances our lives.
 
 ## Big Goals. Huge Challenges.
 
@@ -23,7 +23,7 @@ The UN Millennium Development Goals are wide-ranging and affect every corner of 
 
 ## Get Started Now.
 
-Start making a difference today, and get started on those world-changing applications. [Signup](http://bit.ly/ICRMSP08) for the remaining open competitions; you can find out more information on the Imagine Cup website. Why not get [started now](http://bit.ly/ICRMSP08)?
+Start making a difference today, and get started on those world-changing applications. [Signup](https://www.imaginecup.com/) for the remaining open competitions; you can find out more information on the Imagine Cup website. Why not get [started now](https://www.imaginecup.com/)?
 
 **And if you needed a further incentive**, Microsoft will be donating money to the charities they are working with this year when you sign up. So go ahead and do it today!
 
