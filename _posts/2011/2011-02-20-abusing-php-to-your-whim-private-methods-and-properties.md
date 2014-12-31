@@ -5,7 +5,7 @@ subheading: 'Private methods and properties'
 categories: dev
 ---
 
-I have recently been writing a lot of code (and open-sourcing it - see [here](https://github.com/chrisalexander/PYT), [here](https://github.com/chrisalexander/Decypher), [here](https://github.com/chrisalexander/BrainJS), [here](https://github.com/chrisalexander/English), [here](https://github.com/chrisalexander/Spine), [here](https://github.com/chrisalexander/libfreenect) / [here](https://github.com/Kodhus/Ariel), [here](https://github.com/Kodhus/Mo), [here](https://github.com/Kodhus/Mint)) and today came across a particular problem and a rather convenient solution provided by PHP's visibility rules for methods and properties of classes.
+I have recently been writing a lot of code (and open-sourcing it - see [here](https://github.com/arnie-robot/PYT), [here](https://github.com/arnie-robot/Decypher), [here](https://github.com/arnie-robot/BrainJS), [here](https://github.com/arnie-robot/English), [here](https://github.com/arnie-robot/Spine), [here](https://github.com/siu07cja/libfreenect) / [here](https://github.com/Kodhus/Ariel), [here](https://github.com/Kodhus/Mo), [here](https://github.com/Kodhus/Mint)) and today came across a particular problem and a rather convenient solution provided by PHP's visibility rules for methods and properties of classes.
 
 I am working on a PHP-based object mapper to help out loading and saving objects to one or more data stores - see [Mo](https://github.com/Kodhus/Mo). I was adding support for multi-loads, with datastores that can provide multiple results more optimally in a single query (for example, MySQL can select a set of items given a list of IDs). What I wanted to do was:
 
