@@ -12,6 +12,6 @@ Since then I have not been able to find any articles, blogs and so on which deta
 
 So I thought it would be a good idea to post about it, and see if any developer types have any suggestions for improving them.
 
-The documentation in question is for DataSift - the [API documentation](http://support.datasift.net/faqs/api) and the [FSDL documentation](http://support.datasift.net/faqs/fsdl).
+The documentation in question is for DataSift - the [API documentation](http://support.datasift.com).
 
 So far the feedback has consisted of someone telling me that I write like an academic and should make my sentences shorter - so anything you have to add would be appreciated.
