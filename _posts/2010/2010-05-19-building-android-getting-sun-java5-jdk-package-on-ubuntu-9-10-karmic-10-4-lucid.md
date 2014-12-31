@@ -31,4 +31,4 @@ And finally to install:
 
 ### 4. Continue process
 
-Continue the process with the instructions [here](http://source.android.com/download).
+Continue the process with the instructions [here](http://source.android.com).
