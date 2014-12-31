@@ -25,7 +25,7 @@ I suppose the advantage of the OS is that it is based on Linux and can do the cl
 
 Nokia must do better if they want to survive in the face of iPhone and Android. The last really decent phone they brought out was the E71, but they cannot survive on business sales alone (thanks to BlackBerry).
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/Lx-7jeamYa8?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="Lx-7jeamYa8" %}
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193505.jpg" %}
 

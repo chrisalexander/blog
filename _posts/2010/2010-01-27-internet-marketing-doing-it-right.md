@@ -34,7 +34,7 @@ It would be a travesty now not to mention Aleksandr Orlov, founder of [CompareTh
 
 They have really reaped the rewards of that campaign being so popular, so much so that they are producing their own blooper reels for their TV ads. I just couldn't let this pass without this epic clip:
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/m1gKptKNSCg?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="m1gKptKNSCg" %}
 
 Another one that I'm not so keen on but went down quite well on the internet is the Evian skating babies ad. They have their own YouTube channel, and it's thoughts like that which make it so easy for people to share the content with their friends.
 

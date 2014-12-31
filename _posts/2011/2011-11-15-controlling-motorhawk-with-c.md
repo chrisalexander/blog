@@ -14,7 +14,7 @@ It turns out this is actually ludicrously simple. First of all I used .NET's P/I
 
 Here's a video of my first hash at it in action:
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/jxe89SwNbrA?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="jxe89SwNbrA" %}
 
 I'm pleased to announce a much cleaned-up version of the code is now [open source under the BSD license](https://github.com/chrisalexander/HawkSharp). It doesn't include the hawk.dll but you should have this if you have bought a board (it will be on the CD in the DLL directory). Currently it supports MotorHawk's simplest functionality only (that's all I really need). If you're interested in extending (in my code design I aimed to make this as easy as possible) please do so and send the GitHub project a pull request and I will happily merge it in after some testing.
 

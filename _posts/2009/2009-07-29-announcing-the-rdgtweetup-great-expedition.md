@@ -12,7 +12,7 @@ Banksy is an internationally renowned guerilla street artist, making his name pa
 
 Here's a preview of his work on display at the Bristol Museum:
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/lRai9x8aD3A?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="lRai9x8aD3A" %}
 
 ## Awesome! I want to go!
 

@@ -50,7 +50,7 @@ The final piece of the code is a separate thread that dispatches new positions t
 
 Here's a demo of the Kinect teleoperator in action, when the arm was not mounted on ARNIE's body.
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/ToJt5nvBSpc?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="ToJt5nvBSpc" %}
 
 ## Previous posts in this series
 

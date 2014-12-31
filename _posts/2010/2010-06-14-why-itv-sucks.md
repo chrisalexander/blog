@@ -24,7 +24,7 @@ This one's pretty much unforgivable.
 
 England scored after 3.5 minutes, of course, and during that time the ITV HD channel managed to show an advert. Just a single advert, then a black screen, but before it started it was 0-0 and they came back to Steven Gerrard celebrating his goal. Pretty shocking.
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/8bz6vxPkMR0?wmode=transparent&amp;fs=1&amp;hl=en&amp;modestbranding=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="8bz6vxPkMR0" %}
 
 ## Online feed sucks
 
