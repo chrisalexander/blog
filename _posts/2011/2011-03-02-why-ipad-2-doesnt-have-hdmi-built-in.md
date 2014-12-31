@@ -6,7 +6,7 @@ categories: ['apple', 'ipad']
 
 One thing struck me, other than the inexplicable absence of a “retina” display in the new iPad model, about Apple’s [announcement](http://www.engadget.com/2011/03/02/live-from-apples-ipad-2-event/) today. Why did Apple not build HDMI into the iPad 2?
 
-{% include images/block.html src="http://www.chris-alexander.co.uk/wp-content/uploads/2011/03/ipad2.png" %}
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/03/ipad2.png" %}
 
 It’s not for the lack of space. The iPad 2 is 8.8mm thick ([reference](http://www.apple.com/uk/ipad/specs/)), and a female HDMI A port (that it would require) is only 4.55mm high ([reference](http://en.wikipedia.org/wiki/HDMI#Connectors)), still giving Apple just over 4mm to play around with and move the port up and down.
 
@@ -22,7 +22,7 @@ I can’t see Apple doing either of these things (let’s face it, their [adapte
 
 The reason Apple haven’t built HDMI into the iPad, and caused everyone a load of hassle with yet another adapter they can lose and that looks stupid, is simple: money.
 
-{% include images/block.html src="http://www.chris-alexander.co.uk/wp-content/uploads/2011/03/hdmi.png" %}
+{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/03/hdmi.png" %}
 
 If you sell 15 million units in 9 months, that equates to over $2,250,000 dollars – yes two and a quarter million – in royalty payments over a single connector. Alternatively, you could sell it as an add-on. Let’s assume 10% of iPad owners will also own the connector – that reduces the royalty payment to a paltry $225,000, which can easily be absorbed in the gigantic markup they make by charging $39 for 2 inches of cable.
 
