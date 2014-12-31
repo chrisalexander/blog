@@ -4,7 +4,7 @@ heading: 'ChrisBot: Play Tic Tac Toe'
 categories: dev
 ---
 
-One of the sessions I attended at Software Craftsmanship 2010 (the other being on [Refucktoring](http://www.chris-alexander.co.uk/4181)) was called Robot Tournaments. This seemed extremely intriguing to me so I was there with the laptop out ready to try my hand at whatever this tournament was.
+One of the sessions I attended at Software Craftsmanship 2010 (the other being on [Refucktoring](http://www.chris-alexander.co.uk/on-engineering/dev/refucktoring-my-take/)) was called Robot Tournaments. This seemed extremely intriguing to me so I was there with the laptop out ready to try my hand at whatever this tournament was.
 
 The idea of the project was to create a battlebot rewarding a rapid development cycle. There is a central tournament server which executes everyone's scripts in various "rounds" of battle. You are pitted against all the other competitors in each round. The sooner you deploy *something*, the more points you got. The idea was to promote the concept that fast iterations are more rewarding than sitting working on a feature for a long period of time.
 
@@ -18,6 +18,6 @@ My code is currently in a pretty buggy state, as it was not quite working proper
 * Attempts to place in the square which would contribute to the most number of solutions
 * Attempts to place in the square which would contribute to the most number of solutions that would allow me to win (heh, oops)
 
-You can go grab my code now on [Github](http://github.com/chrisalexander/ChrisBot). I don't recommend running it in its current state ;-) If I get the opportunity I will try and iron the bugs out of the algorithm and make it a bit more efficient. Thanks to @MattWynne for the session - his tournament server is [open source too](http://github.com/mattwynne/robot_tournament).
+You can go grab my code now on [Github](http://github.com/chrisalexander). I don't recommend running it in its current state ;-) If I get the opportunity I will try and iron the bugs out of the algorithm and make it a bit more efficient. Thanks to @MattWynne for the session - his tournament server is [open source too](http://github.com/mattwynne/robot_tournament).
 
 As a follow-up to this, I'd love to get some students involved in playing these too, and maybe try running it at a few events too!
