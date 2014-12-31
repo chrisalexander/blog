@@ -22,7 +22,7 @@ Plug your Nexus One into your PC, and mount the SD card, then copy the "update.z
 
 Next up, you need to follow a series of instructions that I've added in to this video of my phone's update. They are summarised below, and if you want more detail, check out [this post](http://www.gadgetopolis.com/posts/7733).
 
-<span class="youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/-944-pZx8xk?wmode=transparent&amp;fs=1&amp;hl=…=1&amp;iv_load_policy=3&amp;showsearch=0&amp;rel=0&amp;theme=dark&amp;hd=1" frameborder="0" allowfullscreen=""> </iframe></span>
+{% include youtube.html id="-944-pZx8xk" %}
 
 * Say Goodbye to Eclair - Shut Down Nexus One
 * Press power while holding trackball
