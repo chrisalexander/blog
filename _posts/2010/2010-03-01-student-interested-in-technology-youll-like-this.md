@@ -4,7 +4,7 @@ heading: 'Student? Interested in Technology?'
 categories: uni
 ---
 
-A few weeks ago [I wrote about s2dent.mobi](http://www.chris-alexander.co.uk/2385), the Microsoft mobile site for students on the go.
+A few weeks ago [I wrote about s2dent.mobi](/2385), the Microsoft mobile site for students on the go.
 
 Today I'd like to introduce you to another Microsoft site for students, with yet more freebies, information, competitions and more for you!
 
@@ -32,7 +32,7 @@ Discover more on the [learning](http://www.microsoft.com/student/en/us/default.a
 
 ## A Good Cause - Imagine Cup
 
-Of course there is a section on */student* dedicated to the Imagine Cup. If you're not familiar with it, check out my [huge number of posts](http://www.chris-alexander.co.uk/tag/imagine-cup) in the past about the competition.
+Of course there is a section on */student* dedicated to the Imagine Cup. If you're not familiar with it, check out my [huge number of posts](/tag/imagine-cup) in the past about the competition.
 
 There's more resources on the [Good Cause section](http://www.microsoft.com/student/en/us/default.aspx#a-good-cause) to get you started with the competition.
 

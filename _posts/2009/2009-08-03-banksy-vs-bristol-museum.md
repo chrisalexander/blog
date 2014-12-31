@@ -4,7 +4,7 @@ heading: 'Banksy vs Bristol Museum'
 categories: life
 ---
 
-Last Saturday, a crew from Reading made the 2-hour excursion to central Bristol to visit the [Banksy ](http://www.banksy.co.uk/)vs [Brisol Museum](http://www.bristol.gov.uk/ccm/navigation/leisure-and-culture/museums-and-galleries/;jsessionid=045E09B00ECFE7AB9EBE17B764233F61.tcwwwaplaws3) exhibition. It [promised to be](http://www.chris-alexander.co.uk/358) very good and we were all very excited about it!
+Last Saturday, a crew from Reading made the 2-hour excursion to central Bristol to visit the [Banksy ](http://www.banksy.co.uk/)vs [Brisol Museum](http://www.bristol.gov.uk/ccm/navigation/leisure-and-culture/museums-and-galleries/;jsessionid=045E09B00ECFE7AB9EBE17B764233F61.tcwwwaplaws3) exhibition. It [promised to be](/358) very good and we were all very excited about it!
 
 Once we arrived there was the predictably long queue - almost exactly 2 hours of waiting in on-and-off drizzle, in fact.
 

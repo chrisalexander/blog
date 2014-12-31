@@ -4,7 +4,7 @@ heading: 'ChrisBot: Play Tic Tac Toe'
 categories: dev
 ---
 
-One of the sessions I attended at Software Craftsmanship 2010 (the other being on [Refucktoring](http://www.chris-alexander.co.uk/on-engineering/dev/refucktoring-my-take/)) was called Robot Tournaments. This seemed extremely intriguing to me so I was there with the laptop out ready to try my hand at whatever this tournament was.
+One of the sessions I attended at Software Craftsmanship 2010 (the other being on [Refucktoring](/on-engineering/dev/refucktoring-my-take/)) was called Robot Tournaments. This seemed extremely intriguing to me so I was there with the laptop out ready to try my hand at whatever this tournament was.
 
 The idea of the project was to create a battlebot rewarding a rapid development cycle. There is a central tournament server which executes everyone's scripts in various "rounds" of battle. You are pitted against all the other competitors in each round. The sooner you deploy *something*, the more points you got. The idea was to promote the concept that fast iterations are more rewarding than sitting working on a feature for a long period of time.
 

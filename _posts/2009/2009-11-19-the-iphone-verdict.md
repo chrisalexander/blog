@@ -9,7 +9,7 @@ leader:
 categories: life
 ---
 
-Following my recent mobile disaster and [rapid (yet cheap) recovery](http://www.chris-alexander.co.uk/1277), my boss Nick (@nickhalstead) was happy to loan me a first generation iPhone (yes, thats the one with 2G internet only) to tide me over until I sort out something decent (I've had to spend a lot on a [new car](http://www.chris-alexander.co.uk/1332) recently).
+Following my recent mobile disaster and [rapid (yet cheap) recovery](/1277), my boss Nick (@nickhalstead) was happy to loan me a first generation iPhone (yes, thats the one with 2G internet only) to tide me over until I sort out something decent (I've had to spend a lot on a [new car](/1332) recently).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/iPhone2G.jpg" %}
 

@@ -4,7 +4,7 @@ heading: 'Robot videos'
 categories: robots
 ---
 
-My [post earlier](http://www.chris-alexander.co.uk/on-engineering/robots/nano-quadrotors-at-the-university-of-pennsylvania/) about the hovering robots got me thinking about other robot videos I've seen recently. I thought I'd have a look to see what else is around online at the moment. Here are some highlights.
+My [post earlier](/on-engineering/robots/nano-quadrotors-at-the-university-of-pennsylvania/) about the hovering robots got me thinking about other robot videos I've seen recently. I thought I'd have a look to see what else is around online at the moment. Here are some highlights.
 
 ### Big Dog
 

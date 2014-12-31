@@ -4,7 +4,7 @@ heading: 'New in ASP .NET MVC 2'
 categories: dev
 ---
 
-I was recently at an all-day event with Scott Guthrie from Microsoft - [read about the event here](http://www.chris-alexander.co.uk/3091). Here I collect what he had to say about what's new in ASP .NET MVC 2.
+I was recently at an all-day event with Scott Guthrie from Microsoft - [read about the event here](/3091). Here I collect what he had to say about what's new in ASP .NET MVC 2.
 
 The final post in this series from the event, it is another collection of random notes that I made during the day - hopefully it makes some kind of sense and is somewhat useful!
 

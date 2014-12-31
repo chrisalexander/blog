@@ -4,7 +4,7 @@ heading: 'A More Advanced Simple Server'
 categories: dev
 ---
 
-You may have seen [my post a while back](http://www.chris-alexander.co.uk/on-engineering/dev/a-webserver-in-50-lines-of-code/) featuring a Python webserver in less than 50 lines of code.
+You may have seen [my post a while back](/on-engineering/dev/a-webserver-in-50-lines-of-code/) featuring a Python webserver in less than 50 lines of code.
 
 I was tinkering with it a little bit this evening, and decided that I could actually make this pretty useful.
 

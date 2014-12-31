@@ -20,7 +20,7 @@ I've been lamenting the iPhone (and, in some ways, the iPod Touch) for months go
 
 As for the iPod Touch, I'm not so bothered. Why? Because it is not a phone and I do not expect it to be one - I want it to be my little portal to the internet and my music and nothing more. One thing at a time is all I expect of its diminutive dimensions and petite price tag.
 
-To an extent I contradicted myself slightly with the arrival of the iPad. Why would I expect such a thing *not* to have the ability to run more than one application? More detail on that [over](http://www.chris-alexander.co.uk/2280) [here](http://www.chris-alexander.co.uk/2301).
+To an extent I contradicted myself slightly with the arrival of the iPad. Why would I expect such a thing *not* to have the ability to run more than one application? More detail on that [over](/2280) [here](/2301).
 
 However, with Windows Phone 7 Series (henceforth abbreviated to "7 Series", because I'm getting *really* tired of typing all that) Microsoft have done the same thing as Apple.
 

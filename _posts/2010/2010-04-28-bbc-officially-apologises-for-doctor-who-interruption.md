@@ -24,4 +24,4 @@ BBC Complaints
 
 Glad to see them apologise, let's hope they don't do it again!
 
-*For more on [Doctor Who](http://www.chris-alexander.co.uk/tag/doctor-who), check out [the tag](http://www.chris-alexander.co.uk/tag/doctor-who)*. 
+*For more on [Doctor Who](/tag/doctor-who), check out [the tag](/tag/doctor-who)*. 

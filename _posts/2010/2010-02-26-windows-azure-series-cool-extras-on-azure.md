@@ -6,7 +6,7 @@ categories: microsoft
 
 **Windows Azure Series**
 
-Welcome to the third in a series of posts on Windows Azure, Microsoft's cloud computing platform. Check out the others on [Cloud Computing](http://www.chris-alexander.co.uk/2533) and [Getting Started](http://www.chris-alexander.co.uk/2541).
+Welcome to the third in a series of posts on Windows Azure, Microsoft's cloud computing platform. Check out the others on [Cloud Computing](/2533) and [Getting Started](/2541).
 
 Now that we've covered the foundations of Windows Azure, and some great resources on getting started building your Azure applications, I wanted to have a look at those little things that make this all the more impressive and enjoyable to work with.
 
@@ -20,4 +20,4 @@ Combine this with what I've already written, and you have a powerful and multi-p
 
 To give you an idea of what's possible with Azure (and Silverlight), check out [Eye On Earth](http://domgreen.com/2009/11/23/keeping-an-eye-on-the-earth/), a global environment monitor.
 
-*For loads more information on Azure, check out [Dom Green's blog](http://domgreen.com) (the UK's resident Azure expert), the official [Azure blog](http://blogs.msdn.com/windowsazure/) and [website](http://www.microsoft.com/windowsazure/), or the [Azure tag](http://www.chris-alexander.co.uk/tag/azure).*
+*For loads more information on Azure, check out [Dom Green's blog](http://domgreen.com) (the UK's resident Azure expert), the official [Azure blog](http://blogs.msdn.com/windowsazure/) and [website](http://www.microsoft.com/windowsazure/), or the [Azure tag](/tag/azure).*

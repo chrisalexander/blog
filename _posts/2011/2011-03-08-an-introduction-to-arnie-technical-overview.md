@@ -74,7 +74,7 @@ How the communications work between components will be detailed in a later post.
 
 ## Previous posts in this series
 
-* [An introduction to ARNIE](http://www.chris-alexander.co.uk/4792)
+* [An introduction to ARNIE](/4792)
 
 ## Code
 

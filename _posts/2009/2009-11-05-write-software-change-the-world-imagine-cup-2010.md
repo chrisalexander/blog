@@ -37,4 +37,4 @@ It's certainly a big challenge - possibly one of the biggest you'll be faced wit
 
 Start making a difference today, and get started on those world-changing applications. [Signup](https://imaginecup.com/Registration/Default.aspx) for the Software Design competition is free, and you can find out more information on the Imagine Cup website. Why not get [started now](https://imaginecup.com/Registration/Default.aspx)?
 
-Look out for more posts in the coming days for more on the Imagine Cup, what Imagine Cup 2009 was like, and top tips for Imagine Cup 2010 - keep your eyes on the [Imagine Cup category](http://www.chris-alexander.co.uk/category/microsoft/imagine-cup-microsoft).
+Look out for more posts in the coming days for more on the Imagine Cup, what Imagine Cup 2009 was like, and top tips for Imagine Cup 2010 - keep your eyes on the [Imagine Cup category](/category/microsoft/imagine-cup-microsoft).

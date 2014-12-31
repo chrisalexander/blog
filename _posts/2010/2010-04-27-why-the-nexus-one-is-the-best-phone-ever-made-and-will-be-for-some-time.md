@@ -5,7 +5,7 @@ subheading: 'and will be for some time'
 categories: mobile
 ---
 
-If you see me on a somewhat regular basis (or read a few posts on my site here and there) you're probably sick to death of me harping on about how awesome my [Nexus](http://www.chris-alexander.co.uk/2613) [One](http://www.chris-alexander.co.uk/2612) is.
+If you see me on a somewhat regular basis (or read a few posts on my site here and there) you're probably sick to death of me harping on about how awesome my [Nexus](/2613) [One](/2612) is.
 
 If this is you, or you are totally in love with your iPhone and won't have a bad word said about it (or you have something better to be doing than reading arguments about mobile phones) then this post probably isn't for you.
 

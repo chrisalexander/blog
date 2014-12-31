@@ -4,11 +4,11 @@ heading: 'Quick Steps in Outlook 2010'
 categories: microsoft
 ---
 
-Earlier in the week, I got stuck in to installing and [trying out Office 2010](http://www.chris-alexander.co.uk/1453). Now that I've had a bit of a chance to get to grips with it and use it, there are some very cool additions that I have discovered and want to dig a bit deeper into.
+Earlier in the week, I got stuck in to installing and [trying out Office 2010](/1453). Now that I've had a bit of a chance to get to grips with it and use it, there are some very cool additions that I have discovered and want to dig a bit deeper into.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/logo.jpg" %}
 
-The first feature, surprisingly enough, is in Outlook. As I said in my [previous overview of Office 2010](http://www.chris-alexander.co.uk/1453), Outlook is the program from the suite I use the most, and that which has had the biggest overhaul.
+The first feature, surprisingly enough, is in Outlook. As I said in my [previous overview of Office 2010](/1453), Outlook is the program from the suite I use the most, and that which has had the biggest overhaul.
 
 One feature that I recently discovered is the Quick Steps feature.
 

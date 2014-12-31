@@ -90,8 +90,8 @@ For the output threads, as each packet is dispatched on a per-host/port basis, t
 
 ## Previous posts in this series
 
-* [An introduction to ARNIE](http://www.chris-alexander.co.uk/4792)
-* [An introduction to ARNIE: technical overview](http://www.chris-alexander.co.uk/4800)
+* [An introduction to ARNIE](/4792)
+* [An introduction to ARNIE: technical overview](/4800)
 
 ## Code
 

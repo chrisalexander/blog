@@ -8,10 +8,10 @@ I've had a crazy couple of days and decided the old site design had had its day 
 
 Here's a few posts that I think look really good with the new design:
 
-* [Dark of the Moon review](http://www.chris-alexander.co.uk/5139)
-* [Of Vampires and Lycans](http://www.chris-alexander.co.uk/427)
-* [Introducing Amoeba-1](http://www.chris-alexander.co.uk/5300)
-* [Epic Citadel](http://www.chris-alexander.co.uk/4015)
+* [Dark of the Moon review](/5139)
+* [Of Vampires and Lycans](/427)
+* [Introducing Amoeba-1](/5300)
+* [Epic Citadel](/4015)
 
 Having played around with Twitter's Bootstrap for a bit, I thought I'd give it a go as the main framework. I got on with it well and had to fiddle with only a couple of bits and pieces to get it to play ball. Their new responsive stuff is good and if you check out the site on your phone or tablet you should get an equally nice experience now. The site is also a lot simpler so it is quicker to load, and it hurts the eyes less.
 

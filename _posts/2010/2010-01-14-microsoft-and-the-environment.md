@@ -42,4 +42,4 @@ Features such as advanced power optimisation and tools for IT managers to more e
 
 *Find out more about Microsoft's energy commitments on their [Environment website](http://www.microsoft.com/environment/).*
 
-*[Find out more](http://www.chris-alexander.co.uk/sponsored-posts) about sponsoring posts on this site.*
+*[Find out more](/sponsored-posts) about sponsoring posts on this site.*

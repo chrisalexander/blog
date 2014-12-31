@@ -6,7 +6,7 @@ categories: microsoft
 
 **Windows Azure Series**
 
-Welcome to the third in a series of posts on Windows Azure, Microsoft's cloud computing platform. Check out the first post on the subject of [Cloud Computing](http://www.chris-alexander.co.uk/2533).
+Welcome to the third in a series of posts on Windows Azure, Microsoft's cloud computing platform. Check out the first post on the subject of [Cloud Computing](/2533).
 
 I was about to go and write a full-blown tutorial on how to get started and fired up with your first Windows Azure application, but then I realised that there is so much great content out there that it would be criminal to replicate it.
 
@@ -24,4 +24,4 @@ There are then, of course, the MSDN blogs. These provide an invaluable resource 
 
 Of course, there is always [plenty of other content](http://www.google.co.uk/search?hl=en&amp;rlz=1C1GGLS_en-GBGB332GB332&amp;q=site:blogs.msdn.com+azure&amp;btnG=Search&amp;meta=&amp;aq=f&amp;oq=) out there if you want to go for something a bit different.
 
-*For loads more information on Azure, check out [Dom Green's blog](http://domgreen.com) (the UK's resident Azure expert), the official [Azure blog](http://blogs.msdn.com/windowsazure/) and [website](http://www.microsoft.com/windowsazure/), or the [Azure tag](http://www.chris-alexander.co.uk/tag/azure).* 
+*For loads more information on Azure, check out [Dom Green's blog](http://domgreen.com) (the UK's resident Azure expert), the official [Azure blog](http://blogs.msdn.com/windowsazure/) and [website](http://www.microsoft.com/windowsazure/), or the [Azure tag](/tag/azure).* 

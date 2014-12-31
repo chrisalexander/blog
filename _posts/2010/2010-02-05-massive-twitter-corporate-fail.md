@@ -10,7 +10,7 @@ Let's just say that the tweet that got sent out to thousands of followers isn't 
 
 While obviously this was a pretty epic mistake by whoever was in charge of keeping 2 Twitter accounts updated, I would hazard a guess that it was a simple mistake choosing the account to tweet out of.
 
-Although as you may have seen in my [recent photo](http://www.chris-alexander.co.uk/2371), I take some pretty serious precautions when there's a possibility of making a really big mess of it. I hope they have learnt to make sure that they are logged in to the right account before they post a tweet!
+Although as you may have seen in my [recent photo](/2371), I take some pretty serious precautions when there's a possibility of making a really big mess of it. I hope they have learnt to make sure that they are logged in to the right account before they post a tweet!
 
 Kudos is due to Vodafone, however, who recovered by replying to *every single* complaint (it goes back literally pages on their [timeline](http://twitter.com/vodafoneuk)) in some kind of automated but also somewhat personalised manner. At least they dealt with it well, rather than just closing their account and firing everyone involved.
 

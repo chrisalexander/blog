@@ -27,6 +27,6 @@ Start making a difference today, and get started on those world-changing applica
 
 **And if you needed a further incentive**, Microsoft will be donating money to the charities they are working with this year when you sign up. So go ahead and do it today!
 
-Look out for more posts in the coming days for more on the Imagine Cup, what Imagine Cup 2009 was like, and top tips for Imagine Cup 2010 - keep your eyes on the [Imagine Cup category](http://www.chris-alexander.co.uk/category/microsoft/imagine-cup-microsoft)
+Look out for more posts in the coming days for more on the Imagine Cup, what Imagine Cup 2009 was like, and top tips for Imagine Cup 2010 - keep your eyes on the [Imagine Cup category](/category/microsoft/imagine-cup-microsoft)
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/icpromo.jpg" %} 

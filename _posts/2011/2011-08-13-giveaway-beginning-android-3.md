@@ -4,7 +4,7 @@ heading: 'Giveaway! Beginning Android 3'
 categories: ['google', 'android']
 ---
 
-Would you like the chance to get your hands on [Beginning Android 3](http://www.chris-alexander.co.uk/on-engineering/review/review-beginning-android-3/)?
+Would you like the chance to get your hands on [Beginning Android 3](/on-engineering/review/review-beginning-android-3/)?
 
 This book is an excellent guide to getting started building Android applications, ramping up from installing the SDK and setting up Eclipse right through to advanced Android APIs and development practices. We’ve got a copy to give away thanks to the lovely folks at Apress.
 

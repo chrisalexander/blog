@@ -18,7 +18,7 @@ Navigating a Blackboard page is tortuous, Blackboard offers customisation option
 
 My third and final issue with Blackboard is this; much much better alternatives exist. I use a web-based, collaborative, management system featuring online document editing (not a Blackboard feature) and full timetabling support that can integrate with any major calendar application. Oh, and the website even works 24/7 (a rarity, I know). The name of this all-singing, all-dancing, quite fantastic tool is [Huddle](http://www.jdoqocy.com/click-3731164-10712079). And I cannot recommend it enough.
 
-Having recently announced their [growing Microsoft Office integration](http://www.chris-alexander.co.uk/1614), Huddle is a web-app that's going places... fast. The online editing facility can alter .doc and .xls files without a download being required. Audit trails are automatically established for *all* file transactions, a sample of a trail is pictured below;
+Having recently announced their [growing Microsoft Office integration](/1614), Huddle is a web-app that's going places... fast. The online editing facility can alter .doc and .xls files without a download being required. Audit trails are automatically established for *all* file transactions, a sample of a trail is pictured below;
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/Audit-Trail-of-Huddle.PNG" %}
 

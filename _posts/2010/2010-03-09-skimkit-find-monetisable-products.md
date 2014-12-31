@@ -4,7 +4,7 @@ heading: 'Skimkit: Find Monetisable Products'
 categories: software
 ---
 
-Over the past few months I've been playing on and off with Skimlinks, a UK-based service providing easy monetisation of outbound links for websites. You may have also seen my post about [how excellent their customer service is](http://www.chris-alexander.co.uk/2188).
+Over the past few months I've been playing on and off with Skimlinks, a UK-based service providing easy monetisation of outbound links for websites. You may have also seen my post about [how excellent their customer service is](/2188).
 
 My [desktop Huddle client](http://clustr.me.uk/desktop), [Clustr](http://clustr.me.uk), wasn't the only Adobe AIR application to launch last week. Skimlinks also announced the release of [Skimkit](http://skimlinks.com/skimkit), their tool for publishers to find relevant products for their website.
 

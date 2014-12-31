@@ -4,7 +4,7 @@ heading: 'New in Visual Studio 2010'
 categories: dev
 ---
 
-I was recently at an all-day event with Scott Guthrie from Microsoft - [read about the event here](http://www.chris-alexander.co.uk/3091). Here I collect what he had to say about what's new in Visual Studio 2010, which is launching very soon. It's going to be a quick run-down of some new features, and hopefully I will be able to dive into deeper demos in other posts.
+I was recently at an all-day event with Scott Guthrie from Microsoft - [read about the event here](/3091). Here I collect what he had to say about what's new in Visual Studio 2010, which is launching very soon. It's going to be a quick run-down of some new features, and hopefully I will be able to dive into deeper demos in other posts.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/logo1.jpg" %}
 

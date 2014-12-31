@@ -4,7 +4,7 @@ heading: 'New in Web Design and ASP .NET 4'
 categories: dev
 ---
 
-I was recently at an all-day event with Scott Guthrie from Microsoft - [read about the event here](http://www.chris-alexander.co.uk/on-engineering/dev/notes-from-the-guathon/). Here I collect what he had to say about what's new in Visual Studio's web design tools, and ASP .NET 4.
+I was recently at an all-day event with Scott Guthrie from Microsoft - [read about the event here](/on-engineering/dev/notes-from-the-guathon/). Here I collect what he had to say about what's new in Visual Studio's web design tools, and ASP .NET 4.
 
 ### WebForms Control Updates
 

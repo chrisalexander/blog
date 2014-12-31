@@ -11,7 +11,7 @@ leader:
 categories: robots
 ---
 
-It's been a long time since I started my University final year project and [came up with Amoeba-1](http://chris-alexander.co.uk/on-engineering/uni/introducing-amoeba-1-and-the-birth-of-project-origin/).
+It's been a long time since I started my University final year project and [came up with Amoeba-1](/on-engineering/uni/introducing-amoeba-1-and-the-birth-of-project-origin/).
 
 Now I'm pleased to report on what I have been working on in my spare time for the past couple of weeks - the next generation of that project - and the new robot, AmoebaTwo.
 

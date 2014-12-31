@@ -8,7 +8,7 @@ leader:
 categories: dev
 ---
 
-Following on from my recent [post on Office 2010](http://www.chris-alexander.co.uk/1453), I thought I'd get on and try the latest piece of beta software that Microsoft has unleashed upon its users.
+Following on from my recent [post on Office 2010](/1453), I thought I'd get on and try the latest piece of beta software that Microsoft has unleashed upon its users.
 
 Visual Studio 2010 is the latest version of Microsoft's application development workhorse; with it comes version 4 of the .NET Framework, and a whole raft of improvements that developers have long been calling out for.
 

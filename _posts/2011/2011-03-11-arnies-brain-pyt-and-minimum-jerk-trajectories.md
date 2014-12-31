@@ -42,10 +42,10 @@ If there is a problem detected during the execution of the reverse, the entire m
 
 ## Previous posts in this series
 
-* [An introduction to ARNIE](http://www.chris-alexander.co.uk/4792)
-* [An introduction to ARNIE: technical overview](http://www.chris-alexander.co.uk/4800)
-* [ARNIE's Brain: Spine and networking](http://www.chris-alexander.co.uk/4811)
-* [ARNIE's Brain: Kinect](http://www.chris-alexander.co.uk/4814)
+* [An introduction to ARNIE](/4792)
+* [An introduction to ARNIE: technical overview](/4800)
+* [ARNIE's Brain: Spine and networking](/4811)
+* [ARNIE's Brain: Kinect](/4814)
 
 ## Code
 

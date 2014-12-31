@@ -5,7 +5,7 @@ subheading: 'OAuth how it should have been'
 categories: dev
 ---
 
-You may have read my recent (rather monolithic) post on [Getting Started with OAuth](http://www.chris-alexander.co.uk/on-engineering/dev/demystifying-oauth/).
+You may have read my recent (rather monolithic) post on [Getting Started with OAuth](/on-engineering/dev/demystifying-oauth/).
 
 Web Resource Authorisation Protocol (WRAP) is a set of so-called "profiles" for OAuth, which contribute a substantial number of additional features as well as vast simplification of the bloated (yet finally secure) authentication mechanism.
 

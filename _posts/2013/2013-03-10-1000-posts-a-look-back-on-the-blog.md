@@ -13,6 +13,6 @@ The first article was published way back on 8th September 2007 - making the site
 
 It's been through countless WordPress versions and several more themes (some more stylish than others, but it was always fun!) and grown and shrunk with how much I've used it.
 
-If you want to dig into my past, [the Archive](http://www.chris-alexander.co.uk/archive) is a good place to start.
+If you want to dig into my past, [the Archive](/archive) is a good place to start.
 
 Here's to the next 1000 / 5 years :-)
