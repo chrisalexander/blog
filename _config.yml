@@ -2,4 +2,4 @@ paginate: 10
 paginate_path: "/page/:num/"
 permalink: /on-engineering/:categories/:title/
 markdown: kramdown
-exclude: [vendor, Gemfile, LICENSE, README.md]
+exclude: [vendor, scripts, Gemfile, LICENSE, README.md]

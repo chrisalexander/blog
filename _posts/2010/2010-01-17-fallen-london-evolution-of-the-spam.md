@@ -30,7 +30,7 @@ I still question the morals, however, of giving users extra points in the game b
 
 Giving users this option, however, provides us with a much more interesting prospect; instead of being directly labelled as Spam, we could consider that the tweets are much more like advertising.
 
-Now we have seen things like this before: [Ad.ly](http://ad.ly/) is offering users with large follower counts money for sending out tweets on particular topics (and [here's why it doesn't work](http://mashable.com/2009/11/29/twitter-ads-2/)).
+Now we have seen things like this before: Ad.ly is offering users with large follower counts money for sending out tweets on particular topics (and [here's why it doesn't work](http://mashable.com/2009/11/29/twitter-ads-2/)).
 
 Is it really an advert though? Is it not just the user posting the link because they want to?
 
