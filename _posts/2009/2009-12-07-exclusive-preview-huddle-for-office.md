@@ -14,7 +14,7 @@ I got exclusive access to the Beta of the Office plugin and had a go - check out
 
 ## Bringing the Cloud to you
 
-One of the best things by far about Huddle is that it is all hosted online. All you need is an internet connection and a web browser (or even [just a mobile phone](http://clustr.me.uk)), and you can immediately catch up with what your team is up to.
+One of the best things by far about Huddle is that it is all hosted online. All you need is an internet connection and a web browser (or even just a mobile phone), and you can immediately catch up with what your team is up to.
 
 One of Huddle's weaknesses has always been that you could never expect to get all the features of Office (where you would usually edit your documents) online - Zoho did a great job at allowing simple editing, but there is no substitute for the power of the full Office applications.
 

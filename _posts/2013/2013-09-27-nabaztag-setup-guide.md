@@ -93,7 +93,7 @@ Important: After clicking on this network, you will no longer be connected to yo
 
 Your Rabbit will now look for and connect to your Wi-Fi network and the internet. His lights blink in orange at first and will gradually all become green. When this happens, that means that your Rabbit is successfully connected.
 
-You've given him life, now give him a name. You can do this by going to the address : [http://www.nabaztag.com/start](http://web.archive.org/web/20090309103320/http://www.nabaztag.com/start)
+You've given him life, now give him a name. You can do this by going to the address : http://www.nabaztag.com/start
 
 At step 6, you will be asked to configure your Rabbit. If you've already done this, click on "I've already configured my Rabbit with the Configuration Wizard".
 

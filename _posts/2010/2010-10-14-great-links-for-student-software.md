@@ -18,7 +18,7 @@ The MSDN Academic Alliance is another way for students at Universities who have 
 
 ### Ultimate Steal
 
-One piece of software that isn't available from any of the other sites is Office, which unfortunately even students have to pay for. Fortunately though, the Ultimate Steal site means you just have to sign up with your Uni e-mail address, and you can get Office 2010 for just £50 instead of the hundreds of pounds RRP. Check it out at [http://www.theultimatesteal.co.uk](http://www.theultimatesteal.co.uk)
+One piece of software that isn't available from any of the other sites is Office, which unfortunately even students have to pay for. Fortunately though, the Ultimate Steal site means you just have to sign up with your Uni e-mail address, and you can get Office 2010 for just £50 instead of the hundreds of pounds RRP. Check it out at The Ultimate Steal.
 
 ### Imagine Cup
 

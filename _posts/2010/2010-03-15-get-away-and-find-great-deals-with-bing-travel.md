@@ -28,6 +28,6 @@ FareCast is a system which shows you when it is the best time to buy flights and
 
 ### Features and Editorials
 
-There are some great editorials featured on the site too - for example this one I found called (in a very Top Gear-style) "[Crazy Drives](http://www.bing.com/travel/content/search?q=Crazy+Drives:+Stelvio+Pass,+Italy)".
+There are some great editorials featured on the site too - for example this one I found called (in a very Top Gear-style) "Crazy Drives".
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/drives.jpg" %}

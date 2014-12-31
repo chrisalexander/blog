@@ -31,10 +31,8 @@ The UN Millennium Development Goals are wide-ranging and affect every corner of 
 
 It's certainly a big challenge - possibly one of the biggest you'll be faced with as students. But it is incredibly rewarding too. Not only the sensational, unavailable-elsewhere prizes (more on those later this week), but the real knowledge that you will make a difference on a global scale.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/1191/un2" %}
-
 ## Get Started Now.
 
-Start making a difference today, and get started on those world-changing applications. [Signup](https://imaginecup.com/Registration/Default.aspx) for the Software Design competition is free, and you can find out more information on the Imagine Cup website. Why not get [started now](https://imaginecup.com/Registration/Default.aspx)?
+Start making a difference today, and get started on those world-changing applications. Signup for the Software Design competition is free, and you can find out more information on the Imagine Cup website. Why not get started now?
 
 Look out for more posts in the coming days for more on the Imagine Cup, what Imagine Cup 2009 was like, and top tips for Imagine Cup 2010 - keep your eyes on the Imagine Cup category.

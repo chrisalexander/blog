@@ -4,7 +4,7 @@ heading: 'Reasons why the University of Reading timetabling website sucks'
 categories: life
 ---
 
-I get annoyed at [this website](https://www.futuretimetable.reading.ac.uk) every year so I thought I'd write down the list to make myself feel better.
+I get annoyed at the timetable website every year so I thought I'd write down the list to make myself feel better.
 
 It requires both *https* and *www* components of the URL, and gives you a pretend Internet Explorer error message when you don't do it instead of redirecting you. **-5 internet points** for just being annoying
 

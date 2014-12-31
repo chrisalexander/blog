@@ -13,7 +13,7 @@ Windows 7 is Microsoft's latest version of its popular Operating System. But wha
 
 Now that Windows 7 is available to students, its time to see what's what with the latest release, and what it can offer you if you upgrade.
 
-If you're a UK student and you don't have access to Windows 7 through your University, you can get it for just £30 from [The Ultimate Steal](http://www.ultimatesteal.co.uk/student71).
+If you're a UK student and you don't have access to Windows 7 through your University, you can get it for just £30 from The Ultimate Steal.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/win7-icon-medium.png" %}
 
@@ -21,7 +21,7 @@ If you're a UK student and you don't have access to Windows 7 through your Unive
 
 If you're at the University of Reading, or another University that has an MSDN Academic Alliance (MSDNAA, the Reading one is called ELMS) you can go and download Windows 7 Professional Edition for free (for educational use!) right now. If you're at Reading, just click [here](http://elms.sse.reading.ac.uk/).
 
-If you're not eligible for this, or you can't access it at your University, you can still get Windows 7 for only £30. Simply visit [The Ultimate Steal](http://www.ultimatesteal.co.uk/student71), verify your University e-mail address, and you're good to go!
+If you're not eligible for this, or you can't access it at your University, you can still get Windows 7 for only £30. Simply visit The Ultimate Steal, verify your University e-mail address, and you're good to go!
 
 ## Installing Windows 7
 
@@ -113,4 +113,4 @@ The final cool thing I have to show you about Windows 7 (there's lots more stuff
 
 So what are you waiting for? Get out there and get Windows 7 today! Have any other great tips? Add them to the comments for other users to discover!
 
-If you don't have access to Windows 7 then you can get it for just £30 from [The Ultimate Steal](http://www.ultimatesteal.co.uk/student71). 
+If you don't have access to Windows 7 then you can get it for just £30 from The Ultimate Steal. 

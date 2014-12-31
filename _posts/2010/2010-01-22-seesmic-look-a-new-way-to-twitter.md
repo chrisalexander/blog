@@ -5,7 +5,7 @@ subheading: 'A New Way To Twitter'
 categories: social
 ---
 
-So yesterday @Loic and [Seesmic](http://seesmic.com) dropped a bit of a bomb - [Seesmic Look](http://seesmic.com/seesmic_desktop/look/), yet another Twitter client from the Seesmic team (in addition to their [Android](http://seesmic.com/seesmic_mobile/android/), [Blackberry](http://seesmic.com/seesmic_mobile/blackberry/), [Web](http://seesmic.com/app), [Desktop](http://seesmic.com/seesmic_desktop/air/), [Windows](http://seesmic.com/seesmic_desktop/windows/), [Twhirl ](http://www.twhirl.org/)and [Ping.fm](http://blog.seesmic.com/2010/01/weve-acquired-pingfm-get-ready-to-update-50-social-networks-from-seesmic.html) products).
+So yesterday @Loic and [Seesmic](http://seesmic.com) dropped a bit of a bomb - [Seesmic Look](http://seesmic.com/seesmic_desktop/look/), yet another Twitter client from the Seesmic team (in addition to their [Android](http://seesmic.com/seesmic_mobile/android/), [Blackberry](http://seesmic.com/seesmic_mobile/blackberry/), [Web](http://seesmic.com/app), [Desktop](http://seesmic.com/seesmic_desktop/air/), [Windows](http://seesmic.com/seesmic_desktop/windows/), [Twhirl ](http://www.twhirl.org/)and Ping.fm products).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/seesmic-logo.png" %}
 

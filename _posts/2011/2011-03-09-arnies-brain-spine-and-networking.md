@@ -95,11 +95,11 @@ For the output threads, as each packet is dispatched on a per-host/port basis, t
 
 ## Code
 
-A lot of ARNIE's code is open-source under the MIT license, and available on [Github](https://github.com/chrisalexander).
+A lot of ARNIE's code is open-source under the MIT license, and available on [Github](https://github.com/arnie-robot).
 
-* [Spine](https://github.com/chrisalexander/Spine)
+* [Spine](https://github.com/arnie-robot/Spine)
 * [Kinect software](https://github.com/chrisalexander/libfreenect)
-* [PYT](https://github.com/chrisalexander/PYT)
-* [BrainJS](https://github.com/chrisalexander/BrainJS)
-* [English](https://github.com/chrisalexander/English)
-* [Decypher](https://github.com/chrisalexander/Decypher)
+* [PYT](https://github.com/arnie-robot/PYT)
+* [BrainJS](https://github.com/arnie-robot/BrainJS)
+* [English](https://github.com/arnie-robot/English)
+* [Decypher](https://github.com/arnie-robot/Decypher)

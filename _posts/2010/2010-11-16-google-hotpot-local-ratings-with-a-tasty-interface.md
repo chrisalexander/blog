@@ -9,7 +9,7 @@ leader:
 categories: software
 ---
 
-Last night [Google Hotpot](http://www.google.com/hotpot) [launched](http://mashable.com/2010/11/16/google-hotpot/). It is a very early version of Google's local ratings service, giving users the chance to rate local restaurants, bars, pubs, clubs - well pretty much any place really. Initially I thought (as I suppose many people did) that this is only the web interface, but I also noticed this morning that Google Maps automatically updated on my Android phone (don't worry, I told it that it could do that) to include a fancy widget to help you rate places as you go to them.
+Last night Google Hotpot [launched](http://mashable.com/2010/11/16/google-hotpot/). It is a very early version of Google's local ratings service, giving users the chance to rate local restaurants, bars, pubs, clubs - well pretty much any place really. Initially I thought (as I suppose many people did) that this is only the web interface, but I also noticed this morning that Google Maps automatically updated on my Android phone (don't worry, I told it that it could do that) to include a fancy widget to help you rate places as you go to them.
 
 The interface for Hotpot on the web is actually very nice, and well suited to both Google's traditional style as well as how ratings sites should be. It is easy to navigate, mostly based around search and recommendations, and includes some neat functionality for keeping tabs on places you want to go and have been.
 

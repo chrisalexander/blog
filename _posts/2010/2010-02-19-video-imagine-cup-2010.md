@@ -8,4 +8,4 @@ The Imagine Cup is a worldwide technology competition aimed at students, where y
 
 Check out the video below for more on the Imagine Cup.
 
-If you want to read more on the competition, check out the Imagine Cup tag. Otherwise, [sign up for the competition here](bit.ly/ICRMSP08).
+If you want to read more on the competition, check out the Imagine Cup tag. Otherwise, [sign up for the competition here](http://bit.ly/ICRMSP08).

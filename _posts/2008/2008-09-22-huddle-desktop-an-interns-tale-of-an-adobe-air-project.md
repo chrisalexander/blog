@@ -9,7 +9,7 @@ As some of you may or may not know (if you're on my [Twitter](http://twitter.com
 
 Huddle's product is an online collaboration and document sharing website with an emphasis on social working, and could be described as a cool cross between the best of Sharepoint and Facebook, after being cleaned up and made to look lovely. You can check out their site at [Huddle.net](http://www.huddle.net).While I was there, one of the items on my (hugely long) list of things to do was to write an Adobe AIR desktop application to work with their shiny-shiny new API to provide cool functionality that the main website couldn't - drag and drop file uploading for example.
 
-So, about 4 weeks and a massively complicated pile of Javascript later, the end result was published and open sourced [for the world to see](http://www.huddle.net/developers/huddle-desktop).
+So, about 4 weeks and a massively complicated pile of Javascript later, the end result was published and open sourced for the world to see.
 
 I'm immensely pleased with what I managed to achieve; I managed to do some serious debugging of their API, and I learnt so much about Javascript (from Nick, one of the UI guys at huddle) and CSS (from Jenna, the other UI person at huddle - huge UI department there ;)
 

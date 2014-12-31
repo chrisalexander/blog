@@ -8,7 +8,7 @@ leader:
 categories: uni
 ---
 
-*This is the first in a series of posts by our new guest author [Josh](/author/josh). Check out his [website](http://www.6dof.net), and his [Twitter](http://twitter.com/josh_homerston).*
+*This is the first in a series of posts by our new guest author Josh. Check out his website, and his Twitter.*
 
 Now firstly let me say this, I am a hardworking student, and I want an awesome degree grade, very badly. However, I will *not* pay a lecturer any money over what I already am paying to be educated.
 

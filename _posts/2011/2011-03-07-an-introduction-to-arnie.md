@@ -45,7 +45,7 @@ In its current state, ARNIE is very near to completing its goals. A few final sy
 A lot of ARNIE's code is open-source under the MIT license, and available on [Github](https://github.com/arnie-robot).
 
 * [Spine](https://github.com/arnie-robot/Spine)
-* [Kinect software](https://github.com/arnie-robot/libfreenect)
+* [Kinect software](https://github.com/chrisalexander/libfreenect)
 * [PYT](https://github.com/arnie-robot/PYT)
 * [BrainJS](https://github.com/arnie-robot/BrainJS)
 * [English](https://github.com/arnie-robot/English)

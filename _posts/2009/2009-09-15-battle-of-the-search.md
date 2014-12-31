@@ -8,7 +8,7 @@ So both Google and Bing have recently announced new products that not only impro
 
 ## Bing Visual Search
 
-First of all, to see this you will have to set your location on Bing to US - you can do that with [this link](http://www.bing.com/?scope=web&amp;setmkt=en-US&amp;setlang=SET_NULL&amp;uid=CD112CCD&amp;FORM=W5WA). Then check out [Bing Visual Search](http://www.bing.com/visualsearch), and select from any one of the galleries available.
+First of all, to see this you will have to set your location on Bing to US - you can do that with [this link](http://www.bing.com/?scope=web&amp;setmkt=en-US&amp;setlang=SET_NULL&amp;uid=CD112CCD&amp;FORM=W5WA). Then check out Bing Visual Search, and select from any one of the galleries available.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/bing1-1024x584.PNG" %}
 
@@ -24,9 +24,7 @@ To be honest, the results page is more than a little disappointing - after the e
 
 ## Google Fast Flip
 
-[Fast Flip](http://fastflip.googlelabs.com/) is a new alpha service released on [Google Labs](http://googlelabs.com). It provides a brand new way of quickly overviewing news published online, without waiting for long periods for pages to load on different websites. In addition to the previews of websites, the content is split into Popular, Sections (much like Google News sections), Topics and Sources. So you can drill down headlines into topics (e.g. [Kanye West](http://fastflip.googlelabs.com/search?q=Kanye%20West)) or even popular news sources (e.g. [TechCrunch](http://fastflip.googlelabs.com/search?q=source:%22TechCrunch%22)).
-
- 
+Fast Flip is a new alpha service released on [Google Labs](http://googlelabs.com). It provides a brand new way of quickly overviewing news published online, without waiting for long periods for pages to load on different websites. In addition to the previews of websites, the content is split into Popular, Sections (much like Google News sections), Topics and Sources. So you can drill down headlines into topics (e.g. Kanye West) or even popular news sources (e.g. TechCrunch).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/flip1-1023x688.PNG" %}
 

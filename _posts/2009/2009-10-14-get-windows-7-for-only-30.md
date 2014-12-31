@@ -12,4 +12,4 @@ If you're a UK student, then you can go and get Windows 7, the latest operating 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/win7-icon-small.png" %}
 
-You can get the offer right now at [The Ultimate Steal](http://www.ultimatesteal.co.uk/student71).
+You can get the offer right now at The Ultimate Steal.

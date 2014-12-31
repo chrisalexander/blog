@@ -36,7 +36,7 @@ For more, check out [TechCrunch's preview](http://techcrunch.com/2010/05/19/twee
 
 ## Google Fonts API
 
-One final mention for [Google's Fonts API](http://code.google.com/webfonts).
+One final mention for Google's Fonts API.
 
 This allows anyone to use a series of free fonts in their HTML 5 web pages.
 

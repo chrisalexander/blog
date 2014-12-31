@@ -26,8 +26,6 @@ This book covers pretty much every topic any web developer could possibly want r
 
 All of these take a truly cutting-edge approach, describing in detail how the new technology works, and covering all of the improvements to pre-existing technologies.
 
-<img class="alignnone" title="Pro HTML 5" src="http://ecx.images-amazon.com/images/I/41OPJW2aUKL._SL500_AA300_.jpg" alt="" width="300" height="300">
-
 With each section, there are real-world examples and code showing you how the principles and APIs can be put into practice, clearly walking you through each of the design decisions you would need to make upon implementation, and providing information on the options and cross-browser support of the features. Somehow this book has managed to take an excellent snapshot of HTML 5 technologies that, despite the fast-paced advancement and changing landscape every day, provides a solid introduction and reference to experienced developers looking to move to the HTML 5 world.
 
 I have had this book on hand for some days now and already find myself reaching for it on many occasions to make use of its guidance when implementing a feature of HTML 5 I have not worked closely with previously.

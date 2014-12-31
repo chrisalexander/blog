@@ -20,7 +20,7 @@ Finally, the video is completely **epic**. Check it out.
 
 {% include youtube.html id="yMYb8sq-jDU" %}
 
-*Edit:* Oops - looks that video's gone. [Check out this one](http://vodpod.com/watch/2707177-alicia-keys-interview-and-performance-on-colbert-report) of the full interview.
+*Edit:* Oops - looks that video's gone. Check out this one of the full interview.
 
 Here's the Jay-Z version. I don't like the track as much in this format, and I really don't know what she's doing on the piano... and the hair?! Bit of a failure all round really.
 

@@ -18,4 +18,4 @@ The video below of three Otamatones in action just has to be seen heard to be be
 
 {% include youtube.html id="PxLB70G-tRY" %}
 
-*This post was sponsored by this site's hosting provider, [mobilephonechecker.co.uk](http://mobilephonechecker.co.uk). Find out more about [Sponsored Posts](/sponsored-posts) on this blog.*
+*This post was sponsored by this site's hosting provider, [mobilephonechecker.co.uk](http://mobilephonechecker.co.uk). Find out more about Sponsored Posts on this blog.*

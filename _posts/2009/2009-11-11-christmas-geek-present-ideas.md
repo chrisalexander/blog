@@ -17,7 +17,7 @@ Fortunately there are some great value deals to be had at the moment that would 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/win7-logo-medium.png" %}
 
-First of all, if you're a student, you can get Windows 7 at fantastically reasonable prices - ideal for family members who you can join in the fun with. If you're in the US you can get it on [this site](http://www.win741.com/), otherwise you can get it [from here](http://www.ultimatesteal.co.uk/student71) for the UK. Read about all the [benefits of Windows 7 here](/930).
+First of all, if you're a student, you can get Windows 7 at fantastically reasonable prices - ideal for family members who you can join in the fun with. If you're in the US you can get it on [this site](http://www.win741.com/), otherwise you can get it from here for the UK. Read about all the [benefits of Windows 7 here](/930).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/mice1.png" %}
 

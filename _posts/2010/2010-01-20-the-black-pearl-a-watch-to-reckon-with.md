@@ -10,8 +10,6 @@ leader:
 categories: life
 ---
 
-*This was originally posted by me on [Full Fat Gear](http://fullfatgear.com/2010/01/the-black-pearl/).*
-
 It takes some considerable effort for me to pay attention to a watch; there is so much choice around it has to be something special.
 
 The Black Pearl, designed by Switzerland-based [HD3 Complication](http://www.hd3complication.com/), definitely meets this standard.

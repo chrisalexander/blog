@@ -26,7 +26,7 @@ It does this by combining data and algorithms from the US Department of Energy a
 
 We've already heard how much power Google's datacentres can take up and how it mitigates the impact.
 
-Microsoft have [produced a comprehensive overview](http://www.microsoft.com/environment/our_commitment/articles/datacenter_bp.aspx) of how they intend to mitigate the power requirements in their largest installations.
+Microsoft have produced a comprehensive overview of how they intend to mitigate the power requirements in their largest installations.
 
 These include using virtualisation to improve the use of existing resources, improving datacentre quality through compliance with the relevant standards, and reducing costs and fostering innovation through the use of competitive bidding for contracts.
 
@@ -40,6 +40,6 @@ You don't have to be an enterprise customer to take advantage of Microsoft's gre
 
 Features such as advanced power optimisation and tools for IT managers to more effectively manage energy consumption make it easy and quicker to configure computers to use power more efficiently.
 
-*Find out more about Microsoft's energy commitments on their [Environment website](http://www.microsoft.com/environment/).*
+*Find out more about Microsoft's energy commitments on their Environment website.*
 
-*[Find out more](/sponsored-posts) about sponsoring posts on this site.*
+*Find out more about sponsoring posts on this site.*

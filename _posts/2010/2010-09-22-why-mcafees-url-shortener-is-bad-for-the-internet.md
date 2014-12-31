@@ -10,7 +10,7 @@ Yesterday, under the pretence of something about making everything secure, McAfe
 
 ## 1. It's no more secure than anything else
 
-The McAf.ee tool is nothing more than a branding and marketing exercise for its Global Threat Intelligence system. There are security systems implemented in many of the major URL shorteners already in existence, with the inclusion of our own [Retwt.me](http://retwt.me) (I should know, I implemented it). For simply detecting links that are spam, the [Google Safe Browsing API](http://code.google.com/apis/safebrowsing/) is used by many providers. It updates in minutes, is authoritative, and secure - because this is the list of URLs that Google itself blacklists against. I doubt that McAfee can offer any real-world security on top of that that is actually any value to consumers.
+The McAf.ee tool is nothing more than a branding and marketing exercise for its Global Threat Intelligence system. There are security systems implemented in many of the major URL shorteners already in existence, with the inclusion of our own Retwt.me (I should know, I implemented it). For simply detecting links that are spam, the [Google Safe Browsing API](http://code.google.com/apis/safebrowsing/) is used by many providers. It updates in minutes, is authoritative, and secure - because this is the list of URLs that Google itself blacklists against. I doubt that McAfee can offer any real-world security on top of that that is actually any value to consumers.
 
 If you're interested, I've [written about the Safe Browsing API before](/1756).
 

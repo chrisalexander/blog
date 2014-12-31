@@ -6,7 +6,7 @@ categories: life
 
 That may seem like a pretty stupid question to be posing to someone; that's because it is. But it is just one of the latest quizzes that have appeared in my Facebook news feed over the past few days, continuing the trend of frequent and clearly annoying quizzes that people seem to be willing to complete these days.
 
-At least I have some justification for not calling this an out-and-out rant: apparently the Canadian government [aren't too keen on it either](http://www.thestar.com/News/Canada/article/667700). You can tell something has gotten out of hand when it has its [own website](http://www.myfacebookquiz.com/).
+At least I have some justification for not calling this an out-and-out rant: apparently the Canadian government [aren't too keen on it either](http://www.thestar.com/News/Canada/article/667700). You can tell something has gotten out of hand when it has its own website.
 
 So, I decided to give it a shot, see what one of these quizzes would be like to take. I did a Facebook search for "Quiz" and picked one from the first page of results. To spare the author of the quiz I will not share it's name or questions which I deem irrelevant for this post.
 
