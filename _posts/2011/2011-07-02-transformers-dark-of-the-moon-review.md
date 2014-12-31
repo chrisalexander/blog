@@ -39,4 +39,4 @@ I did like the two little robots though, they were pretty fun.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/07/rosie-huntingdon-whiteley1.jpg" %}
 
-[(Slightly less appropriately cropped version)](http://www.chris-alexander.co.uk/wp-content/uploads/2011/07/rosie-huntingdon-whiteley1a.jpg)
+[(Slightly less appropriately cropped version)](http://media.chris-alexander.co.uk/wp-content/uploads/2011/07/rosie-huntingdon-whiteley1a.jpg)
