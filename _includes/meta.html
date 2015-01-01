@@ -7,13 +7,19 @@
 <meta name="description" content="{% if page.heading %}{{ page.heading }}{% endif %}{% if page.subheading %} - {{ page.subheading }}{% endif %}">
 <meta name="keywords" content="Chris Alexander engineering tech technology engineering robots blog">
 
-<meta itemprop="name" content="On Engineering - Chris Alexander">
+<meta itemprop="name" content="On Engineering">
 <meta itemprop="description" content="{% if page.heading %}{{ page.heading }}{% endif %}{% if page.subheading %} - {{ page.subheading }}{% endif %}">
 <meta itemprop="image" content="{% if page.leader.image %}{{ page.leader.image }}{% else %}/img/logo-150.png{% endif %}">
 
+<meta name="twitter:card" content="summary{% if page.leader.image %}_large_image{% endif %}" />
+<meta name="twitter:site" content="@chris_alexander" />
+<meta name="twitter:creator" content="@chris_alexander" />
+
 <meta property="og:title" content="{% if page.heading %}{{ page.heading }}{% endif %}{% if page.subheading %} - {{ page.subheading }}{% endif %}">
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | truncatewords:50 | strip_html }}{% else if page.subheading %}{{ page.subheading }}{% else if page.heading %}{{ page.heading }}{% endif %}">
+<meta property="og:url" content="http://chris-alexander.co.uk{{ page.url }}">
 <meta property="og:type" content="blog">
-<meta property="og:site_name" content="Chris Alexander's blog, On Engineering">
+<meta property="og:site_name" content="On Engineering">
 <meta property="og:image" content="{% if page.leader.image %}{{ page.leader.image }}{% else %}/img/logo-150.png{% endif %}" />
 
 <meta name="apple-mobile-web-app-capable" content="yes">
