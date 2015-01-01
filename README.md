@@ -4,6 +4,18 @@
 
 ### YAML front matter
 
+Complete example:
+
+    ---
+    layout: post
+    heading: 'Creating Memrise courses'
+    leader:
+     image: http://media.chris-alexander.co.uk/pictures/memrise/counties.png
+     hassmall: false
+     showonpage: false
+    categories: learning
+    ---
+
 #### Layout
 
 The layout of the page. Choose from "post" for a blog post (with or without leader) or "image" for an image post (no footer on this page either).
