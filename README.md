@@ -32,38 +32,49 @@ The page subheading, put underneath the heading for you if specified.
 
 An object specifying the page leader, if desired.
 
-* Image - URl of the image to show as the leader
-* Inverted - set to true to invert the colours from black text on the image to white text
-* Position - the position of the text on the image. Choose from top, left, bottom, right, top left, top right, bottom left, bottom right. Leave blank for the middle
-* Hidetext - set to true to make the text auto-hide as you scroll down on post pages, and to make the text and home link disappear if you stop interacting on image pages.
-* Hassmall - set explicitly to false to ensure it doesn't try and use a "small" image for leaders
-* Showonpage - set explicitly to false to only use the image on the listings, not at the top of the post
+* image - URl of the image to show as the leader
+* inverted - set to true to invert the colours from black text on the image to white text
+* position - the position of the text on the image. Choose from top, left, bottom, right, top left, top right, bottom left, bottom right. Leave blank for the middle
+* hidetext - set to true to make the text auto-hide as you scroll down on post pages, and to make the text and home link disappear if you stop interacting on image pages.
+* hassmall - set explicitly to false to ensure it doesn't try and use a "small" image for leaders
+* showonpage - set explicitly to false to only use the image on the listings, not at the top of the post
 
 ### Post content
 
-Write post content with normal markdown.
+Write post content with normal markdown. Here are some embedding tricks:
 
-You can include images, like so:
+#### Images
 
-{% include images/center.html src="https://docs.google.com/uc?id=0B6Hlcpe0LOWKYnJUNnVYbkVSdjg" %}
-An image in the center of the page with the given src
+An image in the center of the page with the given src:
 
-{% include images/left.html src="http://placekitten.com/g/500/800" %}
-A left-aligned image
+    {% include images/center.html src="https://docs.google.com/uc?id=0B6Hlcpe0LOWKYnJUNnVYbkVSdjg" %}
 
-{% include images/right.html src="http://placekitten.com/g/400/400" %}
-A right-aligned image
+A left-aligned image:
 
-{% include images/max.html src="http://placekitten.com/g/1400/600" %}
-An image which expands to the full width of the page (may be >1 page high)
+    {% include images/left.html src="http://placekitten.com/g/500/800" %}
 
-{% include images/block.html src="http://placekitten.com/g/1000/1000" %}
-A block image which sits in the middle of the page
+A right-aligned image:
 
-You can include a tweet, like so:
+    {% include images/right.html src="http://placekitten.com/g/400/400" %}
 
-{% include tweet.html user="Loic Le Meur" username="loic" id="310492485463986178" date="March 9, 2013" text="If you want to start a business there is no point in finishing college, just stop education Elon Musk" %}
+An image which expands to the full width of the page (may be >1 page high):
 
-You can include Youtube videos:
+    {% include images/max.html src="http://placekitten.com/g/1400/600" %}
 
-{% include youtube.html id="YoutubeVideoId" %}
+A block image which sits in the middle of the page:
+
+    {% include images/block.html src="http://placekitten.com/g/1000/1000" %}
+
+#### Tweets
+
+    {% include tweet.html user="Loic Le Meur" username="loic" id="310492485463986178" date="March 9, 2013" text="If you want to start a business there is no point in finishing college, just stop education Elon Musk" %}
+
+#### Youtube
+
+    {% include youtube.html id="YoutubeVideoId" %}
+
+#### Gist
+
+You can use the standard Github Pages embed, but just because I keep forgetting:
+
+    {% gist 25b67f94e3b82a94303c %}
