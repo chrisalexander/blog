@@ -7,8 +7,8 @@
 <meta name="description" content="{% if page.heading %}{{ page.heading }}{% endif %}{% if page.subheading %} - {{ page.subheading }}{% endif %}">
 <meta name="keywords" content="Chris Alexander engineering tech technology engineering robots blog">
 
-<meta itemprop="name" content="On Engineering">
-<meta itemprop="description" content="{% if page.heading %}{{ page.heading }}{% endif %}{% if page.subheading %} - {{ page.subheading }}{% endif %}">
+<meta itemprop="name" content="{% if page.heading %}{{ page.heading }}{% else %}On Engineering{% endif %}">
+<meta itemprop="description" content="{% if page.subheading %}{{ page.subheading }}{% endif %}">
 <meta itemprop="image" content="{% if page.leader.image %}{{ page.leader.image }}{% else %}/img/logo-150.png{% endif %}">
 
 <meta name="twitter:card" content="summary{% if page.leader.image %}_large_image{% endif %}" />
