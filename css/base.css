@@ -74,7 +74,7 @@ ul, ol {
 h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     font-family: 'Karma', serif;
-    margin-bottom: 45px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
@@ -83,27 +83,27 @@ h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 44px;
-}
-
-h2 {
-    font-size: 40px;
-}
-
-h3 {
     font-size: 36px;
 }
 
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 26px;
+}
+
 h4 {
-    font-size: 32px;
+    font-size: 24px;
 }
 
 h5 {
-    font-size: 28px;
+    font-size: 20px;
 }
 
 h6 {
-    font-size: 24px;
+    font-size: 18px;
 }
 
 /* subheading */
@@ -112,7 +112,7 @@ p.subheading {
     font-size: 22px;
     font-style: italic;
     text-align: center;
-    margin-top: -40px;
+    margin-top: -30px;
 }
 
 p.subheading a,
@@ -125,6 +125,7 @@ p.date {
     font-size: 18px;
     text-align: center;
     font-weight: bold;
+	margin-top: -10px;
 }
 
 /* utils */
