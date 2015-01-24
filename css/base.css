@@ -72,10 +72,14 @@ ul, ol {
 
 /* headings */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 400;
-    font-family: 'Lobster', serif;
+    font-weight: 700;
+    font-family: 'Karma', serif;
     margin-bottom: 45px;
     text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+	font-weight: 600;
 }
 
 h1 {
