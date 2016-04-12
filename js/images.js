@@ -5,7 +5,7 @@ var images = {
     for (var i = 0; i < els.length; i++) {
       var el = els[i];
 
-      var matches = el.style.backgroundImage.match(/^url\((.+)\)$/);
+      var matches = el.style.backgroundImage.match(/^url\("(.+)"\)$/);
       if (!matches || matches.length < 1) { continue; }
       var url = matches[1];
       el.style.opacity = 0;
@@ -14,7 +14,7 @@ var images = {
       var img = new Image();
       img.onload = (function(el, url) {
         return function() {
-          el.style.backgroundImage = 'url(' + url + ')';
+          el.style.backgroundImage = 'url("' + url + '")';
           el.className += " fade";
           el.style.opacity = 1;
         }
