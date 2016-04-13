@@ -4,7 +4,7 @@ heading: 'Enable SSH connections to your computer'
 categories: dev
 ---
 
-I've been hunting around since my last blog post (about the mobile SSH client) for how to securely enable SSH connections into my home computer. I hunted for ages for a suitable solution, and came up with this method:
+I've been hunting around since my last blog post (about the mobile SSH client) for how to securely enable SSH connections into my home computer. I hunted for ages for a suitable solution, and came up with this method found [here](http://users.piuha.net/martti/comp/ubuntu/en/install.html) (under number 5)
 
 Firstly install the Open SSH server using the following command:
 
