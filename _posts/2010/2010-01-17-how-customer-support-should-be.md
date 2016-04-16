@@ -14,7 +14,7 @@ I recognised the business model from [Skimlinks](http://www.skimlinks.com), a co
 
 Since my blog has been growing, I thought I would be able to apply and stand a good chance of being approved.
 
-I filled in the [signup form](http://skimlinks.com/register) carefully and as accurately as I could, and was pleased to see that it would take them at most 3 days to get back to me.
+I filled in the [signup form](http://skimlinks.com) carefully and as accurately as I could, and was pleased to see that it would take them at most 3 days to get back to me.
 
 This morning, over a week later, I still hadn't got a response, so [tweeted](http://twitter.com/chris_alexander/status/7861544815):
 

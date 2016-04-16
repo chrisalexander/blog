@@ -34,4 +34,4 @@ Next up, you need to follow a series of instructions that I've added in to this 
 
 ## Sources
 
-Thanks for a bit of help from [Engadget](http://www.engadget.com/2010/05/22/android-2-2-froyo-manual-update-found-now-available-for-non-roo/), [Gadgetopolis](http://www.gadgetopolis.com/posts/7733) and the XDA dev forums. 
+Thanks for a bit of help from [Engadget](http://www.engadget.com/2010/05/22/android-2-2-froyo-manual-update-found-now-available-for-non-roo/), [Gadgetopolis](https://web.archive.org/web/20150105235545/http://www.gadgetopolis.com/posts/7733) and the XDA dev forums. 
