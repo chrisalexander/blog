@@ -6,7 +6,7 @@ categories: google
 
 Wow, what a day yesterday was!
 
-Google went all-out at their Google IO event, and went and changed all kinds of things.
+Google went all-out at their [Google IO](http://web.archive.org/web/20101003174625/http://code.google.com/events/io/2010/) event, and went and changed all kinds of things.
 
 [Google Wave](http://wave.google.com) announcements, a new codec for the web supported by Google, Mozilla and Opera, and all kinds of other fancy bits and pieces.
 

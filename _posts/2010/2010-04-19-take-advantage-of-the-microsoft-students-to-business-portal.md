@@ -12,7 +12,7 @@ One of these is a Microsoft initiative called Students to Business.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/s2b.jpg" %}
 
-The [Students to Business Portal](http://www.microsoft.com/studentstobusiness/home/default.aspx) offers some great ways to increase your value in the eyes of potential employers.
+The [Students to Business Portal](https://web.archive.org/web/20130505002555/http://www.microsoft.com/studentstobusiness/home/default.aspx) offers some great ways to increase your value in the eyes of potential employers.
 
 These include -
 
@@ -22,4 +22,4 @@ These include -
 * Internship and Job finder
 * Great links to help in your job search
 
-Why not head over to the [Students to Business Portal](http://www.microsoft.com/studentstobusiness/students/default.aspx) and get started today?
+Why not head over to the [Students to Business Portal](https://web.archive.org/web/20130505002555/http://www.microsoft.com/studentstobusiness/home/default.aspx) and get started today?

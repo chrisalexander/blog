@@ -60,4 +60,4 @@ Written in Java by the Facebook engineering team, it allows a distributed, horiz
 
 ### But That's Not All
 
-I could be here all night writing about the literally hundreds of contributions that Facebook, Twitter and the like have been giving back to the community. I hope this has been a nice taster though, if you want more then head over to the [Facebook Developers Open Source page](http://developers.facebook.com/opensource.php), or to the [Twitter Open Source page](http://dev.twitter.com).
+I could be here all night writing about the literally hundreds of contributions that Facebook, Twitter and the like have been giving back to the community. I hope this has been a nice taster though, if you want more then head over to the [Facebook Developers Open Source page](https://web.archive.org/web/20101205130436/http://developers.facebook.com/opensource/), or to the [Twitter Open Source page](http://dev.twitter.com).

@@ -21,7 +21,7 @@ To get started, you will need:
 
 Enough of that, let's get started!
 
-* Download the Chromium OS image from Dell. I used the Jan 3, 2012 image as it was the latest at the time of writing.
+* Download the Chromium OS image [from Dell](http://web.archive.org/web/20140419055437/http://linux.dell.com/files/cto/). I used the Jan 3, 2012 image as it was the latest at the time of writing.
 * Once its downloaded, if you're using Windows, extract the file using a program like 7zip so you have a .img file. Other OS users should be able to use their system's archive functionality.
 * Write the .img file to your USB key. On Windows, you can use the Win32 Disk Imager program to accomplish this. Just select the image and the right memory stick to write to. Wait a few minutes while it completes.
 * Insert the memory stick into your Dell Mini and reboot it. Press and hold 0 when it restarts to go to the boot menu. Select USB from the list to boot from the USB key.

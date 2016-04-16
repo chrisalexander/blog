@@ -14,7 +14,7 @@ I got exclusive access to the Beta of the Office plugin and had a go - check out
 
 ## Bringing the Cloud to you
 
-One of the best things by far about Huddle is that it is all hosted online. All you need is an internet connection and a web browser (or even just a mobile phone), and you can immediately catch up with what your team is up to.
+One of the best things by far about Huddle is that it is all hosted online. All you need is an internet connection and a web browser (or even [just a mobile phone](http://web.archive.org/web/20130518061402/http://clustr.me.uk/)), and you can immediately catch up with what your team is up to.
 
 One of Huddle's weaknesses has always been that you could never expect to get all the features of Office (where you would usually edit your documents) online - Zoho did a great job at allowing simple editing, but there is no substitute for the power of the full Office applications.
 
@@ -66,6 +66,6 @@ Soon all of Huddle's users will be able to seamlessly pull files from the cloud,
 
 Many more companies will realise in the future that they can use "the cloud" to enhance their user's experiences on the desktop. This is just the first step in this process, and we can look forward to many more exciting enhancements like this to come.
 
-*For other Huddle applications and extras, check out the Apps and Extras page; featuring Clustr, the best way to access Huddle on the go, from your iPhone or any mobile.*
+*For other Huddle applications and extras, check out the [Apps and Extras](http://web.archive.org/web/20100819032121/https://www.huddle.net/apps-and-extras/) page; featuring [Clustr](http://web.archive.org/web/20130518061402/http://clustr.me.uk/), the best way to access Huddle on the go, from your iPhone or any mobile.*
 
 *Advertising is available on this site - visit the Advertising section to find out more.*

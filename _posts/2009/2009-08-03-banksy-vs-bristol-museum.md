@@ -4,7 +4,7 @@ heading: 'Banksy vs Bristol Museum'
 categories: life
 ---
 
-Last Saturday, a crew from Reading made the 2-hour excursion to central Bristol to visit the [Banksy ](http://www.banksy.co.uk/)vs Brisol Museum exhibition. It [promised to be](/on-engineering/life/announcing-the-rdgtweetup-great-expedition/) very good and we were all very excited about it!
+Last Saturday, a crew from Reading made the 2-hour excursion to central Bristol to visit the [Banksy ](http://www.banksy.co.uk/)vs [Bristol Museum](http://web.archive.org/web/20110805203716/http://www.bristol.gov.uk/ccm/navigation/leisure-and-culture/museums-and-galleries/) exhibition. It [promised to be](/on-engineering/life/announcing-the-rdgtweetup-great-expedition/) very good and we were all very excited about it!
 
 Once we arrived there was the predictably long queue - almost exactly 2 hours of waiting in on-and-off drizzle, in fact.
 

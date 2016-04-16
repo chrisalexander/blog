@@ -8,13 +8,13 @@ You may have seen me bemoaning using Twitter on my iPhone recently.
 
 This is for two reasons. First of all, it is an original iPhone (#1337), and is therefore *terrible. *Second of all, I was using TweetDeck, which seems to be the only app in the store still free and not completely stuffed with ads - and also the slowest and most bloated.
 
-Incidentally, no-one seems to have got syncing setup between platforms - iPhone, desktop, web etc. - sorted in a Twitter app. It can't be that hard, surely? @loic hinted this may be coming to [Seesmic](http://seesmic.com) at his PDC announcement, so let's hope it's soon.
+Incidentally, no-one seems to have got syncing setup between platforms - iPhone, desktop, web etc. - sorted in a Twitter app. It can't be that hard, surely? @loic hinted this may be coming to [Seesmic](http://seesmic.com) at his [PDC announcement](http://web.archive.org/web/20130515114151/http://loiclemeur.com/english/2009/11/seesmic-for-windows-preview-launching-today.html), so let's hope it's soon.
 
 Back to the job at hand - Tweetie 2. I have used this for about 20 minutes, and it's a masterpiece. Here's why.
 
 ## Super-easy, super-cool
 
-Considering the number of options, bells and whistles that Tweetie 2 has integrated (seriously, you should see the length of the feature list), it is magnificently easy to use.
+Considering the number of options, bells and whistles that Tweetie 2 has integrated (seriously, you should see the length of the [feature list](http://web.archive.org/web/20101121160407/http://www.atebits.com/tweetie-iphone/)), it is magnificently easy to use.
 
 Within just a few seconds I had 5 accounts configured and was tweeting away to my heart's content. (This is in contrast to the purchase experience from Apple, which - for all the hoops it puts its developers through to get to the App Store - was a complete pain in the ass to actually get the app bought and downloaded).
 

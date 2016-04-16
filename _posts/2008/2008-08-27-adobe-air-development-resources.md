@@ -18,6 +18,6 @@ During my time developing Adobe Air applications, I have come across numerous on
 
 [O'Reilly guide](http://oreilly.com/catalog/9780596515195/index.html)
 
-Language reference online
+[Language reference online](http://web.archive.org/web/20100311074209/http://help.adobe.com/en_US/AIR/1.1/jslr/index.html)
 
 That's some for now, I'll add more resources as I find them.

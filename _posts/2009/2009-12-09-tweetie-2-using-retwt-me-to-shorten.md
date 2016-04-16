@@ -6,7 +6,7 @@ categories: projects
 
 One of my favourite features of the recently-launched Tweetie 2 (#1581) (as a geeky developer, at least) is the ability to use your own custom URL shortening service when you shrink the URLs in your tweets.
 
-Fortunately, the API for our short URL service Retwt.me is out-of-the-box compatible with Tweetie 2. Here's how to enable Retwt.me for shortening on your iPhone.
+Fortunately, the API for our short URL service [Retwt.me](http://web.archive.org/web/20090829065002/http://retwt.me/-/) is out-of-the-box compatible with Tweetie 2. Here's how to enable Retwt.me for shortening on your iPhone.
 
 To get to the right menu, you need to be on the "Accounts" view of Tweetie. Then you select the Settings button in the bottom left. Then select the Services option:
 

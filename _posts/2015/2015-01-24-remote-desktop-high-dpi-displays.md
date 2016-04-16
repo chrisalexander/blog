@@ -10,4 +10,4 @@ The issue is that you end up with everything on the remote screen appearing tiny
 
 For now, the workaround is to use Remote Desktop Connection Manager. This is a free utility from Microsoft that is designed for people that use a lot of remote desktops to easily manage them all and keep it all organised. However, you want to make sure that you use version 2.2, as version 2.7 patched the "issue" that we are relying on to get the screen to display.
 
-So a bit of extra work but at least you can view the remote machine without too much issue. Download [Remote Desktop Connection Manager 2.2](http://www.microsoft.com/en-gb/download/details.aspx?id=21101) from Microsoft.
+So a bit of extra work but at least you can view the remote machine without too much issue. Download [Remote Desktop Connection Manager 2.2](https://www.microsoft.com/en-gb/download/details.aspx?id=44989) from Microsoft.

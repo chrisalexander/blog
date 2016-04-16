@@ -12,4 +12,4 @@ You may or may not have seen over the past few hours that my face has been somew
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/me-on-mashable.PNG" %}
 
-Check out the original blog post on the Tweetmeme Blog.
+Check out the original blog post on the [Tweetmeme Blog](http://web.archive.org/web/20130617072455/http://blog.tweetmeme.com/2009/08/19/comments-are-coming-and-they-can-be-retweeted/).

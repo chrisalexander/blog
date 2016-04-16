@@ -8,7 +8,7 @@ leader:
 categories: projects
 ---
 
-The other day I got delivered a rather nice [Flip Ultra HD](http://www.theflip.com/products_flip_ultra.shtml#scene=sceneUltraHD) from Microsoft to do some video work for them. Very nice piece of kit! Before I got to have a play I thought it would be worth an unboxing and a bit of a demo.
+The other day I got delivered a rather nice [Flip Ultra HD](https://web.archive.org/web/20090110175926/http://www.theflip.com/products_flip_ultra.shtml#scene=sceneUltraHD) from Microsoft to do some video work for them. Very nice piece of kit! Before I got to have a play I thought it would be worth an unboxing and a bit of a demo.
 
 Overall the device is absurdly simple to use. I never thought you could get a digital camera with less than 10 buttons, let alone a 720p HD video camera (the Flip has 9 buttons, and that is including the flicker to open the USB port!!).
 
