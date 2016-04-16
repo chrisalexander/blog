@@ -5,7 +5,7 @@ subheading: 'Improves Twitter For The Masses'
 categories: twitter
 ---
 
-Recently, Twitter took over Atebits, makers of the ridiculously popular Tweetie Twitter client for iPhone and Mac.
+Recently, Twitter took over [Atebits](http://web.archive.org/web/20160314054628/http://www.atebits.com/), makers of the ridiculously popular Tweetie Twitter client for iPhone and Mac.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/twitter4.png" %}
 

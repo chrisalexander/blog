@@ -20,7 +20,7 @@ Plug your Nexus One into your PC, and mount the SD card, then copy the "update.z
 
 ## The Instructions
 
-Next up, you need to follow a series of instructions that I've added in to this video of my phone's update. They are summarised below, and if you want more detail, check out [this post](http://www.gadgetopolis.com/posts/7733).
+Next up, you need to follow a series of instructions that I've added in to this video of my phone's update. They are summarised below, and if you want more detail, check out [this post](https://web.archive.org/web/20150105235545/http://www.gadgetopolis.com/posts/7733).
 
 {% include youtube.html id="-944-pZx8xk" %}
 

@@ -4,7 +4,7 @@ heading: 'Actually, it just depends on how you want to use it.'
 categories: hardware
 ---
 
-Since the Nexus One appeared towards the start of the year, I have basically spent all my time trying to convince myself to wait at least for the European model before I splash some serious cash on it.
+Since the [Nexus One](http://web.archive.org/web/20120302153514/http://www.google.com/phone/) appeared towards the start of the year, I have basically spent all my time trying to convince myself to wait at least for the European model before I splash some serious cash on it.
 
 Today I noticed a commentary on one TechCrunch's blog posts about the Nexus One vs iPhone.
 

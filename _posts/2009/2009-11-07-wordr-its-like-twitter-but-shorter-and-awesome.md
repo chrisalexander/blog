@@ -6,7 +6,7 @@ categories: dev
 
 Having trouble getting your thoughts into 140 characters? Try getting them into a word.
 
-That is the principle behind Wordr, a service I came across recently and pretty much instantly fell for.
+That is the principle behind [Wordr](http://web.archive.org/web/20110423183838/http://wordr.org/), a service I came across recently and pretty much instantly fell for.
 
 Yeah yeah, "It's just another Twitter clone" I hear you cry. And you'd be right, it unashamedly admits this on its homepage. Its a very simple one at that, featuring just the bare-bones to get the service up and running - it seems the backend is progressing quite nicely, but I think their frontend could do with some work, as they (ironically) confirmed [in a tweet](http://twitter.com/wordr/status/5449101021).
 
@@ -44,4 +44,4 @@ I've already mentioned this needs a bit of an overhaul, and apparently its in th
 
 I think I may have figured out why I like Wordr so much. Other than it is very nice and fun to use, I think it is the intrigue of only being able to write so much at a time. Some of the tweets I enjoy digesting the most are those that contain fewer words, and are therefore more cryptic. I find with a single word, my imagination can run wild as to what that could mean, and I quite enjoy that.
 
-If you want to check out Wordr, head over to their site and sign in with your Twitter account (also, ironically).
+If you want to check out [Wordr](http://web.archive.org/web/20110423183838/http://wordr.org/), head over to their site and sign in with your Twitter account (also, ironically).

@@ -15,7 +15,7 @@ WRAP is currently in the very early stages of development as a protocol specific
 
 There are some pretty big names behind WRAP. Google, Microsoft, Yahoo!, and Facebook are all lending a hand. The WRAP Working Group's [list of subscribers](http://groups.google.com/group/oauth-wrap-wg/members) reads like a who's who of REST API pioneers.
 
-Facebook also [recently announced](http://developers.facebook.com/news.php?blog=1&amp;story=350) that they have integrated WRAP into the FriendFeed API, so there is a real, live, running example of a WRAP server for clients to test against.
+Facebook also [recently announced](https://web.archive.org/web/20091223051108/http://developers.facebook.com/news.php?blog=1&story=350) that they have integrated WRAP into the FriendFeed API, so there is a real, live, running example of a WRAP server for clients to test against.
 
 ## What's New in WRAP?
 

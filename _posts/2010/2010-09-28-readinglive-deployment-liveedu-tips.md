@@ -4,7 +4,7 @@ heading: 'ReadingLive deployment - Live at edu - tips'
 categories: uni
 ---
 
-So the Uni have now begun rolling out readingLive](https://live.reading.ac.uk) (a rebrand of [Live@edu](http://my.liveatedu.com/)) to all students, so once mine was activated this evening I proceeded to update my Gmail settings (as described in my previous post on [how to make University e-mail usable (#2847)) and ran into a whole stack of problems. I would go so far as to say the process was a nightmare. So here is what I learnt so that the same problems do not befall you.
+So the Uni have now begun rolling out readingLive (a rebrand of [Live@edu](http://my.liveatedu.com/)) to all students, so once mine was activated this evening I proceeded to update my Gmail settings (as described in my previous post on [how to make University e-mail usable (#2847)) and ran into a whole stack of problems. I would go so far as to say the process was a nightmare. So here is what I learnt so that the same problems do not befall you.
 
 ## How to log in
 
@@ -16,7 +16,7 @@ This may seem like a simple one, but it's not. Here are the principles:
 
 Simple.
 
-What this actually means is that if you go to Outlook.com and try and sign in, all kinds of bad things will happen. readingLive seems only to work if you sign on from [https://live.reading.ac.uk](https://live.reading.ac.uk). So don't go trying to sign in from anywhere else, it will end *badly*.
+What this actually means is that if you go to Outlook.com and try and sign in, all kinds of bad things will happen. readingLive seems only to work if you sign on from https://live.reading.ac.uk. So don't go trying to sign in from anywhere else, it will end *badly*.
 
 ## How to set up IMAP / POP / SMTP (and Exchange-based) access
 

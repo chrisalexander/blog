@@ -14,7 +14,7 @@ It's frustrating just how many people - who really should know better - advocate
 
 As someone who has gone from a degree straight into a startup, I strongly disagree with Elon Musk's and other's comments on this subject.
 
-The President of George Mason University [has commented](http://president.gmu.edu/2013/03/if-you-want-to-be-an-entrepreneur-go-to-college) that entrepreneurship should *start* with a University education - and I could not agree more. There are so many benefits to a University education alongside doing the courses and the exams, it is almost impossible to measure it all.
+The President of George Mason University [has commented](https://web.archive.org/web/20130501080224/http://president.gmu.edu/2013/03/if-you-want-to-be-an-entrepreneur-go-to-college) that entrepreneurship should *start* with a University education - and I could not agree more. There are so many benefits to a University education alongside doing the courses and the exams, it is almost impossible to measure it all.
 
 For example, while I was at Uni for 5 years, I got the opportunity to work in an excellent local startup ([DataSift](http://datasift.com)) for a year - something I would probably not have had without the University connection. I was able to spend my summers working at startups knowing I would not be under financial or other pressures as I would be back to Uni soon (Huddle, TweetMeme, DataSift, Kusiri, Import.io). Afterwards, I was able to begin working straight away at Import.io, continuing where I had left off the summer before.
 

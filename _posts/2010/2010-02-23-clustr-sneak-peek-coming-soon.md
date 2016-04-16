@@ -4,7 +4,7 @@ heading: 'Clustr Sneak Peek: Coming Soon'
 categories: huddle
 ---
 
-Some of you may remember my project from several months ago called Clustr. Essentially it offers a way of accessing your [Huddle.net](http://www.huddle.net) workspaces from your iPhone or mobile phone.
+Some of you may remember my project from several months ago called [Clustr](http://web.archive.org/web/20130518061402/http://clustr.me.uk/). Essentially it offers a way of accessing your [Huddle.net](http://www.huddle.net) workspaces from your iPhone or mobile phone.
 
 *Today I'm pleased to be able to give you a sneak preview of what's coming next for Clustr.*
 

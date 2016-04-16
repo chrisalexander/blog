@@ -4,7 +4,7 @@ heading: 'Google Sets Free Web Video'
 categories: google
 ---
 
-At their developer event Google IO, Google took the opportunity to announce [WebM](http://www.webmproject.org/), a new project for pushing a video codec for HTML 5 that everyone can agree on.
+At their developer event [Google IO](http://web.archive.org/web/20101003174625/http://code.google.com/events/io/2010/), Google took the opportunity to announce [WebM](http://www.webmproject.org/), a new project for pushing a video codec for HTML 5 that everyone can agree on.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/google_logo2.png" %}
 

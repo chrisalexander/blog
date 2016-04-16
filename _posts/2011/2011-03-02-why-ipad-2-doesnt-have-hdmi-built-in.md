@@ -32,4 +32,4 @@ Some footnotes that may be of interest:
 
 * the HDMI adapter is going to work with the first iPad, iPhone 4 and 4th gen iPod Touch. However, on anything other than the iPad 2, output is capped at 720p, likely due to a lack of horsepower in graphics which iPad 2 gains. ([Reference](http://store.apple.com/us/product/MC953ZM/A?fnode=MTc0MjU4NjE&mco=MTc5OTU4MjA))
 * Movie output is capped at 720p even on the iPad 2 (it’s not that fast then).
-* The iPad 2 has the same RAM as the iPad – 256MB. ([Reference](http://uk.gizmodo.com/5774768/does-the-ipad-2-really-only-have-256mb-of-ram)). UPDATE – it appears this is [not the case](http://www.appleinsider.com/articles/11/03/03/apples_a5_cpu_in_ipad_2_has_512mb_of_ram_same_as_iphone_4_report.html); thanks @isaach for the heads-up
+* The iPad 2 has the same RAM as the iPad – 256MB. ([Reference](https://web.archive.org/web/20110405011303/http://uk.gizmodo.com/5774768/does-the-ipad-2-really-only-have-256mb-of-ram)). UPDATE – it appears this is [not the case](http://www.appleinsider.com/articles/11/03/03/apples_a5_cpu_in_ipad_2_has_512mb_of_ram_same_as_iphone_4_report.html); thanks @isaach for the heads-up
