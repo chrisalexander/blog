@@ -14,7 +14,7 @@ Right so what happens when you first click the link the website it provides? Wel
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook1.png" %}
 
-Right, seems moderately less scary now. That is if you know what [OpenStream ](http://developers.facebook.com/news.php?blog=1&amp;story=225)is - if not then it probably seems more scary. So I proceed daringly onwards, and meet the usual application approval page.
+Right, seems moderately less scary now. That is if you know what [OpenStream](http://web.archive.org/web/20100206113121/http://developers.facebook.com/news.php?blog=1&story=225) is - if not then it probably seems more scary. So I proceed daringly onwards, and meet the usual application approval page.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook2.png" %}
 

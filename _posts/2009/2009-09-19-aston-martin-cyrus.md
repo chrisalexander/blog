@@ -9,7 +9,7 @@ leader:
 categories: life
 ---
 
-I was taking a look at the [TweetMeme Aston Martin](http://astonmartin.tweetmeme.com/) channel earlier and came across a car announced at the Frankfurt Motor Show that I'd previously missed.
+I was taking a look at the TweetMeme Aston Martin channel earlier and came across a car announced at the Frankfurt Motor Show that I'd previously missed.
 
 The Aston Martin Cyrus is basically a DB9 or DBS equipped with a new body kit, consisting of a 100% carbon fibre body, and with even more on the inside. I don't think I've ever seen this much carbon fibre on a single car ever!
 

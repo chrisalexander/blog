@@ -4,7 +4,7 @@ heading: '#RetweetButton Product Placement Win'
 categories: favorit
 ---
 
-One last thing to come out of tonight's iPad announcements - @nickhalstead was watching the [iPad video](http://www.apple.com/ipad/) very closely and discovered the [TweetMeme retweet button](http://tweetmeme.com/about/retweet_button) making a cameo!
+One last thing to come out of tonight's iPad announcements - @nickhalstead was watching the [iPad video](http://www.apple.com/ipad/) very closely and discovered the [TweetMeme retweet button](https://web.archive.org/web/20120505032436/http://tweetmeme.com/about/retweet_button) making a cameo!
 
 Thanks [Spin Magazine](http://www.spin.com/articles/phoenix-rise-shine) for having us on.
 

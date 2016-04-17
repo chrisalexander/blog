@@ -22,7 +22,7 @@ I want to take a look at the major players in the news apps, and see where they 
 
 ## Flipboard
 
-Flipboard came out a few weeks ago to much fanfare (mostly by [Robert Scoble](http://scobleizer.com/2010/07/20/exclusive-first-look-at-revolutionary-social-news-ipad-app-flipboard/), it has to be said). Combine that amount of buzz with its price tag (somewhat stupidly, free - they could have made a mint in the first 48 hours alone) and what you got was Flipboard's servers down for nearly 2 days while they buckled completely under the load.
+Flipboard came out a few weeks ago to much fanfare (mostly by [Robert Scoble](https://web.archive.org/web/20120209061249/http://scobleizer.com/2010/07/20/exclusive-first-look-at-revolutionary-social-news-ipad-app-flipboard), it has to be said). Combine that amount of buzz with its price tag (somewhat stupidly, free - they could have made a mint in the first 48 hours alone) and what you got was Flipboard's servers down for nearly 2 days while they buckled completely under the load.
 
 Once that rather distasteful experience was over and done with and I could actually use the app, I was somewhat disappointed. All of the curation happens on Flipboard's servers (hence why they went down so spectacularly), so it is tediously slow waiting for the app to start up and load some stuff. Once you get in to the content it's not too bad, but some of the layout pages consisting entirely of tweets for example suck a bit.
 

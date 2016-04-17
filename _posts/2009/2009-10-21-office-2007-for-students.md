@@ -36,7 +36,7 @@ Word makes it simple to add references as you go, and automatically update all l
 
 ## Export as PDF
 
-It doesn't come with support installed, but at last you can export your Office 2007 documents as PDFs. You can download the plugin from [Microsoft's website](http://www.microsoft.com/downloads/details.aspx?FamilyId=4D951911-3E7E-4AE6-B059-A2E79ED87041&amp;displaylang=en).
+It doesn't come with support installed, but at last you can export your Office 2007 documents as PDFs. You can download the plugin from Microsoft's website.
 
 ## Page Layout view in Excel 2007
 

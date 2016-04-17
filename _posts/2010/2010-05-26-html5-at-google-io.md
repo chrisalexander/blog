@@ -4,7 +4,7 @@ heading: 'HTML5 at Google IO'
 categories: microsoft
 ---
 
-Wow, HTML 5 had a brilliant time at Google IO last week. Here's a recap of some of the top news coming from the event regarding the technology.
+Wow, HTML 5 had a brilliant time at [Google IO](http://web.archive.org/web/20101003174625/http://code.google.com/events/io/2010/) last week. Here's a recap of some of the top news coming from the event regarding the technology.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/google_logo3.png" %}
 
@@ -36,7 +36,7 @@ For more, check out [TechCrunch's preview](http://techcrunch.com/2010/05/19/twee
 
 ## Google Fonts API
 
-One final mention for Google's Fonts API.
+One final mention for [Google's Fonts API](http://web.archive.org/web/20110206204359/http://code.google.com/webfonts).
 
 This allows anyone to use a series of free fonts in their HTML 5 web pages.
 

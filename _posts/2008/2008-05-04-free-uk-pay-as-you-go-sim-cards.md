@@ -10,4 +10,4 @@ If you're looking for a new Pay as you Go sim card for any of the major networks
 
 If you text a lot, I highly recommend the Orange Dolphin package - top up £10 and get 300 free texts to use in the next 30 days; top up more, and you get even more free texts! You get to keep your credit too :D
 
-From the Mobile Phone Checker Blog.
+From the [Mobile Phone Checker Blog](http://web.archive.org/web/20100307180929/http://www.mobilephonechecker.co.uk/blog/pleathora-of-free-sim-cards-available).

@@ -12,7 +12,7 @@ First of all we have HUDSpace - this is a native iPhone application, which allow
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/login_screen.png" %}
 
-The other option is Clustr, a web-based application that allows you to access all of the features provided by the Huddle API from any mobile device capable of connecting to the internet. View all your files and download them to your device, take part in discussions, and manage your tasks, all in an interface designed to be highly accessible on touchscreen and mobile devices.
+The other option is [Clustr](http://web.archive.org/web/20130518061402/http://clustr.me.uk/), a web-based application that allows you to access all of the features provided by the Huddle API from any mobile device capable of connecting to the internet. View all your files and download them to your device, take part in discussions, and manage your tasks, all in an interface designed to be highly accessible on touchscreen and mobile devices.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/screenshot1.png" %}
 

@@ -4,9 +4,9 @@ heading: 'Announcing the #RDGTweetup Great Expedition'
 categories: life
 ---
 
-What are you doing on Saturday 1st August? Because we invite you to join us on the First #RDGTweetup Great Expedition to see [Banksy](http://www.banksy.co.uk/) at the Bristol Museum.
+What are you doing on Saturday 1st August? Because we invite you to join us on the First #RDGTweetup Great Expedition to see [Banksy](http://www.banksy.co.uk/) at the [Bristol Museum](http://web.archive.org/web/20110805203716/http://www.bristol.gov.uk/ccm/navigation/leisure-and-culture/museums-and-galleries/).
 
-Banksy is an internationally renowned guerilla street artist, making his name painting grafitti on the bare walls of cities across the UK, commenting on the state of society. You can check out some of his work on his website.
+Banksy is an internationally renowned guerilla street artist, making his name painting grafitti on the bare walls of cities across the UK, commenting on the state of society. You can check out some of his work [on his website](http://web.archive.org/web/20110805203716/http://www.bristol.gov.uk/ccm/navigation/leisure-and-culture/museums-and-galleries/).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/banksy-300x198.jpg" %}
 
@@ -28,7 +28,7 @@ Whenever you like, but if you want to actually come with us, then you'll need to
 
 ### How much is this going to cost me?
 
-The good news is the exhibition itself is completely free! You'll need money for the Park and Ride (around £2.50 return) and a contribution to the fuel costs of your driver (£5 or so). You'll also need some for lunch (but you won't be stuck for choice) and so on and so forth.
+The good news is the exhibition itself is completely free! You'll need money for the [Park and Ride](http://web.archive.org/web/20110813111548/http://www.bristol.gov.uk/ccm/navigation/transport-and-streets/parking/park-and-ride/) (around £2.50 return) and a contribution to the fuel costs of your driver (£5 or so). You'll also need some for lunch (but you won't be stuck for choice) and so on and so forth.
 
 ### Plans for the day
 

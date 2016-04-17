@@ -4,7 +4,7 @@ heading: 'Beluga: A revolutionary platform'
 categories: life
 ---
 
-I'm just going to say this - the point of me writing this review is that you go and download the Beluga app for your iPhone or Android device right now. Not because someone can give me some dollars (coz that would be nice) but because for the first time in many years I see an application that could possibly just change things on a scale bigger than Twitter and Facebook.
+I'm just going to say this - the point of me writing this review is that you go and download the [Beluga](http://web.archive.org/web/20111211055751/http://belugapods.com/) app for your iPhone or Android device right now. Not because someone can give me some dollars (coz that would be nice) but because for the first time in many years I see an application that could possibly just change things on a scale bigger than Twitter and Facebook.
 
 No light words, there. But Beluga is an application unlike any other that I have seen. While it seems simple on the outside, I think it has some kind of power to do something great and get rid of SMS, and Facebook for good. But it's not just me - [Louis Gray](http://blog.louisgray.com/2010/12/ex-googlers-launch-beluga-for-mobile.html) and [MG Siegler](http://techcrunch.com/2010/12/23/beluga/) have been waxing lyrical about it too.
 

@@ -8,7 +8,7 @@ I have been hacking together a quick web app this weekend (yay bank holiday) and
 
 As I am working on a Chromebook (done all the development for the app on the chromebook so far) I didn't really want to have to go and find a computer to FTP the files on to my server.
 
-Instead I found out through this useful guide that you can actually host static content directly from Google Drive.
+Instead I found out through [this useful guide](http://web.archive.org/web/20130724173813/https://googledrive.com/host/0B716ywBKT84AMXBENXlnYmJISlE/GoogleDriveHosting.html) that you can actually host static content directly from Google Drive.
 
 Simply:
 
