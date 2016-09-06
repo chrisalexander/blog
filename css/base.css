@@ -12,7 +12,8 @@ p, h1, h2, h3, h4, h5, h6,
 div.img.block,
 ul, ol,
 .list-item,
-div.img.center {
+div.img.center,
+#title {
     max-width: 768px;
     padding: 0 20px;
     margin: 30px auto;
@@ -104,6 +105,31 @@ h5 {
 
 h6 {
     font-size: 18px;
+}
+
+/* title */
+#title {
+    margin-top: 0;
+    padding-top: 10px;
+    border-bottom: 1px solid #999;
+    border-radius: 0 0 3px 3px;
+}
+
+#title.withleader {
+    border-left: 1px solid #999;
+    border-right: 1px solid #999;
+}
+
+#title h2 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+#title p.subheading {
+    float: right;
+    margin-top: 6px;
+    text-align: right;
 }
 
 /* subheading */
