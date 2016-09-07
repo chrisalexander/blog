@@ -132,6 +132,20 @@ h6 {
     text-align: right;
 }
 
+#title p.subheading:before {
+    width: auto;
+}
+
+@media (max-width: 768px) {
+    #title h2 {
+        text-align: center;
+    }
+
+    #title p.subheading {
+        display: none;
+    }
+}
+
 /* subheading */
 
 p.subheading {
