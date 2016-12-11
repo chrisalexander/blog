@@ -16,9 +16,9 @@ div.img.center,
 #title,
 .twitter-tweet,
 .twitter-video {
-    max-width: 768px;
-    padding: 0 20px;
-    margin: 30px auto;
+    max-width: 768px !important;
+    padding: 0 20px !important;
+    margin: 30px auto !important;
 }
 
 p:before,
