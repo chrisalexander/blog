@@ -14,7 +14,8 @@ ul, ol,
 .list-item,
 div.img.center,
 #title,
-twitterwidget {
+.twitter-tweet,
+.twitter-video {
     max-width: 768px;
     padding: 0 20px;
     margin: 30px auto;
