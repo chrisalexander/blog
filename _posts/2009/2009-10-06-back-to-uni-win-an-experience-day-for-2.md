@@ -14,7 +14,7 @@ Fancy chilling out in the Microsoft Xbox 360 Lounge, and influencing the next li
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/mice1.png" %}
 
-To celebrate the launch of the [LifeCam Cinema](http://www.microsoft.com/hardware/digitalcommunication/productdetails.aspx?pid=008), the first 720p Full High Definition webcam, you can win an Experience Day for you and a friend at [Microsoft UK](http://www.microsoft.com/uk/about/map-reading.mspx).
+To celebrate the launch of the [LifeCam Cinema](http://web.archive.org/web/20091203030659/http://www.microsoft.com/hardware/digitalcommunication/ProductDetails.aspx?pid=008), the first 720p Full High Definition webcam, you can win an Experience Day for you and a friend at [Microsoft UK](http://www.microsoft.com/uk/about/map-reading.mspx).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/hardware.png" %}
 
