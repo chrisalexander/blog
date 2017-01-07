@@ -130,7 +130,7 @@ h6 {
 
 #title p.subheading {
     float: right;
-    margin-top: 6px;
+    margin-top: 6px !important;
     text-align: right;
 }
 
