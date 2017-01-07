@@ -8,7 +8,7 @@ leader:
 categories: dev
 ---
 
-Yesterday I was lucky enough to tag along to [Internet World](http://www.internetworld.co.uk/). I spent most of the day on the TweetMeme stand, but I did find time to visit some friends in other companies and take part in a panel at lunchtime.
+Yesterday I was lucky enough to tag along to [Internet World](http://web.archive.org/web/20160305130628/http://internetworld.org/). I spent most of the day on the TweetMeme stand, but I did find time to visit some friends in other companies and take part in a panel at lunchtime.
 
 Great to catch up with everyone on the @TweetMeme stand, and see all the guys from @Huddle and @DediPower again!
 

@@ -40,4 +40,4 @@ Generally these are all quite good, depending on what you want. The Twitter ones
 
 For me, currently, given my standard usage, Seesmic is the app for me. Of course I have my reasons for this (most of which are outlined here) and I will continue trying out the other ones as they get updated and as my usage changes. Send me tips for why you like what you use, and if there is something else I should try!
 
-Find out more about the three clients on their sites - [Twitter](http://blog.twitter.com/2010/04/twitter-for-android-robots-like-to.html), [Seesmic](http://seesmic.com/seesmic_mobile/android/), [TweetDeck](http://www.tweetdeck.com/android/).
+Find out more about the three clients on their sites - [Twitter](http://blog.twitter.com/2010/04/twitter-for-android-robots-like-to.html), [Seesmic](http://seesmic.com/seesmic_mobile/android/), [TweetDeck](http://web.archive.org/web/20101115234642/http://www.tweetdeck.com/android/).

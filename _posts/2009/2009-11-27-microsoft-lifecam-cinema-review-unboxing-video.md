@@ -5,7 +5,7 @@ subheading: 'Review, Unboxing, Video'
 categories: life
 ---
 
-I was very pleased to find this afternoon when I arrived home that a shiny new [LifeCam Cinema](http://www.microsoft.com/hardware/digitalcommunication/ProductDetails.aspx?pid=008&amp;active_tab=overview) had arrived from Microsoft.
+I was very pleased to find this afternoon when I arrived home that a shiny new [LifeCam Cinema](http://web.archive.org/web/20130506144725/http://www.microsoft.com/hardware/en-us/p/lifecam-cinema/H5D-00013) had arrived from Microsoft.
 
 The Cinema is quite a large step forwards in the webcam game. Personally I thought Logitech had it stitched up at least a year ago, but it seems that Microsoft have been pushing their hardware division hard and have produced, quite frankly, an awesome beast.
 

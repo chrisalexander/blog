@@ -24,7 +24,7 @@ To be honest, the results page is more than a little disappointing - after the e
 
 ## Google Fast Flip
 
-Fast Flip is a new alpha service released on [Google Labs](http://googlelabs.com). It provides a brand new way of quickly overviewing news published online, without waiting for long periods for pages to load on different websites. In addition to the previews of websites, the content is split into Popular, Sections (much like Google News sections), Topics and Sources. So you can drill down headlines into topics (e.g. Kanye West) or even popular news sources (e.g. TechCrunch).
+Fast Flip is a new alpha service released on [Google Labs](http://web.archive.org/web/20090426064424/http://www.googlelabs.com/). It provides a brand new way of quickly overviewing news published online, without waiting for long periods for pages to load on different websites. In addition to the previews of websites, the content is split into Popular, Sections (much like Google News sections), Topics and Sources. So you can drill down headlines into topics (e.g. Kanye West) or even popular news sources (e.g. TechCrunch).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/flip1-1023x688.PNG" %}
 

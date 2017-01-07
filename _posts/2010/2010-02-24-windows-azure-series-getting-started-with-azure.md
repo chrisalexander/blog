@@ -19,8 +19,8 @@ First up, of course, is the official MSDN documentation: [Getting Started with W
 There are then, of course, the MSDN blogs. These provide an invaluable resource of real-world experiences from Microsoft employees directly working with and influencing the products they blog about. Here are some highlights to get you started on some key areas:
 
 * [Getting Started with Windows Azure](http://blogs.msdn.com/edunhill/archive/2009/05/19/getting-started-with-azure-1.aspx) (general)
-* [Getting Started with the Azure Services Platform](http://blogs.msdn.com/gwillis/archive/2009/05/04/getting-started-with-azure-services-platform.aspx)
-* [Getting Started with SQL Azure](http://blogs.msdn.com/sachinmu/archive/2009/11/25/getting-started-with-sql-azure-1.aspx)
+* [Getting Started with the Azure Services Platform](http://web.archive.org/web/20090608082704/http://blogs.msdn.com/gwillis/archive/2009/05/04/getting-started-with-azure-services-platform.aspx)
+* Getting Started with SQL Azure
 
 Of course, there is always [plenty of other content](http://www.google.co.uk/search?hl=en&amp;rlz=1C1GGLS_en-GBGB332GB332&amp;q=site:blogs.msdn.com+azure&amp;btnG=Search&amp;meta=&amp;aq=f&amp;oq=) out there if you want to go for something a bit different.
 

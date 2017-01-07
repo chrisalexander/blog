@@ -5,7 +5,7 @@ subheading: 'Unboxing and review'
 categories: microsoft
 ---
 
-Microsoft have very recently announced the latest in their line of state-of-the-art BlueTrack mice, the Wireless Mobile Mouse 6000 (you can see more on the [Microsoft Hardware site](http://www.microsoft.com/hardware/mouseandkeyboard/productdetails.aspx?pid=007)).
+Microsoft have very recently announced the latest in their line of state-of-the-art BlueTrack mice, the Wireless Mobile Mouse 6000 (you can see more on the [Microsoft Hardware site](http://web.archive.org/web/20090616072407/http://www.microsoft.com/hardware/mouseandkeyboard/productdetails.aspx?pid=007)).
 
 BlueTrack mice use a brand new method of tracking the movement across a surface, which is actually a combination of the laser and optical methods. If your current mouse cost you less than £10 or came with your computer, chances are its an optical mouse - usually indicated by a bright red light on the bottom just after you lift it from the desk. Instead of using this wide-band optical beam, laser mice use the higher frequency and much more accurate laser light to track the surface as it moves. BlueTrack combines the best of these to make a mouse that can work on pretty much any surface. In fact the representative from Microsoft Hardware I had a chat with said the only thing it won't do is glass that has just been cleaned (very transparent so difficult to get reflections of).
 

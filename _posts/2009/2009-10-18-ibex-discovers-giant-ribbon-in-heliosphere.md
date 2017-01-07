@@ -21,7 +21,7 @@ The picture below illustrates our Solar System moving through space in a right-t
 
 {% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/solarsystem2.png" %}
 
-Interestingly, IBEX has [discovered a giant ribbon](http://science.nasa.gov/headlines/y2009/15oct_ibex.htm?list1079677) running through the Heliosphere; so far scientists say that it is a "shocking result", and that its origin is currently unknown.
+Interestingly, IBEX has [discovered a giant ribbon](http://web.archive.org/web/20160323020941/http://science.nasa.gov/science-news/science-at-nasa/2009/15oct_ibex) running through the Heliosphere; so far scientists say that it is a "shocking result", and that its origin is currently unknown.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ribbon.jpg" %}
 
