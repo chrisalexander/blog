@@ -154,7 +154,7 @@ p.subheading {
     font-size: 22px;
     font-style: italic;
     text-align: center;
-    margin-top: -30px;
+    margin-top: -30px !important;
 }
 
 p.subheading a,
