@@ -55,6 +55,6 @@ In this case, *uk* is the variable containing the data. You can type new code in
 
 An example of this is collecting together all the matches; the UK data is all of the rounds, and there are multiple matches in each round, but if you want one collection of all matches (irrespective of rounds) then you could do:
 
-{% a53b9329f72d68923bbb984850e81361 %}
+{% gist a53b9329f72d68923bbb984850e81361 %}
 
 I'm going to deal with further manipulation of this data, as well as visualisation, in a future post.
