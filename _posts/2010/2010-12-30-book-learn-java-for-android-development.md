@@ -10,7 +10,7 @@ So how do you get started building Android apps? If you've got a bit of programm
 
 "Learn Java for Android Development" is a hefty book but an extremely robust introduction to Java from a mobile developers perspective. The book sets out to give readers the knowledge of Java required to develop successful Android applications. It does this very well, with 8 entire chapters devoted to Java principles and libraries that will be of use on the Android platform. To introduce some more complex techniques it diverts slightly in the final 2 chapters, but those only enhance the learning.
 
-{% include images/block.html src="http://apress.com/resource/bookcover/9781430231561?size=medium" %}
+{% include images/block.html src="https://web.archive.org/web/20101118034253/http://apress.com/resource/bookcover/9781430231561?size=medium" %}
 
 I would not recommend this book for absolute beginners at programming. However, the author's academic teaching traits are clear in the early chapters, giving clear and understandable explanations of the core principles of the Java language and architecture. A great getting started guide to programmers looking to dive into Java and the Android platform, with a clear set of recommended follow-on books to enhance your learning and start up Android application building.
 
