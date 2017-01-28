@@ -12,7 +12,7 @@ categories: life
 
 It takes some considerable effort for me to pay attention to a watch; there is so much choice around it has to be something special.
 
-The Black Pearl, designed by Switzerland-based [HD3 Complication](http://www.hd3complication.com/), definitely meets this standard.
+The Black Pearl, designed by Switzerland-based [HD3 Complication](http://web.archive.org/web/20100203202840/http://www.hd3complication.com/), definitely meets this standard.
 
 A combination of steampunk exposed mechanisms and pirate and buccaneer-inspired elements, it features a mixture of intricate mechanisms and detailing, and chunky nautical fixtures.
 
