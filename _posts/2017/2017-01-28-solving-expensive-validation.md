@@ -8,7 +8,7 @@ We have been having a short interesting discussion on handling the type of code 
 
 {% gist 07618c6c461cc1312174f24e9772630c %}
 
-I think this is reasonably common, especially in older code, and will usually be OK. If you have developers who know the processor well or have used this code before, you will probably get `CanProcess` called before `Process`.
+I think this is reasonably common, especially in older code, and will usually be OK. If you have developers who know the processor well or have used this code before, you will probably get *CanProcess* called before *Process*.
 
 But what if you have new clients, potentially externally, using this code? Add into this scenario that you may be calling the processing a lot, or that the validation phase may be relatively expensive in relation to the processing, and you have issues.
 
@@ -16,11 +16,11 @@ For example, a new user may simply not call the validation:
 
 {% gist 4cd22fb574ebfa8cb90e807a18ae12fa %}
 
-In this case you need to ensure the `Process` method also executes the same logic as `CanProcess`. Easy enough - but what if this then happens, potentially thousands of times a second?
+In this case you need to ensure the *Process* method also executes the same logic as *CanProcess*. Easy enough - but what if this then happens, potentially thousands of times a second?
 
 {% gist 82fa9af2de1b586b2025c3602d52e2e0 %}
 
-An alternative implementation may be to skip the validation phase entirely and just have some kind of `TryProcess` concept:
+An alternative implementation may be to skip the validation phase entirely and just have some kind of *TryProcess* concept:
 
 {% gist ca0c4cdf837d83a0b09338dce341111b %}
 
@@ -38,7 +38,7 @@ Then, to invoke, you check whether an action is returned, prompt the user, and t
 
 {% gist 0dca010291c88f849b9117495b19dbd9 %}
 
-A potentially slightly cleaner approach would be to return a bool from the `CanProcess` method then use an out variable to store the action:
+A potentially slightly cleaner approach would be to return a bool from the *CanProcess* method then use an out variable to store the action:
 
 {% gist 599feefee0c6e2519eaed42f61508b00 %}
 
@@ -46,7 +46,7 @@ This approach still suffers from validation problems, relying on exceptions in t
 
 {% gist 0cefb5d651c92db8b1f94f68d8ea8844 %}
 
-There is another major problem. As this is C#, your `DomainObject` could be anything - including something that you could mutate on that reference somewhere between calling the validator and invoking the returned action.
+There is another major problem. As this is C#, your *DomainObject* could be anything - including something that you could mutate on that reference somewhere between calling the validator and invoking the returned action.
 
 There is something we can do about this though - F# objects are immutable by default, so don't suffer from this. Additionally, you can accompish the whole thing in less code than just the interface definitions in C# :-)
 
