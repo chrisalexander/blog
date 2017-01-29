@@ -6,6 +6,7 @@ leader:
  image: http://media.chris-alexander.co.uk/pictures/eddiecam/eddiecam.png
  hassmall: false
  showonpage: false
+ inverted: true
 categories: woof
 ---
 
