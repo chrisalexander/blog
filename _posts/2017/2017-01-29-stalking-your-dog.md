@@ -13,6 +13,7 @@ categories: woof
 Ever since we got Eddie a few months ago we have been trying to keep an eye on him while we're out to make sure he's not too lonely and upset on his own (he is a rescue dog after all).
 
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">NEW TOY <a href="https://twitter.com/hashtag/squeak?src=hash">#squeak</a> <a href="https://t.co/kqZgENncZL">pic.twitter.com/kqZgENncZL</a></p>&mdash; Eddie (@EddieTheGrey) <a href="https://twitter.com/EddieTheGrey/status/799942361262489600">November 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 A few people have seen me watch EddieCam since we got it, so here are the details for it.
 
