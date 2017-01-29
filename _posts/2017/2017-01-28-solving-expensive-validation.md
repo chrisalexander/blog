@@ -4,7 +4,7 @@ heading: 'Solving expensive validation'
 categories: code
 ---
 
-We have been having a short interesting discussion on handling the type of code that you see here, something reasonably common in systems with processing systems which require some up-front checking:
+We have been having a short interesting discussion on handling the type of code that you see here, something reasonably common in systems with processing services which require some up-front checking:
 
 {% gist 07618c6c461cc1312174f24e9772630c %}
 
