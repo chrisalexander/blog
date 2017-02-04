@@ -5,7 +5,6 @@ leader:
  image: http://media.chris-alexander.co.uk/pictures/nyt.png
  hassmall: false
  showonpage: true
- inverted: true
 categories: the-press
 ---
 
