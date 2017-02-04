@@ -8,7 +8,7 @@ categories: life
 
 This is bit different from the usual programming, I'm not making any guarantees about content going forwards!
 
-At the risk of sounding like a fourteen year old girl, [this](http://www.vogue.com/magazine/article/taylor-swift-the-single-life/) is a great interview with Taylor Swift.
+At the risk of sounding like a fourteen year old girl, [this](http://web.archive.org/web/20120224035536/http://www.vogue.com/magazine/article/taylor-swift-the-single-life) is a great interview with Taylor Swift.
 
 (I fully realise not only do I discuss Taylor Swift in that previous sentence, but also link to a Vogue article. If this concerns you, please do not read on. I also posted this entry on my blog. That's fine, as I figure nobody reads it anyway.)
 
