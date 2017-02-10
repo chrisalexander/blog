@@ -294,5 +294,5 @@ ul li, ol li {
 }
 
 .gist .gist-data {
-    border-bottom: 0px;
+    border-bottom: 0px !important;
 }
