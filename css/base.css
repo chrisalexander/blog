@@ -288,3 +288,11 @@ ul li, ol li {
     margin: 0 auto 30px;
     display: block;
 }
+
+.gist-meta {
+    display: none;
+}
+
+.gist .gist-data {
+    border-bottom: 0px;
+}
