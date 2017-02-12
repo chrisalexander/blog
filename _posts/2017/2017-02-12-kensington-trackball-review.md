@@ -4,6 +4,7 @@ heading: 'Kensington trackball review'
 leader:
  image: http://media.chris-alexander.co.uk/pictures/trackball.jpg
  hassmall: false
+ inverted: true
 categories: hardware
 ---
 
