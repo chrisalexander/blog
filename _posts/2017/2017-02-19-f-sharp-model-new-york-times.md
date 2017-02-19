@@ -2,6 +2,7 @@
 layout: post
 heading: 'Building F# to open the New York Times'
 categories: code
+accent: c3ffda
 ---
 
 Each day, the New York Times publishes its front page online. I find this a good place to get an overview of the news compared to their homepage which isn't quite so clear in terms of overall headlines.

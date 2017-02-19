@@ -3,6 +3,7 @@ layout: post
 heading: 'Expanding Enums'
 subheading: 'Improving enum behaviour with extensions'
 categories: code
+accent: fcffc3
 ---
 
 I have recently been working in a system which uses an enum to describe changes made to a model, and then different behaviours are enacted throughout the code based on what these enum values are set to.

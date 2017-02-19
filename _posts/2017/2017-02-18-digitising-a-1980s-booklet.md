@@ -2,6 +2,7 @@
 layout: post
 heading: 'Digitising a 1980s booklet'
 categories: media
+accent: f6c3ff
 ---
 
 Camberley and District Silver Band, for which I am Musical Director, was founded in 1960. Every 25 years since, the band has produced a booklet describing the events and happenings of the band over that period, so that it may be recorded for the future.

@@ -3,6 +3,7 @@ layout: post
 heading: 'Stream your code'
 subheading: 'What if every commit had a screencast?'
 categories: process
+accent: a4f1ff
 ---
 
 The other day we were having an interesting discussion about handover, and how you might most efficiently go about transferring knowledge about parts of code to someone else.
