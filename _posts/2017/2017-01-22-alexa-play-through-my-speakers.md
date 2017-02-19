@@ -6,6 +6,7 @@ leader:
      image: http://media.chris-alexander.co.uk/pictures/alexa/dot.jpg
      hassmall: false
      showonpage: false
+     inverted: true
 categories: alexa
 ---
 
