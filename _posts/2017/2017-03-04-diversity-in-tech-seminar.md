@@ -18,13 +18,13 @@ One issue I have struggled with for a while is that you can't hire a more divers
 
 The root cause of this problem is an unconscious bias: you don't deliberately write job postings that target a specific gender, but do so inadventently through your use of language. More on that in a moment.
 
-But you can go online to a [gender decoder for job ads](http://gender-decoder.katmatfield.com/) which uses a pre-defined list of masculine and feminine words to determine whether your job posting is biased one way or the other, even if it never mentions "he" or "she". I put a recent job posting through and was quite surprised by just how biased it was, even though upon initial casual inspection it didn't appear to be overtly biased. (Perhaps this is because it was not biased against my demographic? Another example of unconscious bias!)
+But you can go online to a [gender decoder for job ads](http://gender-decoder.katmatfield.com/) which uses a pre-defined list of masculine and feminine words to work out whether your job posting is biased one way or the other, even if it never mentions "he" or "she". I put a recent job posting through and was quite surprised by just how biased it was, even though upon initial casual inspection it didn't appear to be overtly biased. (Perhaps this is because it was not biased against my demographic? Another example of unconscious bias!)
 
 I think this would be a useful tool to run on any job ad to help ensure you get a much more diverse pool of applicants for an engineering position.
 
 ### Unconscious bias
 
-As noted, unconscious bias can lead to reducing the diversity of your available talent pool. These biases manifest themselvves and are amplified in different ways.
+As noted, unconscious bias can tend to reducing the diversity of your available talent pool. These biases manifest themselvves and are amplified in different ways.
 
 One thing that has always annoyed me is e-mails to engineering groups starting with the greeting "Gents". While yes, perhaps your email group may be all male, how would you feel if you were forwarded an e-mail that started "Ladies"? Maybe not the first time - but what if it happened every day for months?
 
@@ -46,7 +46,7 @@ The tech industry seems obsessed with people working crazy hours and I have alwa
 
 I can tell you this with conviction, based upon extensive personal experience - sure I can do 14+ hour days for weeks at a time, but I will get more done and it will be higher quality (plus I will be happier!) if you let me go home at a sensible hour, spend time with the family and dog, and come back the next morning having slept well after a nice dinner I had time to prepare myself.
 
-For more than 18 months now I have been tracking my work tasks using a timer; over the past year I have been consciously trying to reduce that timer count from 8.5+ hours/day to 7.5 to 8 hours. Half of this was easy by just taking a full lunch break, a great rest-stop during the day to allow the old brain cells to recharge. Whether people say I'm a high performer or not is not for me to decide but nobody has complained yet, and I personally feel and feedback has indicated my performance has improved as a result.
+For more than 18 months now I have been tracking my work tasks using a timer; over the past year I have been consciously trying to reduce that timer count from 8.5+ hours/day to 7.5 to 8 hours. Half of this was easy by just taking a full lunch break, a great rest-stop during the day to allow the old brain cells to recharge. Whether people say I'm a high performer or not is not for me to say but nobody has complained yet, and I personally feel and feedback has indicated my performance has improved as a result.
 
 If only people across the industry were to realise this!
 
