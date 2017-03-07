@@ -40,3 +40,5 @@ Finally, there is no native support for this, so far that I can see, in the VSTS
 ### Check it out
 
 The extension is on the [marketplace now](https://marketplace.visualstudio.com/items?itemName=chrisalexander.genderdecoder) - as I said it's very basic to get started wtih, ideally I would like to keep making little improvements to it and easily deploy them. Perhaps once I have figured out how to get it working nicely in VSTS!
+
+It would be awesome if people would like to contribute, [pop over to Github](https://github.com/chrisalexander/GenderDecoder).
