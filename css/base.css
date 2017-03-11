@@ -68,6 +68,12 @@ ul, ol {
     font-family: 'Noto Sans', sans-serif;
 }
 
+p.credit {
+    margin-top: 0;
+    font-size: 12px;
+    font-style: italic;
+}
+
 @media (max-width: 450px) {
     p {
         padding: 0 10px;

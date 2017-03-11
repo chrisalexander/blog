@@ -1,1 +1,4 @@
-<div class="img center"><img src="{{ include.src }}" alt="{% if include.alt %}{{ include.alt }}{% else %}(No alt specified){% endif %}"></div>
+<div class="img center">
+    <img src="{{ include.src }}" alt="{% if include.alt %}{{ include.alt }}{% else %}(No alt specified){% endif %}">
+    <p class="credit">{% if include.credit %}{% include images/credit.html %}: {% if include.creditlink %}<a href="{{ include.creditlink }}">{% endif %}{{ include.credit }}{% if include.creditlink %}</a>{% endif %}{% endif %}</p>
+</div>
