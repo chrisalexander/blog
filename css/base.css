@@ -265,15 +265,26 @@ iframe.twitter-tweet {
 }
 
 .gist,
-div.highlight,
+pre.highlight,
 code {
     max-width: 768px;
     margin: 0 auto;
 }
 
-code {
+pre.highlight code {
     display: block;
+    padding: 5px 15px;
+    line-height: 20px;
+}
+
+code {
     white-space: pre-wrap;
+    background-color: #eee;
+    padding: 3px 5px;
+    border-radius: 2px;
+    border-width: 1px;
+    border-color: #aaa;
+    border-style: solid;
 }
 
 embed {
