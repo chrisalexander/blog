@@ -82,6 +82,7 @@ There are a number of improvements that could be made, which we will hold off on
 
 * Better versioning, ensuring that we always increment the version number of built artifacts
 * Better build numbering (currently the default which I'm not a huge fan of)
+* No testing at all!
 
 ## Step 2: The Release
 
