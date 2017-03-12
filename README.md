@@ -2,6 +2,8 @@
 
 ## Writing posts
 
+Most of these are in [snippets.json](snippets.json) which is compatible with VS Code.
+
 ### YAML front matter
 
 Complete example:

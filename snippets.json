@@ -1,0 +1,69 @@
+{
+	"Center image": {
+		"prefix": "centerimage",
+		"body": [
+			"{% include images/center.html src=\"$1\" %}"
+		],
+		"description": "Center positioned image"
+	},
+	"Left image": {
+		"prefix": "leftimage",
+		"body": [
+			"{% include images/left.html src=\"$1\" %}"
+		],
+		"description": "Left positioned image"
+	},
+	"Right image": {
+		"prefix": "rightimage",
+		"body": [
+			"{% include images/right.html src=\"$1\" %}"
+		],
+		"description": "Right positioned image"
+	},
+	"Max image": {
+		"prefix": "maximage",
+		"body": [
+			"{% include images/max.html src=\"$1\" %}"
+		],
+		"description": "Maximum width image"
+	},
+	"Block image": {
+		"prefix": "blockimage",
+		"body": [
+			"{% include images/block.html src=\"$1\" %}"
+		],
+		"description": "Block image"
+	},
+	"Youtube": {
+		"prefix": "youtube",
+		"body": [
+			"{% include youtube.html id=\"$1\" %}"
+		],
+		"description": "YouTube video"
+	},
+	"Gist": {
+		"prefix": "gist",
+		"body": [
+			"{% gist $1 %}"
+		],
+		"description": "Gist"
+	},
+	"Front matter": {
+		"prefix": "frontmatter",
+		"body": [
+			"---",
+			"layout: post",
+			"heading: '${2:heading}'",
+			"subheading: '${3:subheading}'",
+			"leader:",
+			"	image: ${4:image}",
+			"	hassmall: false",
+			"	showonpage: false",
+			"	inverted: false",
+			"categories: ${5:category}",
+			"---",
+			"",
+			"$0"
+		]
+	}
+}
