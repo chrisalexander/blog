@@ -16,7 +16,7 @@ There are a couple of problems with this. The less serious is that the files app
 
 The worst part of this, and leading on to the second point, is that there are no APIs you can use to replace the files app yourself. Chrome's APIs support loading and writing to specific files, but there is no capability of listing or automatically opening or saving to files outside the application's filesystem sandbox.
 
-Additionally, up until Chrome 24 (the last major version), you could use [Web Intents](http://webintents.org/) to link apps to opening particular file types. Now that has been deprecated and no longer available, Packaged Apps cannot register this behaviour. Oddly enough, Extensions have this functionality - but this has been disabled for Packaged Apps.
+Additionally, up until Chrome 24 (the last major version), you could use [Web Intents](https://web.archive.org/web/20170110052024/http://webintents.org/) to link apps to opening particular file types. Now that has been deprecated and no longer available, Packaged Apps cannot register this behaviour. Oddly enough, Extensions have this functionality - but this has been disabled for Packaged Apps.
 
 Google's Chrome team is obviously excellent - they consistently pump out good features and reasonable stability. However, if Packaged Apps are now the only option for deploying client-side (except Extensions which have only limited interactivity within the browser) then they are going to have to sharpen up on their API support - Chrome 25 is now essentially a crippled version without the file handling behaviour included at all.
 

@@ -30,6 +30,6 @@ However Agile development often follows a very rigid scheme, where iterative dev
 
 Team Foundation Server is built as an extensible platform. This means that people are able to contribute more development methodologies to those that are built-in.
 
-This allows you, for example, to go and [download process templates](http://msdn.microsoft.com/en-us/teamsystem/aa718795.aspx) for Team Foundation Server, so you can plug in support for an agile project and get started straight away.
+This allows you, for example, to go and [download process templates](https://web.archive.org/web/20100210163231/http://msdn.microsoft.com/en-us/teamsystem/aa718795.aspx) for Team Foundation Server, so you can plug in support for an agile project and get started straight away.
 
 These plugins provide a great way to find the process that works best for you, and let Team Foundation Server help you stick to the process and deliver a successful assignment.

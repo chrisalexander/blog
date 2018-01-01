@@ -35,7 +35,7 @@ Windows 7′s hardware support is excellent - I only needed to install device dr
 
 If you bought your machine from a large PC store (PC World, Dell etc.) and everything worked fine under Windows Vista or Windows XP, chances are everything will be fine in Windows 7. If you built your own PC, you'll have to check with your individual hardware manufacturers, but its more likely than not that recent hardware will be supported just fine.
 
-For a detailed guide to installing Windows 7, check [this excellent website](http://windows.microsoft.com/en-us/windows7/Installing-and-reinstalling-Windows).
+For a detailed guide to installing Windows 7, check [this excellent website](https://support.microsoft.com/en-gb/products/windows?os=windows-10).
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/desktop.png" %}
 

@@ -44,7 +44,7 @@ There are actually quite a few Microsoft sites for students, but they are spread
 
 There's also a whole load of [forums and communities](http://web.archive.org/web/20110323190345/http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx) such as the Student Partners, Facebook groups, the Student Lounge and Tech Clubs where you can get in touch with other students from all over the world and discuss technology, news, and just about anything you could ever want to find out about in the world of Microsoft.
 
-Finally, check out the [international pages](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#international) for student communities in your country, for example [this lot](http://www.microsoft.com/uk/education/default.aspx) here in the UK.
+Finally, check out the [international pages](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#international) for student communities in your country, for example [this lot](https://web.archive.org/web/20110316045234/http://www.microsoft.com/uk/education/default.aspx) here in the UK.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/communities.jpg" %}
 

@@ -8,7 +8,7 @@ Yesterday afternoon while I was sitting at home, I realised I hadn't yet gotten 
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/chrome.png" %}
 
-*Note: in order to enable extensions, you need to be on the dev branch, which you can install from [here](http://www.google.com/landing/chrome/beta/). If you're on a Mac/Linux, you probably already have the dev branch, but you will have to enable the extensions pages with instructions [here](http://grack.com/blog/2009/12/08/re-enable-install-button-for-mac-chrome-extensions/).*
+*Note: in order to enable extensions, you need to be on the dev branch, which you can install from [here](http://www.google.com/landing/chrome/beta/). If you're on a Mac/Linux, you probably already have the dev branch, but you will have to enable the extensions pages with instructions [here](https://grack.com/blog/2009/12/08/re-enable-install-button-for-mac-chrome-extensions/).*
 
 A browser plugin is something I've never really tried before, so this was all a bit of an adventure.
 

@@ -59,7 +59,7 @@ Sick of the losses the Federation is taking in the war, Sisko enlists Garak's he
 
 [Source](http://en.wikipedia.org/wiki/In_the_Pale_Moonlight)
 
-## [Trials and Tribble-ations](http://www.startrek.com/database_article/trials-and-tribble-ations) - DS9
+## [Trials and Tribble-ations](https://web.archive.org/web/20170209233406/http://www.startrek.com/database_article/trials-and-tribble-ations) - DS9
 
 The episode sees the crew of DS9 travel into their past, and encounter the events of the original series episode "The Trouble With Tribbles." The crew interact with events of that episode, meeting James T. Kirk and visiting the original Enterprise by means of modern special effects technology which allows the DS9 actors to be inserted into footage from the original episode.
 

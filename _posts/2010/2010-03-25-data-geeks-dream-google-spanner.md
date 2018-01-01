@@ -40,4 +40,4 @@ These are some seriously big numbers they're playing with as future expectations
 
 That is *a lot* of computing power!
 
-For more on Spanner, check out these two posts from [The Register](http://www.theregister.co.uk/2009/10/23/google_spanner/) and [Scalable Web Architecture blog](http://www.royans.net/arch/spanner-googles-next-massive-storage-and-computation-infrastructure/).
+For more on Spanner, check out these two posts from [The Register](http://www.theregister.co.uk/2009/10/23/google_spanner/) and [Scalable Web Architecture blog](https://web.archive.org/web/20160410111236/http://www.royans.net/wp/2010/03/18/spanner-googles-next-massive-storage-and-computation-infrastructure/).

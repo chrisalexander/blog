@@ -6,7 +6,7 @@ categories: microsoft
 
 Team Foundation Server is a product that Microsoft have been selling to work with Visual Studio for many years now. Over time it has evolved, and with the upcoming release of Visual Studio 2010, I thought now would be a great time to check out Team Foundation Server in more detail; specifically how it can help students get their projects done faster and better.
 
-[Team Foundation Server](http://msdn.microsoft.com/en-us/teamsystem/dd408382.aspx) used to be the companion to Visual Studio Team System (which acted as the client). With VS 2010, Team System has been integrated into the core of Visual Studio. This provides two benefits - better support as it's baked right in, and more students can get access to it for free!
+[Team Foundation Server](https://web.archive.org/web/20100329064317/http://msdn.microsoft.com/en-us/teamsystem/dd408382.aspx) used to be the companion to Visual Studio Team System (which acted as the client). With VS 2010, Team System has been integrated into the core of Visual Studio. This provides two benefits - better support as it's baked right in, and more students can get access to it for free!
 
 There are 3 main targets of Team System:
 

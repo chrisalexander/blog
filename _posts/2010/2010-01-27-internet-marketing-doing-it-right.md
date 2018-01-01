@@ -28,7 +28,7 @@ Also, some display advertising really lets the team down. I posted a recent Twit
 
 Of course the best way to get a huge reach online with "little" effort is the "viral" effect - people finding something they like, sharing it, and those people sharing it on; and those sharing it on, and so forth.
 
-It would be a travesty now not to mention Aleksandr Orlov, founder of [CompareTheMeerkat.com](http://comparethemeerkat.com). He is, of course, a product of a [CompareTheMarket.com](http://comparethemarket.com) advertising campaign.
+It would be a travesty now not to mention Aleksandr Orlov, founder of [CompareTheMeerkat.com](https://comparethemeerkat.com). He is, of course, a product of a [CompareTheMarket.com](https://comparethemarket.com) advertising campaign.
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/meerkat.jpg" %}
 

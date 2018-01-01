@@ -42,7 +42,7 @@ On top of all of this, IPTV schedules will now be supported, and integrated with
 
 Here's one massive play on Microsoft's part - Media Centre now supports touch-screen navigation. So if you have one of these very nice Sony VAIO L-series computers, you can watch content in full HD and interact with the multi-touch display.
 
-[{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/vaiol.png" %}](http://www.sony.co.uk/product/vd-l-series)
+[{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/vaiol.png" %}](https://web.archive.org/web/20110309080147/http://www.sony.co.uk/product/vd-l-series)
 
 ## Better with Windows
 

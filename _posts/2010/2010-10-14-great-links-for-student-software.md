@@ -10,7 +10,7 @@ I've collected those links below, so drop in and have a look to see what you can
 
 ### Dreamspark
 
-This is a Microsoft student site where you can download all kinds of developer tools, including Visual Studio and all of the tools for the new Windows Phone 7. Check it out at [http://www.dreamspark.com](http://www.dreamspark.com)
+This is a Microsoft student site where you can download all kinds of developer tools, including Visual Studio and all of the tools for the new Windows Phone 7. Check it out at [http://www.dreamspark.com](https://web.archive.org/web/20140122095443/https://www.dreamspark.com/)
 
 ### MSDN AA
 

@@ -18,7 +18,7 @@ HDMI requires two licenses in order to be included in devices. The first is an a
 
 In addition to this, you must pay a royalty fee per device that you sell. This fee is a flat rate of 15 cents per device sold; it can be reduced to 5 cents per device if you include HDMI branding in your marketing and product packaging, and a further reduction to 4 cents if you implement the HDMI anti-piracy standard too ([Reference](http://www.hdmi.org/learningcenter/videos_player.aspx?v=fees_royalties) for all HDMI costs).
 
-I can’t see Apple doing either of these things (let’s face it, their [adapter](http://store.apple.com/us/product/MC953ZM/A?fnode=MTc0MjU4NjE&mco=MTc5OTU4MjA) is called the “Apple Digital AV Adapter” – no mention of HDMI until 2 paragraphs into the description), so let’s assume they’re paying the full 15 cents whack.
+I can’t see Apple doing either of these things (let’s face it, their [adapter](https://web.archive.org/web/20150202121928/http://store.apple.com/us/product/MD098ZM/A/apple-digital-av-adapter?mco=MTc5OTU4MjA) is called the “Apple Digital AV Adapter” – no mention of HDMI until 2 paragraphs into the description), so let’s assume they’re paying the full 15 cents whack.
 
 The reason Apple haven’t built HDMI into the iPad, and caused everyone a load of hassle with yet another adapter they can lose and that looks stupid, is simple: money.
 
@@ -30,6 +30,6 @@ So there you have it – so far as I can tell, there is no other real explainati
 
 Some footnotes that may be of interest:
 
-* the HDMI adapter is going to work with the first iPad, iPhone 4 and 4th gen iPod Touch. However, on anything other than the iPad 2, output is capped at 720p, likely due to a lack of horsepower in graphics which iPad 2 gains. ([Reference](http://store.apple.com/us/product/MC953ZM/A?fnode=MTc0MjU4NjE&mco=MTc5OTU4MjA))
+* the HDMI adapter is going to work with the first iPad, iPhone 4 and 4th gen iPod Touch. However, on anything other than the iPad 2, output is capped at 720p, likely due to a lack of horsepower in graphics which iPad 2 gains. ([Reference](https://web.archive.org/web/20150202121928/http://store.apple.com/us/product/MD098ZM/A/apple-digital-av-adapter?mco=MTc5OTU4MjA))
 * Movie output is capped at 720p even on the iPad 2 (it’s not that fast then).
 * The iPad 2 has the same RAM as the iPad – 256MB. ([Reference](https://web.archive.org/web/20110405011303/http://uk.gizmodo.com/5774768/does-the-ipad-2-really-only-have-256mb-of-ram)). UPDATE – it appears this is [not the case](http://www.appleinsider.com/articles/11/03/03/apples_a5_cpu_in_ipad_2_has_512mb_of_ram_same_as_iphone_4_report.html); thanks @isaach for the heads-up

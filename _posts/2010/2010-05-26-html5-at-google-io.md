@@ -42,4 +42,4 @@ This allows anyone to use a series of free fonts in their HTML 5 web pages.
 
 It works in a similar way to how Google and Microsoft distribute Javascript libaries through the [Google AJAX Libraries](http://code.google.com/apis/ajaxlibs/) and the [Microsoft AJAX CDN](http://www.asp.net/ajaxlibrary/cdn.ashx) respectively. Essentially the font files are heavily cached, allowing your site to speed up by the client not loading the fonts if they have done so from one of the CDNs before.
 
-Check out some more coverage by [Mashable](http://mashable.com/2010/05/19/google-font-api/), [Paul Irish](http://paulirish.com/2010/details-on-the-new-google-webfont-api/) and [WebMonkey](http://www.webmonkey.com/2010/05/google-typekit-join-up-to-improve-web-fonts/). 
+Check out some more coverage by [Mashable](http://mashable.com/2010/05/19/google-font-api/), [Paul Irish](https://paulirish.com/2010/details-on-the-new-google-webfont-api/) and [WebMonkey](http://www.webmonkey.com/2010/05/google-typekit-join-up-to-improve-web-fonts/). 

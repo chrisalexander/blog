@@ -14,7 +14,7 @@ So here is some details on some of the best posts on how to get your first Windo
 
 {% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/azure-300x60.png" %}
 
-First up, of course, is the official MSDN documentation: [Getting Started with Windows Azure SDK](http://msdn.microsoft.com/en-us/library/dd179419.aspx). As you may expect this is quite heavy and not as talky as the other links I'm going to mention, but it still does a great job of getting the technical specification down and makes a great reference for when you forget that one little thing.
+First up, of course, is the official MSDN documentation: [Getting Started with Windows Azure SDK](https://web.archive.org/web/20100316193258/http://msdn.microsoft.com/en-us/library/dd179419.aspx). As you may expect this is quite heavy and not as talky as the other links I'm going to mention, but it still does a great job of getting the technical specification down and makes a great reference for when you forget that one little thing.
 
 There are then, of course, the MSDN blogs. These provide an invaluable resource of real-world experiences from Microsoft employees directly working with and influencing the products they blog about. Here are some highlights to get you started on some key areas:
 

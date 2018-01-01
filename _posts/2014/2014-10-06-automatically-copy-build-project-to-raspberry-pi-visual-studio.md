@@ -25,8 +25,6 @@ So this morning I set up file shares on the Raspberry Pis and set up Visual Stud
 
 There's a pretty good guide to getting Samba (windows file sharing service for Linux) set up on the Raspberry Pi [over here](http://raspberrypihq.com/how-to-share-a-folder-with-a-windows-computer-from-a-raspberry-pi/); it's not all that complicated but I needed to do it on three devices, so Ansible to the rescue.
 
-The Ansible task for configuring Samba is now [here](https://github.com/AmoebaThree/Config/blob/master/roles/common/tasks/samba.yml). You will also need [this handler](https://github.com/AmoebaThree/Config/blob/master/roles/common/handlers/samba.yml) to restart the Samba process, [this samba configuration file](https://github.com/AmoebaThree/Config/blob/master/roles/common/files/smb.conf) which you can modify as you wish, and follow [this quick step](https://github.com/AmoebaThree/Config/wiki#configure-samba-user) on each machine manually to add the password you wish to use to access the shares.
-
 Once that has all been run with Ansible, it is simply a case of mapping the network drives in Windows and configuring Visual Studio.
 
 My mapped drives now look like this, which is pretty cool as each Raspberry Pi is mapped to the X: Y: and Z: drives:

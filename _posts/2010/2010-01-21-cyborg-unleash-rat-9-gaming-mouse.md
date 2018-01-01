@@ -9,7 +9,7 @@ leader:
 categories: hardware
 ---
 
-[Cyborg Gaming](http://cyborggaming.com/) have unleashed their R.A.T. 9 gaming mouse - and it looks absolutely stunning.
+[Cyborg Gaming](https://web.archive.org/web/20160823171115/http://www.cyborggaming.com/) have unleashed their R.A.T. 9 gaming mouse - and it looks absolutely stunning.
 
 It's not short on features too; adjustable size, weighting and thumb rests, metal chassis, 5600 DPI laser with a button by your thumb to up the DPI even higher, and its wireless with rechargeable batteries.
 
