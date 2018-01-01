@@ -16,7 +16,7 @@ Visual Studio 2010 is the latest version of Microsoft's application development 
 
 First of all, this post is about my very very first impressions using Visual Studio 2010 - I haven't been doing any of this fancy Azure stuff, or even writing that much code - I borrowed a community template (more on that in a bit) to get me started and just so I could see what's going on.
 
-If you want in-depth information on what's new in Visual Studio 2010, [head over to MSDN](http://msdn.microsoft.com/en-us/library/bb386063(VS.100).aspx). They also have a [what's new in .NET 4](https://msdn.microsoft.com/en-us/library/ms171868(VS.100).aspx), if you're interested.
+If you want in-depth information on what's new in Visual Studio 2010, [head over to MSDN](https://msdn.microsoft.com/en-us/library/bb386063(VS.100).aspx). They also have a [what's new in .NET 4](https://msdn.microsoft.com/en-us/library/ms171868(VS.100).aspx), if you're interested.
 
 ## Installation
 

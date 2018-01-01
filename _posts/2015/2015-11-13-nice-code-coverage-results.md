@@ -9,7 +9,7 @@ As part of my experiments with Visual Studio 2015 (and phasing out Resharper fro
 
 One thing that always bugged me about using Visual Studio's built in code coverage is that it always seemed to cover everything, including your test runner DLLs and your test DLLs themselves. Really I only want coverage analysis of the code under test rather than everything in the directory!
 
-Now I have had time to put the effort in and figure out how to get it working. Thanks to [these](http://geekswithblogs.net/terje/archive/2013/12/04/how-to-exclude-code-from-code-coverage-in-visual-studio.aspx) [posts](http://blogs.msdn.com/b/sudhakan/archive/2012/05/11/customizing-code-coverage-in-visual-studio-11.aspx) ([and MSDN](https://msdn.microsoft.com/en-gb/library/jj159530.aspx)) I have got something working rather nicely.
+Now I have had time to put the effort in and figure out how to get it working. Thanks to [these](https://web.archive.org/web/20170614051451/http://geekswithblogs.net/terje/archive/2013/12/04/how-to-exclude-code-from-code-coverage-in-visual-studio.aspx) [posts](http://blogs.msdn.com/b/sudhakan/archive/2012/05/11/customizing-code-coverage-in-visual-studio-11.aspx) ([and MSDN](https://msdn.microsoft.com/en-gb/library/jj159530.aspx)) I have got something working rather nicely.
 
 ## Step 1: .runsettings
 
