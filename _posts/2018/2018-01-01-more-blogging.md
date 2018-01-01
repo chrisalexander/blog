@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'More blogging in 2017'
+heading: 'More blogging in 2018'
 categories: blog
 ---
 
