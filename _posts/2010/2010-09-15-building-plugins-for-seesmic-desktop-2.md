@@ -14,8 +14,8 @@ I blasted out a load of links and demos, so if you want to get your hands on the
 
 [Seesmic Developer Wiki](http://devwiki.seesmic.com)
 
-[Skeleton Visual Studio project for Silverlight](http://resources.chris-alexander.co.uk/seesmic/MySeesmicPlugin.zip)
+[Skeleton Visual Studio project for Silverlight](http://media.chris-alexander.co.uk/seesmic/MySeesmicPlugin.zip)
 
-[SeesmicTest project used during the demo](http://resources.chris-alexander.co.uk/seesmic/SeesmicTest.zip)
+[SeesmicTest project used during the demo](http://media.chris-alexander.co.uk/seesmic/SeesmicTest.zip)
 
 Enjoy :)

@@ -12,4 +12,4 @@ The report presents hundreds of reference sources, from Reddit conversation thre
 
 A note on licensing: this report is free to download and share, but please do not extract parts from the main body of the document. A note to fellow students: this report is provided for information only - plagiarism will get you thrown out of University. 
 
-[Download the report](http://resources.chris-alexander.co.uk/onlinecommunities.pdf)
+[Download the report](http://media.chris-alexander.co.uk/onlinecommunities.pdf)
