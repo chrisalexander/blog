@@ -17,7 +17,7 @@ Google, not only the most popular search engine, but also the largest single rep
 
 This post is an overview of the Google Safe Browsing API; what it is, why you should use it in your application, and how it can help your users.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/codelabslogo.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/codelabslogo.png -->
 
 ## <strong>Why use the Safe Browsing API?</strong>
 
@@ -37,7 +37,7 @@ If you use Firefox or Google Chrome, there's a chance you've already seen the Sa
 
 Whenever you visit a URL that shows up on the list from Google, Firefox and Chrome will stop you visiting, and present a warning page, often requiring several clicks through warning messages and alerts in order to get past it.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/firefox_malware.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/firefox_malware.png -->
 
 ## Using the Safe Browsing API
 
@@ -57,7 +57,7 @@ Each entry consists of a single MD5 hash digest. When you have a URL that you wo
 
 The reason the list is a set of MD5s is for the protection of the site's owners (in case you are identified as malware incorrectly), and also to stop spammers essentially getting a really long list of active malware sites. That would be *bad*.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/md5.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/md5.png -->
 
 ### The tricky bits
 

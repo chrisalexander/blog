@@ -11,7 +11,7 @@ categories: life
 
 Following my recent mobile disaster and rapid (yet cheap) recovery (#1277), my boss Nick (@nickhalstead) was happy to loan me a first generation iPhone (yes, thats the one with 2G internet only) to tide me over until I sort out something decent (I've had to spend a lot on a new car (#1332) recently).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/iPhone2G.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/iPhone2G.jpg -->
 
 But first of all it was jailbreaking and unlocking for me - twice for each, in fact. First time to actually get the device working and running its 2.0 firmware, followed by the whole process again to get iPhone OS 3.0 rocking the device.
 

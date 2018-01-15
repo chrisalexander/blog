@@ -22,7 +22,7 @@ Yes it's good for getting your message in front of people who may be interested,
 
 Also, some display advertising really lets the team down. I posted a recent TwitPic of an advert on TwitPic (ironically) which really let the side down. For display advertising to work these days, it has to be high-quality, managed, and extremely well targeted.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/twitpic.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/twitpic.jpg -->
 
 ## Sharing Is Win
 
@@ -30,7 +30,7 @@ Of course the best way to get a huge reach online with "little" effort is the "v
 
 It would be a travesty now not to mention Aleksandr Orlov, founder of [CompareTheMeerkat.com](https://comparethemeerkat.com). He is, of course, a product of a [CompareTheMarket.com](https://comparethemarket.com) advertising campaign.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/meerkat.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/meerkat.jpg -->
 
 They have really reaped the rewards of that campaign being so popular, so much so that they are producing their own blooper reels for their TV ads. I just couldn't let this pass without this epic clip:
 

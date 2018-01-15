@@ -18,14 +18,14 @@ The other presentation I watched (even if it was on a 45 minute delay from when 
 
 I'm very much looking forward to the second part of #ukpdc10, but in the mean time here's some photo highlights from the first half of the event...
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_191419.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_191419.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_194001.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_194001.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_202013.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_202013.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_211908.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_211908.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_211919.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_211919.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_211930.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_211930.jpg -->

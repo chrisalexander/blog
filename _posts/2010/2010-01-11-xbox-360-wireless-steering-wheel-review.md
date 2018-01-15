@@ -6,7 +6,7 @@ categories: life
 
 One gift I was very happy to receive at Christmas was the [Xbox 360 Wireless Steering Wheel](http://web.archive.org/web/20100511180114/http://www.xbox.com/en-US/hardware/x/xbox360wirelessracingwheel/default.htm). Quite a few people have asked me what it's like, so here's a brief look at it.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/wheel.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/wheel.jpg -->
 
 Along with this I also got [Forza Motorsport 3](http://web.archive.org/web/20101018024202/http://www.xbox.com/en-us/games/f/forzamotorsport3), which I will go in to in a bit.
 
@@ -22,7 +22,7 @@ You can run the wheel off a normal Xbox controller rechargeable pack or normal b
 
 The build quality is excellent, and it is very well packaged (although the box is massive).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/wheel.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/wheel.png -->
 
 ## Forza Motorsport 3
 
@@ -32,4 +32,4 @@ Every detail is in place - from the models of the cars (which are all spot on), 
 
 Both of these come highly recommended, and I look forward to spending a good few hours throwing Bugatti Veyrons and Fiat 500s alike around Silverstone and the Nurburgring.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/forza.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/forza.png -->

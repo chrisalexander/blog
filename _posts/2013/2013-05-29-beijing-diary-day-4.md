@@ -13,11 +13,11 @@ This morning was yet more wedding planning, but at least we had hot water for de
 
 For lunch we went top the second Beijing duck restaurant. It was just as I remembered it - delicious! I must also claim it was marginally better than the one the other day :-)
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130529_135914.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130529_135914.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130529_135948.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130529_135948.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130529_144307.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130529_144307.jpg -->
 
 Additionally this one didn't serve us the head!
 

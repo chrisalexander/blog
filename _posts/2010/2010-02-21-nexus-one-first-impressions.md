@@ -19,7 +19,7 @@ Here's my thoughts on the phone, having had it in my hands for a few short days.
 
 Essentially, it boils down to this: **WOW**. Google and HTC have put together a sensational piece of hardware running a brilliant operating system.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus13.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus13.jpg -->
 
 ## Hardware
 
@@ -35,7 +35,7 @@ I also love the camera - 5 megapixels, autofocus, flash, and stunning quality in
 
 I did notice a few JPEG artifacts when I got up close and personal in Photoshop - but nothing that you would be able to visibly see when you were printing or viewing on a screen.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/camera.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/camera.jpg -->
 
 Phone calls are clear, and the noise cancelling microphone is brilliant - I was walking along London Road in rush hour the other night and the person I was calling asked if I was at home - it takes out so much noise.
 
@@ -57,21 +57,21 @@ There is a unified notification center built into the OS, which appears in the t
 
 Of course, applications can run in the background. This is great for getting pushed notification, or other services that need polling. Bit of a battery hog but really useful for keeping informed on the go. If you're busy and need to know about certain events as they happen, then it is a great way of keeping on top of everything.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/notifications.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/notifications.jpg -->
 
 On top of this, the Gmail integration is truly stunning, and having multiple Gmail accounts pushed to your phone is invaluable; I won't touch another device that doesn't do it.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/mail.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/mail.jpg -->
 
 ### Gallery
 
 The Android photo gallery really is something else. It showcases the photos you have taken on the camera and synced from your PC (it doesn't come with software by the way - everything syncs over the web or the SD card appears as an external drive) in a beautiful way and makes it a pleasure to navigate around and view them.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/gallery1.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/gallery1.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/gallery2.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/gallery2.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/gallery3.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/gallery3.jpg -->
 
 ### Home screen, icons and widgets
 
@@ -81,11 +81,11 @@ It also features a widget-based system which any application can plug in to. For
 
 There's also a cool Settings widget, where you can one-click change the screen brightness setting, Bluetooth, WiFi, GPS and sync settings to quickly disable them or save power.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/home1.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/home1.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/home2.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/home2.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/home3.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/home3.jpg -->
 
 ### Battery Use Monitor
 
@@ -93,7 +93,7 @@ This is a clear example of what happens when Google put some nerds in the dev te
 
 It's just a little something that makes geeks like me smile and could be useful for debugging if you're working on applications and wondering where your battery life is going.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/battery.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/battery.jpg -->
 
 ## Conclusions
 

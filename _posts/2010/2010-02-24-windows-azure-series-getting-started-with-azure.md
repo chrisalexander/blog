@@ -12,7 +12,7 @@ I was about to go and write a full-blown tutorial on how to get started and fire
 
 So here is some details on some of the best posts on how to get your first Windows Azure application off and running, and some links on where to find out more.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/azure-300x60.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/azure-300x60.png -->
 
 First up, of course, is the official MSDN documentation: [Getting Started with Windows Azure SDK](https://web.archive.org/web/20100316193258/http://msdn.microsoft.com/en-us/library/dd179419.aspx). As you may expect this is quite heavy and not as talky as the other links I'm going to mention, but it still does a great job of getting the technical specification down and makes a great reference for when you forget that one little thing.
 

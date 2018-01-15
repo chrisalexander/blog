@@ -10,7 +10,7 @@ categories: space
 
 So earlier this week you may have seen my tweets or on the news about NASA's launch of the Ares I-X test vehicle. I thought it would be great to have a look at the event now some of the telemetry is being processed.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares.jpg -->
 
 I was hoping that NASA would come up with an HD video of the launch, but it seems we'll have to wait a few more days for those. In the mean time, the Boston Globe has done one of its "Big Picture" features on the launch. The features are always excellent and this one is particularly good.
 
@@ -22,8 +22,8 @@ There were comments by the people who I watched the launch that the exploration 
 
 I have included some pictures here from the [Boston.com article](http://www.boston.com/bigpicture/2009/10/launch_of_the_ares_ix.html).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares2.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares2.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares3.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares3.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares4.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/ares4.jpg -->

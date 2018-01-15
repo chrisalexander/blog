@@ -16,7 +16,7 @@ I think it is a fair statement to say that China is completely different in just
 
 So, Chinese pop music. This is all taste-dependent, of course, because I happen to have a bit of a penchant for cheesy pop music of the Western variety, so the recent piece I've picked out to share with you is more of the same I'm afraid. However, please give it a go! If you're not keen at least she blows up the Aston at the end. Even though I have literally no idea what exact words they're singing, I still really like it (the album is on order from Amazon.cn) - it's horrifically catchy.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/10/zhang.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/10/zhang.jpg -->
 
 The artist here is 张靓颖 (her English name is Jane Zhang) and the song is 我的模样 ("Personal Look") from her recent album "Reform". Jane was born in Chengdu, capital of Sichuan province in central China - Sichuan is famous for its spicy food and absolutely stunning scenery (more of that to come too).
 

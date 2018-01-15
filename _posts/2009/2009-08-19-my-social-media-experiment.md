@@ -8,15 +8,15 @@ Now it's time for me to fess up. The other day I performed a little experiment o
 
 If you frequent my blog recently, you may have noticed something slightly unusual on one of my posts. I fairly frequently post pictures (more often than not, lolcats) to spice up the page a bit and make it a bit more exciting. One of my other recent posts, however, went a bit further - I'd be surprised if the [page-high, full-width photo of an oft-admired actress wearing a summery dress](/on-engineering/life/of-vampires-and-lycans/) didn't catch your attention.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/kb.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/kb.png -->
 
 So what was the exact nature of my little investigation? Well, I tweeted the link to the post out twice, with different tweet contents and links masked with the help of Bitly, to see if the responses would be different. The first seemed fairly inconspicuous:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/twit1.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/twit1.png -->
 
 The second, not so:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/twit2.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/twit2.png -->
 
 ## Predictions
 
@@ -26,9 +26,9 @@ So, like any good GCSE Science student (at least before they removed all the sci
 
 Well first of all to the click data from Bitly. I created two unique links (as you can see on the tweet pictures above) so that I could track the clicks from individual tweets. Surprisingly, they were very close - 17 for the first tweet and 16 for the second tweet. That I wasn't expecting! These are the graphs for the two tweet links (in order) for clicks over the first hour. As you can see, they're pretty even too.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/graph1.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/graph1.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/graph2.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/graph2.png -->
 
 So on to the page entrances. For this post, 15% of page entrances were from the homepage of the blog. Compared to the top 5 blog posts (over all time) for the site, this is slightly up from the 11% average (with a standard deviation of 9.3%) .
 

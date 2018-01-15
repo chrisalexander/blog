@@ -10,4 +10,4 @@ Any misunderstanding by your customer is not an error on their part, it is an er
 
 Just one thing I've learnt from my placement this year.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/customer.gif" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/customer.gif -->

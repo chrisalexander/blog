@@ -12,7 +12,7 @@ I'd like to take a quick look at how these privacy rules have changed, and why I
 
 ## Facebook and "the loosening"
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/fblock.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/fblock.png -->
 
 Believe it or not, Facebook's original security policies were extremely strict. Even when I joined "only" 3 and a half years ago, you could only see extremely limited information on people unless you were a direct friend of them.
 
@@ -24,7 +24,7 @@ In addition to this, Facebook very recently introduced a new privacy policy, whe
 
 ## Twitter and "but it's always been that way"
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/twitteropen.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/twitteropen.png -->
 
 Since the day it was conceived, Twitter was always going to be open by default - what's the point in broadcasting to the world if only a few people can see it, right?
 

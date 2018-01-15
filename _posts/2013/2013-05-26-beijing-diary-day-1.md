@@ -18,8 +18,8 @@ Thanks to our bad night sleep in Paris we're pretty close to Beijing time with o
 
 I also need to remember to stop trying to tweet things - that's not going to happen here!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130526_1003051.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130526_1003051.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130526_1908251.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130526_1908251.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130526_190841.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130526_190841.jpg -->

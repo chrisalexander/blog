@@ -10,4 +10,4 @@ What interested me more was the "Ask Lisa" part, which is some kind of attempt t
 
 But from the screenshot below, it looks like more people had been asking about Lisa herself, rather than the service she was designed to talk about - check out the "Recently Asked Questions"...
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/nationalrail.png" %} 
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/nationalrail.png -->

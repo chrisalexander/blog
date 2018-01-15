@@ -15,6 +15,6 @@ You can't read tweets with Twiq, but then you'd get distracted from whatever you
 
 By popular demand - a screenshot of Twiq in action:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/01/twiq-300x60.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/01/twiq-300x60.png -->
 
 Twiq is free and open-source. The code is on [Github](https://github.com/Kodhus/Twiq), and you can get the [latest installer](https://github.com/downloads/Kodhus/Twiq/Installer.msi) from there too.

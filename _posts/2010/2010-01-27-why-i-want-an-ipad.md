@@ -20,7 +20,7 @@ chris_alexander But you won't be able to type as fast as you could on a macbook.
 
 140 characters doesn't really leave me the room to write what I wanted to about this, so here's why I want an iPad.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/ipad.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/ipad.jpg -->
 
 ## Portability
 

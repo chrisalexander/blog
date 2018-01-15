@@ -8,7 +8,7 @@ What are you doing on Saturday 1st August? Because we invite you to join us on t
 
 Banksy is an internationally renowned guerilla street artist, making his name painting grafitti on the bare walls of cities across the UK, commenting on the state of society. You can check out some of his work [on his website](http://web.archive.org/web/20110805203716/http://www.bristol.gov.uk/ccm/navigation/leisure-and-culture/museums-and-galleries/).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/banksy-300x198.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/banksy-300x198.jpg -->
 
 Here's a preview of his work on display at the Bristol Museum:
 
@@ -36,4 +36,4 @@ We'll arrive at the Park and Ride at around 10.45, and will hopefully not have t
 
 So are you interested? Drop us a comment below so we know numbers and have enough drivers. Even if you're not planning to come, please retweet this using the button above to spread the word!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/banksy2-231x300.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/banksy2-231x300.jpg -->

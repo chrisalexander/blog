@@ -10,7 +10,7 @@ categories: life
 
 And now for something a little different.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/otamatone.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/otamatone.png -->
 
 The [Otamatone](https://web.archive.org/web/20170113190645/http://www.otamatone.co.uk) is branded as a "quirky musical instrument" - and it most definitely fits that description. It is some kind of mashup of a normal musical instrument, a Japanese toy (and we know how crazy [they can be](http://incrediblethings.com/lists/14-bizarre-japanese-toys/)), and a [theremin](http://en.wikipedia.org/wiki/Theremin), producing a resulting tone that can only be described as "wailing".
 

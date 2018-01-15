@@ -8,7 +8,7 @@ Thanks to everyone who was decent enough to answer my survey on my website's adv
 
 The uptake was about 30% of what I was hoping for, and a larger number certainly would have made decision making from the results easier, but none the less this is what I found.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/lol.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/lol.png -->
 
 Of the users who took the survey, exactly one third responded "Yes" to the question, "Do you find the use of advertisements on chris-alexander.co.uk obtrusive or decreasing your enjoyment of the site?". This was a number I wasn't particularly surprised about.
 

@@ -12,7 +12,7 @@ Windows Azure, Microsoft's *cloud computing platform*, has just matured into a p
 
 But what exactly is a "cloud computing platform"?
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/azure-300x51.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/azure-300x51.png -->
 
 Along with Amazon's AWS (Amazon Web Services), Azure gives web developers the opportunity to rapidly scale their application without having to worry about the hardware behind it.
 

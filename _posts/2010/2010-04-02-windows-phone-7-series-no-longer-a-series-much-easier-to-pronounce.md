@@ -5,7 +5,7 @@ subheading: 'Much Easier To Pronounce'
 categories: microsoft
 ---
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/wphone4-300x300.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/wphone4-300x300.jpg -->
 
 Well that didn't last long.
 

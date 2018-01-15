@@ -7,7 +7,7 @@ categories: the-blog
 
 This will, according to WordPress, be my 1000th post published on this site.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/1000.jpeg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/1000.jpeg -->
 
 The first article was published way back on 8th September 2007 - making the site nearly five and a half years old. Since then I've written about a chaotic collection of topics, and the only consistency is in the fact that I, at some point, wrote it.
 

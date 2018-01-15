@@ -14,14 +14,14 @@ I have embedded the video below, along with some extra photos and the HD launch 
 
 Here are some photos of the Shuttle at various points throughout its mission.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/402873main_image_1516_1600-1200-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/402873main_image_1516_1600-1200-300x225.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/404092main_image_1522_1600-1200-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/404092main_image_1522_1600-1200-300x225.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/405971main_image_1525_1600-1200-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/405971main_image_1525_1600-1200-300x225.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/406077main_image_1526_1600-1200-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/406077main_image_1526_1600-1200-300x225.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/406569main_image_1527_1600-1200-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/406569main_image_1527_1600-1200-300x225.jpg -->
 
 Here's the NASA TV stream of the launch in HD.

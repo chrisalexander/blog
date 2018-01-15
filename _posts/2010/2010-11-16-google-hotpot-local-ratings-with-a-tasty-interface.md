@@ -13,7 +13,7 @@ Last night Google Hotpot [launched](http://mashable.com/2010/11/16/google-hotpot
 
 The interface for Hotpot on the web is actually very nice, and well suited to both Google's traditional style as well as how ratings sites should be. It is easy to navigate, mostly based around search and recommendations, and includes some neat functionality for keeping tabs on places you want to go and have been.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/11/hotpot.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/11/hotpot.png -->
 
 It is simple to rate a place that pops up - just hit a star. Then it changes the "card" so you can add a comment and provide happy face / sad face ratings on more specific topics. These are then stored away in your Rated Places tab so you can go back and check them out again later. If you see something you fancy and want to try it out later, there is the "star" paradigm you're already used to from Gmail, Google Reader etc. Those stared cards will show up in another tab so you can go visit them later.
 

@@ -10,13 +10,13 @@ categories: life
 
 Unfortunately earlier this weekend my trusty E61i died a horrible death. What's annoying is that it shows some signs of life (the notification light comes on when you press power) but it doesn't start booting. Think it'll be long hours for me to figure out what's going on, and even longer to get it sorted.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/e61i.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/e61i.jpg -->
 
 So in the mean time, I needed (literally) a new phone - I didn't fancy doing 300 miles in a weekend in a car that has failed its MOT (the other one hasn't expired yet - don't worry it's still legal!) without a working phone to call the AA if it all went wrong.
 
 So here's what I got, and what I think of it.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/1680.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/1680.jpg -->
 
 Yep, that's a Nokia 1680, the latest super-cheap phone from Nokia. But please, before you send me an SMS to mock me, give it a chance - its more than you think.
 

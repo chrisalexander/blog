@@ -14,7 +14,7 @@ Microsoft is a huge corporation, with divisions on all the world's continents an
 
 But what jobs actually get done at Microsoft? The sheer diversity of positions may surprise. Here's just a small sampling of what is available.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/tvp.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/tvp.png -->
 
 **Engineer**
 

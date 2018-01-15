@@ -17,4 +17,4 @@ We chose the Malmaison hotel in Reading, and I have to admit they did an absolut
 
 Here's *the shot*:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/Wedding2.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/Wedding2.png -->

@@ -10,7 +10,7 @@ That something was to "migrate" my University e-mail to Google Mail. With a rele
 
 Here's how I migrated so you can too - in about 15 minutes.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/gmail.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/gmail.png -->
 
 ### Step 1 - Signup
 
@@ -24,15 +24,15 @@ Next, we want to get our Uni e-mails retrieved into the Google Mail inbox.
 
 To do this, go to your Google Mail account, select Settings from the top right, then the Accounts and Import tab. Hit "Add POP3 e-mail account" under "Check mail using POP3″.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/one.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/one.png -->
 
 Then, enter your University e-mail address and click "Next Step".
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/two.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/two.png -->
 
 Then, fill in these details in the input boxes, then click "Add Account".
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/three.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/three.png -->
 
 Your mail should then be set up to retrieve.
 
@@ -46,15 +46,15 @@ To do this, we need to prove to Google Mail that we own the account.
 
 Once again go to Settings, Accounts and Import, then select "Send mail from another address" under "Send Mail As".
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/four.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/four.png -->
 
 Then enter your name and University mail account, and click "Next Step".
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/five.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/five.png -->
 
 On the next screen, select the second option "Send through reading.ac.uk SMTP servers". This is so that outbound e-mails as signed as being sent from the University mailservers - very useful. Fill in the details as below, and click "Add Account".
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/six.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/six.png -->
 
 ### Step 4 - Tweaks
 
@@ -62,10 +62,10 @@ You're now at the barebones stage, where everything will work! There's a couple 
 
 First of all, you can make it send from your Uni mail account by default. On the Accounts and Import page, under "Send mail as", click "make default" next to your University mail account.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/seven.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/seven.png -->
 
 Finally, you can enable a cool Labs feature which means whenever you click the Refresh button above your Inbox, it also goes and grabs your POP3 e-mails - very useful for getting mail quickly!
 
 To enable this, go to Settings, the Labs tab, scroll down to Refresh POP Accounts, hit the Enable button next to it, then click Save at the bottom of the page.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/eight.png" %} 
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/eight.png -->

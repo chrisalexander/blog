@@ -17,4 +17,4 @@ I tried a wide variety of things (it didn't seem too keen on fixing itself), and
 * When you restart your Office applications, it will ask you to validate online then you will be activated!
 * You may have to restart again to make the messages go away.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/activation.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/activation.png -->

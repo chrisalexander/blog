@@ -6,7 +6,7 @@ categories: uni
 
 This post covers how ARNIE can be controlled by using an Xbox Kinect peripheral.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/kinect.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/kinect.jpg -->
 
 ## Foundations
 

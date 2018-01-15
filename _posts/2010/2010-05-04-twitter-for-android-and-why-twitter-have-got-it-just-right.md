@@ -9,7 +9,7 @@ So the big news of the past few days is that Twitter have rolled out their own T
 
 Obviously I cut straight to it and got it installed - and was quite surprised by what I found.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/twitter2.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/twitter2.png -->
 
 When I noted in the office that Twitter for Android was available, the first words out of anyone's mouth was "bye bye, Seesmic!". But having had a play for a few days, I'm not so sure. Here is a breakdown of a few of the major reasons.
 

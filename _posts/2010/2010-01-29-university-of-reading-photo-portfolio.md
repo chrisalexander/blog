@@ -19,14 +19,14 @@ Check out my photos below. You can also [vote for my entry](http://www.msstudent
 
 I took a contrasting set, showing the other side of the University, which I will also publish in the next few days.
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60056.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60056.jpg -->
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60057.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60057.jpg -->
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60075.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60075.jpg -->
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60061.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60061.jpg -->
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60082.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60082.jpg -->
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60128.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60128.jpg -->

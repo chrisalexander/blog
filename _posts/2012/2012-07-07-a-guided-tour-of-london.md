@@ -18,17 +18,17 @@ We headed along Columbia Road (no flower market until tomorrow but lots of hipst
 
 On the way down there you get a great view of the Gherkin (thanks to them just demolishing a building on the corner at London Wall) and you see progress on The Pinnacle. Once you hit Londonv Bridge there are great views of Tower Bridge (with Olympic rings), the Shard (recently finished) and St Pauls.
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1639501.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1639501.jpg -->
 
 If you head over London Bridge and take the second left (under the railway bridge) you very quickly end up at the foot of the Shard, which is a really brilliant looking building. 
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1659441.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1659441.jpg -->
 
 Once we had headed back towards London Bridge we popped through Borough Market (great place for lunch, open every day during the Olympics), and walked along the waterfront until the Millennium Bridge, and the Tate Modern. 
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1733071.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1733071.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1749351.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1749351.jpg -->
 
 I have never been here before but neither have I ever been one for art. Hence I have spent most of the time writing this post rather than looking around. 
 

@@ -10,7 +10,7 @@ categories: life
 
 *This post was provided by Expansys - Be First on all the latest smartphones, tablets and all manner of technology.*
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/08/xperia.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/08/xperia.jpg -->
 
 Sony Ericsson has announced the upcoming release of the next phone in its Xperia range with the Xperia Neo V. The announcement is bound to excite fans of the mobile phone giant, and not least because it will come preinstalled with its new Android Gingerbread 2.3.4 update.
 

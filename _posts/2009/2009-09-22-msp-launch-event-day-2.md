@@ -8,7 +8,7 @@ So the second day of the MSP Launch Event at Microsoft TVP is over, the freebies
 
 Today was another excellent day of presentations and demos. Starting off with an overview of the programme with Ed and @SarahMelrose, we had a brilliant overview of social media with Marc Holmes (@MarcHolmes), followed by Dom Green (@domgreen) with a brilliant presentation finally delving into working with Windows Azure.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/azure.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/azure.png -->
 
 Azure is something that has intrigued me for some time, but among all the marketing buzzword bingo and pretty blue logos, I've never been shown the nitty-gritty get-your-hands-dirty sample code and design style that I've been craving and somewhat require to get me kick started with something new like this. Today Dom started that off with some excellent analogies and demos as to what you can use Azure for, and to be honest I'm seriously liking what I'm seeing.
 

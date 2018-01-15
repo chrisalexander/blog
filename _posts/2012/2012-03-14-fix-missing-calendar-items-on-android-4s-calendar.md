@@ -18,20 +18,20 @@ Following a lack of working fixes online, I have come up with this process for c
 * Calendars gradually appear (may take a few seconds to start downloading them). This is madness, so let’s clean it up. Select which calendars you want displayed from the menu.
 * Much better! All fixed.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-13-41.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-13-41.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-13-51.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-13-51.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-14-02.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-14-02.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-14-20.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-14-20.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-14-34.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-14-34.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-15-12.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-15-12.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-15-30.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-15-30.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-15-52.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-15-52.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-16-42.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/Screenshot_2012-03-14-17-16-42.png -->

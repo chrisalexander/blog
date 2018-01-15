@@ -10,7 +10,7 @@ I'm not going to go into the details of the OS, its hardware, its various featur
 
 What I want to talk about is why Microsoft, just like Apple, have completely missed the point.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/7serieslogo.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/7serieslogo.jpg -->
 
 Before I kick this off, I want to say one thing about the name - Windows Phone 7 Series; hardly rolls off the tongue, does it? I think they were going for a bit of a combo with the whole Windows 7 thing, and somehow had to get "phone" in, and shoved "series" in just so that people wouldn't call it Windows Mobile. Urgh.
 
@@ -28,7 +28,7 @@ Sure the interface is all smooth and shiny and has nice slidey effects and fadin
 
 In fact, if 7 Series was basically a Zune, then I would be more than happy - because its just meant to be a music player and portable play thing; not the hard-working powerhouse I expect to keep me going on the road 24/7.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/7phone.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/7phone.jpg -->
 
 I will hand it to them, however: Microsoft have got some things so very right with 7 Series. Auto address linking, all the core software is super-usable, and the Bing integration is simply stunning.
 

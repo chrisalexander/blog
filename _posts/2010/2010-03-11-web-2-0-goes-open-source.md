@@ -12,7 +12,7 @@ I'd like to sit back for a minute, take a look at what these web powerhouses hav
 
 ### Caching
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/memcached.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/memcached.png -->
 
 Some people don't have to worry about caching; some use it to keep a bit of load off their database; others use it to keep their website running.
 
@@ -32,7 +32,7 @@ Extremely cool! Not only did Facebook build it, but some of the Twitter develope
 
 ### HTTP Streaming
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/tornado.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/tornado.png -->
 
 Brought into the world by FriendFeed, the ultimate stream feed (at its time at least, but that's a conversation for another day), Tornado is an HTTP streaming server written in Python and designed to handle thousands of simultaneous connections receiving real-time feeds of information.
 
@@ -40,7 +40,7 @@ When Facebook bought FriendFeed (and essentially let it stagnate - yet another d
 
 ### Compiling
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/hiphop.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/hiphop.png -->
 
 Along with the next one, this is one of my favourites.
 
@@ -50,7 +50,7 @@ Apparently the performance increases for webserving are huge - as you would expe
 
 ### Storage
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/cassandra.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/cassandra.png -->
 
 Storing terabytes of user data, interactions, profiles and more is actually fairly simple if you have a lot of hard disks. It's retrieving it quickly, querying it, and making it scale for large number of requests that's the trick.
 

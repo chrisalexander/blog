@@ -11,28 +11,28 @@ While I was home for the weekend, my Dad was clearing out one of the sheds in th
 
 WonderBorg was bought for me as a present one Christmas (and none of us here have any idea which one it was, but it was about 10 years ago). It required assembly of parts, plugging stuff in and threading wiring (no soldering quite that young for me!), but by far the coolest bit was that you could program it through your computer. More on that later, but first a look at the robot itself.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009-300x225.jpg -->
 
 As you can see it has 6 wheels in a very unusual configuration. The robot's motion with these actually depends on slip on the front pair and rear pair, otherwise it would never move.
 
 The wheels are mounted in threes, with one motor for the left bank and another for the right bank. Each bank of motor and gearing system is incased in its own housing, which can be rotated about the length of the robot to make it taller or shorter, best illustrated by this front-on picture:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009003-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009003-300x225.jpg -->
 
 In terms of sensors, right at the front and centre is an infrared receiver, used for programming the robot wirelessly, and for "challenging" and "detecting" other WonderBorgs. It also has a Light Dependant Resistor mounted on the top, infrared front left and right sensors for detecting obstacles, and left and right "feelers" acting as bump sensors.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009004-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009004-300x225.jpg -->
 
 The programming was done through a very simple computer interface, which not only did I manage to find the disc for, but most of it works under Windows 7! The only bit that fails is sending to the robot, which is unfortunate but not unexpected thanks to its use of COM ports.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009001-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009001-300x225.jpg -->
 
 As I said I didn't put any of the electronics together myself, but here's a quick view of the circuit board controller with the sensors mounted on it.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009005-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009005-300x225.jpg -->
 
 Here's a final picture and a video of WonderBorg in action:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009002-300x225.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/26092009002-300x225.jpg -->
 
 {% include youtube.html id="GcV4Uqoxi5M" %}

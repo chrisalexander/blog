@@ -12,6 +12,6 @@ My question, though, is despite all of this ranting, would your decision to use 
 
 While I await some answers, here are some related pictures from the internets.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/git2-300x200.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/git2-300x200.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/git1-300x240.jpg" %} 
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/git1-300x240.jpg -->

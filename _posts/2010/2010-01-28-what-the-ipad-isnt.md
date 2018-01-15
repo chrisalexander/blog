@@ -6,7 +6,7 @@ categories: hardware
 
 So it's the morning after another massive Apple announcement. The dust has settled, the fanboys have washed their underwear, and the public are taking their first look through the misty sunrise at the fabled Apple Tablet.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/ipad-247x300.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/ipad-247x300.jpg -->
 
 First impressions of the blogosphere and Twitter, however, were generally negative. #iTampon is still a (mocking) Trending Topic in the UK.
 

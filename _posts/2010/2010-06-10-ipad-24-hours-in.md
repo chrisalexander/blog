@@ -14,7 +14,7 @@ In short - brilliant. There's nothing quite like the iPad for doing some activit
 
 Here's why.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/ipad.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/ipad.jpg -->
 
 First off, the iPad lets me do a lot of things that i do on my laptop, but in a much friendlier form factor and more portable way. I wrote this whole post on the iPad, for example, which saved me from being scalded by my MacBook which I would normally use for the same activity chilling out at the end of an evening.
 

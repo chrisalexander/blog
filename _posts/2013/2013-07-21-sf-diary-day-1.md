@@ -18,12 +18,12 @@ Tonight was all about staying up as late as possible as it all kicks off tomorro
 
 You can tell Andrew has been here a while, he's starting to fit right in - here seen in his new natural habitat, a hip coffee shop on 7th and Folsom:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_133259.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_133259.jpg -->
 
 Meanwhile, here are some obligatory food photos:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_043111.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_043111.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_091615.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_091615.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_092350.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130721_092350.jpg -->

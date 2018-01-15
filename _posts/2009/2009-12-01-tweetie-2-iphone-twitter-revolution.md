@@ -18,58 +18,58 @@ Considering the number of options, bells and whistles that Tweetie 2 has integra
 
 Within just a few seconds I had 5 accounts configured and was tweeting away to my heart's content. (This is in contrast to the purchase experience from Apple, which - for all the hoops it puts its developers through to get to the App Store - was a complete pain in the ass to actually get the app bought and downloaded).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0011-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0011-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0012-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0012-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0013-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0013-200x300.PNG -->
 
 Searches are also blindingly simple to set up, with a huge range of options there too.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0015-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0015-200x300.PNG -->
 
 Getting hold of users has never been easier.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0014-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0014-200x300.PNG -->
 
 ## Geolocation, List and Retweet API
 
 Tweetie 2 is on the cutting edge of Twitter API development, integrating both the geolocation and retweet APIs.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_00321-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_00321-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0017-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0017-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0018-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0018-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0021-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0021-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0022-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0022-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0024-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0024-200x300.PNG -->
 
 ## Everything looks awesome
 
 No matter where you go, the interface has been excellently thought out, and brilliantly designed and executed.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0019-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0019-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0026-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0026-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0025-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0025-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0027-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0027-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0029-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0029-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0030-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0030-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0031-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0031-200x300.PNG -->
 
 ## So many buttons!
 
 There's a lot of options and settings, and while it could have been easy to get lost, clear organisation makes it simple to get to the option you want.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0020-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0020-200x300.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0028-200x300.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/IMG_0028-200x300.PNG -->

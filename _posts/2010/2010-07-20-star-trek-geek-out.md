@@ -15,7 +15,7 @@ One of the first I watched (resisting the urge to watch chronologically) was an 
 
 Now I happen to think that this is pretty much the best you're going to get - an absolutely classic and undoubtedly awesome piece of television which wraps up my favorite Star Trek series of them all. Some would argue it is too abrupt an end, but I think it is a good compromise.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/p_1763_1248_28EDE955-F6B1-49A6-BECD-D9ED6EFD39C6.jpeg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/p_1763_1248_28EDE955-F6B1-49A6-BECD-D9ED6EFD39C6.jpeg -->
 
 Anyway, back to the point of the post - after I proclaimed how much I liked the episode, a lot of other people piped in with their suggestions for what they thought constituted the best-ever episode of Star Trek. Here's a run-down of the suggestions. (It's well worth reading to the bottom).<br> 
 
@@ -65,4 +65,4 @@ The episode sees the crew of DS9 travel into their past, and encounter the event
 
 [Source](http://en.wikipedia.org/wiki/Trials_and_Tribble-ations)
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/l_1024_768_39CBDA2E-F691-48BF-A75B-D89DDA98214B.jpeg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/l_1024_768_39CBDA2E-F691-48BF-A75B-D89DDA98214B.jpeg -->

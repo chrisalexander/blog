@@ -22,8 +22,8 @@ Something that I benefit from having a Nokia mobile with unlimited internet is t
 
 All in all, I find the Mini 9 - in combination with Windows 7 - to be a really enjoyable and superbly useful device that's so easy to carry around and really functional too.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/home.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/home.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/iplayer.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/iplayer.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/work.jpg" %} 
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/work.jpg -->

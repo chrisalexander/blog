@@ -11,7 +11,7 @@ If this is you, or you are totally in love with your iPhone and won't have a bad
 
 For the rest of you, here is a very simple reason the Nexus One is the best phone ever made, and why it will be difficult to knock it from that post.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus14.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus14.jpg -->
 
 I've already partially covered why Android is quite easily the best mobile phone OS currently available (in its 2.1 incarnation at least). I'm going to take it as read that everyone accepts this (and anyone who disagrees clearly hasn't used an Android 2.1 phone for longer than 30 seconds), and move on to a slightly lesser-known (but none the less contentious, I should imagine) point about why, specifically, the Nexus One is the best of the best.
 

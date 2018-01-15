@@ -7,7 +7,7 @@ categories: google
 
 Among the plethora of announcements and releases made at [Google IO](http://web.archive.org/web/20101003174625/http://code.google.com/events/io/2010/), a new major feature for Chrome was announced.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/chrome4.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/chrome4.png -->
 
 The Chrome Web App Store aims to bring the app store experience you get on the iPhone and Android to your web browser. It allows application developers to turn their sites into mini app listings, which users can then link to in an enhanced bookmark-like way from their Chrome home screen.
 

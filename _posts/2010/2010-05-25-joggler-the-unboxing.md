@@ -20,14 +20,14 @@ On the inside, this thing has some stupidly powerful kit - a dual-core Atom chip
 
 If you get one of these, the first thing you'll want to do is load up a memory stick and boot it into a different OS. But more on that later ;-)
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.13.10.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.13.10.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.21.57.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.21.57.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.22.20.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.22.20.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.22.29.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.22.29.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.29.51.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-15.29.51.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-16.25.43.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-16.25.43.jpg -->

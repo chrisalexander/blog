@@ -8,7 +8,7 @@ Last weekend there was a post on TechCrunch about a US company that had just ope
 
 I recognised the business model from [Skimlinks](http://www.skimlinks.com), a company I came across while I was at [Huddle](http://www.huddle.net) in 2008.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/skimlinks.gif" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/skimlinks.gif -->
 
 ## Signing Up
 

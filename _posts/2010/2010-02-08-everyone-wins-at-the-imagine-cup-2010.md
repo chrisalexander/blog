@@ -8,7 +8,7 @@ Entries are still open for 4 competitions of the Imagine Cup - [Embedded](http:/
 
 What's more, if you [sign up today](https://www.imaginecup.com/), Microsoft will donate money to the 5 charities that they are working with this year!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/icpromo.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/icpromo.jpg -->
 
 ## Great Opportunities
 
@@ -20,7 +20,7 @@ What's more, this year's finals are being held in Poland, so if you make it thro
 
 ## Embedded Development
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/embedded.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/embedded.jpg -->
 
 Are you ready to develop the technology of tomorrow? Then Embedded Development is for you.
 
@@ -28,7 +28,7 @@ Build an exciting and revolutionary solution to the world's toughest problems wi
 
 ## Game Design
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/game_design.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/game_design.jpg -->
 
 Game Design is your opportunity to make a difference in a fun and engaging way!
 
@@ -36,7 +36,7 @@ Build a fantastic game with XNA Game Studio, Visual Studio or Silverlight. Targe
 
 ## Digital Media
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/digital_media.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/digital_media.jpg -->
 
 **NEW** for 2010 - create digital media, be it video, an interactive experience, photos and more to change the global community.
 
@@ -44,7 +44,7 @@ This year your challenge is to make the most viral video or multimedia experienc
 
 ## IT Challenge
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/it_challenge.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/it_challenge.jpg -->
 
 Undertake the construction and maintenance of a massive enterprise IT infrastructure and battle it out with the best students from around the world in a 24-hour virtual lab test of your IT prowess.
 

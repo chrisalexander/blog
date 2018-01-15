@@ -12,7 +12,7 @@ I read a comment on a blog earlier today by [Robert Scoble](http://scobleizer.co
 
 First of all, FriendFeed had it right - aggregate your content from all over the web into one place. The idea was there, but the implementation was pretty shocking. So when I say the future is going to look like FriendFeed, I mean it's probably not *visually *going to look like FriendFeed - that would suck.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/logos.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/logos.jpg -->
 
 I also don't think it's going to look like Google Wave - that is once again a shocking interface. But Google Wave once again has an important idea, one that not many other people have "got" to the same extent: content is king, and every kind of content is even better. I can put Youtube videos, maps, polls, and as many plugins as developers care to write into Wave, and that is what is really awesome about it.
 

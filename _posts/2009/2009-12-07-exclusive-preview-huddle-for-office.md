@@ -10,7 +10,7 @@ Not only have they [announced](http://www.techcrunch.com/2009/09/30/huddle-launc
 
 I got exclusive access to the Beta of the Office plugin and had a go - check out what I thought of it below.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/logo.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/logo.jpg -->
 
 ## Bringing the Cloud to you
 
@@ -24,15 +24,15 @@ This is where the Huddle for Office plugins come in. They allow you to edit your
 
 Installing the plugins takes just a few seconds. Here I'm using the Word plugin in Office 2010 (which I [recently installed](/on-engineering/microsoft/office-2010-beta-2/)) but the plugins will also work with Office 2007 (but not any earlier versions).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/install4a-300x113.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/install4a-300x113.jpg -->
 
 You can access the Huddle options from the File menu, in the Addins section.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/menu-203x300.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/menu-203x300.jpg -->
 
 When you first start up Huddle for Office you will have to log in with your Huddle account details.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/login-231x300.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/login-231x300.jpg -->
 
 Once that's done, you can start opening and editing your documents on your desktop.
 
@@ -40,21 +40,21 @@ Once that's done, you can start opening and editing your documents on your deskt
 
 Opening a file from a workspace in Huddle is incredibly easy. Select Open From Huddle in the menu, and you are presented with a list of your workspaces to choose from.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/workspaces-300x300.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/workspaces-300x300.jpg -->
 
 Then you get a folder view, where you can open all your folders and see the files that are available for opening.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/folder-300x300.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/folder-300x300.jpg -->
 
 When you find a file you want to edit, just select it and click Open. The plugin will download it from the web, and open it for you.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/downloading-300x103.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/downloading-300x103.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/file-300x209.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/file-300x209.jpg -->
 
 You can now edit your document just like you would with any other file. When you're ready to save your file back to Huddle, just select that menu option, and it is uploaded automatically.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/uploading-300x103.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/uploading-300x103.jpg -->
 
 ## Simple, but revolutionary
 

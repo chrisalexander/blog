@@ -8,7 +8,7 @@ leader:
 categories: life
 ---
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/keys.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/keys.png -->
 
 I have three things to say the video below.
 

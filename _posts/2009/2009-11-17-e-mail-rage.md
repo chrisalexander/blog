@@ -21,4 +21,4 @@ I don't know about you, but I don't like being like an incompetent idiot in any 
 
 Anyway the e-mails angered me so much I am yet to reply, as every time I go to I get angry again and everything I write comes out in a way I would definitely not consider sending via e-mail. Maybe the other person should have considered this first too.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/load.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/load.jpg -->

@@ -16,4 +16,4 @@ Screenshot below
 
 *Update 2* - Steve from Digsby points out in the comments below that this was released in [Build 76](http://web.archive.org/web/20160609185716/http://blog.digsby.com/archives/1255), and is disabled through your settings. Thanks for getting in touch, Steve.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/digsby-advert.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/digsby-advert.jpg -->

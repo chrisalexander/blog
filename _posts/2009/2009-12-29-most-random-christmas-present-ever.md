@@ -16,7 +16,7 @@ For one of my friends obtained what can only be described as the "Most Random Ch
 
 It is, the vibrating banana.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/banana.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/banana.jpg -->
 
 Quite why, I'm not sure. All I know is that it is made of some foamy substance, is bendable, and when you pull the cord it starts vibrating.
 

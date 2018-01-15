@@ -10,7 +10,7 @@ Today I am extremely happy to announce the public availability of [Clustr Deskto
 
 Clustr Desktop is a great companion to [Clustr Mobile](http://web.archive.org/web/20100427015247/http://clustr.me.uk/mobile/). It allows you to view your Huddle workspaces, folders and files from a desktop application. This means you can do some super-cool things such as *drag and drop file uploads and downloads*, as well as making managing your Huddle files a breeze.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/logo.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/logo.jpg -->
 
 Here's a full run-down of what you can expect from [Clustr Desktop](http://web.archive.org/web/20120107035949/http://clustr.me.uk/desktop/):
 
@@ -33,18 +33,18 @@ If you're looking for support for Clustr Desktop, you have the [mailing list](ht
 
 Check out some screenshots of Clustr Desktop below:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot1.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot1.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot21.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot21.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot3.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot3.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot4.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot4.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot5.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot5.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot6.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot6.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot7.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot7.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/logo.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/logo.jpg -->

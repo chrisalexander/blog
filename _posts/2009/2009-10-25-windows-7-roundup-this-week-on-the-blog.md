@@ -9,7 +9,7 @@ So one of the biggest stories in technology this week was the release of Windows
 
 It would simply have been rude of me not to mention it in at least one post this week, and there are plenty of topics here to make sure you have the best start possible with the new operating system.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/win7-logo-medium.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/win7-logo-medium.png -->
 
 ## The Ultimate Steal
 

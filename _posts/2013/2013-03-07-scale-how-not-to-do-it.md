@@ -13,7 +13,7 @@ Oh dear, EA.
 
 Their decision to make the latest SimCity game tied to their servers was a dubious one at best. But when the game won't function because you can't handle the load of everyone trying to play it, then you have really screwed up. It's now got to the point where over 700 of 800+ reviews of the game on Amazon are 1 star, and Amazon even stopped selling the download version because [nobody could connect](http://www.geek.com/articles/games/following-800-poor-reviews-amazon-stops-selling-download-copies-of-simcity-2013037/).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/meteor.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/meteor.jpg -->
 
 Perhaps the most concerning points about EA's statement is that they will ease load by bringing online more servers in "the next 2 days", and they are being hampered by "server architecture issues".
 

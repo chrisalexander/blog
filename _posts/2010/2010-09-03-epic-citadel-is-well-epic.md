@@ -16,18 +16,18 @@ The game uses the Unreal engine ported to iOS, which makes for some absolutely s
 
 I included some screenshots of [Epic Citadel](http://itunes.apple.com/us/app/epic-citadel/id388888815?mt=8#) below for your viewing pleasure.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-1.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-1.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-3.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-3.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-4.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-4.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-5.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-5.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/p_1024_768_E53DBCB7-8A46-423E-B284-C61E16FBB291-e1283458216560.jpeg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/p_1024_768_E53DBCB7-8A46-423E-B284-C61E16FBB291-e1283458216560.jpeg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/p_1024_768_B23271DC-3CBE-429F-ACA6-DC6206DB909D-e1283458227432.jpeg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/p_1024_768_B23271DC-3CBE-429F-ACA6-DC6206DB909D-e1283458227432.jpeg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/p_1024_768_CF945877-CF32-43E6-8FBF-79A4E4FF7147-e1283458234165.jpeg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/p_1024_768_CF945877-CF32-43E6-8FBF-79A4E4FF7147-e1283458234165.jpeg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/p_1024_768_C2928BA2-B705-4B9A-8BEF-122C30E2B733-e1283458240186.jpeg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/p_1024_768_C2928BA2-B705-4B9A-8BEF-122C30E2B733-e1283458240186.jpeg -->

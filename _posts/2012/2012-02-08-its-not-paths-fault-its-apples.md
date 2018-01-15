@@ -12,4 +12,4 @@ Note that on Android, Path uses an Android SDK to load in the contact data. To d
 
 So the lesson here is Path took the contact data because they could and there was nothing to stop them. Clearly this is a problem with iOS (and, so far as I can see, a gigantic nasty security hole that makes me wonder whether I should just totally nuke my iPad and iPod in case apps on them are retrieving other stuff I really don't want them to) which needs to be addressed quickly.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/02/Screenshot_2012-02-08-16-42-25.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/02/Screenshot_2012-02-08-16-42-25.png -->

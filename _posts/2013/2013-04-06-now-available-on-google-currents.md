@@ -16,6 +16,6 @@ I also picked up a long-dead project where I was creating a Current for my blog.
 
 If you'd like to subscribe (please give it a go!) you can do so [by clicking on this link](http://www.google.com/producer/editions/CAow45rgAQ/on_engineering) with any device that has Currents installed. This post should be appearing there soon.**<br> **
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/wpid-Screenshot_2013-04-06-13-05-35.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/wpid-Screenshot_2013-04-06-13-05-35.png -->
 
  

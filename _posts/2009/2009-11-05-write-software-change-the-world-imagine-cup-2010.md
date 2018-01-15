@@ -18,7 +18,7 @@ The UN Millennium Development Goals are wide-ranging and affect every corner of 
 
 ### UN Millennium Development Goals
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ungoals.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ungoals.jpg -->
 
 * Eradicate extreme poverty and hunger
 * Achieve universal primary education

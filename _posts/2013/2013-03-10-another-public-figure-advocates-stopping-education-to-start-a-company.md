@@ -10,7 +10,7 @@ Oh dear...
 
 It's frustrating just how many people - who really should know better - advocate dropping out or not even starting further education for entrepreneurs as it doesn't help start a company. The usual trio of successful people - Gates, Branson, Zuckerberg - are usually hauled out to justify this point of view.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/zuck.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/zuck.jpg -->
 
 As someone who has gone from a degree straight into a startup, I strongly disagree with Elon Musk's and other's comments on this subject.
 

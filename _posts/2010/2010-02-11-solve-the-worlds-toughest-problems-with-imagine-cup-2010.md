@@ -19,7 +19,7 @@ The aims of the Software Design aspect of the Imagine Cup are massive - address 
 
 The UN Millennium Development Goals are wide-ranging and affect every corner of the world. All of them can be addressed with technology, and the Imagine Cup offers students the opportunity to prove this, and their own prowess, on a global stage.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/un2.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/un2.jpg -->
 
 ## Get Started Now.
 
@@ -29,4 +29,4 @@ Start making a difference today, and get started on those world-changing applica
 
 Look out for more posts in the coming days for more on the Imagine Cup, what Imagine Cup 2009 was like, and top tips for Imagine Cup 2010 - keep your eyes on the Imagine Cup category.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/icpromo.jpg" %} 
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/icpromo.jpg -->

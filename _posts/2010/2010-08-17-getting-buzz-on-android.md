@@ -16,12 +16,12 @@ The new TweetDeck for Android supports Buzz - but I have made many complaints ab
 
 What do you use for getting your Buzz fix on the go?
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/buzz-widget_homescreen.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/buzz-widget_homescreen.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/buzz-widget_compose.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/buzz-widget_compose.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/seesmic.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/seesmic.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/marketBuzzWidget.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/marketBuzzWidget.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/seesmicMarket.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/seesmicMarket.png -->

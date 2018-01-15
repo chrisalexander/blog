@@ -18,13 +18,13 @@ Over the past nearly 3 years I've been lucky enough to have both a driving licen
 
 And that freedom is something I'm not willing to give up easily.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ka.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ka.png -->
 
 I've joked before that I'm scared of buses. Not entirely true, but I'd rather not take them if I can drive, simply because its flexible. And some would say its more expensive, and that its worse for the environment, and a whole host of other reasons why I should take the train/bus/walk/cycle or whatever.
 
 **But the sheer fact of the matter is this.** In the last 3 years, I've done tens of thousands of miles crossing the entire country going to see various people, go to various events, and do stuff that I just *never ever would have done* without the car.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cooper.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cooper.png -->
 
 Fine, I could have got to all these places with public transport, but I bet it would have been more expensive, less pleasant, would have taken *at least* 50% more time and definitely **far** less enjoyable.
 
@@ -32,4 +32,4 @@ And don't try and pull that one on me - no matter how many times *you* or *anyon
 
 So, new car shopping for me it is. I have a funny feeling this is going to be costing me money for several months to come.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/r8.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/r8.png -->

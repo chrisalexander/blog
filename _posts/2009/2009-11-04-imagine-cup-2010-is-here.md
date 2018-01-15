@@ -6,7 +6,7 @@ categories: uni
 
 Entries for the 2010 Imagine Cup in Poland are now open!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ic10.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ic10.PNG -->
 
 The Imagine Cup is the world's premier student technology competition - with unparalleled challenges, experiences, and prizes, if you do anything at all this year, you'll want to be part of this.
 

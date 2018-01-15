@@ -10,4 +10,4 @@ Along with Promoted Trends and Top Tweets, Promoted Accounts are suggestions bas
 
 More on [Promoted Accounts](https://web.archive.org/web/20150512072512/https://support.twitter.com/articles/282154-promoted-accounts).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/11/twitter_promoted.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/11/twitter_promoted.png -->

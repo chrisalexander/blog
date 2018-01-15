@@ -12,4 +12,4 @@ I'll be talking about the latest Platform Preview of IE 9, and some very cool ne
 
 Hope to see you there!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/ad.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/ad.jpg -->

@@ -36,7 +36,7 @@ So why is it that all the other apps can't be this well thought-out and written?
 
 ## Shall We Blame Apple, Or The Devs?
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/apple.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/apple.png -->
 
 Ok ok, I take back the title.
 

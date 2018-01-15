@@ -18,15 +18,15 @@ I have been sharing bits of information about ARNIE as we have been developing i
 
 ARNIE conveniently stands for Anthropomorphic Robot with Networked Intelligence Engine. Or something like that - we wrote it on the whiteboard, rubbed it off to do some insane maths, and then promptly forgot what it stood for. But we like the name so it stuck.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/arnie.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/arnie.jpg -->
 
 Here's a real photo of ARNIE:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/arnie_Robot.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/arnie_Robot.jpg -->
 
 This is ARNIE in his standard configuration but without his eyes. They are the two webcams attached to the laptop in the background; usually they'd be mounted on his head something like this:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/arnie_eyes.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/arnie_eyes.jpg -->
 
 There's more info about ARNIE's hardware coming in an upcoming technical overview post.
 

@@ -6,7 +6,7 @@ categories: life
 
 For those of you who have been following my Twitter a few days ago (@chris_alexander), you will have observed a rather high [number](http://twitter.com/chris_alexander/status/4084071780) [of](http://twitter.com/chris_alexander/status/4085326049) [tweets](http://twitter.com/chris_alexander/status/4085470172) [proclaiming](http://twitter.com/chris_alexander/status/4085532270) [my](http://twitter.com/chris_alexander/status/4085838532) [frustration](http://twitter.com/chris_alexander/status/4101311352) [at](http://twitter.com/chris_alexander/status/4107216846) [PayPal](http://twitter.com/chris_alexander/status/4108287251). (Sorry to my followers for that, but I wasn't happy!)
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/paypal.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/paypal.png -->
 
 I even got round to threatening to[ publish the whole story](http://twitter.com/chris_alexander/status/4120950551) if they didn't come up with a satisfactory response. One reponse (which was definitely not satisfactory) later, and here we go.
 

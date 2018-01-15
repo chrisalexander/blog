@@ -8,7 +8,7 @@ There's been some uproar (somewhat undeservedly, in my opinion at least) over th
 
 Looks like Twitter do have a sense of humour about all of this though - check out the #dickbar that Twitter constructed in their office:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/03/dbar-224x300.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/03/dbar-224x300.jpg -->
 
 They've since [modified the bar](http://techcrunch.com/2011/03/08/twitter-responds-to-backlash-dickbar-no-longer-covers-tweets/) - if you update your app you should see the new behaviour.
 

@@ -14,11 +14,11 @@ Yesterday, TechCrunch's Jason Kincaid came up with [a post](http://www.techcrunc
 
 Danny Sullivan of Daggle countered with [this impressive break down](http://daggle.com/impression-wrong-android-nice-iphone-1607), clearly showing how in many cases Android needs you to do one or more option selections than iPhone to get stuff done.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/nexus.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/nexus.jpg -->
 
 Now this is all well and good, but only if *you want all your options right there*. This implies that there just aren't that many buttons to press.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/comparison.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/comparison.jpg -->
 
 Take a look at this example provided by Daggle. In it they claim that it takes two button presses to start a new mail on Android, where it takes one on iPhone.
 

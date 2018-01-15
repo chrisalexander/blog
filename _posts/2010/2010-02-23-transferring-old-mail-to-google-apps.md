@@ -12,4 +12,4 @@ However, for some reason the Google Mail Uploader didn't want to play nice with 
 
 So what I ended up doing was creating an IMAP account for my new Google Apps account, then simply dragging and dropping large chunks of archived mail from my old IMAP server into Google Mail's inbox. Took a while and needed to be done in batches, but worked a treat!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/outlook.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/outlook.jpg -->

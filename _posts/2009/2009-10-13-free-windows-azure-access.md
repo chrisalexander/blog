@@ -6,7 +6,7 @@ categories: dev
 
 Windows Azure is Microsoft's new cloud computing and hosting platform, and you can get your hands on it today, for **free**!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/azure.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/azure.png -->
 
 Windows Azure is the next generation of cloud hosting solutions, offering both cloud hosting and cloud computation services in an environment that you already know and have worked with.
 

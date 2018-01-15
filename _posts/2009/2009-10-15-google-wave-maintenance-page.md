@@ -14,4 +14,4 @@ It tries to redirect you to http//wave.google.com/maintenance/ - can you spot th
 
 When I did finally get to the landing page, I found a rather curious holding page that someone had clearly got far too carried away with in their 20% time...
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wave-maintenance.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wave-maintenance.PNG -->

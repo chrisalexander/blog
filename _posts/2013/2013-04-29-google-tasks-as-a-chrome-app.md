@@ -14,7 +14,7 @@ However, I've always had problems with it because I quite like working on the Ch
 
 So this afternoon I bashed together [TaskApp](https://chrome.google.com/webstore/detail/taskapp/pfhffbadldacimplopjdegdjcnmdfpom?hl=en). The basic idea is it packages your Google Tasks into a Chrome app so it gets its own window.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/screenshot-300x187.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/screenshot-300x187.jpg -->
 
 Having looked at the source code for the official [Google Tasks Chrome Extension](https://chrome.google.com/webstore/detail/google-tasks-by-google/dmglolhoplikcoamfgjgammjbgchgjdd), available [on Google Code](https://code.google.com/p/google-tasks-chrome-extension), and when it renders stuff it basically cheats and dumps an iFrame which contains the iGoogle version of the Tasks app.
 

@@ -16,7 +16,7 @@ Here's what I learnt, from the beginning, and it will hopefully save anyone else
 
 This isn't actually recommended or in any way necessary, but I got a bit carried away with this project. I was fed up of Zend and wanted quite a few other frameworks to just get out of my way, so I did the first logical thing and wrote my own MVC framework in PHP.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/code.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/code.png -->
 
 Yeah you're right, neither logical, recommended nor necessary... but I thought it had to be done for something else I was doing and it was better sooner than later.
 
@@ -24,7 +24,7 @@ The only reason I'm telling you this is that I went through and hacked up the OA
 
 ## Step 1a: What is OAuth?!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/oauth.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/oauth.png -->
 
 In simple terms, OAuth is a method of securely authorising and authenticating with external web services without the user having to give you their password.
 
@@ -34,11 +34,11 @@ The original way it worked was that any external service which wanted to tweet o
 
 Can anyone spot the security vulnerabilities here? There are more than I care to count.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/wrong.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/wrong.png -->
 
 The "new" way of doing it is to use OAuth. This way, the service "signs" the request securely, after the user has "authorised" the service on Twitter.com, but never actually given the service their password. Much better!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/right.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/right.png -->
 
 ## Step 1b: Find out how OAuth works
 
@@ -48,7 +48,7 @@ But in order to get to that stage, we need a certain level of understanding of t
 
 There is an *excellent* in-depth guide to OAuth for beginners [available here](http://hueniverse.com/oauth/). There's a lot of it, but if you have a couple of hours to spend getting a great foundation in the whole topic then that's a great place to go.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/My-Endpoints.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/My-Endpoints.png -->
 
 ### Brief OAuth Overview
 
@@ -78,7 +78,7 @@ The first lesson I learnt as soon as I started investigating the internals of OA
 
 Unless you have 2 solid working weeks to give over to it, and you somehow think you can do better than all the libraries that already exist, (and you are some kind of encryption ninja) then go wild and do it.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/encryptionninjas.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/encryptionninjas.png -->
 
 Otherwise, go find a library to use, *trust me!*
 

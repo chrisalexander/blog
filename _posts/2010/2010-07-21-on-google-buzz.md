@@ -6,7 +6,7 @@ categories: life
 
 Google Buzz seems quite empty at the moment. And judging by how much buzz it's getting (pun not intended...) a lot of people seem to have given up on it.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/buzz.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/buzz.png -->
 
 The reason I say it is quite empty is not through lack of content. I follow a few people from around my area (but not many, it has to be said) so that could be improved. And it's not that there isn't that much content in there - there is loads (probably too much). It is just that there seems to be no original content on there whatsoever.
 

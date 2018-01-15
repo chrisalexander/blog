@@ -19,28 +19,28 @@ If you want to find out more about what I did while I was in Egypt in-depth, you
 
 ### The Citadel
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/citadel.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/citadel.jpg -->
 
 The opening ceremony was held at The Citadel, an impressive structure overlooking the entire city of Cairo. Built in ancient times and the scene of many battles in the past, it was an impressive venue to start the finals with high-profile Microsoft presenters.
 
 ### The Competition
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/competition.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/competition.jpg -->
 
 All of the competitors fought exceptionally hard for their prizes, from the presentations of the Software Developers and Games Designers (who I also heard had an all-night coding session to get a new feature done before their final event), to the IT Challenge competitors who were placed in a room for 48 hours and tried to keep their system secure!
 
 ### The Pyramids
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg -->
 
 Visiting these epic monuments was a fantastic experience, and one that I'd very much like to repeat in the future. This is where I first met properly some of my Egyptian MSP friends who I'm still in touch with today.
 
 ### The Cairo Gardens
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo1.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo1.jpg -->
 
 After the final day of competition, we had dinner and spent the evening in some wonderful gardens also overlooking Cairo. There was a magnificent view across the whole city, and it was a fantastic event to hear the Call to Prayers from the multitude of mosques spread across the city, all ringing out at the same time.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo2.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo2.jpg -->
 
 This post is part of a series of posts about the Imagine Cup, and what you can get out of the Imagine Cup 2010. Check out the Imagine Cup category for more.

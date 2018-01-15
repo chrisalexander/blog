@@ -10,7 +10,7 @@ You're not alone. There are a lot of ways you can increase your chances of getti
 
 One of these is a Microsoft initiative called Students to Business.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/s2b.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/s2b.jpg -->
 
 The [Students to Business Portal](https://web.archive.org/web/20130505002555/http://www.microsoft.com/studentstobusiness/home/default.aspx) offers some great ways to increase your value in the eyes of potential employers.
 

@@ -10,7 +10,7 @@ I guess it probably just appeals to my "unique" brand of humour, but I think the
 
 Pity about the car, though.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/twingo.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/twingo.jpg -->
 
 Also, kudos to Renault for getting these up on an official YouTube channel. Finally marketers are getting the idea!!
 

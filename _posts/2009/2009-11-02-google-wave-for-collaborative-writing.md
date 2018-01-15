@@ -10,7 +10,7 @@ categories: projects
 
 Recently I was asked to take part in a new venture of the [This Is Me](http://thisisme.reading.ac.uk/) project at the University of Reading. Following the recent extended beta of [Google Wave](https://wave.google.com/), it was thought that it would be a really good idea to collaboratively work on some of the project inside Wave itself.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/google_wave_logo.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/google_wave_logo.jpg -->
 
 I thought it would be a great way to further investigate the possible applications of Google Wave. Cynics of the application have cited that there seems no real uses for it at the moment, and that while Google have created a very cool tool, no-one seems to think they can use it for anything that's not covered by software that already exists.
 

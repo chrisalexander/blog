@@ -10,7 +10,7 @@ categories: formula-1
 
 So the Bahrain Grand Prix is over, Alonso has really made his mark in the Ferrari by winning the race, and we're looking forward to another 18 races taking us through to November.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/alonso.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/alonso.jpg -->
 
 However, following the coverage, it will be the FIA that comes under scrutiny for some mystifying decisions that have hampered the enjoyability of the racing for TV viewers.
 

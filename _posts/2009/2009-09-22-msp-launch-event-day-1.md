@@ -12,7 +12,7 @@ I don't know about you, but there's nothing quite like a 2-day launch event to r
 
 This year is no different, with the launch of the MSP Programme in the UK taking part at Microsoft TVP.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/tvp.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/tvp.png -->
 
 Yesterday was day one of the launch, and featured two sets of excellent events.
 

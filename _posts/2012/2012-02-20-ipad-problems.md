@@ -10,7 +10,7 @@ categories: ['apple', 'ipad']
 
 I get confused when people say the iPad is the easiest to use computer ever made.
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/02/photo-1.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/02/photo-1.png -->
 
 There are a few reasons for this.
 
@@ -22,4 +22,4 @@ It is also virtually impossible to get support when it goes wrong. If there is a
 
 In that vein, a reminder to myself. If your iTunes app ever disappears from your iPad home screens again, it has most likely been disables in the Restrictions of the General settings in Settings. Good luck remembering your Restrictions pin! Image for future reference:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/02/photo-2.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/02/photo-2.png -->

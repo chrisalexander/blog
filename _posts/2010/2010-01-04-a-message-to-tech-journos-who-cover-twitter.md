@@ -26,7 +26,7 @@ So when you see that the Retweet functionality may not appear, or that Lists hav
 
 The modularity of this approach is excellent, and means that despite its massive volume of data transfer and millions of people expecting it to operate in real-time, Twitter can still handle this under epic load.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/fail-whale.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/fail-whale.png -->
 
 ## How not to do it
 
@@ -40,4 +40,4 @@ Bonus points to Mashable's authors; I couldn't find a single post where they'd m
 
 Let's learn from this.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/twitter-icecream.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/twitter-icecream.png -->

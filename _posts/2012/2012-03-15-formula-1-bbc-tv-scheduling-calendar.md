@@ -17,4 +17,4 @@ Here are the links to the calendar: XML (for RSS readers and the like); [ICal](h
 
 Please send any errors or omissions to me using the Contact link above, e-mail usually gets to me fastest. So far the BBC have only published times for the first two races, so I will try and keep up with them as they publish (it would be handy if they published it all now really).
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/MP4-27_Front-3-4-small.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/MP4-27_Front-3-4-small.jpg -->

@@ -6,7 +6,7 @@ categories: projects
 
 Here's a quick tip for Photoshop that I have came across and I find incredibly useful.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/photoshop.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/photoshop.jpg -->
 
 When I'm mixing photos for Project 365 in Photoshop, I often find myself wanting to take a snapshot of my current edit as a single layer, for example to try a transform on the whole image.
 

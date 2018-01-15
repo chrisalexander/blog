@@ -14,11 +14,11 @@ I won't go into too much detail of their history as you can get it on their mysp
 
 It was a brilliant evening and if anyone gets the chance to catch them while they're over here I highly recommend it. Some pictures and video embedded below.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100713_202608.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100713_202608.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100713_203853.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100713_203853.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100713_203904.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100713_203904.jpg -->
 
 {% include youtube.html id="ucfoH5KY834" %}
 

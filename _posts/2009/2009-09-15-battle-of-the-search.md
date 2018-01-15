@@ -10,15 +10,15 @@ So both Google and Bing have recently announced new products that not only impro
 
 First of all, to see this you will have to set your location on Bing to US - you can do that with [this link](http://www.bing.com/?scope=web&amp;setmkt=en-US&amp;setlang=SET_NULL&amp;uid=CD112CCD&amp;FORM=W5WA). Then check out Bing Visual Search, and select from any one of the galleries available.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/bing1-1024x584.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/bing1-1024x584.PNG -->
 
 Overall it's a great experience to scroll through and view the images. Here's an example of the new car search, with what happens when you click on a result.
 
  
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/bing2.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/bing2.PNG -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/bing3-1023x548.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/bing3-1023x548.PNG -->
 
 To be honest, the results page is more than a little disappointing - after the enjoyable scrolling and viewing, I would have expected the results to be displayed with a nice animation in the Silverlight itself. I would also like to see Visual Search capable of handling other arbitary datasets, for example from the recently-announced [partnership with Wolfram Alpha](http://www.techcrunch.com/2009/08/21/what-wolfram-alpha-really-did-this-summer-struck-a-deal-with-bing/). I think it has great prospects, and with a bit of work and enhancement it really could change the game regarding searching datasets.
 
@@ -26,7 +26,7 @@ To be honest, the results page is more than a little disappointing - after the e
 
 Fast Flip is a new alpha service released on [Google Labs](http://web.archive.org/web/20090426064424/http://www.googlelabs.com/). It provides a brand new way of quickly overviewing news published online, without waiting for long periods for pages to load on different websites. In addition to the previews of websites, the content is split into Popular, Sections (much like Google News sections), Topics and Sources. So you can drill down headlines into topics (e.g. Kanye West) or even popular news sources (e.g. TechCrunch).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/flip1-1023x688.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/flip1-1023x688.PNG -->
 
 As you can see, a full window of Fast Flip provides a very large amount of data, and makes it incredibly easy with the arrows on the left and right to quickly switch to new panels, and the tabs provide fast content changes. Similiar to the disappointment I felt when using Visual Search, Fast Flip promises a lot but lacks in key areas. Popups with larger previews or opening paragraphs would be welcome additions, as would customisation of the page and a little more interactivity (like the smooth scrolling on Visual Search).
 

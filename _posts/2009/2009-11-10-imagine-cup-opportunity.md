@@ -12,7 +12,7 @@ We've had a look at the competition of the Imagine Cup (#1191), and what you can
 
 The simple fact of the matter is that taking part in this competition gives you more opportunities than from taking part in any other student activity that I have come across.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ic10.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/ic10.PNG -->
 
 Let's take the Software Design competition (#1191) as an example.
 
@@ -22,11 +22,11 @@ You get all that just for submitting one document with your idea on it!
 
 If you get further into the competition, you will spend days at Microsoft UK either in London (Victoria) or Reading (Thames Valley Park), developing your idea and getting up to some pretty awesome things.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/tvp.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/tvp.png -->
 
 If you get even further into the competition, you'll get to do some even more incredible things. If you make it through to the UK final they often hold the event at top Microsoft UK locations (last year's was at the Microsoft Research facility at Cambridge), and if you win that then you will be taken off to Poland for the worldwide finals.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg -->
 
 (The 2009 worldwide finals were in Cairo).
 

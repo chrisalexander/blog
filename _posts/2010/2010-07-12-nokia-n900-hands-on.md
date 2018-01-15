@@ -27,14 +27,14 @@ Nokia must do better if they want to survive in the face of iPhone and Android. 
 
 {% include youtube.html id="Lx-7jeamYa8" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193505.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193505.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193534.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193534.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193600.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193600.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193648.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193648.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_204517.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_204517.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_204527.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_204527.jpg -->

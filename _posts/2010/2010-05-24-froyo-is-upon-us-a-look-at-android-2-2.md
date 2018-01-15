@@ -12,7 +12,7 @@ categories: google
 
 Well I managed to wedge the Froyo update on to my Nexus One, at last. I got a bit impatient waiting for it, so seeing as it was the official download I thought I'd take the opportunity to give it a go. I haven't had much of a chance to play with it so far, but this is what I've made note of.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/nexus.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/nexus.jpg -->
 
 ## Performance
 

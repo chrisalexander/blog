@@ -4,7 +4,7 @@ heading: '#LeWeb Roundup'
 categories: life
 ---
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/12/leweb_logo.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/12/leweb_logo.png -->
 
 So LeWeb 2010 has now come and gone, and I thought I would take a minute just to round up my thoughts on the event.
 

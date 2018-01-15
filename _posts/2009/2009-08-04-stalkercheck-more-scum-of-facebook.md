@@ -12,21 +12,21 @@ It seems to promote the fact that it checks your Facebook profile for "stalkers"
 
 Right so what happens when you first click the link the website it provides? Well the .com redirects back to this Facebook application page.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook1.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook1.png -->
 
 Right, seems moderately less scary now. That is if you know what [OpenStream](http://web.archive.org/web/20100206113121/http://developers.facebook.com/news.php?blog=1&story=225) is - if not then it probably seems more scary. So I proceed daringly onwards, and meet the usual application approval page.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook2.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook2.png -->
 
 Ok, fair enough! I'm not sure quite why it wants that information when it only needs OpenStream, but whatever. Next up we get this...
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook3.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook3.png -->
 
 Ah! What's this new popup box about? On reading the first sentence it seems that it wants to read and write to my wall, but reading on it states that my wall data will be displayed in the application. Massive security hole here anyone? Yeah, thought so. Presumably, StalkerCheck can now carry on simply reading off my Home and Wall streams until I block it? Sounds like a marketer's dream to me.
 
 Alright fine, as this is my test account and I have no real friends on it, I will let it do it. Check out the application homepage now...
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook4.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook4.png -->
 
 There's quite a few things I want to talk about on this page. First of all the content itself - pretty boring really. It's just an ordered list of who has done the most stuff on my wall, and during the analysis it was presumably all skimmed off and added to a big database somewhere.
 
@@ -34,7 +34,7 @@ Next I want to talk about this "About Stalker Check" message. It seems to bring 
 
 Once again Facebook has managed to beautifully target advertisments (I have all of the things the Facebook ads are trying to acquire for me / sell me). The ad I have a problem with though is the one at the top. Firstly that's 4 counts of using the Google trademark without proper attribution and outside [their permissions](http://www.google.com/permissions/guidelines.html) straight away! When you click through to their site they have a selection of themes (some shown below) which link through to nice pages with big backgrounds and a Google search box.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook5.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/facebook5.png -->
 
 More problems on these pages, though. First of all the Google logo has had half of the "TM" chopped off (strangely not all of it). Another count against the guidelines. The search boxes are actually Google Adsense for Search boxes, which means that the owner of the site gets a nice little kickback for all the ads you click on while you're browsing their results. Pretty daring really considering the number of times they've broken Google's very clear rules on this.
 

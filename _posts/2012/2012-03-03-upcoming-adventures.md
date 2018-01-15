@@ -16,4 +16,4 @@ We fly to SF on Monday, landing late Monday afternoon Pacific time. We're out an
 
 Would be great to catch up with any SF pals while we're around (although not certain how long we will have as the schedule looks pretty stuffed) then of course anybody at SXSW. Can't wait!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/sxsw-300x181.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/sxsw-300x181.png -->

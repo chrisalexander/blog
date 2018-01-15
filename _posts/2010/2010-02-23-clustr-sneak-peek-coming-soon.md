@@ -10,9 +10,9 @@ Some of you may remember my project from several months ago called [Clustr](http
 
 As Huddle has evolved, we're looking to give you even more ways to get the most out of your investment into the platform. First, Clustr gave you a way to get to your workspaces wherever you were. Now, Clustr Mobile is just one part of the solution.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/clustr.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/clustr.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot2.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/screenshot2.png -->
 
 We look forward to giving select users access to Clustr Desktop over the next week or so, with a view to making it public very soon.
 

@@ -20,7 +20,7 @@ My third and final issue with Blackboard is this; much much better alternatives 
 
 Having recently announced their growing Microsoft Office integration (#1614), Huddle is a web-app that's going places... fast. The online editing facility can alter .doc and .xls files without a download being required. Audit trails are automatically established for *all* file transactions, a sample of a trail is pictured below;
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/Audit-Trail-of-Huddle.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/Audit-Trail-of-Huddle.PNG -->
 
 Is Huddle the end of Blackboard? I sadly can't say so, the grade database of Blackboard is a feature that Huddle lacks, and it's undeniably a vital one. Though having seen how online document management can be done, it makes one shudder upon returning to the Blackboard environment.
 

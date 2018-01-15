@@ -8,7 +8,7 @@ It's very rare that we get a peek inside the core algorithms and programs that G
 
 I have recently been reading the [papers that Google have released](http://research.google.com/pubs/papers.html) about various components of their system, particularly BigTable. I also discovered recently [this presentation](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf) [PDF] given by Jeff Dean, a Google Fellow, on Google's infrastructure, systems, and processing statistics that I found extremely interesting for a number of reasons.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/google_logo3.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/google_logo3.png -->
 
 The first reason I found it interesting is just some of the numbers they are using casually; I thought 300 million realtime Retweet buttons a day at work was impressive - it's nothing!
 

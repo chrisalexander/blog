@@ -13,8 +13,8 @@ Last Friday David and I went to "An Audience with Joe", an event run by F1 journ
 
 One of the topics that came up was Lewis Hamilton - and just why he decided to jump ship to Mercedes. Personally I'm interested to see how much patience he has - I give him 3 years there before he gets fed up and moves again.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/hamilton.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/hamilton.jpg -->
 
 There were a few other recurring topics, one of which was Bernie (of course). There were some interesting theories about what would happen when he retires - none of which were my first choice, which would be Ms Tamara taking over.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/tamara.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/tamara.jpg -->

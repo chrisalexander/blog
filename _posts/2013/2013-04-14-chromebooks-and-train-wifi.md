@@ -12,7 +12,7 @@ I had a couple of e-mails to deal with on the way back into London this afternoo
 
 I was pleased to remember that Greater Anglia, despite in some ways still being stuck in the mid-60′s, has on-board WiFi. (This is unfortunately emblazoned with obnoxious Office 365 ads, much like the rest of the train).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/Screenshot-2013-04-14-at-17.34.48-300x170.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/Screenshot-2013-04-14-at-17.34.48-300x170.png -->
 
 Obviously the WiFi is really a load of people trying to download things over 3G so its performance isn't by any definition good. However, the Chromebook does a really awesome job of doing its best.
 

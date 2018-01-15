@@ -16,4 +16,4 @@ Hot lunch is provided daily (I nearly missed it until I smelt the smells coming 
 
 The place it kitted out like a palace. Four massive fully stocked fridges, cereals, snacks, a coffee machine where you choose and grind your beans yourself first, and iPads for booking meeting rooms.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130722_185125.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130722_185125.jpg -->

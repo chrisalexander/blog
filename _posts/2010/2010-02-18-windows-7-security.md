@@ -18,10 +18,10 @@ Of course, any extra protection is recommended; but in this case I think there i
 
 It's a comprehensive package that's available totally free and with no nagging advertising to users of genuine versions of Windows. You can download it today from the [Security Essentials site](http://www.microsoft.com/Security_Essentials/), and there are some screenshots posted below.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials1.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials1.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials2.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials2.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials3.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials3.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials4.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials4.jpg -->

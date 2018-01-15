@@ -9,7 +9,7 @@ You may have read my recent (rather monolithic) post on [Getting Started with OA
 
 Web Resource Authorisation Protocol (WRAP) is a set of so-called "profiles" for OAuth, which contribute a substantial number of additional features as well as vast simplification of the bloated (yet finally secure) authentication mechanism.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/wrap.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/wrap.png -->
 
 WRAP is currently in the very early stages of development as a protocol specification. But that doesn't mean that it's not gaining traction already, and beginning to make an impact.
 

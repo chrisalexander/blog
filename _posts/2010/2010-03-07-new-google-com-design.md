@@ -18,7 +18,7 @@ What is also interesting is where the old logo was in the antiquated GIF format,
 
 It may not seem that this makes too much difference - however serving 2 fewer kilobytes how many times Google serves their homepage is a considerable amount of load lifted off Google's networks and the internet.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/logos.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/logos.jpg -->
 
 ### Search Results Redesign
 
@@ -30,7 +30,7 @@ The top horizontal toolbar, which used to be blue and running across the entire 
 
 The logo has also been replaced and made larger.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/search_options.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/search_options.jpg -->
 
 ### More Optimisations
 
@@ -38,13 +38,13 @@ The code to render the page is slightly larger - by about 500 characters (this i
 
 There are other optimisations around the page. Where the old page used to use Webkit CSS gradients to render the gradients on the search buttons, they now use a background image taken from their CSS image sprite. This makes it slightly less efficient, but does allow non-Webkit browsers to render the gradients.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/buttons.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/buttons.jpg -->
 
 ### New Feel
 
 One of the first things that made me take notice of this change was that all the links of the page have changed tone - from a deep plain blue to a slightly lighter and paler tone. There's a comparison of the two shades on a larger scale below.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/colours.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/colours.jpg -->
 
 ### HTML 5
 
@@ -56,6 +56,6 @@ Looks like Google have been AB-testing small changes to the design of the site a
 
 Constantly searching for ways to keep users on Google rather than passing them off to other sites (they can show them more ads that way).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/homepage_comparison.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/homepage_comparison.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/results_comparison.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/results_comparison.jpg -->

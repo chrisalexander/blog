@@ -11,4 +11,4 @@ My 5-minute presentation ramble about SEO was hopefully useful in at least a lit
 
 As I said on the night (or at least I think I did), please don't take this as a magic potion to solve all your SEO woes overnight, because that will only end up with you unhappy, a lawsuit, expensive trials and me feeling the wrath of "SEO experts" all over the world...
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/zip.png" %} 
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/zip.png -->

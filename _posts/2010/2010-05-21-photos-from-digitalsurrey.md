@@ -14,15 +14,15 @@ Took a few pictures which I've added below.
 
  
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-19.21.24.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-19.21.24.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-19.42.57.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-19.42.57.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-19.43.24.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-19.43.24.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-19.43.30.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-19.43.30.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-20.04.05.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-20.04.05.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-22.32.45.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-20-22.32.45.jpg -->
 

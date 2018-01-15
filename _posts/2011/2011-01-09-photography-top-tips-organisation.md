@@ -12,4 +12,4 @@ But I have come across a cool feature of Windows Explorer that has helped me out
 
 Stay tuned for more photography top tips.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2011/01/pictures-300x145.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/01/pictures-300x145.png -->

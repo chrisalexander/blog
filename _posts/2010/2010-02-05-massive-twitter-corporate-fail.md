@@ -16,4 +16,4 @@ Kudos is due to Vodafone, however, who recovered by replying to *every single* c
 
 Managing that kind of situation is something that marketers and community managers are going to be facing in the future, and hopefully they can deal with it suitably.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/vodafone.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/vodafone.jpg -->

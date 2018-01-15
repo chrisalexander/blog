@@ -14,7 +14,7 @@ It is slow. It is ugly. It is not fit for purpose. It makes it incomprehensibly 
 
 I think the main problem is that iTunes was designed to be a music player. Over the years, the iTunes store, iPod syncing, iPad syncing, podcasts, books (Books?! In iTunes?!) apps, Genius, a social network (remember Ping? No, nobody else either), and various other things that should **never have existed in a media player** have been bolted on and it's become a bloated steaming pile of shit.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes.png -->
 
 If I copy a CD to my computer (as I do a lot, as I like buying CDs rather than digital downloads - but that's another blog post entirely), to get it on my phone (Galaxy Nexus, ICS) I do the following:
 
@@ -31,24 +31,24 @@ To get it on to my iPad / iPod:
 * Wait for it to add the files, with a popup box containing an unending progess bar, which stops me using iTunes for anything else at the time
 * Dismiss all the duplicate notifications. Note there's no skip all button if you accidentally try and replace in stuff you already have in the library - you have to click "Don't replace" every single time.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-replace.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-replace.png -->
 
 * Wait for it to load album artwork, which always ignores the existing downloaded album art and never seems to find the right album art.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-addfiles.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-addfiles.png -->
 
 * Go through each album without album art. Right click to find album art. Mostly this works, when it doesn't you have to find the art, copy it, right click on the album, hit Get Info, and then right click on the white square and paste the image in. Then press OK and wait for it to apply.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-artwork.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-artwork.png -->
 
 * Wait for it to analyse all of the tracks for gapless playback information, which seems to take an eternity. Pretty sure I also have that feature off.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-gapless.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-gapless.png -->
 
 * Plug in iPad / iPod. You can't choose what music goes on to the device until it is plugged in (WTF?). Clear warning about not having enough space. Take stuff off. Have too much space. Add stuff on.
 * Try and sync. Sync fails, not enough space. A mysterious 1.5GB of "Other" has randomly appeared. Remove stuff. Sync.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-shit.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/itunes-shit.png -->
 
 * Punch things.
 

@@ -18,7 +18,7 @@ It wouldn't be a student site without some deals!
 
 Check out the [software](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#software) and [discounts](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#discounts) pages on */student*.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/software.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/software.jpg -->
 
 ## Learning and Your Career
 
@@ -28,7 +28,7 @@ Not only that, but there's pages of help about getting started in your career. M
 
 Discover more on the [learning](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#learn) and [career](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#career) pages of */student*.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/learning.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/learning.jpg -->
 
 ## A Good Cause - Imagine Cup
 
@@ -36,7 +36,7 @@ Of course there is a section on */student* dedicated to the Imagine Cup. If you'
 
 There's more resources on the [Good Cause section](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#a-good-cause) to get you started with the competition.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/goodcause.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/goodcause.jpg -->
 
 ## Fun Stuff, Communities and International
 
@@ -46,10 +46,10 @@ There's also a whole load of [forums and communities](http://web.archive.org/web
 
 Finally, check out the [international pages](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#international) for student communities in your country, for example [this lot](https://web.archive.org/web/20110316045234/http://www.microsoft.com/uk/education/default.aspx) here in the UK.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/communities.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/communities.jpg -->
 
 ## Technology Students
 
 Finally, if you're really into your technology, [check out this page](http://web.archive.org/web/20110311181121/http://www.microsoft.com/student/en/us/default.aspx#Tech-Student) for more in-depth information on getting the most out of being a student with Microsoft. From Dreamspark to the Academic Alliance (all free software) and all kinds of other resources, it's your one-stop shop for finding everything you could possibly need.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/techstudent.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/techstudent.jpg -->

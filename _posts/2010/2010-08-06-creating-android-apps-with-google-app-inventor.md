@@ -10,7 +10,7 @@ categories: dev
 
 Earlier this month [Google announced App Inventor](http://mashable.com/2010/07/12/google-app-inventor/), an easy way for anyone to get started on building Android applications. Earlier this week I got myself an invite, and headed over to see what's what.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/logo.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/logo.png -->
 
 App Inventor is in its very early stages. It's a closed beta, with invites going out to people when Google have the capacity and find suitable people. This shows, as there are still some clunky parts and limitations that will have to be overcome before release, but other than that it seems like an excellent preview of what's to come.
 
@@ -24,24 +24,24 @@ Finally dumping the app on to your Android phone is pretty simple, but may requi
 
 Overall though, I think App Inventor will be a great tool for teaching programming and the students being able to see their results directly on their phones. With a bit more polish it will be great for amateurs to knock together a quick app to solve their given problem. I managed to knock together a rudimentary tweeting application in just a couple of minutes. Check out the screenshots of building it and running it on the phone below.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/start.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/start.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/button.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/button.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/block_canvas.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/block_canvas.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/twitter_login.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/twitter_login.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/full_twitter.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/full_twitter.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/full_twitter_blocks.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/full_twitter_blocks.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/STA60002.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/STA60002.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/STA60003.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/STA60003.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/STA60004.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/STA60004.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/STA60005.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/STA60005.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/logo.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/logo.png -->

@@ -16,7 +16,7 @@ Here is an overview of some great products and ideas that you can use and that a
 
 [Microsoft Hohm](http://www.microsoft-hohm.com/) is a free service available to all residences in the US, to enable families to quickly and easily estimate and improve the amount of energy they use at home.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/hohm.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/hohm.png -->
 
 By entering pieces of information on the website about how and when you use energy, Hohm can calculate the best and easiest ways for you to save energy (and therefore potentially a lot of money) based on what you are already doing.
 

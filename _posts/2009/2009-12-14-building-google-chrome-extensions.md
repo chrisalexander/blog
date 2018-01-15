@@ -6,7 +6,7 @@ categories: dev
 
 Yesterday afternoon while I was sitting at home, I realised I hadn't yet gotten around to trying out the [extensions](https://chrome.google.com/extensions) feature that has been recently released in the beta branch of [Google Chrome](http://www.google.com/chrome).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/chrome.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/chrome.png -->
 
 *Note: in order to enable extensions, you need to be on the dev branch, which you can install from [here](http://www.google.com/landing/chrome/beta/). If you're on a Mac/Linux, you probably already have the dev branch, but you will have to enable the extensions pages with instructions [here](https://grack.com/blog/2009/12/08/re-enable-install-button-for-mac-chrome-extensions/).*
 
@@ -62,6 +62,6 @@ This will bring up a file dialog, where you choose where your plugin's files are
 
 Here's a quick look at the plugin I concocted today. When you click it, it brings up the TweetMeme Retweet button for the page you are looking at, as well as showing the current top stories on TweetMeme for your viewing and retweeting pleasure.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/plugin.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/plugin.png -->
 
 *For more on developing Chrome Extensions, check out the [Google Chrome Extensions Labs](http://code.google.com/chrome/extensions/)*

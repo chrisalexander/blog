@@ -10,7 +10,7 @@ categories: movies
 
 Extra special treat for my birthday this year...
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/uhur.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/uhur.jpg -->
 
 {% include youtube.html id="mdgRx94W5ko" %}
 

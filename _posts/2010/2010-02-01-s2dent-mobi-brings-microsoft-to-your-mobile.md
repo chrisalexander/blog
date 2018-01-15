@@ -32,16 +32,16 @@ Catch up with the latest student news from Microsoft, and the latest posts on th
 
 Check out the gallery of photos from the site. This works on all your mobile devices, of course!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/IMG_0019.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/IMG_0019.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/IMG_0020.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/IMG_0020.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0007.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0007.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0008.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0008.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0009.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0009.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0010.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0010.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0011.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/Screenshot0011.jpg -->

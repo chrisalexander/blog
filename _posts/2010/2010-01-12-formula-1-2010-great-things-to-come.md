@@ -15,13 +15,13 @@ The rise of Brawn and Jenson Button; the fall of Ferrari, McLaren, and Renault; 
 
 Even before the season finale in Abu Dhabi, 2010 had a lot to live up to. But it looks like it may do that, and more.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/abudhabi.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/abudhabi.jpg -->
 
 So what is there to come?
 
 Only the return of Michael Schumacher. I think that's pretty epic on its own. Check out the BBC's [exclusive interview](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8428353.stm) with him about that.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/mclaren.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/mclaren.jpg -->
 
 There's been a lot of speculation on whether he will still be able to compete, whether he will win races or even the championship; personally I think it will be pretty exciting anyway. Jenson, Lewis, Fernando and Michael all on the same grid should lead to astounding racing.
 

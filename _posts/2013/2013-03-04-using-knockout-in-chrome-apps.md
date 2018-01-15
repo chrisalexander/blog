@@ -6,7 +6,7 @@ categories: google
 
 [Knockout](http://knockoutjs.com/) is probably my favourite JavaScript library. It saves me a huge amount of time in virtually every project I do, and is a perfect blend of flexibility and size.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/ko-logo-300x87.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/ko-logo-300x87.png -->
 
 I also love building Chrome Apps. Since I've got the Chromebook, even more so. However, security restrictions prevent the execution of the JavaScript eval() function, which prohibits Knockout from functioning in its default state.
 

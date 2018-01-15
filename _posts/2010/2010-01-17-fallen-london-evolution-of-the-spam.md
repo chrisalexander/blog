@@ -16,7 +16,7 @@ I'm not here to discuss the game, what it does, why as soon as you start playing
 
 I am here, however, to discuss the fine line between playing a game, sharing links, and spamming.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/fallenlondon.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/fallenlondon.jpg -->
 
 ## Optional Tweeting
 

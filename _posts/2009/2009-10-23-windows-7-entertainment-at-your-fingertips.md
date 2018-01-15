@@ -20,7 +20,7 @@ But what about when the work is all done and it's time to play? Windows 7 has so
 
 It started out with a bit of a tough life, but over the years Windows Media Centre has really evolved. It's now available as standard in Windows 7 Home Premium, with some excellent user interface enhancements to make it ideal if you want to hook your computer up to your TV and sit back and relax.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc1.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc1.png -->
 
 Check out the end of the post for some more pictures of the new Media Centre interface.
 
@@ -28,7 +28,7 @@ Check out the end of the post for some more pictures of the new Media Centre int
 
 Windows Media Centre allows your PC to act just like your DVR - browse channel schedules on-screen, and press one button to start or schedule recording, so you can watch, pause, rewind and replay TV in one go.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/pvr.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/pvr.png -->
 
 ## IPTV on your PC
 
@@ -42,13 +42,13 @@ On top of all of this, IPTV schedules will now be supported, and integrated with
 
 Here's one massive play on Microsoft's part - Media Centre now supports touch-screen navigation. So if you have one of these very nice Sony VAIO L-series computers, you can watch content in full HD and interact with the multi-touch display.
 
-[{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/vaiol.png" %}](https://web.archive.org/web/20110309080147/http://www.sony.co.uk/product/vd-l-series)
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/vaiol.png -->
 
 ## Better with Windows
 
 Media Centre has been enhanced to provide a much better user experience on the Windows 7 desktop. With the new Jump List functionality, you can quickly access new TV that you have recently recorded, as well as Frequently played items and more. Now there's a great reason to get an integrated TV card in your PC and start enjoying this media straight away.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/mc-pc.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/mc-pc.png -->
 
 ## Conclusions
 
@@ -58,6 +58,6 @@ A lot has changed in Media Centre with Windows 7 - from making it easier to get 
 
 Here are some shots of the new Media Centre interface (click for a larger version):
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc2-300x224.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc2-300x224.png -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc6-300x224.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc6-300x224.png -->

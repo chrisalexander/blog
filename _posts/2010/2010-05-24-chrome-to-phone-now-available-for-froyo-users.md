@@ -10,7 +10,7 @@ They showed off Froyo's data push system by having a Chrome extension, that when
 
 Now, you can go download the application to your phone, and install the Chrome extension, and everything just works!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/chrome5.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/chrome5.png -->
 
 The system uses a service built on the Google App Engine. The Chrome extension makes a request to that service, telling it what page you're viewing and what Google account you're logged in with.
 

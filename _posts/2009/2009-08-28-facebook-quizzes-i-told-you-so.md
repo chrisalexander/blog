@@ -12,6 +12,6 @@ After clicking through a few of the questions, it really was quite scary. During
 
  
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/f-b.PNG" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/f-b.PNG -->
 
 So what to do from here? Well the quizzes can't access information you don't display to your friends, so turning up the strictness of the privacy settings is probably a good idea. Then persuading your friends not to keep giving away your personal information is also a pretty good bet. I think Facebook should also demand some level of privacy policy from the developers too, before they're allowed access to your personal data.

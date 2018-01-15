@@ -10,7 +10,7 @@ categories: dev
 
 Since I got my [Chromebook](http://www.google.co.uk/intl/en/chrome/devices/landing-acer.html) (which I **adore**, by the way) I have been working on a few little coding projects for Chrome. Thanks to some early tomfoolery with their Packaged Apps examples, I have been able to develop the packaged apps on the Chromebook itself.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/acer-300x212.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/acer-300x212.jpg -->
 
 There are a couple of problems with this. The less serious is that the files app on Chrome OS still leaves a little bit to be desired - it looks like its model of the filesystem is updated asynchronously, and sometimes it just can't keep up with basic file actions.
 

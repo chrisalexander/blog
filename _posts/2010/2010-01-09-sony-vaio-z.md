@@ -10,11 +10,11 @@ categories: hardware
 
 Yesterday at the Consumer Electronics Show (CES) in Las Vegas, Sony released this very very nice preview video for the even nicer Sony Vaio Z.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/vaioz.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/vaioz.jpg -->
 
 Some of the features include backlit keyboard, nVidia graphics, a "Dynamic Hybrid Graphics System" (whatever one of those is), built in webcam, a rumoured 4 SSDs in RAID, Windows 7, Core i5 Processor, some really nice brushed metal and presumably a hefty price tag.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/graphicshybrid.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/graphicshybrid.jpg -->
 
 Check out the video embedded below. I could be very tempted by one of these, but as with all things Sony, put off by the price tag.
 

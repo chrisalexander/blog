@@ -20,7 +20,7 @@ Along came the internet behemoths; CompuServe, Prodigy, (discreetly shifting fow
 
 Web content was a very one-way flow, with the general user being unable to fight this torrential content river; this marked Web 1.0.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/aol.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/aol.png -->
 
 ### Web 1.5: Search
 
@@ -28,7 +28,7 @@ Finally, users were given a way to filter out the ocean of content, spam, advert
 
 From the very early stages, search was always going to be massive. Did Larry and Sergey know what they were getting themselves in to?
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/search.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/search.png -->
 
 ## Web 2.0: User Content Reigns
 
@@ -38,7 +38,7 @@ With the birth of blogging, users were finally given a tool to contribute conten
 
 Then came Wikis, photo blogging, video blogging, life blogging, micro blogging and social networks, and suddenly there was more content than anyone could ever know what to do with.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/users.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/users.png -->
 
 ### Web 2.1: The Mobile Web
 
@@ -48,7 +48,7 @@ With the advances in mobile phones, 2G and 3G data networks, and innovators fina
 
 This isn't just down to the iPhone of course; there was a thriving (although pretty expensive) mobile internet uptake before that. Now with mobile internet expected as standard on tariffs, and consumers expecting the phones to be able to handle it too, it is foolish of large websites not to provide a mobile version optimised for devices on the go.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/phone.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/phone.png -->
 
 ### Web 2.2: Realtime
 
@@ -56,7 +56,7 @@ The way it used to work was you wrote a blog post, and then eventually people fo
 
 With content made available in near real-time on Facebook, Twitter, and most notably FriendFeed (the true innovators here, let's not forget), it brought a whole new dimension to the social web.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/realtime.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/realtime.png -->
 
 ## Where Next?
 
@@ -72,7 +72,7 @@ Twitter have geolocation built-in to every tweet; Foursquare and Gowalla (two so
 
 Combine the real-time developments of the past couple of years with this targeting to where the user is right then, and you have a potent mix for providing some superbly targeted content (and advertising).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/location.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/location.png -->
 
 ### Web 3.0: Data and Nodes
 
@@ -88,11 +88,11 @@ Here's a couple of sample applications to clarify:
 
 The Road Network: Bringing a new meaning to "road network", imagine if all the cars on a motorway were networked together through a peer-to-peer configuration. Bandwidth would be spread across the locally available nodes, and alerts for accidents would propagate instantly, rather than the hours it can take via LED signs and radio stations.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/motorway.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/motorway.png -->
 
 Cheap, distributed nodes: Imagine if each traffic light had a small node attached to it with a couple of sensors and a mid-range data connection. The nodes would be able to report information when queried, as well as form a peer to peer network to enable communication across the network.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/street.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/street.png -->
 
 What's the point though? Aren't we doing this already?
 

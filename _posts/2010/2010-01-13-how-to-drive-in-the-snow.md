@@ -18,9 +18,9 @@ So here are some top tips to make sure that you don't cause a problem, and that 
 
 A smart car is not the right car for heavy snow. A land rover is. End of.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/landrover.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/landrover.jpg -->
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/smartcar.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/smartcar.jpg -->
 
 ## Low Revs, No Spinning
 

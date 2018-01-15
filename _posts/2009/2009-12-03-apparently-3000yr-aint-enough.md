@@ -20,7 +20,7 @@ I would've deleted this E-Mail in seconds and not given it a further moments tho
 
 The result has been a very negative view of the module in question by me and many other students, who resent paying tuition fees at the best of times. And who certainly resent being forced to purchase expensive university texts, when so many other free options exist.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/exam-300x200.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/exam-300x200.jpg -->
 
 As noted by Chris in an earlier post of his (click to read) (#729), a very viable option would be to furnish the library with the required number of books. I know this module has 170+ students enrolled, and one could argue the point of: ‘that's too many books to store'. However I think room could be found, after all surely no-one in the loop would expect money to change hands?
 
@@ -28,7 +28,7 @@ As noted by Chris in an earlier post of his (click to read) (#729), a very viabl
 
 There is a final point that magnifies my disgust at this whole experience, firstly some background; The content of this module loosely focuses on the ethics of technology and as a result, during a lecture on copyrighting, the lecturer made extensive reference to Google Books. Now, you'll never guess what... well, you probably will guess what: the book "required" for this module is available on Google Books itself.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/pileofbooks-293x300.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/pileofbooks-293x300.png -->
 
 Admittedly, not in its complete form, but the bulk of the information is largely intact, and available for free. I do somewhat boggle at the audacity of a person who would not mention the availability of their works through a free and legal (at time of writing) online resource, to a group of students.
 

@@ -10,4 +10,4 @@ Obviously I am well aware of Math.random(), but you can use the API on [random.o
 
 The plugin is hosted over [on github](https://github.com/chrisalexander/random.jquery.js), you can view the [readme](https://github.com/chrisalexander/random.jquery.js/blob/master/README.md) for all of the documentation.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/js-300x271.jpg" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/js-300x271.jpg -->

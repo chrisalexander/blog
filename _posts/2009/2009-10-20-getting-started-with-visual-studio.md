@@ -12,4 +12,4 @@ If you're interested in Windows development but don't know where to start, or yo
 
 Let me know any feedback and how you get on in the comments!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/word.png" %}
+<!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/word.png -->
