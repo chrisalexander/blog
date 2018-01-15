@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Happy Sysadmin Day!'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/win.jpg
- showonpage: false
- hassmall: false
- inverted: true
 categories: life
 ---
 

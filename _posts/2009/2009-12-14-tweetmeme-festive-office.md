@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'TweetMeme Festive Office'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/IMG_0073-300x225.jpg
-  hassmall: false
-  showonpage: false
 categories: favorit
 ---
 

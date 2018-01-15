@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'FIA face scrutiny following first F1 race of 2010'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/alonso.jpg
-  hassmall: false
-  showonpage: false
 categories: formula-1
 ---
 

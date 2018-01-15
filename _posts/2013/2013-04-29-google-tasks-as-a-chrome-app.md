@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Google Tasks as a Chrome app'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/screenshot-300x187.jpg
-  hassmall: false
-  showonpage: false
 categories: google
 ---
 

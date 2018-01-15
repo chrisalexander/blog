@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'A Guided Tour of London'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120707_1639361.jpg
-  hassmall: false
-  position: top right
 categories: london
 ---
 

@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Imagine Cup: Highlights of Egypt'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/cairo1.jpg
-  hassmall: false
-  position: top right
-  inverted: true
 categories: microsoft
 ---
 

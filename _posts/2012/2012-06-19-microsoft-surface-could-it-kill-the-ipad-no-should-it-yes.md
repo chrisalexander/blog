@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Microsoft Surface - Could it kill the iPad? No. Should it? Yes.'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/06/surface1.jpg
- hassmall: false
- showonpage: false
- inverted: true
 categories: microsoft
 ---
 

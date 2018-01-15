@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: iPad Problems
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/02/photo-1.png
-  hassmall: false
-  showonpage: false
 categories: ['apple', 'ipad']
 ---
 

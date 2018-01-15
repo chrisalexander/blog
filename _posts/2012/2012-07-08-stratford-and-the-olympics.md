@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Stratford and the Olympics'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120708_1435065.jpg
-  hassmall: false
-  showonpage: false
 categories: formula-1
 ---
 

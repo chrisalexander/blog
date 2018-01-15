@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: '#WP7 App Review: ParcelGenie'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/parcelgenie2.jpg
-  hassmall: false
-  showonpage: false
 categories: microsoft
 ---
 

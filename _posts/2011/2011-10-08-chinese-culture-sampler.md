@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Chinese culture sampler'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/10/zhang.jpg
-  showonpage: false
-  hassmall: false
 categories: video
 ---
 

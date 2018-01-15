@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Kinect: The Unboxing'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/11/IMG_20101110_173019.jpg
- hassmall: false
- showonpage: false
 categories: microsoft
 ---
 

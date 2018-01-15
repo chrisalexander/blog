@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Couch DB Workshop Pictures'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/06/IMG_20100526_182609.jpg
- hassmall: false
- position: top
 categories: huddle
 ---
 

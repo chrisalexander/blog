@@ -2,10 +2,6 @@
 layout: post
 heading: 'Google Hotpot'
 subheading: 'Local ratings with a tasty interface'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/11/hotpot.png
-  hassmall: false
-  showonpage: false
 categories: software
 ---
 

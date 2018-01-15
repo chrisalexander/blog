@@ -2,11 +2,6 @@
 layout: post
 heading: 'Froyo Is Upon Us'
 subheading: 'A Look At Android 2.2'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/nexus.jpg
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: google
 ---
 

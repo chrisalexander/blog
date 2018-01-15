@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Nokia N900 Hands On'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100707_193505.jpg
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: hardware
 ---
 

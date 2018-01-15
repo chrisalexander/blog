@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'University of Reading Photo Portfolio'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60053.jpg
-  hassmall: false
-  position: bottom
-  inverted: true
 categories: uni
 ---
 

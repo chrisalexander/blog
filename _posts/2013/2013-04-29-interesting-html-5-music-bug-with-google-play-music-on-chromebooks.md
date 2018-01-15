@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Interesting HTML 5 music bug with Google Play Music on Chromebooks'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/Screenshot-2013-04-29-at-15.14.06-300x234.png
- hassmall: false
- showonpage: false
 categories: google
 ---
 

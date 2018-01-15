@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Google Chrome, HTML 5 and the Google Technology User Group'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/4442202168_ca17560783_b.jpg
-  hassmall: false
-  position: bottom
 categories: google
 ---
 

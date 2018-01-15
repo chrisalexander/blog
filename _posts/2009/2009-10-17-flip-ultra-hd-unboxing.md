@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Flip Ultra HD Unboxing'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/STA60014a.jpg
-  hassmall: false
-  showonpage: false
 categories: projects
 ---
 

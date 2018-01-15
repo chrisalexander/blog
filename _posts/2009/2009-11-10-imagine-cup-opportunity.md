@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Imagine Cup: Opportunity'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/pyramid.jpg
-  hassmall: false
-  position: top
 categories: microsoft
 ---
 

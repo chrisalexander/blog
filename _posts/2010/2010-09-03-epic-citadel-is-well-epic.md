@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Epic Citadel is, well, epic'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/09/citadel-2.png
-  hassmall: false
-  inverted: true
 categories: life
 ---
 

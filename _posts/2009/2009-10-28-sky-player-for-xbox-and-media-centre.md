@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Sky Player for Xbox and Media Centre'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/sky1.PNG
-  hassmall: false
-  showonpage: false
 categories: microsoft
 ---
 

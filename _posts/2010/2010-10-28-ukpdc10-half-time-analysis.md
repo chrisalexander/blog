@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: '#ukpdc10 Half-Time Analysis'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101028_211908.jpg
-  hassmall: false
-  showonpage: false
 categories: dev
 ---
 

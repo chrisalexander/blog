@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Formula 1 BBC TV scheduling calendar'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/MP4-27_Front-3-4-small.jpg
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: formula-1
 ---
 

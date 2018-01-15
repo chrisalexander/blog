@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Cyborg unleash RAT 9 gaming mouse'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/rat9.png
-  hassmall: false
-  position: top
-  inverted: true
 categories: hardware
 ---
 

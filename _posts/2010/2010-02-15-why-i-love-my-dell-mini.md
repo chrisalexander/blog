@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Why I love my Dell Mini'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/work.jpg
-  hassmall: false
-  showonpage: false
 categories: microsoft
 ---
 

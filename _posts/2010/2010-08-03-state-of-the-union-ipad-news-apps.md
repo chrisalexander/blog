@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'State of the Union: iPad News Apps'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/p_1024_768_38869509-3F95-48E9-A844-1428D3154C25.jpeg
-  hassmall: false
-  showonpage: false
 categories: news
 ---
 

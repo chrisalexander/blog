@@ -1,9 +1,6 @@
 ---
 layout: post
 heading: 'Moo ShowCase: Unboxing'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/10/IMG_20101021_072424.jpg
- hassmall: false
 categories: life
 ---
 

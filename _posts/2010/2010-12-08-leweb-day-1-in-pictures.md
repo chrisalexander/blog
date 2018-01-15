@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'LeWeb Day 1 in pictures'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/12/wpid-IMG_20101208_090141.jpg
-  hassmall: false
-  position: bottom
 categories: life
 ---
 

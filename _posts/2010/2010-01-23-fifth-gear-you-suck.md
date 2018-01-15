@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Fifth Gear, You Suck!'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/lambo.jpg
-  hassmall: false
-  showonpage: false
 categories: life
 ---
 

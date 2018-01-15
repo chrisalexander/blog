@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Una and the Balkan Bears Live'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/IMG_20100713_205258.jpg
-  hassmall: false
-  inverted: true
 categories: life
 ---
 

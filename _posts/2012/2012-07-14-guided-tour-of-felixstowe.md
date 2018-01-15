@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Guided tour of Felixstowe'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120714_1416051.jpg
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: life
 ---
 

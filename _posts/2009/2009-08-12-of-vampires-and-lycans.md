@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Of Vampires and Lycans'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/08/beckinsale.jpg
-  hassmall: false
-  showonpage: false
 categories: life
 ---
 

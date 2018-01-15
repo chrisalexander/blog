@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'F1 tech primers by Craig Scarborough'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/wpid-tb_688x500_Gocar_2012_large1.jpg
-  hassmall: false
-  position: top
 categories: life
 ---
 

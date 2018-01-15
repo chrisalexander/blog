@@ -2,11 +2,6 @@
 layout: post
 heading: 'Windows 7'
 subheading: 'Entertainment at your fingertips'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wmc1.png
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: life
 ---
 

@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'On the Austin GP'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/f1.jpg
-  hassmall: false
-  inverted: true
-  position: bottom right
 categories: formula-1
 ---
 

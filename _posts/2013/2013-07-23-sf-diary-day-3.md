@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'SF Diary: Day 3'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/07/IMG_20130723_082329.jpg
- hassmall: false
- position: top left
- inverted: true
 categories: startups
 ---
 

@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Back to Uni? Win an Experience Day for 2'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/mice2.png
-  hassmall: false
-  showonpage: false
 categories: uni
 ---
 

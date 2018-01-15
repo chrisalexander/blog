@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'iPad: 24 hours in'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/ipad.jpg
-  hassmall: false
-  showonpage: false
 categories: hardware
 ---
 

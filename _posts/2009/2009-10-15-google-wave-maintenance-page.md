@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Google Wave Maintenance Page'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/wave-maintenance.PNG
-  hassmall: false
-  showonpage: false
 categories: dev
 ---
 

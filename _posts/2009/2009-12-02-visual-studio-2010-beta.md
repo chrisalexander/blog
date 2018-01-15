@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Visual Studio 2010 Beta'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/logo1.jpg
-  hassmall: false
-  showonpage: false
 categories: dev
 ---
 

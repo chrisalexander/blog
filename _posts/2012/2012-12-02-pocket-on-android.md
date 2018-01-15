@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: Pocket on Android
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/12/wpid-Screenshot_2012-12-02-09-08-38.png
-  hassmall: false
-  showonpage: false
 categories: ['google', 'android']
 ---
 

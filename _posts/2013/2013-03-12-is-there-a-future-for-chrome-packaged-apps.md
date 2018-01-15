@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Is there a future for Chrome packaged apps?'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/acer-300x212.jpg
- hassmall: false
- showonpage: false
 categories: dev
 ---
 

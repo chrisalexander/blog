@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Sony Ericsson announces new addition to the Xperia family'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/08/xperia.jpg
- hassmall: false
- showonpage: false
 categories: life
 ---
 

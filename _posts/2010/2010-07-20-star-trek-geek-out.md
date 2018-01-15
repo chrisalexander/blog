@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Star Trek geek-out'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/07/p_1763_1248_28EDE955-F6B1-49A6-BECD-D9ED6EFD39C6.jpeg
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: life
 ---
 

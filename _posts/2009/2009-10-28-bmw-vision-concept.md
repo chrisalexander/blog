@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'BMW Vision Concept'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/bmw1.jpg
-  hassmall: false
-  position: top
 categories: life
 ---
 

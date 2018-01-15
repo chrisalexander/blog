@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'New Star Trek movie'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/uhur.jpg
-  hassmall: false
-  showonpage: false
 categories: movies
 ---
 

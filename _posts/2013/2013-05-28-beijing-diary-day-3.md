@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Beijing Diary: Day 3'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-PANO_20130528_185932.jpg
-  hassmall: false
-  position: top
 categories: china
 ---
 

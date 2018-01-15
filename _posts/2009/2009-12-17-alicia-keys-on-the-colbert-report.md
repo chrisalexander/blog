@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Alicia Keys on the Colbert Report'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/keys.png
-  hassmall: false
-  showonpage: false
 categories: life
 ---
 

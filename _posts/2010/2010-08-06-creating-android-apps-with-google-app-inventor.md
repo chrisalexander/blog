@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Creating Android Apps with Google App Inventor'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/start.png
-  hassmall: false
-  showonpage: false
 categories: dev
 ---
 

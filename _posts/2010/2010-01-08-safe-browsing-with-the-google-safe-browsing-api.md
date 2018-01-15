@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Safe Browsing with the Google Safe Browsing API'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/malware.png
-  hassmall: false
-  position: bottom right
-  inverted: true
 categories: dev
 ---
 

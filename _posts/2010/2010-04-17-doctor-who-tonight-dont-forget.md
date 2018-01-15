@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Doctor Who tonight'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/karengillan.png
-  hassmall: false
-  hidetext: true
-  position: bottom
 categories: life
 ---
 

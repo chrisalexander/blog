@@ -1,10 +1,7 @@
 ---
 layout: post
 heading: 'Felixstowe Beach'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120715_0927223.jpg
-  hassmall: false
-  position: bottom
+leader:Kom
 categories: life
 ---
 

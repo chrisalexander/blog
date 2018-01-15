@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'A Message To Tech Journos Who Cover Twitter'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/fail-whale.png
-  hassmall: false
-  showonpage: false
 categories: news
 ---
 

@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Google Wave for Collaborative Writing'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/google_wave_logo.jpg
-  hassmall: false
-  showonpage: false
 categories: projects
 ---
 

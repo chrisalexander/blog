@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Chromebooks and train wifi'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/04/Screenshot-2013-04-14-at-17.34.48-300x170.png
- hassmall: false
- showonpage: false
 categories: google
 ---
 

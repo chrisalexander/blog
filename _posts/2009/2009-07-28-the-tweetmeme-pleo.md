@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'The Tweetmeme Pleo'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/07/24072009-300x225.jpg
-  hassmall: false
-  showonpage: false
 categories: life
 ---
 

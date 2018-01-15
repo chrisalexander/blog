@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Beijing Diary: Day 4'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-照片.jpg
-  hassmall: false
-  inverted: true
-  position: top
 categories: china
 ---
 

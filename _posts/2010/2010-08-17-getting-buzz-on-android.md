@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Getting Buzz on Android'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/08/seesmic.png
-  hassmall: false
-  showonpage: false
 categories: mobile
 ---
 

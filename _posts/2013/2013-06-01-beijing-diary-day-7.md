@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Beijing Diary: Day 7'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/06/wpid-IMG_20130601_143902.jpg
-  hassmall: false
-  position: bottom right
-  inverted: true
 categories: china
 ---
 

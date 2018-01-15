@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'An introduction to ARNIE: technical overview'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/arnie_nude.jpg
-  hassmall: false
-  showonpage: false
 categories: uni
 ---
 

@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Achievement Unlocked: Obtain beautiful wife'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/Wedding2.png
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: life
 ---
 

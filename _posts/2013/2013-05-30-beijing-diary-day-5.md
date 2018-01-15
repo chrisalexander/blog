@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Beijing Diary: Day 5'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2013/05/wpid-IMG_20130530_131317.jpg
-  showonpage: false
-  hassmall: false
 categories: china
 ---
 

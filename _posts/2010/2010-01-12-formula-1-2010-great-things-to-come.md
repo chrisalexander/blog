@@ -2,10 +2,6 @@
 layout: post
 heading: 'Formula 1 2010'
 subheading: 'Great things to come?'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/12/bmw.jpg
-  hassmall: false
-  position: top
 categories: life
 ---
 

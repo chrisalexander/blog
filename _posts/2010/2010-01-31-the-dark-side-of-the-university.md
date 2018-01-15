@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'The Dark Side Of The University'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/STA60091.jpg
- hassmall: false
- position: bottom
- inverted: true
 categories: uni
 ---
 

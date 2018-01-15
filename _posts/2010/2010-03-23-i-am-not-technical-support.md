@@ -1,9 +1,6 @@
 ---
 layout: post
 heading: 'I Am Not Technical Support'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/03/pebkac3.jpg
-  hassmall: false
 categories: dev
 ---
 

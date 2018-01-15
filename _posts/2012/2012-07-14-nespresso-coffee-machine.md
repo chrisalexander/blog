@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Nespresso coffee machine'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-IMG_20120711_1605251.jpg
-  hassmall: false
-  position: bottom right
 categories: life
 ---
 

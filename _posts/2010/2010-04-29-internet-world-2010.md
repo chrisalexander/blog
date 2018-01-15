@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Internet World 2010'
-leader:
- image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/2010-04-28-16.09.12.jpg
- hassmall: false
- inverted: true
 categories: dev
 ---
 

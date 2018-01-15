@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: '#UKSnow still grips Reading'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/photo2.jpg
-  hassmall: false
-  position: top
 categories: life
 ---
 

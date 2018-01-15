@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Sony Vaio Z'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/vaioz.jpg
-  hassmall: false
-  showonpage: false
 categories: hardware
 ---
 

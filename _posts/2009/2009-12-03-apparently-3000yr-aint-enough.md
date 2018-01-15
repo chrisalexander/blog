@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Apparently £3000/yr aint enough'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/exam-300x200.jpg
-  hassmall: false
-  showonpage: false
 categories: uni
 ---
 

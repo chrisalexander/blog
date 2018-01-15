@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Internet Marketing: doing it... right!'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/meerkat.jpg
-  hassmall: false
-  showonpage: false
 categories: social
 ---
 

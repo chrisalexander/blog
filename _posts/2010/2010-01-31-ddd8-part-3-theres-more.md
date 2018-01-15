@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: '#ddd8 Part 3 - More!'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/01/30012010006.jpg
-  hassmall: false
-  showonpage: false
 categories: life
 ---
 

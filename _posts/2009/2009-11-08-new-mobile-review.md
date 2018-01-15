@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'New Mobile! Review'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/11/1680.jpg
-  hassmall: false
-  showonpage: false
 categories: life
 ---
 

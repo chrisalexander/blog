@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Google Earth In Surround'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/04/2010-04-01-18.07.28.jpg
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: google
 ---
 

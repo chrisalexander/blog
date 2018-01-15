@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'Joggler: The Unboxing'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/05/wpid-2010-05-17-16.25.43.jpg
-  hassmall: false
-  showonpage: false
 categories: projects
 ---
 

@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Illogical iPad'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/wpid-ipad-3-concept.png
-  hassmall: false
-  inverted: true
-  position: top
 categories: life
 ---
 

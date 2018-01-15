@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Windows 7 for Students'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/win7-icon-medium.png
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: uni
 ---
 

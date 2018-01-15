@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'The Maybush Inn, Waldringfield'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/07/wpid-PANO_20120714_2059201.jpg
-  hassmall: false
-  position: bottom right
-  inverted: true
 categories: life
 ---
 

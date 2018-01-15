@@ -2,10 +2,6 @@
 layout: post
 heading: 'Google SXSW Robot Rumble'
 subheading: 'Victory!'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2012/03/robot1.jpg
-  hassmall: false
-  position: top right
 categories: robots
 ---
 

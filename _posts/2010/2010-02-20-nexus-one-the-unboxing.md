@@ -1,9 +1,6 @@
 ---
 layout: post
 heading: 'Nexus One: The Unboxing'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/nexus2.jpg
-  hassmall: false
 categories: life
 ---
 

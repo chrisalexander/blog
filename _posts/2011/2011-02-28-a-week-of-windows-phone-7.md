@@ -1,10 +1,6 @@
 ---
 layout: post
 heading: 'A week of Windows Phone 7'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/02/trophy.jpg
-  hassmall: false
-  showonpage: false
 categories: mobile
 ---
 

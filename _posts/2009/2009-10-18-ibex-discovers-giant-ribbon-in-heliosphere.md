@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'IBEX Discovers Giant Ribbon In Heliosphere'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/solarsystem.png
-  hassmall: false
-  position: bottom
-  inverted: true
 categories: video
 ---
 

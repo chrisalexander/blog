@@ -1,11 +1,6 @@
 ---
 layout: post
 heading: 'Transformers: Dark of the Moon review'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2011/07/rosie-huntingdon-whiteley4.jpg
-  hassmall: false
-  position: bottom right
-  showonpage: false
 categories: films
 ---
 

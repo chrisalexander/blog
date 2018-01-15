@@ -2,11 +2,6 @@
 layout: post
 heading: 'Dell Adamo XPS'
 subheading: 'One to watch out for (and crave)'
-leader:
-  image: http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/adamo-xps.jpg
-  hassmall: false
-  showonpage: false
-  inverted: true
 categories: hardware
 ---
 
