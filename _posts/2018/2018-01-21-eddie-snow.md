@@ -22,4 +22,4 @@ We then took him for a shower at the pet shop, which he enjoyed - slightly more 
 
 Then he got some cheese when he got home, and promptedly refused to leave me alone for a long time!
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/eddie-snow/cheese.jpg" %}
+{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/eddie-snow/kitchen.jpg" %}
