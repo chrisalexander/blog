@@ -15,7 +15,7 @@ James mentioned that he has another talk coming up on the subject, and the detai
 
 **Time:** 7pm for a 7.30pm start
 
-Full details and blurb [on the IET site](http://www.theiet.org/local/uk/thames/berks/ec3270111.cfm).
+Full details and blurb [on the IET site](https://web.archive.org/web/20101214171953/http://www.theiet.org/local/uk/thames/berks/ec3270111.cfm).
 
 There will probably be drinks and light nibbles beforehand so worth turning up for a nice chat at 7. This event is organised by the IET, and is free to attend and you don't need to register.
 

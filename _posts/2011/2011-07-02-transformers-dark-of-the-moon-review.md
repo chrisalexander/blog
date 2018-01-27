@@ -4,7 +4,7 @@ heading: 'Transformers: Dark of the Moon review'
 categories: films
 ---
 
-*This post contains spoilers and gratuitous use of images of Rosie Huntington-Whitely, which is justified towards the end (I promise).*
+<!--*This post contains spoilers and gratuitous use of images of Rosie Huntington-Whitely, which is justified towards the end (I promise).*-->
 
 Transformers: Dark of the Moon starts off on the wrong foot. Attempting to hijack the moon landing to tell a false story is dubious at best, but misleading on some of the core facts is quite unforgivable. For example, while it is true the Moon has a "dark" and a "light" side, the same areas of the Moon are in perpetual respective light and darkness due to the curious coincidence that the Moon rotates with the same period that it orbits the Earth. The net result is that the Moon always presents the same "face" to the Earth. Additionally, Apollo 11 landed on the Sea of Tranquillity, which is nowhere near the dark side - it is basically impossible that the Apollo 11 astronauts could have made such a journey.
 
@@ -34,4 +34,4 @@ I did like the two little robots though, they were pretty fun.
 
 <!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2011/07/rosie-huntingdon-whiteley1.jpg -->
 
-[(Slightly less appropriately cropped version)](http://media.chris-alexander.co.uk/wp-content/uploads/2011/07/rosie-huntingdon-whiteley1a.jpg)
+<!-- [(Slightly less appropriately cropped version)](http://media.chris-alexander.co.uk/wp-content/uploads/2011/07/rosie-huntingdon-whiteley1a.jpg) -->

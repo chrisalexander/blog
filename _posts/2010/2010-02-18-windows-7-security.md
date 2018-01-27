@@ -10,7 +10,7 @@ That is the only reason, I can guess, for them to be going to the harsh marketin
 
 Of course, any extra protection is recommended; but in this case I think there is something that can outdo AVG and their irresponsible advertising campaign.
 
-[Microsoft Security Essentials](http://www.microsoft.com/Security_Essentials/) is a virus and malware scanner from Microsoft, built to work seamlessly with Windows XP, Vista and Windows 7.
+[Microsoft Security Essentials](https://web.archive.org/web/20100107005928/http://www.microsoft.com/Security_Essentials/) is a virus and malware scanner from Microsoft, built to work seamlessly with Windows XP, Vista and Windows 7.
 
 It's a comprehensive package that's available totally free and with no nagging advertising to users of genuine versions of Windows. You can download it today from the [Security Essentials site](http://www.microsoft.com/Security_Essentials/), and there are some screenshots posted below.
 

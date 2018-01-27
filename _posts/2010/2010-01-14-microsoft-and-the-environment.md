@@ -30,7 +30,7 @@ Microsoft have produced a [comprehensive overview](http://web.archive.org/web/20
 
 These include using virtualisation to improve the use of existing resources, improving datacentre quality through compliance with the relevant standards, and reducing costs and fostering innovation through the use of competitive bidding for contracts.
 
-You may remember last year [Microsoft announced its Chicago datacentre](http://www.microsoft.com/video/en/us/details/bafe5c0f-8651-4609-8c71-24c733ce628b), consisting of a large number of containers housing thousands of servers each; this represents part of this initiative.
+You may remember last year [Microsoft announced its Chicago datacentre](https://web.archive.org/web/20100105072437/http://www.microsoft.com/video/en/us/details/bafe5c0f-8651-4609-8c71-24c733ce628b), consisting of a large number of containers housing thousands of servers each; this represents part of this initiative.
 
 # Savings for the Consumer
 

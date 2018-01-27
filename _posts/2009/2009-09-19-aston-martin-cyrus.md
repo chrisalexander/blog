@@ -14,4 +14,4 @@ Pity about the choice of colour on the inside, I think I would rather have somet
 
 <!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/09/cyrus-inside.jpg -->
 
-You can check out the full [Autoblog gallery](http://www.autoblog.com/gallery/frankfurt-2009-mansory-cyrus-aston-martin-db9/full/) from Frankfurt, and [read some more](http://www.motorward.com/2009/09/aston-martin-cyrus-by-mansory/) on the Cyrus.
+You can check out the full [Autoblog gallery](https://web.archive.org/web/20090922192117/http://www.autoblog.com/gallery/frankfurt-2009-mansory-cyrus-aston-martin-db9/full/) from Frankfurt, and [read some more](http://www.motorward.com/2009/09/aston-martin-cyrus-by-mansory/) on the Cyrus.

@@ -4,7 +4,7 @@ heading: 'Is there a future for Chrome packaged apps?'
 categories: dev
 ---
 
-Since I got my [Chromebook](http://www.google.co.uk/intl/en/chrome/devices/landing-acer.html) (which I **adore**, by the way) I have been working on a few little coding projects for Chrome. Thanks to some early tomfoolery with their Packaged Apps examples, I have been able to develop the packaged apps on the Chromebook itself.
+Since I got my [Chromebook](https://web.archive.org/web/20170224015057/http://www.google.co.uk/intl/en/chrome/devices/landing-acer.html) (which I **adore**, by the way) I have been working on a few little coding projects for Chrome. Thanks to some early tomfoolery with their Packaged Apps examples, I have been able to develop the packaged apps on the Chromebook itself.
 
 <!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2013/03/acer-300x212.jpg -->
 
