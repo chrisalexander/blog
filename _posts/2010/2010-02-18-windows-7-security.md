@@ -12,7 +12,7 @@ Of course, any extra protection is recommended; but in this case I think there i
 
 [Microsoft Security Essentials](https://web.archive.org/web/20100107005928/http://www.microsoft.com/Security_Essentials/) is a virus and malware scanner from Microsoft, built to work seamlessly with Windows XP, Vista and Windows 7.
 
-It's a comprehensive package that's available totally free and with no nagging advertising to users of genuine versions of Windows. You can download it today from the [Security Essentials site](http://www.microsoft.com/Security_Essentials/), and there are some screenshots posted below.
+It's a comprehensive package that's available totally free and with no nagging advertising to users of genuine versions of Windows. You can download it today from the [Security Essentials site](https://web.archive.org/web/20100107005928/http://www.microsoft.com/Security_Essentials/), and there are some screenshots posted below.
 
 <!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2010/02/securityessentials1.jpg -->
 
