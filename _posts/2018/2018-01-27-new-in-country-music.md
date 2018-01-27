@@ -2,9 +2,10 @@
 layout: post
 heading: 'New in country music'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/country/kb.jpg
+ image: http://media.chris-alexander.co.uk/pictures/country/g.jpg
  hassmall: false
- showonpage: true
+ showonpage: false
+ inverted: true
 categories: music
 ---
 
