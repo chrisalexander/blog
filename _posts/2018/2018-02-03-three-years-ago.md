@@ -5,6 +5,7 @@ leader:
  image: http://media.chris-alexander.co.uk/pictures/f1-testing/straight.jpg
  hassmall: false
  showonpage: true
+ inverted: true
 categories: f1
 ---
 
