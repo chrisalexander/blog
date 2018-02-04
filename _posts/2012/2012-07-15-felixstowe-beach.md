@@ -1,7 +1,6 @@
 ---
 layout: post
 heading: 'Felixstowe Beach'
-leader:Kom
 categories: life
 ---
 
