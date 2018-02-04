@@ -4,7 +4,7 @@ heading: 'Getting Started with Agile Development'
 categories: dev
 ---
 
-I [recently wrote](/on-engineering/microsoft/team-foundation-server-for-students/) about how students can make use of [Team Foundation Server](https://msdn.microsoft.com/en-us/teamsystem/dd408382.aspx) to improve management of their projects, include version control, and generate reports suitable for their assignments.
+I [recently wrote](/on-engineering/microsoft/team-foundation-server-for-students/) about how students can make use of [Team Foundation Server](https://web.archive.org/web/20100106140357/https://msdn.microsoft.com/en-us/teamsystem/dd408382.aspx) to improve management of their projects, include version control, and generate reports suitable for their assignments.
 
 You may have also covered various development approaches in your courses at University - and you may have heard approaches like "waterfall", "agile", "scrum" and more being batted around - I did and I had no idea what they were on about. After a total of 2 years working in 2 startups ([Huddle](http://huddle.net) and [TweetMeme](http://tweetmeme.com)) its all starting to make a lot more sense. But without that practical experience, I would have had no idea what these terms meant and what it was like to apply them.
 

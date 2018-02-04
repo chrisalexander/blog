@@ -4,7 +4,7 @@ heading: 'Analysing Gibraltar Loupe log messages using .NET'
 categories: dotnet
 ---
 
-I recently received the very kind support of [Kendall](https://twitter.com/kendallmiller) from [Gibraltar](https://onloupe.com/) with an analysis problem I was trying to solve with some logs collected by Loupe.
+I recently received the very kind support of [Kendall](https://twitter.com/kendallmiller) from [Gibraltar](https://web.archive.org/web/20170814093520/https://onloupe.com/) with an analysis problem I was trying to solve with some logs collected by Loupe.
 
 There is an 8-step process that is run several hundred times per weekend which I wanted to analyse, retrospectively, in bulk. Fortunately, the application logged at the completion of each step, and how long each step took was in that message along with the name of the item the step was completed on.
 

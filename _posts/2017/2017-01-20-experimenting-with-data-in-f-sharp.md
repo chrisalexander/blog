@@ -11,7 +11,7 @@ Fortunately, F# makes this super easy, with the help of some great libraries.
 
 ## Installing FsLab
 
-[FsLab](https://fslab.org/) is a machine learning and data science toolkit for F#, which conveniently bundles together a load of tools to make it easy to acquire, process and visualise data.
+[FsLab](https://web.archive.org/web/20180110154536/https://fslab.org/) is a machine learning and data science toolkit for F#, which conveniently bundles together a load of tools to make it easy to acquire, process and visualise data.
 
 The first thing you need to do is get this library. If you followed along with [yesterday's post](/on-engineering/f-sharp/getting-started-with-f-sharp-scripting/) and created a project folder for your F# scripts and installed the *ionide-paket* plugin then you will have everything you need to go straight away.
 

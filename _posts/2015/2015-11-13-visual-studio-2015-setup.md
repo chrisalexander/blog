@@ -6,7 +6,7 @@ categories: code
 
 Now that I have had a bit of a chance to explore Visual Studio 2015, I have been through and made a note of all of the configs I have changed to get it working how I would like.
 
-It has a really cool feature called "[light bulbs](https://msdn.microsoft.com/en-us/library/dn872466.aspx)", which are like what Resharper gives you. They feel a bit more performant than their Resharper equivalents in VS 2013 but maybe that is just me. When there is a recommendation, the Ctrl + . shortcut is your friend, to bring it up, kind of like Alt + Enter in Resharper land.
+It has a really cool feature called "[light bulbs](https://web.archive.org/web/20170702135640/https://msdn.microsoft.com/en-us/library/dn872466.aspx)", which are like what Resharper gives you. They feel a bit more performant than their Resharper equivalents in VS 2013 but maybe that is just me. When there is a recommendation, the Ctrl + . shortcut is your friend, to bring it up, kind of like Alt + Enter in Resharper land.
 
 Anyway, as I am mostly working with C# at the moment, these are the changes that I have made so far.
 

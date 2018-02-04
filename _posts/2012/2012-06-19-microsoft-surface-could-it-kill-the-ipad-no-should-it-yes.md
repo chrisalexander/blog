@@ -4,7 +4,7 @@ heading: 'Microsoft Surface - Could it kill the iPad? No. Should it? Yes.'
 categories: microsoft
 ---
 
-Microsoft late last night unveiled their [Surface](http://www.microsoft.com/surface/en/us/about.aspx) tablets, confusingly similarly named as their previous table top computer, which has been catchily renamed to the "[Samsung SUR40 with Microsoft Pixelsense](http://www.pixelsense.com/)" (you literally couldn't make that up).
+Microsoft late last night unveiled their [Surface](https://web.archive.org/web/20120703093839/http://www.microsoft.com/surface/en/us/about.aspx) tablets, confusingly similarly named as their previous table top computer, which has been catchily renamed to the "[Samsung SUR40 with Microsoft Pixelsense](http://www.pixelsense.com/)" (you literally couldn't make that up).
 
 However what they have replaced it with is quite spectacular. The Surface tablets have quite significant potential, and importantly innovate in some key areas where the iPad does not.
 

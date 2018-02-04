@@ -10,7 +10,7 @@ I blasted out a load of links and demos, so if you want to get your hands on the
 
 [Download the Silverlight 4 tools](http://silverlight.codeplex.com)
 
-[Download Silverlight 4 Tools for Visual Studio](https://msdn.microsoft.com/en-us/library/mt788654)
+[Download Silverlight 4 Tools for Visual Studio](https://web.archive.org/web/20180130111116/https://msdn.microsoft.com/en-us/library/mt788654)
 
 [Seesmic Developer Wiki](http://devwiki.seesmic.com)
 
