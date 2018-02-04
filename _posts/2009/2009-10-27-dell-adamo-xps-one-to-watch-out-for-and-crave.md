@@ -7,7 +7,7 @@ categories: hardware
 
 Its high time we had a blog post about some juicy hardware to drool over, and I don't really want to linger on the fruit company much longer, so time for some gorgeous Windows 7-powered pure awesomeness.
 
-Now it's not often that I'll start a blog post with a sentence crammed of so may words of high praise for *anything*, let alone a piece of hardware I haven't even had my hands on yet. But I think you'll agree that this one is more than worth it - the [Dell Adamo XPS](http://www.adamobydell.com/xps/us).
+Now it's not often that I'll start a blog post with a sentence crammed of so may words of high praise for *anything*, let alone a piece of hardware I haven't even had my hands on yet. But I think you'll agree that this one is more than worth it - the [Dell Adamo XPS](https://web.archive.org/web/20100206053911/http://www.adamobydell.com/xps/us).
 
 <!-- Replace missing image from http://media.chris-alexander.co.uk/wp-content/uploads/2009/10/adamo-xps.jpg -->
 
