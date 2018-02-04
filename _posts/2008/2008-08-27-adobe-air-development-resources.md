@@ -8,7 +8,7 @@ During my time developing Adobe Air applications, I have come across numerous on
 
 [Air Developer Center](http://www.adobe.com/devnet/air/) - useful starting point on the Adobe site
 
-[HTML Developer SDK](http://www.adobe.com/products/air/tools/sdk/) - everything you need to use Notepad to develop Air apps
+[HTML Developer SDK](https://web.archive.org/web/20090210134910/http://www.adobe.com/products/air/tools/sdk/) - everything you need to use Notepad to develop Air apps
 
 [Adobe Live Documents](http://web.archive.org/web/20080709130639/http://livedocs.adobe.com/air/1/devappshtml/help.html) - great documentation online
 

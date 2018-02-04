@@ -17,8 +17,8 @@ The offer is provided by [123-reg.co.uk](https://www.123-reg.co.uk/), one of the
 Full details of the deal:
 
 * [123-reg Plus package](http://www.123-reg.co.uk/web-hosting/starter-plus.shtml) (usually £4.99/month)
-* A free .info [domain name](http://www.123-reg.co.uk/domain-names/)
+* A free .info [domain name](https://web.archive.org/web/20180102011226/http://www.123-reg.co.uk/domain-names/)
 * Windows hosting
 * More!
 
-So head over to [123-reg](http://www.123-reg.co.uk/studenthosting/) to [sign up now](http://www.123-reg.co.uk/studenthosting/)!
+So head over to [123-reg](https://web.archive.org/web/20110212092735/http://www.123-reg.co.uk/studenthosting/) to [sign up now](https://web.archive.org/web/20080220080552/http://www.123-reg.co.uk/web-hosting/starter-plus.shtml)!

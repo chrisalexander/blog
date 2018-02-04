@@ -12,4 +12,4 @@ I also love building Chrome Apps. Since I've got the Chromebook, even more so. H
 
 Fortunately, you can provide your own custom bindings provider for Knockout, which mean you can work around this. One of the guys at work built one of these to improve efficiency in our client app, and helpfully we can do the same to enable Knockout support in Chrome Apps.
 
-Well, that, or we can get someone else to do it for us. Ryan Niemeyer from Adobe has [kindly done it for us already](http://www.adobe.com/devnet/html5/articles/getting-started-with-knockoutjs.html). You can grab his code [from Github](https://github.com/rniemeyer/knockout-classBindingProvider), and be on your way to using Knockout in your Chrome App in no time.
+Well, that, or we can get someone else to do it for us. Ryan Niemeyer from Adobe has [kindly done it for us already](https://web.archive.org/web/20140302162820/http://www.adobe.com/devnet/html5/articles/getting-started-with-knockoutjs.html). You can grab his code [from Github](https://github.com/rniemeyer/knockout-classBindingProvider), and be on your way to using Knockout in your Chrome App in no time.
