@@ -4,7 +4,7 @@ heading: 'Digital Economy Bill and the Internet'
 categories: life
 ---
 
-As if you haven't already heard recently, the recent [Digital Economy Bill](http://www.guardian.co.uk/music/musicblog/2009/nov/27/digital-economy-bill) has severe consequences for file-sharers and possibly more in the UK.
+As if you haven't already heard recently, the recent [Digital Economy Bill](https://www.theguardian.com/music/musicblog/2009/nov/27/digital-economy-bill) has severe consequences for file-sharers and possibly more in the UK.
 
 The full proposals are summarised on [DontDisconnect.us](http://web.archive.org/web/20111027195348/http://www.dontdisconnect.us/the-proposals/) (set up by TalkTalk, the UK ISP), but it essentially boils down to this: the bill would require UK ISPs to monitor the traffic of their users, reporting to copyright owners when their content is illegally shared.
 
