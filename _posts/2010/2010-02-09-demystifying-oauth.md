@@ -82,7 +82,7 @@ Unless you have 2 solid working weeks to give over to it, and you somehow think 
 
 Otherwise, go find a library to use, *trust me!*
 
-As my little project was in PHP, there are a few options. If you have access to your PHP installation, then you could try out the [OAuth module](http://uk3.php.net/oauth). Otherwise, I found another handy OAuth library that just uses cURL, which you can download the source [from here](http://github.com/abraham/twitteroauth).
+As my little project was in PHP, there are a few options. If you have access to your PHP installation, then you could try out the [OAuth module](http://web.archive.org/web/20170109231401/http://uk3.php.net/oauth). Otherwise, I found another handy OAuth library that just uses cURL, which you can download the source [from here](http://github.com/abraham/twitteroauth).
 
 There are also loads of libraries for OAuth in other languages listed [on this page on OAuth.net](http://oauth.net/code/).
 

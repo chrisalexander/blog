@@ -31,6 +31,6 @@ Genius!
 
 ## More on WRAP
 
-For more on WRAP, check out the [official WRAP page](http://wiki.oauth.net/OAuth-WRAP) on OAuth.net, the [OAuth WRAP Working Group](http://groups.google.com/group/oauth-wrap-wg) mailing list.
+For more on WRAP, check out the [official WRAP page](http://web.archive.org/web/20130124081945/http://wiki.oauth.net/w/page/12238537/OAuth%20WRAP) on OAuth.net, the [OAuth WRAP Working Group](http://groups.google.com/group/oauth-wrap-wg) mailing list.
 
 Bob, lead developer at [Huddle](http://www.huddle.net), has also bee busy with WRAP. In fact, his team used it to win a competition at Microsoft.
