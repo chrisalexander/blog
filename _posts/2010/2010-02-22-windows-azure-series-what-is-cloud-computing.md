@@ -32,4 +32,4 @@ Here's a video created by @marcholmes back in 2008 (it was the first result when
 
 {% include youtube.html id="NZO9YE1ZvqE" %}
 
-*For loads more information on Azure, check out Dom Green's blog (the UK's resident Azure expert), the official [Azure blog](http://web.archive.org/web/20100207231535/http://blogs.msdn.com/windowsazure) and [website](http://www.microsoft.com/windowsazure/), or the Azure tag.*
+*For loads more information on Azure, check out Dom Green's blog (the UK's resident Azure expert), the official [Azure blog](http://web.archive.org/web/20100207231535/http://blogs.msdn.com/windowsazure) and [website](http://web.archive.org/web/20140307105705/http://www.windowsazure.com/en-us/), or the Azure tag.*

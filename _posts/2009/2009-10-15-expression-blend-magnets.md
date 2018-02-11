@@ -4,7 +4,7 @@ heading: 'Expression Blend Magnets!'
 categories: dev
 ---
 
-Thanks to @marcholmes for sending me a couple of pages of [Expression Blend 3](http://www.microsoft.com/expression) Sketchflow magnets.
+Thanks to @marcholmes for sending me a couple of pages of [Expression Blend 3](http://web.archive.org/web/20120202013404/http://www.microsoft.com/expression) Sketchflow magnets.
 
 Sketchflow is a new way of visualising user interfaces in Expression Blend, making it incredibly simple for designers to focus on the user experience without having to worry about the look. Not only that but the Sketchflow controls can be very quickly switched to normal .net controls for developers to have a play with.
 

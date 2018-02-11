@@ -24,4 +24,4 @@ There are then, of course, the MSDN blogs. These provide an invaluable resource 
 
 Of course, there is always [plenty of other content](http://www.google.co.uk/search?hl=en&amp;rlz=1C1GGLS_en-GBGB332GB332&amp;q=site:blogs.msdn.com+azure&amp;btnG=Search&amp;meta=&amp;aq=f&amp;oq=) out there if you want to go for something a bit different.
 
-*For loads more information on Azure, check out Dom Green's blog (the UK's resident Azure expert), the official [Azure blog](http://web.archive.org/web/20100207231535/http://blogs.msdn.com/windowsazure) and [website](http://www.microsoft.com/windowsazure/), or the Azure tag.* 
+*For loads more information on Azure, check out Dom Green's blog (the UK's resident Azure expert), the official [Azure blog](http://web.archive.org/web/20100207231535/http://blogs.msdn.com/windowsazure) and [website](http://web.archive.org/web/20140307105705/http://www.windowsazure.com/en-us/), or the Azure tag.* 

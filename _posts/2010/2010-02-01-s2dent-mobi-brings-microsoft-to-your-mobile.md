@@ -6,7 +6,7 @@ categories: uni
 
 Microsoft have gradually been increasing the number of student-oriented sites, services, tools and technologies that they are producing.
 
-Whether this is DreamSpark](http://dreamspark.com), the [Imagine Cup](https://www.imaginecup.com/), [great deals on web hosting (#2305), new education tools (#2163), [web](http://www.microsoft.com/student/en/us/default.aspx) [sites](http://www.msstudentlounge.com/) or [Facebook pages](http://www.facebook.com/microsoftstudent), there is so many ways for students to get loads more out of Microsoft - and for very little money!
+Whether this is DreamSpark](http://dreamspark.com), the [Imagine Cup](https://www.imaginecup.com/), [great deals on web hosting (#2305), new education tools (#2163), [web](http://web.archive.org/web/20130606035950/http://www.microsoft.com/student/en-us/default.aspx#fbid=67KqgliGCIa) [sites](http://web.archive.org/web/20130606035950/http://www.microsoft.com/student/en-us/default.aspx#fbid=67KqgliGCIa) or [Facebook pages](http://www.facebook.com/microsoftstudent), there is so many ways for students to get loads more out of Microsoft - and for very little money!
 
 Now Microsoft have made a whole load of this available for you on your mobile phones. Read on about [s2dent.mobi](https://web.archive.org/web/20141230223548/http://msdn.microsoft.com/en-US/student-developer-program), the mobile student portal for all things Microsoft.
 

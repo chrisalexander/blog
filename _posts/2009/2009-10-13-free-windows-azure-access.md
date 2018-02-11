@@ -12,7 +12,7 @@ Windows Azure is the next generation of cloud hosting solutions, offering both c
 
 Built on the .net framework, Azure provides a flexible way of developing, testing and deploying scalable web services and applications.
 
-From the [Azure](http://www.microsoft.com/azure) website:
+From the [Azure](http://web.archive.org/web/20140307105705/http://www.windowsazure.com/en-us/) website:
 
 Windows Azure is a runtime environment in the cloud that delivers on-demand compute, storage, and automated systems management. Windows Azure provides developers with the ability to host, scale, and manage Web applications on the Internet through Microsoft data centers.
 

@@ -8,7 +8,7 @@ These days, reducing the environmental impact of activities is a top priority of
 
 Even if you are using energy in an efficient way, due to the global nature of the Internet and business these days, any activity is causing a global impact.
 
-For example, one of Google's five most massive datacentres worldwide is [estimated to use 103 Megawatts](http://www.guardian.co.uk/technology/2009/may/03/google-data-centres) of power to run; a cost mitigated (as with many other facilities like it worldwide) with the use of cheap renewal energy, in this case from a nearby hydroelectric dam.
+For example, one of Google's five most massive datacentres worldwide is [estimated to use 103 Megawatts](https://www.theguardian.com/technology/2009/may/03/google-data-centres) of power to run; a cost mitigated (as with many other facilities like it worldwide) with the use of cheap renewal energy, in this case from a nearby hydroelectric dam.
 
 Here is an overview of some great products and ideas that you can use and that are being developed to reduce the energy impact of your daily activities.
 
