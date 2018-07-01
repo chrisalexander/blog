@@ -4,7 +4,7 @@ heading: This is also the web platform
 subheading: Client features are only half the story
 ---
 
-A couple of weeks ago now, [Paul Kinlan](https://plus.google.com/+PaulKinlan) wrote [this very good piece](http://paul.kinlan.me/this-is-the-web-platform/) entitled "This is the web platform".
+A couple of weeks ago now, [Paul Kinlan](https://plus.google.com/+PaulKinlan) wrote [this very good piece](https://paul.kinlan.me/this-is-the-web-platform/) entitled "This is the web platform".
 
 If you're not familiar with his recent work and you're a web developer, I strongly recommend you go and check out [iwanttouse.com](http://iwanttouse.com/). It's like [caniuse.com](http://caniuse.com/) but kind of inverted - given a set of browser features, it will tell you how much of the total web audience you can reach. It makes it much easier to figure out whether a specific feature you would like to use correlates with your requirements around browser support.
 

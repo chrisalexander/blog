@@ -13,7 +13,7 @@ The final stage of any data analysis work is to visualise your results in some w
 
 In the previous posts, I discussed using the FsLab libraries as they bring together a whole heap of useful components that you can make use of straight away.
 
-One of these is [XPlot](https://tahahachana.github.io/XPlot/) which allows you to render charts using both Google Charts and Plot.ly.
+One of these is [XPlot](https://fslab.org/XPlot/) which allows you to render charts using both Google Charts and Plot.ly.
 
 To make use of XPlot, make sure you have the FSLab script included, and then open up XPlot.GoogleCharts:
 
