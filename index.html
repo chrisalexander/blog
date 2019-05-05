@@ -1,16 +1,19 @@
 ---
 layout: base
-heading: 'Chris Alexander - On Engineering'
-subheading: 'Talking about tech, engineering, robots, and everything involving electrons'
+heading: 'Chris Alexander'
 ---
 
-<h1><a href="/">On Engineering</a></h1>
-<p class="subheading">Chris Alexander</p>
+{% unless paginator.previous_page %}
+    {% include home.html %}
+{% else %}
+    <h1><a href="/">On Engineering</a></h1>
+    <p class="subheading">Chris Alexander</p>
 
-{% for page in paginator.posts %}
-{% include pagebox.html %}
-{% endfor %}
+    {% for page in paginator.posts %}
+        {% include pagebox.html %}
+    {% endfor %}
 
-{% include pagination.html %}
+    {% include pagination.html %}
+{% endunless %}
 
 {% include footer.html %}

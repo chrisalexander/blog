@@ -1,0 +1,24 @@
+<h1><a href="/">Chris Alexander</a></h1>
+<p class="subheading">About</p>
+
+<p>Chris is an engineer living and working in Surrey. He has previously worked on software projects and currently builds and maintains simulation technology for Formula 1. Interests outside work include music and photography.</p>
+
+<p>Please get in touch by e-mailing chris@chris-alexander.co.uk</p>
+
+<p>This site is largely archived with some old posts listed below.</p>
+
+<p class="subheading" style="margin-top: 50px">Blog: On Engineering</p>
+
+{% for page in paginator.posts %}
+    {% include pagebox_sm.html %}
+{% endfor %}
+
+<p class="pagination">
+    <a href="/page/2" class="next">More posts &raquo;</a>
+</p>
+
+<p class="footer">
+    <a href="https://github.com/chrisalexander" target="_blank">Github</a>
+    <a href="https://www.linkedin.com/in/chrisalexanderuk" target="_blank" data-proofer-ignore>LinkedIn</a>
+    <a href="/archive">Blog archive</a>
+</p>
