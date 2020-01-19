@@ -6,11 +6,11 @@ categories: digitox
 
 [Sign up for the Digitox newsletter here](https://tinyletter.com/digitox).
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/files/digitox/post1page1.jpg" %}
+{% include images/block.html src="https://camediahost.github.io/files/digitox/post1page1.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/files/digitox/post1page2.jpg" %}
+{% include images/block.html src="https://camediahost.github.io/files/digitox/post1page2.jpg" %}
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/files/digitox/post1page3.jpg" %}
+{% include images/block.html src="https://camediahost.github.io/files/digitox/post1page3.jpg" %}
 
 **Links**
 
