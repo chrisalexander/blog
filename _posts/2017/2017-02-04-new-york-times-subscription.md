@@ -2,7 +2,7 @@
 layout: post
 heading: 'NYT Subscription'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/nyt.png
+ image: https://camediahost.github.io/pictures/nyt.png
  hassmall: false
  showonpage: true
 categories: the-press

@@ -2,7 +2,7 @@
 layout: post
 heading: 'Vauxhall Insignia'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/insignia.jpg
+ image: https://camediahost.github.io/pictures/insignia.jpg
  hassmall: false
  showonpage: true
 categories: cars

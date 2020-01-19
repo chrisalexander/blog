@@ -14,7 +14,7 @@ Anyway, as I am mostly working with C# at the moment, these are the changes that
 
 By default, it recommends removing the "this." prefix when accessing local members:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/vs2015/this.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/vs2015/this.png" %}
 
 You can switch this around in Tools -> Options -> Text Editor -> C# -> Code Style and checking "Qualify member access with 'this.'". You can look at the other three options in there while you are at it, all of them seem sensible to me turned on (the default).
 
@@ -34,12 +34,12 @@ Disable the horizontal scrollbar (a bit contentious): Tools -> Options -> Text E
 
 While I was in here I found you can turn on "map mode" for scroll bars, in the same pane under "Behaviour". This is a Sublime Text-like map that appears on the right of your code file so you can use it to navigate the file:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/vs2015/map.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/vs2015/map.png" %}
 
 This is *awesome*.
 
 But it gets better! Just hover over the bar and it shows you a code preview:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/vs2015/hover.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/vs2015/hover.png" %}
 
 This is probably going to change my life :-)

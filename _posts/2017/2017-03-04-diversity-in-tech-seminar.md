@@ -6,7 +6,7 @@ categories: diversity
 
 Yesterday afternoon we took an hour out of a hectic week of pre-season testing to attend a Diversity in Tech seminar. The event was organised by the McLaren Driven Women group and hosted at the Thought Leadership Centre on campus and took the form of a panel discussion, featuring entrepreneur Emma Sinclair MBE; Leigh-Ann Russel, BP's VP Head of Global Wells; and Zoe Jervier, Head of Talent at Entrepreneur First. It was moderated by Huffington Post UK's Womens section editor, Brogan Driscoll, rounding off an excellent panel of speakers.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/seminar.jpg" credit="@Motoko_K" creditlink="https://twitter.com/Motoko_K/status/840286847943204865" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/seminar.jpg" credit="@Motoko_K" creditlink="https://twitter.com/Motoko_K/status/840286847943204865" %}
 
 The event was hugely engaging and was well rewarded with I would estimate over 100 attendees from across the Group at the session - and a good number of men as well!
 

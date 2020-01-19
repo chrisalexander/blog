@@ -3,7 +3,7 @@ layout: post
 heading: 'Alexa: Play through my speakers'
 subheading: 'Giving Alexa a voice in your lounge'
 leader:
-     image: http://media.chris-alexander.co.uk/pictures/alexa/dot.jpg
+     image: https://camediahost.github.io/pictures/alexa/dot.jpg
      hassmall: false
      showonpage: false
      inverted: true
@@ -12,7 +12,7 @@ categories: alexa
 
 We have recently welcomed Alexa into our home with an [Echo Dot](http://fave.co/2jMES1T) in the lounge:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/alexa/dot.jpg" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/alexa/dot.jpg" %}
 
 The main difference between the Dot and the larger main [Echo](http://fave.co/2keQN5h) device, other than £100, is the speakers - the Dot is very small and thus has just basic speakers. Good for listening to Alexa talking, but not so great for listening to music or the radio.
 
@@ -28,7 +28,7 @@ The piece of kit you need is called, in the industry, a *mixer*. These are what 
 
 The one that I went for in the end is this [Behringer Xenyx 502](http://fave.co/2jMC9VU):
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/alexa/mixer.jpg" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/alexa/mixer.jpg" %}
 
 Now this mixer is listed as 5 inputs, which is slightly misleading, because depending on how you count it, it has 6 or 4. This is because audio kit is **typically mono** - this is a very important point to remember.
 
@@ -50,7 +50,7 @@ Fortunately I have a couple of headphone to phono cables laying around - [this o
 
 I just got [this pack of adapters](http://fave.co/2keMPcX) off Amazon; they are cheap but at least you get 10, so 4 can go wrong before you're short!!
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/alexa/adapters.jpg" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/alexa/adapters.jpg" %}
 
 Stick one of these in each of the 4 input channels and 2 output channels, then you can wire up Alexa and the TV to the two inputs, then the output can go to your speakers (or in the case below, it actually goes through the EQ to the speakers).
 
@@ -62,4 +62,4 @@ Yep, we have an EQ (or equaliser) in our lounge to tone down the bass from the s
 
 The one that we have is this [Behringer FBQ800](http://fave.co/2jMzb45), which works just great for sorting out the bass and making the treble a bit happier as well. It also uses phono inputs and outputs so is in between the output from the mixer above and the speakers.
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/alexa/eq.jpg" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/alexa/eq.jpg" %}

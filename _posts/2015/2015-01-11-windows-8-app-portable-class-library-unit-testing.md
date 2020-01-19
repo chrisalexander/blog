@@ -3,7 +3,7 @@ layout: post
 heading: 'Quick tip: Unit testing Universal portable libraries'
 subheading: 'Taking Windows 8 Universal app libraries and getting them tested'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/win8dev/select.png
+ image: https://camediahost.github.io/pictures/win8dev/select.png
  hassmall: false
  showonpage: false
 categories: windows
@@ -21,8 +21,8 @@ If you are writing unit tests then you will probably want to run them with the V
 
 First, on your Universal portable class library (for want of something shorter to call it) you just need to edit the project settings and enable targeting the .NET framework. I just selected the latest one I happened to have installed as I am just trying this out, but make sure you pick the right one for the situation you are in:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/win8dev/select.png" alt="Select the .NET framework to use" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/win8dev/select.png" alt="Select the .NET framework to use" %}
 
 Once you have done that, edit the properties on your unit test project and check it is targeting the same .NET framework (mine wasn't by default but again your situation will probably be different). And you're done!
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/win8dev/target.png" alt="Choose the .NET target platform" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/win8dev/target.png" alt="Choose the .NET target platform" %}

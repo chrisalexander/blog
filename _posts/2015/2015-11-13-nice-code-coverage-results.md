@@ -17,7 +17,7 @@ You need to create a runsettings file for use in your solution.
 
 Create a new XML file, call it something descriptive like "CodeCoverage.runsettings", and make sure it is added at the **solution** level rather than the project level:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/vs2015/runsettings.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/vs2015/runsettings.png" %}
 
 I have created an example file that I now use. This is designed specifically to exclude DLLs that end "Tests.dll" (which is how my test projects are named), as well as xunit, xbehave, and fluentassertions, which are the projects I am using for testing.
 
@@ -31,6 +31,6 @@ Under the Test -> Test Settings menu, use Select Test Settings File and pick you
 
 In your VSO build (assuming you are using the new workflow), under the Visual Studio Test step, set your RunSettingsFile to the relative path from your root directory to the runsettings file. Mine is in the root next to the solution file, so it looks like this:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/vs2015/build.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/vs2015/build.png" %}
 
 Now you should be able to see the reduced coverage in your ouput in VSO builds as well.

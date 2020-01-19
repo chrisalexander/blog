@@ -2,7 +2,7 @@
 layout: post
 heading: 'Kensington trackball review'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/trackball.jpg
+ image: https://camediahost.github.io/pictures/trackball.jpg
  hassmall: false
  inverted: true
 categories: hardware
@@ -14,7 +14,7 @@ I have been using trackballs for a few years now, initially a Kengsington wirele
 
 But for home I wanted something a bit better for drawing and editing photos, and found this nice little bit of kit.
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/trackball.jpg" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/trackball.jpg" %}
 
 Kensington's trackballs have improved massively since the last one I owned. This is rock solid and an absolute joy to use.
 

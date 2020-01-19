@@ -29,10 +29,10 @@ Once that has all been run with Ansible, it is simply a case of mapping the netw
 
 My mapped drives now look like this, which is pretty cool as each Raspberry Pi is mapped to the X: Y: and Z: drives:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/buildpi/drives.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/buildpi/drives.png" %}
 
 In Visual Studio, you then configure your post-build events to copy over all of the project resources to the shared folder. Mine looks like this:
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/buildpi/vs.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/buildpi/vs.png" %}
 
 And then when you build or rebuild your project, the new resources are copied over and ready to run.

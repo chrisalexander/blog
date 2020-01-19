@@ -2,7 +2,7 @@
 layout: post
 heading: 'IE 9 For Developers'
 leader:
-  image: http://media.chris-alexander.co.uk/pictures/ie9.png
+  image: https://camediahost.github.io/pictures/ie9.png
   hassmall: false
   showonpage: false
 categories: dev
@@ -10,7 +10,7 @@ categories: dev
 
 There are some innovative features in IE 9 that I had previously been extremely excited about. These are mostly regarding the browser's integration with the operating system (especially Windows 7), which is something that Microsoft is in a unique position to provide in an efficient manner.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/ie9.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/ie9.png" %}
 
 Some of these features are enabled through a JavaScript interface *window.external*. While this was all well and good, I previously had concerns with this as I had not been made aware of a method of detecting whether or not the features were available in the browser the page was being rendered by. This clearly would cause problems on multiple browsers, and you can't just go around executing scripts for a single browser as this will cause errors in all the others. There is, however, a section on [the MSDN documentation for this browser feature](https://web.archive.org/web/20101112121724/http://msdn.microsoft.com/en-us/library/gg131029(VS.85).aspx) which describes how to perform a test to see if the browser supports the Pinned Sites feature.
 

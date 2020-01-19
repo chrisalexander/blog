@@ -12,7 +12,7 @@ Complete example:
     layout: post
     heading: 'Creating Memrise courses'
     leader:
-     image: http://media.chris-alexander.co.uk/pictures/memrise/counties.png
+     image: https://camediahost.github.io/pictures/memrise/counties.png
      hassmall: false
      showonpage: false
     categories: learning

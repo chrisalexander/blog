@@ -2,7 +2,7 @@
 layout: post
 heading: 'New in country music'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/country/g.jpg
+ image: https://camediahost.github.io/pictures/country/g.jpg
  hassmall: false
  showonpage: false
  inverted: true
@@ -11,7 +11,7 @@ categories: music
 
 I have written about music reasonably frequently in the past, and this week I have read three separate articles about up-and-coming or new country artists, so I thought now would be a good time to write some more.
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/pictures/country/cs.jpg" %}
+{% include images/max.html src="https://camediahost.github.io/pictures/country/cs.jpg" %}
 
 # Caitlyn Smith
 
@@ -23,7 +23,7 @@ We start off with Caitlyn Smith as profiled in the [New York Times](https://www.
 
 {% include youtube.html id="kPaPkC8HsbE" %}
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/pictures/country/kb.jpg" %}
+{% include images/max.html src="https://camediahost.github.io/pictures/country/kb.jpg" %}
 
 # Kelsey Ballerini
 
@@ -35,7 +35,7 @@ Kelsey has been nominated for female artist of the year at the Country Music Ass
 
 {% include youtube.html id="z30z8ZnM73U" %}
 
-{% include images/max.html src="http://media.chris-alexander.co.uk/pictures/country/jb.jpg" %}
+{% include images/max.html src="https://camediahost.github.io/pictures/country/jb.jpg" %}
 
 # Jade Bird
 

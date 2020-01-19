@@ -3,7 +3,7 @@ layout: post
 heading: 'Stalking your dog'
 subheading: 'Welcome to EddieCam'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/eddiecam/eddiecam.png
+ image: https://camediahost.github.io/pictures/eddiecam/eddiecam.png
  hassmall: false
  showonpage: false
  inverted: true
@@ -31,8 +31,8 @@ There are some really good features of the camera, such as:
 - Configurable audio / motion alarms (alerts on Android app only)
 - Night vision
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/eddiecam/camera.jpg" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/eddiecam/camera.jpg" %}
 
 Here you can see it in action on my phone, over 4G - decent quality and it looks like Eddie's having plenty of fun with his toys!
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/eddiecam/eddiecam.png" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/eddiecam/eddiecam.png" %}

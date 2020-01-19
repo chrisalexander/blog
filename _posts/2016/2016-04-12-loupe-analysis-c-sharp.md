@@ -16,27 +16,27 @@ I was able to use Loupe, which the application was already instrumented with, to
 
 Create a new package in Loupe Desktop by right clicking on the Packages tree and choosing New:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/loupe/1_new.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/loupe/1_new.png" %}
 
 Then name your package:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/loupe/2_package.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/loupe/2_package.png" %}
 
 Now, you can drag and drop sessions from your main Loupe database or server, in to this package:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/loupe/3_sessions.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/loupe/3_sessions.png" %}
 
 Next, save your package by right clicking and choosing Save. Give it a name and put it somewhere you can find it later.
  
 Now you end up with a .glp file with the log details exported in to it:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/loupe/5_glp.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/loupe/5_glp.png" %}
  
 # Step 2: Create the .NET project
 
 I have just created a simple console application in order to demonstrate loading the sessions from the file we just exported. I started off with the most basic sample application you can create in Visual Studio:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/loupe/6_project.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/loupe/6_project.png" %}
 
 Next, you need to import some Loupe DLLs. You can find them in the Loupe Desktop installation folder, which on my machine is: C:\Program Files (x86)\Gibraltar Software\Loupe\Bin\. The DLLs you need are:
 
@@ -49,7 +49,7 @@ Next, you need to import some Loupe DLLs. You can find them in the Loupe Desktop
 
 Import those in to your project:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/loupe/7_libs.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/loupe/7_libs.png" %}
 
 Now it is time to write some code!
 

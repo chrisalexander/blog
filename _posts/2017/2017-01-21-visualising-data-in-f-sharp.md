@@ -53,7 +53,7 @@ Now that we have prepared the function, we are ready to render it. Fortunately t
 
 This produces a rather nice result in our web browser:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/chart.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/chart.png" %}
 
 Hopefully in the future there will be just as good support for this library in VS Code as there is in Atom, which renders the chart in a window in the editor for you.
 

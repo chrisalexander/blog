@@ -26,7 +26,7 @@ I already have the code in a [Github repo](https://github.com/chrisalexander/Gen
 
 Let's take a look at what build steps to create:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/buildsteps.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/buildsteps.png" %}
 
 * Get sources from Github (provided for us by VSTS)
 * Install required NPM packages
@@ -42,7 +42,7 @@ The packaging tool `vsce` is [installed as an NPM package](https://code.visualst
 
 Create a blank NPM step, then set the properties up like this:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/buildnpm.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/buildnpm.png" %}
 
 The "command" is `install` and the arguments are `-g vsce` so we install that package globally.
 
@@ -54,7 +54,7 @@ VSCE has a [command argument](https://code.visualstudio.com/docs/tools/vscecli#_
 
 To do this, we create a new Command Line build step (here is where we could do with better VSTS integration):
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/buildcmd.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/buildcmd.png" %}
 
 The "tool" is `vsce` and the arguments are `package -o .\GenderDecoder.vsix`. The GenderDecoder.vsix is a hard-coded name that all of the bits of the process know, but you can set it to whatever you like for your extension (just adjust the other steps too).
 
@@ -66,13 +66,13 @@ Because you are building in the cloud, copying your output files to artifacts is
 
 The copy step looks like this:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/buildcopy.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/buildcopy.png" %}
 
 The important parts that need configuring in here are "Source Folder", which is just `.` because we want to copy from the root of our build; the "Contents" which is `GenderDecoder.vsix`, which is the one file we want to copy; and finally the "Target Folder" is `$(Build.ArtifactStagingDirectory)`. The artifact staging directory is where we put all the files we want to turn up in our various output artifacts and provided for us by VSTS. Note that we copy only the one file we want to keep, it is best practice to do this and minimise the amount of output put in the artifacts to minimise transfer and download times.
 
 Finally our publish artifact step is basically the default:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/buildpublish.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/buildpublish.png" %}
 
 Here we publish from the "Copy Root" of `$(Build.ArtifactStagingDirectory)`; the file is again explicitly listed but you could use `*` if you like; and the artifact name is `Package`, which is important for later on as it is how we will reference the artifact in the UI and in our Release.
 
@@ -94,7 +94,7 @@ When you create a release, you also need to create one or more "environments" fo
 
 Inside your Marketplace environment, we are going to need two release steps:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/releasesteps.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/releasesteps.png" %}
 
 This is an NPM install (again) and a command line execution.
 
@@ -102,7 +102,7 @@ This is an NPM install (again) and a command line execution.
 
 The NPM install is a copy-paste basically from the Build process - we again need access to VSCE (remember this may be on a completely different machine to your original build) so we need to get it installed:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/releasenpm.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/releasenpm.png" %}
 
 #### Publish step
 
@@ -110,7 +110,7 @@ VSCE [has a mode](https://code.visualstudio.com/docs/tools/vscecli#_publishing-e
 
 In order to allow you build access to this API key, I have put it in a "variable". Pop over to the Variables tab in the Release definition, and create one called `authcode`. Paste in your API key, and then click the padlock next to the input. It should look like this:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/releasevariables.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/releasevariables.png" %}
 
 The reason you click the padlock is that it indicates to VSTS that this is an API key or some other secret, so the value is stored encrypted and scrubbed from all of the output logs you can see. Handy!
 
@@ -118,7 +118,7 @@ Now we have the API key, it's time to do the release. VSTS kindly includes all t
 
 So I have another command line step, like in the build, instead it is configured this way:
 
-{% include images/center.html src="http://media.chris-alexander.co.uk/pictures/vscodebuild/releasecmd.png" %}
+{% include images/center.html src="https://camediahost.github.io/pictures/vscodebuild/releasecmd.png" %}
 
 In this case, the "Tool" is again `vsce`, and the "Arguments" are a little more complex. They look like this:
 
