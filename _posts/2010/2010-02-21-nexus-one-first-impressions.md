@@ -31,7 +31,7 @@ I've tweeted solely about this and I will say it again, the AMOLED display is co
 
 I also love the camera - 5 megapixels, autofocus, flash, and stunning quality in decent conditions.
 
-{% include images/block.html src="http://media.chris-alexander.co.uk/pictures/project365/2010/feb/19/190210small.jpg" %}
+{% include images/block.html src="https://camediahost.github.io/pictures/project365/2010/feb/19/190210small.jpg" %}
 
 I did notice a few JPEG artifacts when I got up close and personal in Photoshop - but nothing that you would be able to visibly see when you were printing or viewing on a screen.
 

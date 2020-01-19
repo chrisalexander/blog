@@ -2,7 +2,7 @@
 layout: post
 heading: 'P1 GTR Windows theme'
 leader:
- image: http://media.chris-alexander.co.uk/pictures/p1gtrbg.jpg
+ image: https://camediahost.github.io/pictures/p1gtrbg.jpg
  position: bottom
  hidetext: true
  hassmall: false
