@@ -26,7 +26,7 @@ Of course, some stuff would be quite useful - Picasa or Google Reader for exampl
 
 Buzz is tightly integrated with Android, so users of those phones really don't have an excuse. You can grab the [Buzz widget](http://googlemobile.blogspot.com/2010/03/introducing-google-buzz-widget-for.html) for your home screen by scanning the QR code below.
 
-{% include images/block.html src="http://3.bp.blogspot.com/_V-5em911hQg/S6hbQya1kEI/AAAAAAAAC_4/9_b-Y2uU7tg/s320/marketBuzzWidget.png" %}
+{% include images/block.html src="https://3.bp.blogspot.com/_V-5em911hQg/S6hbQya1kEI/AAAAAAAAC_4/9_b-Y2uU7tg/s320/marketBuzzWidget.png" %}
 
 **3. Find people**
 

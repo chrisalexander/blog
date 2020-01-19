@@ -2,7 +2,7 @@
 layout: post
 heading: 'Nabaztag setup guide'
 leader:
-  image: http://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/4_setup_tn.jpg
+  image: https://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/4_setup_tn.jpg
   showonpage: false
   hassmall: false
 categories: life
@@ -57,23 +57,23 @@ In order for your Rabbit to receive information from your computer (that has a W
 
 * Unplug the cord from the bottom of your rabbit
 
-{% include images/block.html src="http://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/0_setup_tn.jpg" %}
+{% include images/block.html src="https://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/0_setup_tn.jpg" %}
 
 * Before plugging the cord back in, push down and hold the button found on his head
 
-{% include images/block.html src="http://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/1_setup_tn.jpg" %}
+{% include images/block.html src="https://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/1_setup_tn.jpg" %}
 
 * Now plug the cord back in while still holding the button down
 
-{% include images/block.html src="http://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/2_setup_tn.jpg" %}
+{% include images/block.html src="https://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/2_setup_tn.jpg" %}
 
 * Keep holding down the button until all of your Rabbit's lights turn blue
 
-{% include images/block.html src="http://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/3_setup_tn.jpg" %}
+{% include images/block.html src="https://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/3_setup_tn.jpg" %}
 
 * Once all the lights are blue you can let go of the button
 
-{% include images/block.html src="http://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/4_setup_tn.jpg" %}
+{% include images/block.html src="https://web.archive.org/web/20090309103320im_/http://help.nabaztag.com/upload/4_setup_tn.jpg" %}
 
 * Now your Rabbit is ready to accept a connection to your computer
 

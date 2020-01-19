@@ -5,11 +5,9 @@ subheading: Why Google's photo app rocks
 categories: google
 ---
 
-{% include images/block.html src="http://www.bildecke.de/screenshots/picasa_screen1_gr.jpg" %}
-
 [Picasa](http://picasa.google.com/) is an unusual piece of software.
 
-{% include images/right.html src="http://upload.wikimedia.org/wikipedia/en/3/30/GoogleSidebar_Vista.png" %}
+{% include images/right.html src="https://upload.wikimedia.org/wikipedia/en/3/30/GoogleSidebar_Vista.png" %}
 
 First of all, that a desktop app has survived in Google's portfolio for 10 years (it was bought from Lifescape in 2004) is quite special.
 

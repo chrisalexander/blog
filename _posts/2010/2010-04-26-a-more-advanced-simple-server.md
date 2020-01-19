@@ -21,7 +21,7 @@ So in short, this server now supports directory listings, and serving things oth
 
 There was one more thing I wanted to do though. I have been toying around with the [Android Scripting Environment](http://code.google.com/p/android-scripting/), which allows you to run all kinds of scripts on your Android phone (in my case, the very shiny Nexus One). So I stuck the pyhon on my phone, ran it, and everything works great! No more needing to mount your phone to your PC just to download some pictures at least!
 
-{% include images/block.html src="http://chart.apis.google.com/chart?cht=qr&amp;chs=200x200&amp;chl=http://an…googlecode.com/files/ase_r21.apk&amp;nonsense=something_that_ends_with.png" %}
+{% include images/block.html src="https://chart.apis.google.com/chart?cht=qr&amp;chs=200x200&amp;chl=http://an…googlecode.com/files/ase_r21.apk&amp;nonsense=something_that_ends_with.png" %}
 
 One word of warning though, the script currently just reads your entire phone, so unless you want people snooping around and having access to every file on your internal and SD card memory, don't leave it running - this is very much just a proof of concept at the moment!
 

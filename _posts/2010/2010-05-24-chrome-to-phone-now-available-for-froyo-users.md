@@ -20,4 +20,4 @@ To find out more about the project, you can head over to the [Google Code projec
 
 But the simple way to get started is to download the extension here, then zap the QR code below on your phone, and you're pretty much there!
 
-{% include images/block.html src="http://chart.apis.google.com/chart?chs=150x150&amp;cht=qr&amp;chl=http://chrometophone.googlecode.com/files/chrometophone-android.apk&amp;chld=L|1&amp;choe=UTF-8" %}
+{% include images/block.html src="https://chart.apis.google.com/chart?chs=150x150&amp;cht=qr&amp;chl=http://chrometophone.googlecode.com/files/chrometophone-android.apk&amp;chld=L|1&amp;choe=UTF-8" %}

@@ -53,23 +53,23 @@ An image in the center of the page with the given src:
 
 A left-aligned image:
 
-    {% include images/left.html src="http://placekitten.com/g/500/800" %}
+    {% include images/left.html src="https://placekitten.com/g/500/800" %}
 
 A right-aligned image:
 
-    {% include images/right.html src="http://placekitten.com/g/400/400" %}
+    {% include images/right.html src="https://placekitten.com/g/400/400" %}
 
 An image which expands to the full width of the page (may be >1 page high):
 
-    {% include images/max.html src="http://placekitten.com/g/1400/600" %}
+    {% include images/max.html src="https://placekitten.com/g/1400/600" %}
 
 A block image which sits in the middle of the page:
 
-    {% include images/block.html src="http://placekitten.com/g/1000/1000" %}
+    {% include images/block.html src="https://placekitten.com/g/1000/1000" %}
 
 All images except *left* and *right* support optional "credit" and "creditlink" properties:
 
-    {% include images/block.html src="http://placekitten.com/g/1000/1000" credit="Placekitten" creditlink="http://placekitten.com" %}
+    {% include images/block.html src="https://placekitten.com/g/1000/1000" credit="Placekitten" creditlink="http://placekitten.com" %}
 
 #### Tweets
 

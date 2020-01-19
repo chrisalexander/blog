@@ -10,7 +10,7 @@ The title is immediately caught my attention, as such a striking statement again
 
 Here's the video to check out before I go into what I think of what he says.
 
-<embed type="application/x-shockwave-flash" width="334" height="326" src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" flashvars="vu=http://video.ted.com/talks/embed/SirKenRobinson_2006-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/SirKenRobinson-2006.embed_thumbnail.jpg&amp;vw=320&amp;vh=240&amp;ap=0&amp;ti=66" wmode="transparent" allowfullscreen="true"> </embed>
+<embed type="application/x-shockwave-flash" width="334" height="326" src="https://video.ted.com/assets/player/swf/EmbedPlayer.swf" flashvars="vu=https://video.ted.com/talks/embed/SirKenRobinson_2006-embed_high.flv&amp;su=https://images.ted.com/images/ted/tedindex/embed-posters/SirKenRobinson-2006.embed_thumbnail.jpg&amp;vw=320&amp;vh=240&amp;ap=0&amp;ti=66" wmode="transparent" allowfullscreen="true"> </embed>
 
 The first thing the podcast starts with is Robinson's brilliant sense of humour - a trait that kept me genuinely laughing out loud while I was watching it (I bet that made my housemates happy late at night).
 

@@ -6,7 +6,7 @@ categories: life
 
 You may have seen some of the furore on last Saturday night following the somewhat rude interruption of an animated Graham Norton during the plot climax of Doctor Who. Thousands [moaned on Twitter](https://twitter.com/search?q=doctor%20who) and wrote to the BBC regarding the matter.
 
-{% include images/block.html src="http://newsimg.bbc.co.uk/media/images/47713000/jpg/_47713096_doctor_who226.jpg" %}
+{% include images/block.html src="https://newsimg.bbc.co.uk/media/images/47713000/jpg/_47713096_doctor_who226.jpg" %}
 
 The BBC covered the complaints in [two](http://news.bbc.co.uk/1/hi/entertainment/8642854.stm) [articles](http://news.bbc.co.uk/1/hi/entertainment/8643684.stm), including one with the video of the offending trail (which was not on the BBC HD or iPlayer versions).
 
