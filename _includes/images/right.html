@@ -1,1 +1,2 @@
-<img src="{{ include.src }}" alt="{% if include.alt %}{{ include.alt }}{% else %}(No alt specified){% endif %}" class="right">
+<img src="{{ include.src }}" alt="{% if include.alt %}{{ include.alt }}{% else %}(No alt specified){% endif %}"
+    class="right" {% if include.width %}style="width: {{ include.width }}%" {% endif %}>
