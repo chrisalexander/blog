@@ -99,7 +99,7 @@ At step 6, you will be asked to configure your Rabbit. If you've already done th
 
 ### If you are using a Mac with an Airport router (and you have a Nabaztag/tag)
 
-If you are using an Airport router to connect your Nabaztag/tag (<span style="color: #ff0000;">note, does not work with Nabaztag</span><span style="color: #000000;">) to the internet and your Nabaztag/tag's nose is flashing orange or orange/green, do the following :</span>
+If you are using an Airport router to connect your Nabaztag/tag (note, does not work with Nabaztag) to the internet and your Nabaztag/tag's nose is flashing orange or orange/green, do the following:
 
 * Put your rabbit in "all blue" mode
 * Connect your computer to the NabaztagXX network (where XX are the last two digits of your Rabbit's serial number)
