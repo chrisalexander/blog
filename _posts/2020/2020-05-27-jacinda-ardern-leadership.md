@@ -1,6 +1,6 @@
 ---
 layout: post
-heading: 'Jacinda Ardern\'s Leadership'
+heading: Jacinda Ardern's Leadership
 categories: leadership
 ---
 
