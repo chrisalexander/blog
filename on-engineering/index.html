@@ -1,0 +1,26 @@
+---
+layout: base
+---
+
+<h1>On Engineering</h1>
+
+<p>This blog has been archived and is content from 2007 and several platforms via many migrations.</p>
+
+<p>It is preserved for posterity but likely is not going to be updated or referred to very often.</p>
+
+<p class="center"><a href="/">Home</a></p>
+
+{% for page in site.posts limit:10 %}
+{% include pagebox_sm.html %}
+{% endfor %}
+
+<p class="pagination">
+    <a href="/page/2" class="next">More posts &raquo;</a>
+</p>
+
+<p class="footer">
+    <a href="https://csnap.uk" target=" _blank">csnap.uk - photos</a>
+    <a href="https://github.com/chrisalexander" target="_blank">Github</a>
+    <a href="https://www.linkedin.com/in/chrisalexanderuk" target="_blank" data-proofer-ignore>LinkedIn</a>
+    <a href="/archive">Blog archive</a>
+</p>
