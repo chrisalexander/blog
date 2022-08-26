@@ -294,12 +294,12 @@ ul li, ol li {
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #170017 !important;
-        color: #fff9e0;
+        color: #fffdf3;
     }
 
     a,
     a:hover {
-        color: #fff9e0;
+        color: #fffdf3;
     }
 
     code {
