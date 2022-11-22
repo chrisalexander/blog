@@ -24,12 +24,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     {% if page.date %}<meta name="date" content="{{ page.date | date: "%Y-%m-%d" }}" scheme="YYYY-MM-DD">{% endif %}
     
+    {% include analytics.html %}
 </head>
 <body>
 
 {{content}}
 
 <script type="text/javascript" src="/js/init.js"></script>
-{% include analytics.html %}
 </body>
 </html>
